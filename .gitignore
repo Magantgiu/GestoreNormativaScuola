@@ -1,0 +1,47 @@
+# ------------------------------------
+# 1. FILE E CARTELLE DI AMBIENTE E PYTHON
+# ------------------------------------
+
+# Ambiente virtuale Python
+venv/
+.venv/
+
+# Bytecode files
+*.pyc
+__pycache__
+*.pyd
+
+# Files di log o test
+*.log
+
+# ------------------------------------
+# 2. FILE DI DATI E OUTPUT (CRITICI PER IL RAG)
+# ------------------------------------
+
+# Ignora tutti i file CSV nella cartella data/
+# NON VOGLIAMO I DATI IN GIT!
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# Database Vettoriale ChromaDB
+# E' grande e locale, non caricarlo in Git.
+chroma_db/
+.chroma/
+
+# ------------------------------------
+# 3. SICUREZZA (Chiavi API)
+# ------------------------------------
+
+# File contenente le chiavi API (molto importante per la sicurezza!)
+.env
+
+# ------------------------------------
+# 4. SISTEMI OPERATIVI (MAC/WINDOWS)
+# ------------------------------------
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
