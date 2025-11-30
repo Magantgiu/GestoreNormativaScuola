@@ -1,0 +1,13 @@
+# GestoreNormativaScuola - Dipendenze Python
+# Utilizzato per installare tutte le librerie necessarie con il comando:
+# pip install -r requirements.txt
+
+# --- Gestione Dati e Web Scraping ---
+pandas
+requests
+beautifulsoup4
+feedparser
+
+# --- Componenti RAG (Retrieval-Augmented Generation) ---
+chromadb
+sentence-transformers
