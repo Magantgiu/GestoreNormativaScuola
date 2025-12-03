@@ -6,7 +6,11 @@ from chromadb.config import Settings
 
 FEEDS = {
     "orizzontescuola": "https://www.orizzontescuola.it/feed/",
-    "usr_lazio": "https://www.lazio.istruzione.it/feed.xml"
+    "educazione&scuola": "https://www.edscuola.it/rss/index.htm",
+    "oz_precariato": "https://www.orizzontescuola.it/news/precariato/feed/",
+    "oz_ata": "https://www.orizzontescuola.it/news/ata/feed/",
+    "oz_mobilita": "https://www.orizzontescuola.it/mobilit%C3%A0/feed/",
+    "oz_sostegno": "https://www.orizzontescuola.it/news/sostegno-handicap/feed/"
 }
 IMAP_SERVER = "imap.gmail.com"
 MODEL = SentenceTransformer("all-MiniLM-L6-v2")
@@ -42,15 +46,20 @@ def load_emails():
         for num in data[0].split():
             typ, msg = mail.fetch(num, '(RFC822)')
             msg_obj = email.message_from_bytes(msg[0][1])
-            subj = msg_obj["Subject"]
-            body = ""
+            subj  = email.header.decode_header(msg_obj["Subject"])[0][0]
+            if isinstance(subj, bytes):
+                subj = subj.decode(errors="ignore")
+            # ID univoco = subject + primo blocco del message-id
+            msg_id = msg_obj["Message-ID"] or f"no-id-{num.decode()}"
+            uid   = f"email:{subj[:80]}_{msg_id[-12:]}"   # taglio a 80 + 12 caratteri finali
+            body  = ""
             if msg_obj.is_multipart():
                 for part in msg_obj.walk():
                     if part.get_content_type() == "text/plain":
                         body += part.get_payload(decode=True).decode(errors="ignore")
             else:
                 body = msg_obj.get_payload(decode=True).decode(errors="ignore")
-            docs.append({"text": subj+" "+body, "source": "email:"+subj})
+            docs.append({"text": subj + " " + body, "source": uid})
             mail.store(num, '+FLAGS', '\\Seen')
         mail.logout()
     except: pass
