@@ -314,7 +314,7 @@ def scrape_all_sources():
         ),
         RSSFeedScraper(
             name='Orizzonte Scuola - Mobilità',
-            url='https://www.orizzontescuola.it/mobilita/feed/'
+            url='https://www.orizzontescuola.it/mobilit%C3%A0/feed/'
         ),
         RSSFeedScraper(
             name='FLC CGIL',
