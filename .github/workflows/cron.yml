@@ -2,7 +2,7 @@ name: update-kb
 
 on:
   schedule:
-    - cron: '30 17 * * 1'   # ogni 6 ore
+    - cron: '30 17 * * 1'   # ogni lunedì alle 17.30
   workflow_dispatch:        # permette run manuale
 
 jobs:
