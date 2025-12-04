@@ -11,6 +11,7 @@ import json
 from pathlib import Path
 import time
 import hashlib
+import urllib.request
 
 class SourceScraper:
     """Classe base per tutti gli scraper"""
@@ -40,7 +41,23 @@ class RSSFeedScraper(SourceScraper):
     def scrape(self):
         try:
             print(f"  📡 Fetching RSS: {self.url}")
-            feed = feedparser.parse(self.url)
+            
+            # Headers per bypassare cookie banner
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+                'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+                'Accept-Language': 'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
+                'Cookie': 'cookie_notice_accepted=true'
+            }
+            
+            # Scarica con headers
+            import urllib.request
+            req = urllib.request.Request(self.url, headers=headers)
+            response = urllib.request.urlopen(req)
+            feed_data = response.read()
+            
+            # Parse feed
+            feed = feedparser.parse(feed_data)
             
             if not feed.entries:
                 print(f"  ⚠️  No entries found in RSS")
@@ -314,7 +331,7 @@ def scrape_all_sources():
         ),
         RSSFeedScraper(
             name='Orizzonte Scuola - Mobilità',
-            url='https://www.orizzontescuola.it/mobilit%C3%A0/feed/'
+            url='https://www.orizzontescuola.it/mobilita/feed/'
         ),
         RSSFeedScraper(
             name='FLC CGIL',
