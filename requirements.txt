@@ -1,9 +1,24 @@
+# CRITICO: numpy<2 deve essere la prima dipendenza
 numpy<2
-feedparser==6.0.11
+
+# Core RAG
+chromadb==0.4.22
+sentence-transformers==2.3.1
+
+# Web scraping
+requests==2.31.0
 beautifulsoup4==4.12.3
-sentence-transformers==2.7.0
-chromadb==0.5.0
-pandas==2.2.2
-streamlit==1.36.0
-pypdf2==3.0.1
-python-dateutil==2.9.0
+feedparser==6.0.11
+
+# PDF processing
+PyPDF2==3.0.1
+
+# UI
+gradio==4.16.0
+
+# ML/AI
+torch==2.1.2
+transformers==4.37.2
+
+# Utilities
+python-dateutil==2.8.2
