@@ -9,6 +9,8 @@ from pathlib import Path
 from urllib.parse import urlparse
 import hashlib
 from datetime import datetime
+import time
+import random
 
 try:
     import PyPDF2
@@ -80,11 +82,27 @@ def fetch_html_content(url):
     try:
         print(f"  🌐 Fetching HTML: {url}")
         
+        # Headers completi per sembrare un browser reale
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+            'Accept-Language': 'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'DNT': '1',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
+            'Sec-Fetch-Dest': 'document',
+            'Sec-Fetch-Mode': 'navigate',
+            'Sec-Fetch-Site': 'none',
+            'Cache-Control': 'max-age=0',
+            'Cookie': 'cookie_notice_accepted=true; gdpr_consent=true'
         }
         
-        response = requests.get(url, headers=headers, timeout=30)
+        # Aggiungi delay casuale per sembrare umano
+        import random
+        time.sleep(random.uniform(1, 3))
+        
+        response = requests.get(url, headers=headers, timeout=30, allow_redirects=True)
         response.raise_for_status()
         
         soup = BeautifulSoup(response.text, 'html.parser')
@@ -212,6 +230,30 @@ def fetch_all_documents(max_docs=100):
             stats['skipped'] += 1
             continue
         
+        # NUOVO: Se il feed RSS ha già contenuto completo, usalo direttamente
+        if doc.get('has_full_content') and doc.get('full_content'):
+            print(f"  ✅ Using content from RSS feed (skip fetch)")
+            
+            full_doc = {
+                **doc,
+                'text': doc['full_content'],
+                'id': doc_id,
+                'fetched_at': datetime.now().isoformat(),
+                'document_type': 'rss_full',
+                'success': True
+            }
+            
+            processed.append(full_doc)
+            existing_ids.add(doc_id)
+            stats['fetched'] += 1
+            stats['html'] += 1
+            
+            # Rate limiting più leggero per RSS (già scaricato)
+            time.sleep(0.5)
+            print()
+            continue
+        
+        # Altrimenti procedi con fetch normale
         # Determina tipo documento
         is_pdf = url.lower().endswith('.pdf') or '.pdf' in url.lower()
         
@@ -243,6 +285,8 @@ def fetch_all_documents(max_docs=100):
         else:
             stats['failed'] += 1
         
+        # Rate limiting: pausa tra richieste
+        time.sleep(random.uniform(1, 2))
         print()
     
     # Carica documenti esistenti e aggiorna
