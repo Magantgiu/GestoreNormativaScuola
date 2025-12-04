@@ -69,12 +69,23 @@ class RSSFeedScraper(SourceScraper):
                 # Estrai data
                 date = entry.get('published', entry.get('updated', datetime.now().isoformat()))
                 
-                # Estrai descrizione
+                # Estrai TUTTO il contenuto disponibile
                 description = entry.get('summary', entry.get('description', ''))
-                if description:
-                    # Rimuovi tag HTML dalla descrizione
-                    soup = BeautifulSoup(description, 'html.parser')
-                    description = soup.get_text()[:300]
+                content = ''
+                
+                # Alcuni feed hanno contenuto completo in 'content'
+                if entry.get('content'):
+                    content = entry.content[0].get('value', '')
+                
+                # Usa il più lungo tra description e content
+                full_text = content if len(content) > len(description) else description
+                
+                if full_text:
+                    # Rimuovi tag HTML
+                    soup = BeautifulSoup(full_text, 'html.parser')
+                    clean_text = soup.get_text(separator='\n', strip=True)
+                else:
+                    clean_text = ''
                 
                 doc = {
                     'title': entry.title,
@@ -82,8 +93,9 @@ class RSSFeedScraper(SourceScraper):
                     'date': date,
                     'source': self.name,
                     'type': 'rss_article',
-                    'description': description,
-                    'content': entry.get('content', [{}])[0].get('value', '') if entry.get('content') else ''
+                    'description': clean_text[:500] if len(clean_text) > 500 else clean_text,
+                    'full_content': clean_text,  # NUOVO: contenuto completo dal feed
+                    'has_full_content': len(clean_text) > 200  # Flag se ha contenuto utile
                 }
                 
                 documents.append(doc)
