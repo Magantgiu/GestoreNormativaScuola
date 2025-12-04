@@ -1,0 +1,42 @@
+# .github/workflows/scrape_and_update.yml
+name: Scrape & Update RAG
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Ogni 6 ore
+  workflow_dispatch:
+
+jobs:
+  scrape_and_build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 feedparser
+          pip install PyPDF2 chromadb sentence-transformers
+      
+      - name: Scrape sources
+        run: python scripts/scrape_sources.py
+      
+      - name: Download new PDFs
+        run: python scripts/fetch_documents.py
+      
+      - name: Build RAG database
+        run: python scripts/build_knowledge.py
+      
+      - name: Commit results
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add data/ documents/ knowledge.pkl
+          git diff --quiet && git diff --staged --quiet || \
+            git commit -m "🤖 Auto-update $(date +'%Y-%m-%d %H:%M')"
+          git push
