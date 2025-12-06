@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-06T06:26:12.062546",
+  "last_fetch": "2025-12-06T12:34:19.819744",
   "stats": {
     "total": 354,
-    "fetched": 0,
-    "skipped": 100,
+    "fetched": 5,
+    "skipped": 95,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 5
   },
-  "total_documents": 130,
+  "total_documents": 135,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -1895,6 +1895,81 @@
       "success": true,
       "fetched_at": "2025-12-05T18:25:50.865650",
       "document_type": "html"
+    },
+    {
+      "title": "Trento, concorso per docenti di sostegno a tempo indeterminato: 210 posti a bando, domande entro il 5 gennaio",
+      "url": "https://www.orizzontescuola.it/trento-concorso-per-docenti-di-sostegno-a-tempo-indeterminato-210-posti-a-bando-domande-entro-il-5-gennaio/",
+      "date": "Sat, 06 Dec 2025 10:09:59 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "È stato pubblicato il bando di concorso ordinario per titoli ed esami finalizzato all’assunzione a tempo indeterminato di personale docente su posto di sostegno nelle scuole statali della provincia autonoma di Trento. I posti complessivamente messi a concorso sono 210.\nL'articolo\nTrento, concorso per docenti di sostegno a tempo indeterminato: 210 posti a bando, domande entro il 5 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "È stato pubblicato il bando di concorso ordinario per titoli ed esami finalizzato all’assunzione a tempo indeterminato di personale docente su posto di sostegno nelle scuole statali della provincia autonoma di Trento. I posti complessivamente messi a concorso sono 210.\nL'articolo\nTrento, concorso per docenti di sostegno a tempo indeterminato: 210 posti a bando, domande entro il 5 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "8b72d31c1baa4eed",
+      "text": "È stato pubblicato il bando di concorso ordinario per titoli ed esami finalizzato all’assunzione a tempo indeterminato di personale docente su posto di sostegno nelle scuole statali della provincia autonoma di Trento. I posti complessivamente messi a concorso sono 210.\nL'articolo\nTrento, concorso per docenti di sostegno a tempo indeterminato: 210 posti a bando, domande entro il 5 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-06T12:34:17.317028",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Continuità sul sostegno ci sarà anche nel 2026/27: la procedura inizia dalla richiesta dei genitori. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/continuita-sul-sostegno-ci-sara-anche-nel-2026-27-la-procedura-inizia-dalla-richiesta-dei-genitori-pillole-di-question-time/",
+      "date": "Sat, 06 Dec 2025 10:00:06 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 3 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto (Anief), è stato affrontato un tema rilevante per i docenti impegnati sul sostegno: la tempistica per dichiarare la disponibilità alla continuità didattica con gli alunni. Un focus particolare ha riguardato la distinzione tra l’aggiornamento delle GPS e la successiva fase delle 150 preferenze.\nL'articolo\nContinuità sul sostegno ci sarà anche nel 2026/27: la procedura inizia dalla ",
+      "full_content": "Nel question time del 3 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto (Anief), è stato affrontato un tema rilevante per i docenti impegnati sul sostegno: la tempistica per dichiarare la disponibilità alla continuità didattica con gli alunni. Un focus particolare ha riguardato la distinzione tra l’aggiornamento delle GPS e la successiva fase delle 150 preferenze.\nL'articolo\nContinuità sul sostegno ci sarà anche nel 2026/27: la procedura inizia dalla richiesta dei genitori. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "9b69646971b38fb9",
+      "text": "Nel question time del 3 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto (Anief), è stato affrontato un tema rilevante per i docenti impegnati sul sostegno: la tempistica per dichiarare la disponibilità alla continuità didattica con gli alunni. Un focus particolare ha riguardato la distinzione tra l’aggiornamento delle GPS e la successiva fase delle 150 preferenze.\nL'articolo\nContinuità sul sostegno ci sarà anche nel 2026/27: la procedura inizia dalla richiesta dei genitori. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-06T12:34:17.817175",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "TFA Indire primo ciclo, il 20 dicembre esami finali. In preparazione il secondo ciclo",
+      "url": "https://www.orizzontescuola.it/tfa-indire-primo-ciclo-il-20-dicembre-esami-finali-in-preparazione-il-secondo-ciclo/",
+      "date": "Sat, 06 Dec 2025 09:00:47 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Si conclude come previsto entro il 31 dicembre 2025 il primo percorso di specializzazione sostegno TFA INDIRE, con prove finali previste il prossimo 20 dicembre.\nL'articolo\nTFA Indire primo ciclo, il 20 dicembre esami finali. In preparazione il secondo ciclo\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Si conclude come previsto entro il 31 dicembre 2025 il primo percorso di specializzazione sostegno TFA INDIRE, con prove finali previste il prossimo 20 dicembre.\nL'articolo\nTFA Indire primo ciclo, il 20 dicembre esami finali. In preparazione il secondo ciclo\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "c4df702a33838269",
+      "text": "Si conclude come previsto entro il 31 dicembre 2025 il primo percorso di specializzazione sostegno TFA INDIRE, con prove finali previste il prossimo 20 dicembre.\nL'articolo\nTFA Indire primo ciclo, il 20 dicembre esami finali. In preparazione il secondo ciclo\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-06T12:34:18.317335",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Aggiornamento GPS 2026 anticipato all’inverno, non è prevista una seconda riapertura ad aprile. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/aggiornamento-gps-2026-anticipato-allinverno-non-e-previsto-una-seconda-riapertura-ad-aprile-pillole-di-question-time/",
+      "date": "Sat, 06 Dec 2025 08:30:26 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 3 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto (Anief), è stata discussa una questione importante relativa all’aggiornamento delle graduatorie GPS. Un focus particolare è stato posto sulla possibilità di inserire i titoli culturali conseguiti in primavera e sull’eventualità di una riapertura della procedura ad aprile.\nL'articolo\nAggiornamento GPS 2026 anticipato all’inverno, non è prevista una seconda riapertura ad aprile. Pil",
+      "full_content": "Nel question time del 3 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto (Anief), è stata discussa una questione importante relativa all’aggiornamento delle graduatorie GPS. Un focus particolare è stato posto sulla possibilità di inserire i titoli culturali conseguiti in primavera e sull’eventualità di una riapertura della procedura ad aprile.\nL'articolo\nAggiornamento GPS 2026 anticipato all’inverno, non è prevista una seconda riapertura ad aprile. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "565173964fc3739c",
+      "text": "Nel question time del 3 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto (Anief), è stata discussa una questione importante relativa all’aggiornamento delle graduatorie GPS. Un focus particolare è stato posto sulla possibilità di inserire i titoli culturali conseguiti in primavera e sull’eventualità di una riapertura della procedura ad aprile.\nL'articolo\nAggiornamento GPS 2026 anticipato all’inverno, non è prevista una seconda riapertura ad aprile. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-06T12:34:18.817488",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Nuovo Bonus mamme 2025, ultimi giorni per presentare domanda. Scadenza 9 dicembre. Manuale utente e FAQ INPS",
+      "url": "https://www.orizzontescuola.it/nuovo-bonus-mamme-2025-ultimi-giorni-per-presentare-domanda-scadenza-9-dicembre/",
+      "date": "Sat, 06 Dec 2025 08:20:11 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Scade il 9 dicembre 2025 il termine per presentare la domanda del Nuovo Bonus Mamme 2025, il contributo economico mensile destinato alle madri lavoratrici con almeno due figli. La misura, istituita per sostenere le famiglie e favorire la partecipazione femminile al lavoro, riconosce 40 euro al mese per ogni mese in cui risultano rispettati i requisiti.\nL'articolo\nNuovo Bonus mamme 2025, ultimi giorni per presentare domanda. Scadenza 9 dicembre. Manuale utente e FAQ INPS\nsembra essere il primo su",
+      "full_content": "Scade il 9 dicembre 2025 il termine per presentare la domanda del Nuovo Bonus Mamme 2025, il contributo economico mensile destinato alle madri lavoratrici con almeno due figli. La misura, istituita per sostenere le famiglie e favorire la partecipazione femminile al lavoro, riconosce 40 euro al mese per ogni mese in cui risultano rispettati i requisiti.\nL'articolo\nNuovo Bonus mamme 2025, ultimi giorni per presentare domanda. Scadenza 9 dicembre. Manuale utente e FAQ INPS\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "fe2c328c9c47aede",
+      "text": "Scade il 9 dicembre 2025 il termine per presentare la domanda del Nuovo Bonus Mamme 2025, il contributo economico mensile destinato alle madri lavoratrici con almeno due figli. La misura, istituita per sostenere le famiglie e favorire la partecipazione femminile al lavoro, riconosce 40 euro al mese per ogni mese in cui risultano rispettati i requisiti.\nL'articolo\nNuovo Bonus mamme 2025, ultimi giorni per presentare domanda. Scadenza 9 dicembre. Manuale utente e FAQ INPS\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-06T12:34:19.317671",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
