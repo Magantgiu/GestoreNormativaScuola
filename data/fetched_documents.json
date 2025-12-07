@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-07T06:27:31.621700",
+  "last_fetch": "2025-12-07T12:33:31.181725",
   "stats": {
-    "total": 329,
-    "fetched": 0,
-    "skipped": 100,
+    "total": 354,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 1
   },
-  "total_documents": 161,
+  "total_documents": 162,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -2334,6 +2334,21 @@
       "id": "004aaad8bb0ad473",
       "text": "Con una nota trasmessa il 6 dicembre, il Ministero dell’Istruzione e del Merito ha informato le istituzioni scolastiche dell’assegnazione delle risorse finanziarie previste dal decreto-legge 160/2024.\nL'articolo\nPersonale ATA: il Ministero comunica l’assegnazione delle risorse per la gestione delle pensioni\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2025-12-07T01:28:28.073887",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Anno di prova docenti concorsi PNRR abilitati entro 31 dicembre: riparametrare 180 e 120 giorni dal contratto a tempo indeterminato. Richiesta sindacati",
+      "url": "https://www.orizzontescuola.it/anno-di-prova-docenti-concorsi-pnrr-abilitati-entro-31-dicembre-riparametrare-180-e-120-giorni-dalla-data-del-contratto-a-tempo-indeterminato-richiesta-sindacati/",
+      "date": "Sun, 07 Dec 2025 10:00:54 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nell'ambito dell'informativa sulla nota relativa all'anno di prova e formazione per i docenti che nell'anno scolastico 2025/26 hanno l'obbligo di anno di prova e formazione, i sindacati Anief e UIl Scuola RUA hanno richiesto specifiche indicazioni per i docenti neoassunti da concorso PNRR 1 e 2 che conseguono l'abilitazione entro il 31 dicembre 2025.\nL'articolo\nAnno di prova docenti concorsi PNRR abilitati entro 31 dicembre: riparametrare 180 e 120 giorni dal contratto a tempo indeterminato. Ric",
+      "full_content": "Nell'ambito dell'informativa sulla nota relativa all'anno di prova e formazione per i docenti che nell'anno scolastico 2025/26 hanno l'obbligo di anno di prova e formazione, i sindacati Anief e UIl Scuola RUA hanno richiesto specifiche indicazioni per i docenti neoassunti da concorso PNRR 1 e 2 che conseguono l'abilitazione entro il 31 dicembre 2025.\nL'articolo\nAnno di prova docenti concorsi PNRR abilitati entro 31 dicembre: riparametrare 180 e 120 giorni dal contratto a tempo indeterminato. Richiesta sindacati\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "78d01080d42a7993",
+      "text": "Nell'ambito dell'informativa sulla nota relativa all'anno di prova e formazione per i docenti che nell'anno scolastico 2025/26 hanno l'obbligo di anno di prova e formazione, i sindacati Anief e UIl Scuola RUA hanno richiesto specifiche indicazioni per i docenti neoassunti da concorso PNRR 1 e 2 che conseguono l'abilitazione entro il 31 dicembre 2025.\nL'articolo\nAnno di prova docenti concorsi PNRR abilitati entro 31 dicembre: riparametrare 180 e 120 giorni dal contratto a tempo indeterminato. Richiesta sindacati\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-07T12:33:30.679300",
       "document_type": "rss_full",
       "success": true
     }
