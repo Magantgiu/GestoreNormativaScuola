@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-08T12:38:30.838195",
+  "last_fetch": "2025-12-08T18:29:06.605344",
   "stats": {
     "total": 354,
-    "fetched": 2,
-    "skipped": 98,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 2
+    "html": 1
   },
-  "total_documents": 169,
+  "total_documents": 170,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -2455,6 +2455,21 @@
       "id": "88b481ef102689e0",
       "text": "Due webinar dedicati alle posizioni economiche ATA. Ti spieghiamo le migliori strategie per superare la prova. Primo webinar: analisi ragionata e tipologie di domande Un incontro intensivo dedicato all’analisi ragionata dei quesiti, con esempi pratici e casi tratti dalle tipologie presenti nelle prove ufficiali. Durante il webinar verranno approfonditi: struttura e logica dei quesiti contenuti […]\nL'articolo\nPosizioni economiche ATA, ti spieghiamo come superare il test\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2025-12-08T12:38:30.335546",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Privacy candidati nei concorsi scuola: quali dati si possono pubblicare",
+      "url": "https://www.orizzontescuola.it/privacy-candidati-nei-concorsi-scuola-quali-dati-si-possono-pubblicare/",
+      "date": "Mon, 08 Dec 2025 14:24:46 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "In merito alle procedure concorsuali e selettive, il sito del Garante della protezione dei dati personali chiarisce in modo puntuale - in una raccolta di FAQ - come avviene il trattamento (e la tutela) delle informazioni personali cedute a terzi.\nL'obiettivo è quello di fornire alle amministrazione strumenti necessari e concreti per gestire in modo corretto i dati personali di tutti i candidati durante le fasi di reclutamento, senza violare i principi e le norme sulla legittima trasparenza e pro",
+      "full_content": "In merito alle procedure concorsuali e selettive, il sito del Garante della protezione dei dati personali chiarisce in modo puntuale - in una raccolta di FAQ - come avviene il trattamento (e la tutela) delle informazioni personali cedute a terzi.\nL'obiettivo è quello di fornire alle amministrazione strumenti necessari e concreti per gestire in modo corretto i dati personali di tutti i candidati durante le fasi di reclutamento, senza violare i principi e le norme sulla legittima trasparenza e protezione della privacy.\nL'articolo\nPrivacy candidati nei concorsi scuola: quali dati si possono pubblicare\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "15725a3d58f701fe",
+      "text": "In merito alle procedure concorsuali e selettive, il sito del Garante della protezione dei dati personali chiarisce in modo puntuale - in una raccolta di FAQ - come avviene il trattamento (e la tutela) delle informazioni personali cedute a terzi.\nL'obiettivo è quello di fornire alle amministrazione strumenti necessari e concreti per gestire in modo corretto i dati personali di tutti i candidati durante le fasi di reclutamento, senza violare i principi e le norme sulla legittima trasparenza e protezione della privacy.\nL'articolo\nPrivacy candidati nei concorsi scuola: quali dati si possono pubblicare\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-08T18:29:06.102672",
       "document_type": "rss_full",
       "success": true
     }
