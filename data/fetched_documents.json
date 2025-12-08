@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-08T06:31:56.521045",
+  "last_fetch": "2025-12-08T12:38:30.838195",
   "stats": {
     "total": 354,
-    "fetched": 1,
-    "skipped": 99,
+    "fetched": 2,
+    "skipped": 98,
     "failed": 0,
     "pdfs": 0,
-    "html": 1
+    "html": 2
   },
-  "total_documents": 167,
+  "total_documents": 169,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -2425,6 +2425,36 @@
       "id": "c84115609ba8216f",
       "text": "L’Università sta attraversando una stagione di profonde riforme che avranno un impatto decisivo sul funzionamento delle istituzioni, sul diritto allo studio e sulle attività lavorative di tutto il personale...",
       "fetched_at": "2025-12-08T06:31:56.018361",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Assunzioni da GPS prima fascia sostegno confermate anche per il 2026/27. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/assunzioni-da-gps-prima-fascia-sostegno-confermate-anche-per-il-2026-27-pillole-di-question-time/",
+      "date": "Mon, 08 Dec 2025 08:21:55 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 3 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto (Anief), è stata discussa una questione importante relativa alle prospettive di assunzione per i docenti inseriti nella prima fascia GPS sostegno. Un focus particolare è stato posto sulla conferma della procedura straordinaria per il 2026/27 e sull’eventuale svolgimento di un concorso ordinario per il ruolo.\nL'articolo\nAssunzioni da GPS prima fascia sostegno confermate anche per i",
+      "full_content": "Nel question time del 3 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto (Anief), è stata discussa una questione importante relativa alle prospettive di assunzione per i docenti inseriti nella prima fascia GPS sostegno. Un focus particolare è stato posto sulla conferma della procedura straordinaria per il 2026/27 e sull’eventuale svolgimento di un concorso ordinario per il ruolo.\nL'articolo\nAssunzioni da GPS prima fascia sostegno confermate anche per il 2026/27. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "f0863335baf7b261",
+      "text": "Nel question time del 3 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto (Anief), è stata discussa una questione importante relativa alle prospettive di assunzione per i docenti inseriti nella prima fascia GPS sostegno. Un focus particolare è stato posto sulla conferma della procedura straordinaria per il 2026/27 e sull’eventuale svolgimento di un concorso ordinario per il ruolo.\nL'articolo\nAssunzioni da GPS prima fascia sostegno confermate anche per il 2026/27. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-08T12:38:29.835354",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Posizioni economiche ATA, ti spieghiamo come superare il test",
+      "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-ti-spieghiamo-come-superare-il-test/",
+      "date": "Mon, 08 Dec 2025 07:25:48 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Due webinar dedicati alle posizioni economiche ATA. Ti spieghiamo le migliori strategie per superare la prova. Primo webinar: analisi ragionata e tipologie di domande Un incontro intensivo dedicato all’analisi ragionata dei quesiti, con esempi pratici e casi tratti dalle tipologie presenti nelle prove ufficiali. Durante il webinar verranno approfonditi: struttura e logica dei quesiti contenuti […]\nL'articolo\nPosizioni economiche ATA, ti spieghiamo come superare il test\nsembra essere il primo su\n",
+      "full_content": "Due webinar dedicati alle posizioni economiche ATA. Ti spieghiamo le migliori strategie per superare la prova. Primo webinar: analisi ragionata e tipologie di domande Un incontro intensivo dedicato all’analisi ragionata dei quesiti, con esempi pratici e casi tratti dalle tipologie presenti nelle prove ufficiali. Durante il webinar verranno approfonditi: struttura e logica dei quesiti contenuti […]\nL'articolo\nPosizioni economiche ATA, ti spieghiamo come superare il test\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "88b481ef102689e0",
+      "text": "Due webinar dedicati alle posizioni economiche ATA. Ti spieghiamo le migliori strategie per superare la prova. Primo webinar: analisi ragionata e tipologie di domande Un incontro intensivo dedicato all’analisi ragionata dei quesiti, con esempi pratici e casi tratti dalle tipologie presenti nelle prove ufficiali. Durante il webinar verranno approfonditi: struttura e logica dei quesiti contenuti […]\nL'articolo\nPosizioni economiche ATA, ti spieghiamo come superare il test\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-08T12:38:30.335546",
       "document_type": "rss_full",
       "success": true
     }
