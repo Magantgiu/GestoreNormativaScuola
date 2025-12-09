@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-09T06:30:15.644783",
+  "last_fetch": "2025-12-09T12:39:40.479915",
   "stats": {
-    "total": 354,
-    "fetched": 0,
-    "skipped": 100,
+    "total": 352,
+    "fetched": 4,
+    "skipped": 96,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 4
   },
-  "total_documents": 170,
+  "total_documents": 174,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -2470,6 +2470,67 @@
       "id": "15725a3d58f701fe",
       "text": "In merito alle procedure concorsuali e selettive, il sito del Garante della protezione dei dati personali chiarisce in modo puntuale - in una raccolta di FAQ - come avviene il trattamento (e la tutela) delle informazioni personali cedute a terzi.\nL'obiettivo è quello di fornire alle amministrazione strumenti necessari e concreti per gestire in modo corretto i dati personali di tutti i candidati durante le fasi di reclutamento, senza violare i principi e le norme sulla legittima trasparenza e protezione della privacy.\nL'articolo\nPrivacy candidati nei concorsi scuola: quali dati si possono pubblicare\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2025-12-08T18:29:06.102672",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Concorso docenti PNRR3, ecco per quali classi di concorso ci sarà anche la prova pratica",
+      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-per-quali-classi-di-concorso-ci-sara-anche-la-prova-pratica/",
+      "date": "Tue, 09 Dec 2025 10:26:01 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Concorso scuola secondaria PNRR3 bando DDG n. 2939/2025: superata la prova scritta, per alcune classi di concorso bisognerà affrontare sia prova pratica che orale. I programmi, i punteggi, la graduatoria.\nL'articolo\nConcorso docenti PNRR3, ecco per quali classi di concorso ci sarà anche la prova pratica\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Concorso scuola secondaria PNRR3 bando DDG n. 2939/2025: superata la prova scritta, per alcune classi di concorso bisognerà affrontare sia prova pratica che orale. I programmi, i punteggi, la graduatoria.\nL'articolo\nConcorso docenti PNRR3, ecco per quali classi di concorso ci sarà anche la prova pratica\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "6a5e9b0c9ad1bb7e",
+      "text": "Concorso scuola secondaria PNRR3 bando DDG n. 2939/2025: superata la prova scritta, per alcune classi di concorso bisognerà affrontare sia prova pratica che orale. I programmi, i punteggi, la graduatoria.\nL'articolo\nConcorso docenti PNRR3, ecco per quali classi di concorso ci sarà anche la prova pratica\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-09T12:39:33.883288",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Nuovo bonus mamme 2025: domanda, anche per supplenti docenti e ATA, entro oggi",
+      "url": "https://www.orizzontescuola.it/nuovo-bonus-mamme-2025-scade-oggi-il-termine-per-presentare-domanda/",
+      "date": "Tue, 09 Dec 2025 10:09:13 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Il 9 dicembre 2025 è la scadenza fissata per richiedere il Nuovo Bonus mamme 2025, il contributo mensile rivolto alle madri lavoratrici con almeno due figli. Oggi è quindi l’ultimo giorno utile per inviare la domanda, per chi ha già maturato i requisiti.\nL'articolo\nNuovo bonus mamme 2025: domanda, anche per supplenti docenti e ATA, entro oggi\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Il 9 dicembre 2025 è la scadenza fissata per richiedere il Nuovo Bonus mamme 2025, il contributo mensile rivolto alle madri lavoratrici con almeno due figli. Oggi è quindi l’ultimo giorno utile per inviare la domanda, per chi ha già maturato i requisiti.\nL'articolo\nNuovo bonus mamme 2025: domanda, anche per supplenti docenti e ATA, entro oggi\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "8079f0f19872fbed",
+      "text": "Il 9 dicembre 2025 è la scadenza fissata per richiedere il Nuovo Bonus mamme 2025, il contributo mensile rivolto alle madri lavoratrici con almeno due figli. Oggi è quindi l’ultimo giorno utile per inviare la domanda, per chi ha già maturato i requisiti.\nL'articolo\nNuovo bonus mamme 2025: domanda, anche per supplenti docenti e ATA, entro oggi\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-09T12:39:34.383465",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Cofinanziamento nazionale per la mobilità internazionale Erasmus+ 2025 AFAM",
+      "url": "https://www.flcgil.it/universita/afam/cofinanziamento-nazionale-per-la-mobilita-internazionale-erasmus-2025-afam.flc",
+      "date": "Tue, 09 Dec 2025 09:01:48 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "È stato pubblicato lo scorso 30 ottobre il",
+      "full_content": "È stato pubblicato lo scorso 30 ottobre il",
+      "has_full_content": false,
+      "id": "35c07d91a79fe2f1",
+      "text": "FLC\nChi siamo\nDove siamo\nContattaci\nScuola\nUniversità e AFAM\nRicerca\nRisorse\nApprofondimenti\nArgomenti\nContratti\nNormativa\nRSU\nRubrica giuridica\nSpeciali\nhttps://www.flcgil.it/@3972984\nHome\n»\nUniversità\n»\nAFAM\n»\nCofinanziamento nazionale per la mobilità internazionale Erasmus+ 2025 AFAM\nCofinanziamento nazionale per la mobilità internazionale Erasmus+ 2025 AFAM\nAssegnate le quote della terza annualità della programmazione europea 2021-2027\n09/12/2025\nTweet\nInvia ad un amico\nStampa\nVai agli allegati\nÈ stato pubblicato lo scorso 30 ottobre il\nDecreto Dirigenziale n.13599 del 13-10-2025\nper lo stanziamento dei fondi destinati alla mobilità internazionale del Programma Erasmus 2025 per l’Alta Formazione Artistica Musicale. Il cofinanziamento nazionale ammonta complessivamente a\n1.104.575\neuro per la terza annualità,  per la prima e seconda annualità erano stati stanziati 3.237.832,47 euro. Il finanziamento del Programma Europeo Erasmus + per il periodo 2021-2027 è assicurato dalle risorse assegnate dall’Unione Europea all’Italia, per il tramite dell’Agenzia Nazionale Erasmus+ individuata nell’Istituto Nazionale di Documentazione, Innovazione e Ricerca educativa (INDIRE). L’importo per la\nterza annualità\ndella programmazione 2021-2027 graverà sul capitolo 1807 dello stato di previsione della spesa del Ministero dell’Università e della Ricerca per l’E.F. 2025. Gli importi variano in base al numero dei partecipanti alle attività erasmus, studenti - docenti e personale TA, passando dai 62.000 assegnati all’Accademia di Belle Arti di Brera ai 1400 euro assegnati al Conservatorio di Musica di Ravenna. Sono stati coinvolti quasi 2000 persone fra studenti, docenti e personale tecnico amministrativo delle istituzioni AFAM statali.\nNell’Allegato 1 del Decreto la ripartizione dell’importo complessivo alle Istituzioni AFAM;\nCittà\nIstituzione\nCofinanziamento MUR\n1\nAdria\nConservatorio di Adria\n6.307,16\n2\nAgrigento\nConservatorio di Musica di Stato A. Toscanini di Ribera\n5.388,62\n3\nAlessandria\nConservatorio di Musica A. Vivaldi\n4.488,34\n4\nAvellino\nConservatorio Statale di Musica Domenico Cimarosa\n5.967,93\n5\nBari\nAccademia di Belle Arti\n20.962,11\n6\nBari\nConservatorio di Musica Niccolò Piccinni\n18.843,20\n7\nBenevento\nConservatorio Statale di Musica Nicola Sala\n4.777,99\n8\nBergamo\nPolitecnico delle arti di Bergamo - Accademia di Belle Arti Giacomo Carrara\n5,443,42\n9\nBologna\nAccademia di Belle Arti\n43.325,52\n10\nBologna\nConservatorio di Musica G. B. Martini\n15.516,08\n11\nBolzano\nConservatorio di Musica Claudio Monteverdi Musik-Konservatorium Bolzano-Bozen\n8.071,18\n12\nBrescia\nConservatorio di Musica Luca Marenzio\n8.277,33\n13\nCagliari\nConservatorio di Musica G. P. da Palestrina\n23.678,60\n14\nCaltanisetta\nConservatorio Statale di Musica V. Bellini\n7.129,15\n15\nCampobasso\nConservatorio Statale di Musica L. Perosi\n5.905,30\n16\nCarrara\nAccademia di Belle Arti\n10.865,96\n17\nCastelfranco Veneto\nConservatorio Statale di Musica A. Stefani\n17.741,99\n18\nCatania\nAccademia di Belle Arti\n7.439,68\n19\nCatania\nConservatorio Statale Vincenzo Bellini\n4.138,67\n20\nCesena\nConservatorio B. Maderna - G. Lettimi\n19.328,56\n21\nComo\nConservatorio di Como\n3.849,01\n22\nCosenza\nConservatorio di Musica Stanislao Giacomantonio\n12.883,10\n23\nCremona\nConservatorio di Musica Claudio Monteverdi\n5.646,96\n24\nCuneo\nConservatorio di Musica G. F. Ghedini\n7.473,61\n25\nFaenza\nIstituto Superiore per le Industrie Artistiche\n8.796,62\n26\nFermo\nConservatorio Statale di Musica G. B. Pergolesi\n6.570,72\n27\nFerrara\nConservatorio Statale di Musica G. Frescobaldi\n8.110,32\n28\nFirenze\nAccademia di Belle Arti\n15.717,01\n29\nFirenze\nConservatorio di Musica Luigi Cherubini\n15.338,64\n30\nFirenze\nIstituto Superiore per le Industrie Artistiche\n10.722,43\n31\nFoggia\nAccademia di Belle Arti\n4.804,09\n32\nFoggia\nConservatorio Statale di Musica Umberto Giordano\n23.689,04\n33\nFrosinone\nAccademia di Belle Arti\n7.961,58\n34\nFrosinone\nConservatorio di Musica L. Refice\n14.151,32\n35\nGenova\nConservatorio Statale di Musica Niccolò Paganini\n4.078,65\n36\nGenova\nAccademia di Belle Arti Statale Ligustica\n3.473,24\n37\nL'Aquila\nAccademia di Belle Arti\n15.341,25\n38\nL'Aquila\nConservatorio di Musica Alfredo Casella\n9.582,08\n39\nLa Spezia\nConservatorio Statale di Musica Giacomo Puccini\n4.250,87\n40\nLatina\nConservatorio di Musica Ottorino Respighi\n8.739,21\n41\nLecce\nConservatorio di Musica Tito Schipa\n7.011,72\n42\nMacerata\nAccademia di Belle Arti\n44.150,12\n43\nMantova\nConservatorio di Musica Lucio Campiani\n2.432,05\n44\nMatera\nConservatorio di Musica Egidio Romualdo Duni\n4.864,11\n45\nMessina\nConservatorio di Musica A. Corelli\n13.146,66\n46\nMilano\nAccademia di Belle Arti di Brera\n62.132,18\n47\nMilano\nConservatorio di Musica G. Verdi\n28.271,32\n48\nModena\nConservatorio di Musica Vecchi Tonelli\n3.935,13\n49\nMonopoli\nConservatorio di Musica Nino Rota\n15.578,71\n50\nNapoli\nAccademia di Belle Arti\n39.980,14\n51\nNapoli\nConservatorio San Pietro a Majella\n7.700,63\n52\nNovara\nConservatorio Statale di Musica Guido Cantelli\n5.469,51\n53\nPadova\nConservatorio Statale di Musica C. Pollini\n17.457,55\n54\nPalermo\nAccadmia di Belle Arti\n21.765,83\n55\nPalermo\nConservatorio di Musica di Stato Alessandro Scarlatti\n9.871,74\n56\nParma\nConservatorio di Musica Arrigo Boito\n16.721,67\n57\nPavia\nConservatorio di Musica Franco Vittadini\n2.432,05\n58\nPerugia\nAccademia di Belle Arti Pietro Vannucci\n7.525,80\n59\nPesaro\nConservatorio Statale di Musica G. Rossini\n7.724,12\n60\nPescara\nConservatorio Statale di Musica Luisa D'Annunzio\n13.561,57\n61\nPescara\nIstituto Superiore per le Industrie Artistiche - ISIA\n6.393,27\n62\nPiacenza\nConservatorio di Musica Giuseppe Nicolini\n4.777,99\n63\nPotenza\nConservatorio di Musica Gesualdo da Venosa\n1.706,61\n64\nRavenna\nAccademia di Belle Arti Statale\n5.015,46\n65\nRavenna\nConservatorio Statale Giuseppe Verdi\n1.416,96\n66\nReggio Calabria\nConservatorio di Musica F. Cilea\n5.931,39\n67\nReggio Calabria\nAccademia di Belle Arti\n8.199,05\n68\nRoma\nAccademia di Belle Arti\n26.953,52\n69\nRoma\nAccademia nazionale di danza\n22.144,21\n70\nRoma\nConservatorio di Musica Santa Cecilia\n24.002,18\n71\nRoma\nIstituto Superiore per le Industrie Artistiche - I.S.I.A.\n10.738,09\n72\nRoma\nAccademia Nazionale d'Arte Drammatica Silvio D'Amico\n4.488,34\n73\nSalerno\nConservatorio di Musica Giuseppe Martucci\n18.929,31\n74\nSassari\nConservatorio Statale di Musica L. Canepa\n5.967,93\n75\nSiena\nConservatorio di Siena Rinaldo Franci\n9.699,51\n76\nTeramo\nIstituto Statale Superiore di Studi Musicali e Coreutici G. Braga\n3.621,99\n77\nTerni\nConservatorio Statale di Musica Giulio Briccialdi\n11.742,75\n78\nTorino\nAccademia Albertina di Belle Arti\n20.755,96\n79\nTorino\nConservatorio Statale di Musica Giuseppe Verdi\n7.123,93\n80\nTrapani\nConservatorio di Musica di Stato Antonio Scontrino\n9.381,15\n81\nTrento\nConservatorio di Musica F. A. Bonporti\n8.162,51\n82\nTrieste\nConservatorio di Musica Giuseppe Tartini\n23.579,44\n83\nUdine\nConservatorio Statale di Musica Jacopo Tomadini\n10.417,12\n84\nUrbino\nAccademia di Belle Arti\n14.837,61\n85\nUrbino\nIstituto Superiore Industrie Artistiche\n5.357,30\n86\nVarese\nConservatorio di Musica Giacomo Puccini di Gallarate\n3.849,01\n87\nVenezia\nAccademia di Belle Arti\n19.853,07\n88\nVenezia\nConservatorio di Musica Benedetto Marcello\n11.761,01\n89\nVerona\nConservatorio di Musica E. F. Dall'Abaco\n9.634,27\n90\nVerona\nAccademia di Belle Arti\n10.798,11\n91\nVibo Valentia\nConservatorio di Musica F. Torrefranca\n3.097,48\n92\nVicenza\nConservatorio di Musica Arrigo Pedrollo\n7.729,34\nTOTALE\n1.104.575,00\nPer il Settore AFAM si evidenzia un notevole interesse riguardo la progettazione e la mobilità erasmus anche per il 2025, come indicato nella lista delle candidature finanziate al 30 giugno che prevedono progetti per oltre sei milioni di euro. Nel documento\nKA131 – Mobility of higher education students and staff supported by internal policy funds\nsono consultabili i riferimenti presentati dalle istituzioni AFAM statali che dimostrano di essere in grado di cogliere le opportunità dei finanziamenti europei. Nei progetti spiccano l’Accademia di Belle Arti di Catanzaro con 384.887,00 € e il Conservatorio di Musica A.Steffani di Castelfranco Veneto con due progetti per i importi di 311.283,00 € e 52.741,00 €.\ndecreto dirigenziale 13599 del 13 ottobre 2025 cofinanziamento nazionale mobilita internazionale programma erasmus 2025 afam\nTweet\nInvia ad un amico\nStampa\nTag:\naccademie e conservatori\n,\nisia\n,\nlegge 508/99\n,\nmur\nServizi e comunicazioni\nServizi assicurativi per iscritte/i e RSU\nArticolo 33, Edizioni Conoscenza\nI bandi in Gazzetta Ufficiale\nConcorsi Ricerca\nConcorsi Università\nFilo diretto sul contratto\nI più letti\nSciopero generale 12 dicembre: scuola, università, ricerca, AFAM e formazione professionale aderiscono alla protesta\nContratto “Istruzione e Ricerca” 2022-2024: la grande bugia sulle risorse e la verità sul divario storico con l’inflazione\n“Io sciopero contro una Legge di Bilancio ingiusta”, venerdì 12 dicembre 2025 sciopero generale Cgil per l’intera giornata di lavoro\nStato di agitazione del personale universitario, il 17 dicembre presidio unitario\nLettori e CEL: iscriviti alla mailing list\nPartecipa al gruppo di discussione dei\nLettori e CEL\n, invia una email a lettori+subscribe@flcgil.it\nTag più usate\nalunni/studenti\ncomunicati stampa\ncontratto istruzione e ricerca\ndiritto allo studio\ngazzetta ufficiale\ngoverno\nlegge di bilancio\nmiur\nretribuzioni\nstabilizzazione precari\nSeguici su facebook\nFLC CGIL\nChi siamo\nDove siamo\nQuanti siamo\nStatuto\nBilancio sociale\nServizi\nIscriviti\nContattaci\nCasa editrice\nArchivio storico\nGiornale\nNewsletter\nFeed RSS\nLink utili\nPrivacy policy\nFLC CGIL\nNOTIZIE\nCGIL\nNOTIZIE\nCofinanziamento nazionale per la mobilità internazionale Erasmus+ 2025 AFAM\nConclusione PNRR al palo. Inaccettabile il silenzio del MIM mentre le scuole sono in affanno sulle scadenze\nStato di agitazione del personale universitario, il 17 dicembre presidio unitario\nWebmail\nGmail\nIntranet\nQuesto sito utilizza dei cookie che ci aiutano ad offrirti un servizio migliore.\nPuoi prendere visione dell'informativa estesa sull'uso dei cookie\no negare il consenso cliccando su \"Maggiori informazioni\".\nProseguendo la navigazione o cliccando su \"Accetto\" acconsenti all'uso dei cookie.\nAccetto\nMaggiori informazioni\nRimani sempre aggiornato, Diventa Fan di\nFLC CGIL\nsu Facebook!\nCondividi",
+      "size_chars": 10245,
+      "success": true,
+      "fetched_at": "2025-12-09T12:39:38.160636",
+      "document_type": "html"
+    },
+    {
+      "title": "Conclusione PNRR al palo. Inaccettabile il silenzio del MIM mentre le scuole sono in affanno sulle scadenze",
+      "url": "https://www.flcgil.it/scuola/conclusione-pnrr-al-palo-inaccettabile-il-silenzio-del-mim-mentre-le-scuole-sono-in-affanno-sulle-scadenze.flc",
+      "date": "Tue, 09 Dec 2025 08:50:21 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Sono sempre di più le scuole in difficoltà per le operazioni di chiusura delle azioni di gestione e rendicontazione delle varie linee di investimento del PNRR. Le scadenze riguardano la rendicontazione dei progetti DM 65...",
+      "full_content": "Sono sempre di più le scuole in difficoltà per le operazioni di chiusura delle azioni di gestione e rendicontazione delle varie linee di investimento del PNRR. Le scadenze riguardano la rendicontazione dei progetti DM 65...",
+      "has_full_content": true,
+      "id": "2ee6c532e950b435",
+      "text": "Sono sempre di più le scuole in difficoltà per le operazioni di chiusura delle azioni di gestione e rendicontazione delle varie linee di investimento del PNRR. Le scadenze riguardano la rendicontazione dei progetti DM 65...",
+      "fetched_at": "2025-12-09T12:39:39.977034",
       "document_type": "rss_full",
       "success": true
     }
