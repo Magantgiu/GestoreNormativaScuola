@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-11T18:27:29.879312",
+  "last_fetch": "2025-12-12T01:23:44.513837",
   "stats": {
     "total": 351,
-    "fetched": 7,
-    "skipped": 93,
+    "fetched": 3,
+    "skipped": 97,
     "failed": 0,
     "pdfs": 0,
-    "html": 7
+    "html": 3
   },
-  "total_documents": 236,
+  "total_documents": 239,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -3449,6 +3449,51 @@
       "success": true,
       "fetched_at": "2025-12-11T18:27:28.668825",
       "document_type": "html"
+    },
+    {
+      "title": "GAE per supplenze e ruoli docenti, nuove date per aggiornamento: dall’8 gennaio (dalle 12:00) al 22 gennaio (alle 23:59)",
+      "url": "https://www.orizzontescuola.it/gae-per-supplenze-e-ruoli-docenti-nuove-date-per-aggiornamento-dall8-gennaio-dalle-1200-al-22-gennaio-alle-2359/",
+      "date": "Thu, 11 Dec 2025 18:53:01 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Inizialmente previste per lunedì 15 dicembre (e fino al 30 dicembre), su sollecitazione sindacale, il Ministero ha rinviato a dopo le festività di fine anno l'aggiornamento delle graduatorie ad esaurimento. Ecco le nuove date: 8 gennaio (dalle ore 12:00) al 22 gennaio (alle ore 23:59).\nL'articolo\nGAE per supplenze e ruoli docenti, nuove date per aggiornamento: dall’8 gennaio (dalle 12:00) al 22 gennaio (alle 23:59)\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Inizialmente previste per lunedì 15 dicembre (e fino al 30 dicembre), su sollecitazione sindacale, il Ministero ha rinviato a dopo le festività di fine anno l'aggiornamento delle graduatorie ad esaurimento. Ecco le nuove date: 8 gennaio (dalle ore 12:00) al 22 gennaio (alle ore 23:59).\nL'articolo\nGAE per supplenze e ruoli docenti, nuove date per aggiornamento: dall’8 gennaio (dalle 12:00) al 22 gennaio (alle 23:59)\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "c947d78483d0c922",
+      "text": "Inizialmente previste per lunedì 15 dicembre (e fino al 30 dicembre), su sollecitazione sindacale, il Ministero ha rinviato a dopo le festività di fine anno l'aggiornamento delle graduatorie ad esaurimento. Ecco le nuove date: 8 gennaio (dalle ore 12:00) al 22 gennaio (alle ore 23:59).\nL'articolo\nGAE per supplenze e ruoli docenti, nuove date per aggiornamento: dall’8 gennaio (dalle 12:00) al 22 gennaio (alle 23:59)\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-12T01:23:43.009868",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Concorso docenti PNRR3, ecco voto minimo di accesso alla prova orale: in tanti casi sufficiente il 70. Avviso USR",
+      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-voto-minimo-di-accesso-alla-prova-orale-in-tanti-casi-sufficiente-il-70-avviso-usr/",
+      "date": "Thu, 11 Dec 2025 17:38:23 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 e DDG n. 2939/2025 per la scuola secondaria. Ecco il voto minimo per l'accesso alla prova orale, come indicato dagli USR. ATTENZIONE: l'elenco verrà aggiornato con i nuovi Avvisi.\nL'articolo\nConcorso docenti PNRR3, ecco voto minimo di accesso alla prova orale: in tanti casi sufficiente il 70. Avviso USR\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 e DDG n. 2939/2025 per la scuola secondaria. Ecco il voto minimo per l'accesso alla prova orale, come indicato dagli USR. ATTENZIONE: l'elenco verrà aggiornato con i nuovi Avvisi.\nL'articolo\nConcorso docenti PNRR3, ecco voto minimo di accesso alla prova orale: in tanti casi sufficiente il 70. Avviso USR\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "9ad3ac70a56319ba",
+      "text": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 e DDG n. 2939/2025 per la scuola secondaria. Ecco il voto minimo per l'accesso alla prova orale, come indicato dagli USR. ATTENZIONE: l'elenco verrà aggiornato con i nuovi Avvisi.\nL'articolo\nConcorso docenti PNRR3, ecco voto minimo di accesso alla prova orale: in tanti casi sufficiente il 70. Avviso USR\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-12T01:23:43.510059",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Docenti neoimmessi: anno di prova e formazione. Nota del Ministero [MODELLO 2025/26 e NOVITÀ]",
+      "url": "https://www.orizzontescuola.it/docenti-neoimmessi-in-ruolo-2025-anno-di-prova-e-formazione-chi-deve-svolgerlo-quali-attivita-prima-scadenza-31-ottobre/",
+      "date": "Thu, 11 Dec 2025 17:20:47 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Docenti neoimmessi in ruolo 2025/26: in attesa della annuale circolare di riferimento del Ministero dell'istruzione e del Merito forniamo le prime indicazioni sui giorni utili per il superamento e le attività necessarie.\nL'articolo\nDocenti neoimmessi: anno di prova e formazione. Nota del Ministero [MODELLO 2025/26 e NOVITÀ]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Docenti neoimmessi in ruolo 2025/26: in attesa della annuale circolare di riferimento del Ministero dell'istruzione e del Merito forniamo le prime indicazioni sui giorni utili per il superamento e le attività necessarie.\nL'articolo\nDocenti neoimmessi: anno di prova e formazione. Nota del Ministero [MODELLO 2025/26 e NOVITÀ]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "6b1b0d1866f6cbb8",
+      "text": "Docenti neoimmessi in ruolo 2025/26: in attesa della annuale circolare di riferimento del Ministero dell'istruzione e del Merito forniamo le prime indicazioni sui giorni utili per il superamento e le attività necessarie.\nL'articolo\nDocenti neoimmessi: anno di prova e formazione. Nota del Ministero [MODELLO 2025/26 e NOVITÀ]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-12T01:23:44.010238",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
