@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-13T12:35:09.491250",
+  "last_fetch": "2025-12-13T18:24:16.644141",
   "stats": {
     "total": 349,
-    "fetched": 6,
-    "skipped": 94,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 6
+    "html": 1
   },
-  "total_documents": 296,
+  "total_documents": 297,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -4322,6 +4322,21 @@
       "success": true,
       "fetched_at": "2025-12-13T12:35:07.929842",
       "document_type": "html"
+    },
+    {
+      "title": "Concorso docenti PNRR3, griglia di valutazione e Quadro di riferimento prova orale Sostegno",
+      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-griglia-di-valutazione-e-quadro-di-riferimento-prova-orale-sostegno/",
+      "date": "Sat, 13 Dec 2025 16:00:24 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "La Commissione nazionale ha diffuso le griglie di valutazione e i Quadri di riferimento per lo svolgimento della prova orale dei concorsi docenti indetti con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria.\nL'articolo\nConcorso docenti PNRR3, griglia di valutazione e Quadro di riferimento prova orale Sostegno\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "La Commissione nazionale ha diffuso le griglie di valutazione e i Quadri di riferimento per lo svolgimento della prova orale dei concorsi docenti indetti con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria.\nL'articolo\nConcorso docenti PNRR3, griglia di valutazione e Quadro di riferimento prova orale Sostegno\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "4644b05926446e07",
+      "text": "La Commissione nazionale ha diffuso le griglie di valutazione e i Quadri di riferimento per lo svolgimento della prova orale dei concorsi docenti indetti con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria.\nL'articolo\nConcorso docenti PNRR3, griglia di valutazione e Quadro di riferimento prova orale Sostegno\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-13T18:24:16.139893",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
