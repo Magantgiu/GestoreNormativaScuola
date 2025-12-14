@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-14T06:27:30.399094",
+  "last_fetch": "2025-12-14T12:35:07.817587",
   "stats": {
     "total": 349,
-    "fetched": 0,
-    "skipped": 100,
+    "fetched": 3,
+    "skipped": 97,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 3
   },
-  "total_documents": 299,
+  "total_documents": 302,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -4365,6 +4365,51 @@
       "id": "b3107b9d69debafe",
       "text": "Nel pieno delle festività natalizie, Luigi Sofia, insegnante precario, ha scelto di intervenire con un video pubblicato su Facebook per denunciare le condizioni in cui si trovano molti suoi colleghi. Il riferimento è alla gestione dei concorsi scolastici, spesso ripetitivi, disorganizzati e vissuti come una continua corsa ad ostacoli senza certezze.\nL'articolo\n“Il natale vale solo per chi può permetterselo, per chi ha un posto a tempo indeterminato, non per noi precari”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2025-12-14T01:28:33.849970",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Supplenze docenti, dal 2026 l’algoritmo sarà aggiornato con un nuovo criterio",
+      "url": "https://www.orizzontescuola.it/supplenze-docenti-dal-2026-lalgoritmo-sara-aggiornato-con-un-nuovo-criterio/",
+      "date": "Sun, 14 Dec 2025 11:00:39 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "La pubblicazione dell'Ordinanza GPS permetterà di aggiornare gli elenchi utili per le supplenze degli anni scolastici 2026/27 e 2027/28.\nL'articolo\nSupplenze docenti, dal 2026 l’algoritmo sarà aggiornato con un nuovo criterio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "La pubblicazione dell'Ordinanza GPS permetterà di aggiornare gli elenchi utili per le supplenze degli anni scolastici 2026/27 e 2027/28.\nL'articolo\nSupplenze docenti, dal 2026 l’algoritmo sarà aggiornato con un nuovo criterio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "e405e27e12cce1cb",
+      "text": "La pubblicazione dell'Ordinanza GPS permetterà di aggiornare gli elenchi utili per le supplenze degli anni scolastici 2026/27 e 2027/28.\nL'articolo\nSupplenze docenti, dal 2026 l’algoritmo sarà aggiornato con un nuovo criterio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-14T12:35:06.313046",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Metodi differenziati e punteggio GPS: verifiche sugli attestati non autorizzati. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/metodi-differenziati-e-punteggio-gps-verifiche-sugli-attestati-non-autorizzati-pillole-di-question-time/",
+      "date": "Sun, 14 Dec 2025 10:40:37 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time dell’11 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stata affrontata una questione tecnica ma significativa riguardante la valutazione dei titoli nei metodi didattici differenziati. In particolare, si è discusso del motivo per cui alcuni attestati relativi ai metodi Agazzi, Pizzigoni e Montessori siano oggetto di verifica negli elenchi aggiuntivi delle GPS.\nL'articolo\nMetodi differenziati e p",
+      "full_content": "Nel question time dell’11 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stata affrontata una questione tecnica ma significativa riguardante la valutazione dei titoli nei metodi didattici differenziati. In particolare, si è discusso del motivo per cui alcuni attestati relativi ai metodi Agazzi, Pizzigoni e Montessori siano oggetto di verifica negli elenchi aggiuntivi delle GPS.\nL'articolo\nMetodi differenziati e punteggio GPS: verifiche sugli attestati non autorizzati. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "00774b4f4aa764a2",
+      "text": "Nel question time dell’11 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stata affrontata una questione tecnica ma significativa riguardante la valutazione dei titoli nei metodi didattici differenziati. In particolare, si è discusso del motivo per cui alcuni attestati relativi ai metodi Agazzi, Pizzigoni e Montessori siano oggetto di verifica negli elenchi aggiuntivi delle GPS.\nL'articolo\nMetodi differenziati e punteggio GPS: verifiche sugli attestati non autorizzati. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-14T12:35:06.813239",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Aggiornamento GPS 2026, finalmente più tutele per i docenti ma mancano ancora chiarimenti sui titoli",
+      "url": "https://www.orizzontescuola.it/aggiornamento-gps-2026-finalmente-piu-tutele-per-i-docenti-ma-mancano-ancora-chiarimenti-sui-titoli/",
+      "date": "Sun, 14 Dec 2025 08:31:09 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Il Consiglio Superiore della Pubblica Istruzione (CSPI), nella seduta plenaria dell’11 dicembre 2025, ha espresso parere sullo schema di ordinanza ministeriale relativo all’aggiornamento delle graduatorie provinciali per le supplenze (GPS), delle graduatorie di istituto e alle procedure di conferimento degli incarichi a tempo determinato per il personale docente ed educativo.\nL'articolo\nAggiornamento GPS 2026, finalmente più tutele per i docenti ma mancano ancora chiarimenti sui titoli\nsembra es",
+      "full_content": "Il Consiglio Superiore della Pubblica Istruzione (CSPI), nella seduta plenaria dell’11 dicembre 2025, ha espresso parere sullo schema di ordinanza ministeriale relativo all’aggiornamento delle graduatorie provinciali per le supplenze (GPS), delle graduatorie di istituto e alle procedure di conferimento degli incarichi a tempo determinato per il personale docente ed educativo.\nL'articolo\nAggiornamento GPS 2026, finalmente più tutele per i docenti ma mancano ancora chiarimenti sui titoli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "f16409c6853dfc7e",
+      "text": "Il Consiglio Superiore della Pubblica Istruzione (CSPI), nella seduta plenaria dell’11 dicembre 2025, ha espresso parere sullo schema di ordinanza ministeriale relativo all’aggiornamento delle graduatorie provinciali per le supplenze (GPS), delle graduatorie di istituto e alle procedure di conferimento degli incarichi a tempo determinato per il personale docente ed educativo.\nL'articolo\nAggiornamento GPS 2026, finalmente più tutele per i docenti ma mancano ancora chiarimenti sui titoli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-14T12:35:07.313415",
       "document_type": "rss_full",
       "success": true
     }
