@@ -1,13 +1,57 @@
 {
-  "scraped_at": "2025-12-14T18:25:33.076450",
+  "scraped_at": "2025-12-15T01:25:33.649251",
   "stats": {
     "total_sources": 7,
     "successful": 7,
     "failed": 0,
-    "total_docs": 324,
-    "unique_documents": 324
+    "total_docs": 349,
+    "unique_documents": 349
   },
   "documents": [
+    {
+      "title": "Università di Padova: raggiunto un importante accordo integrativo triennale",
+      "url": "https://www.flcgil.it/regioni/veneto/padova/universita-padova-raggiunto-importante-accordo-integrativo-triennale.flc",
+      "date": "Wed, 10 Dec 2025 22:39:42 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "A cura della FLC CGIL Padova\nIl 2 dicembre 2025, dopo un percorso faticoso, è stato sottoscritto il Contratto integrativo triennale 2025-2027 di ateneo.\nÈ un contratto in continuità con...",
+      "full_content": "A cura della FLC CGIL Padova\nIl 2 dicembre 2025, dopo un percorso faticoso, è stato sottoscritto il Contratto integrativo triennale 2025-2027 di ateneo.\nÈ un contratto in continuità con...",
+      "has_full_content": false,
+      "id": "32b3b0994ebd22ae"
+    },
+    {
+      "title": "Concorso PNRR 3: scioglimento della riserva dal 15 dicembre al 2 febbraio. Apertura delle funzioni telematiche",
+      "url": "https://www.flcgil.it/scuola/precari/concorso-pnrr-3-scioglimento-riserva-dal-15-dicembre-al-2-febbraio-apertura-funzioni-telematiche.flc",
+      "date": "Wed, 10 Dec 2025 22:02:03 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Il Ministero dell’Istruzione e del Merito, con\navviso\na firma del direttore generale, ha...",
+      "full_content": "Il Ministero dell’Istruzione e del Merito, con\navviso\na firma del direttore generale, ha...",
+      "has_full_content": false,
+      "id": "b20e3a64a193edca"
+    },
+    {
+      "title": "Istat: salario accessorio 2025 e desk sharing",
+      "url": "https://www.flcgil.it/enti/istat/notizie/istat-salario-accessorio-2025-e-desk-sharing.flc",
+      "date": "Wed, 10 Dec 2025 10:39:15 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Martedì 9 dicembre 2025, nel pomeriggio, si è svolto all'Istat un incontro di contrattazione integrativa sul salario accessorio 2025 dei IV-VIII, seguìto da un confronto sul progetto di desk sharing (al quale &egrave...",
+      "full_content": "Martedì 9 dicembre 2025, nel pomeriggio, si è svolto all'Istat un incontro di contrattazione integrativa sul salario accessorio 2025 dei IV-VIII, seguìto da un confronto sul progetto di desk sharing (al quale &egrave...",
+      "has_full_content": true,
+      "id": "ffcc4deabf71e474"
+    },
+    {
+      "title": "Concorsi Università al 9 dicembre 2025",
+      "url": "https://www.flcgil.it/universita/concorsi-universita-al-9-dicembre-2025.flc",
+      "date": "Wed, 10 Dec 2025 09:55:14 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Gazzetta Ufficiale n°95 del 5 dicembre 2025\nSCUOLA SUPERIORE MERIDIONALE DI NAPOLI\nProcedura comparativa per la chiamata di professori di prima fascia, per l'Area...",
+      "full_content": "Gazzetta Ufficiale n°95 del 5 dicembre 2025\nSCUOLA SUPERIORE MERIDIONALE DI NAPOLI\nProcedura comparativa per la chiamata di professori di prima fascia, per l'Area...",
+      "has_full_content": false,
+      "id": "09c6beb4919088a8"
+    },
     {
       "title": "Scuola chiusa per seggio elettorale: il personale ATA può essere utilizzato in altro plesso",
       "url": "https://www.orizzontescuola.it/scuola-chiusa-per-seggio-elettorale-il-personale-ata-puo-essere-utilizzato-in-altro-plesso/",
@@ -18,6 +62,17 @@
       "full_content": "L’ARAN, con l’orientamento Id. 35944, ha chiarito che è possibile utilizzare il personale ATA presso un altro plesso quando quello di assegnazione risulta chiuso perché adibito a seggio elettorale.\nL'articolo\nScuola chiusa per seggio elettorale: il personale ATA può essere utilizzato in altro plesso\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "e523b19c0b7c8d83"
+    },
+    {
+      "title": "Precari uniti CNR e FLC CGIL: 10 dicembre, storie di ricerca precaria",
+      "url": "https://www.flcgil.it/ricerca/precari/precari-uniti-cnr-flc-cgil-10-dicembre-storie-ricerca-precaria.flc",
+      "date": "Wed, 10 Dec 2025 08:41:38 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "",
+      "full_content": "",
+      "has_full_content": false,
+      "id": "d6c5227b9abeeda0"
     },
     {
       "title": "ATA in pensione da settembre 2026: gli spetta la posizione economica?",
@@ -31,6 +86,17 @@
       "id": "df3a2fba3ff741db"
     },
     {
+      "title": "Nota 216077 del 9 dicembre 2025 - Concorso PNRR 3, scioglimento della riserva",
+      "url": "https://www.flcgil.it/leggi-normative/documenti/note-ministeriali/nota-216077-del-9-dicembre-2025-concorso-pnrr-3-scioglimento-riserva.flc",
+      "date": "Tue, 09 Dec 2025 21:59:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Nota 216077 del 9 dicembre 2025 - Concorso PNRR 3, scioglimento della riserva",
+      "full_content": "Nota 216077 del 9 dicembre 2025 - Concorso PNRR 3, scioglimento della riserva",
+      "has_full_content": false,
+      "id": "e1a9e9c900538e26"
+    },
+    {
       "title": "Posizioni economiche ATA: simulatori e ti spieghiamo come superare il test",
       "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-ti-spieghiamo-come-superare-il-test/",
       "date": "Tue, 09 Dec 2025 17:00:48 +0000",
@@ -40,6 +106,116 @@
       "full_content": "I nostri simulatori Collaboratori: descrizione completa e l’acquisto 50% di sconto Assistente Amministrativo: descrizione completa e l’acquisto 50% di sconto Assistente Tecnico: descrizione completa e l’acquisto 50% di sconto Due webinar dedicati alle posizioni economiche ATA. Ti spieghiamo le migliori strategie per superare la prova. Come superare il test Primo video: analisi ragionata e tipologie di domande Un […]\nL'articolo\nPosizioni economiche ATA: simulatori e ti spieghiamo come superare il test\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "09358941a388e4fd"
+    },
+    {
+      "title": "ISTAT: i lavoratori approvano la scelta della FLC CGIL di non firmare il CCNL 2022/2024",
+      "url": "https://www.flcgil.it/enti/istat/notizie/istat-i-lavoratori-approvano-la-scelta-della-flc-cgil-di-non-firmare-il-ccnl-2022-2024.flc",
+      "date": "Thu, 11 Dec 2025 17:20:19 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Di seguito il comunicato con i risultati della consultazione, che si è svolta on line dal 9 all'11 dicembre 2025.",
+      "full_content": "Di seguito il comunicato con i risultati della consultazione, che si è svolta on line dal 9 all'11 dicembre 2025.",
+      "has_full_content": false,
+      "id": "95718255388012a7"
+    },
+    {
+      "title": "Serve pensiero critico e riflettere sul modo in cui si vive con l’altro",
+      "url": "https://www.flcgil.it/attualita/con-cittadinanze/serve-pensiero-critico-e-riflettere-sul-modo-in-cui-si-vive-con-l-altro.flc",
+      "date": "Thu, 11 Dec 2025 17:09:42 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Concittadinanze è uno spazio di attenzione ai temi dell'intercultura e in particolare al ruolo della scuola nel",
+      "full_content": "Concittadinanze è uno spazio di attenzione ai temi dell'intercultura e in particolare al ruolo della scuola nel",
+      "has_full_content": false,
+      "id": "330a3bd28341c5ac"
+    },
+    {
+      "title": "BALDACCI seminario Filiera tecnologico professionale e Riforma degli Istituti Tecnici 20-11-2025",
+      "url": "https://www.flcgil.it/sindacato/documenti/materiali-iniziative/baldacci-seminario-filiera-tecnologico-professionale-e-riforma-degli-istituti-tecnici-20-11-2025.flc",
+      "date": "Thu, 11 Dec 2025 16:32:16 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "BALDACCI seminario Filiera tecnologico professionale e Riforma degli Istituti Tecnici 20-11-2025",
+      "full_content": "BALDACCI seminario Filiera tecnologico professionale e Riforma degli Istituti Tecnici 20-11-2025",
+      "has_full_content": false,
+      "id": "9d1943a9dee28b13"
+    },
+    {
+      "title": "Scuola di Capaci programma visita degli alunni a una caserma dell’Esercito. La contrarietà della FLC CGIL: “Iniziativa didattica e pedagogica inopportuna. La scuola deve educare alla pace”",
+      "url": "https://www.flcgil.it/regioni/sicilia/scuola-di-capaci-programma-visita-degli-alunni-a-una-caserma-dell-esercito-la-contrarieta-della-flc-cgil-iniziativa-didattica-e-pedagogica-inopportuna-la-scuola-deve-educare-alla-pace.flc",
+      "date": "Thu, 11 Dec 2025 16:22:55 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Palermo 11 dicembre 2025 – Al rientro dalle vacanze natalizie, per gli alunni delle ultime classi della scuola secondaria “Biagio Siciliano-De Gasperi” di Capaci si prospetta a gennaio una visita alla...",
+      "full_content": "Palermo 11 dicembre 2025 – Al rientro dalle vacanze natalizie, per gli alunni delle ultime classi della scuola secondaria “Biagio Siciliano-De Gasperi” di Capaci si prospetta a gennaio una visita alla...",
+      "has_full_content": true,
+      "id": "255255cf6d260cb6"
+    },
+    {
+      "title": "Università, semestre filtro medicina. Fracassi (FLC CGIL): da Ministero pezza peggiore del buco",
+      "url": "https://www.flcgil.it/comunicati-stampa/flc/universita-semestre-filtro-medicina-fracassi-flc-cgil-da-ministero-pezza-peggiore-del-buco.flc",
+      "date": "Thu, 11 Dec 2025 14:05:07 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Roma, 11 dicembre - Dopo i disastrosi esiti della prima tornata di esami, che hanno reso evidente il fallimento del nuovo meccanismo del semestre filtro e il suo carattere di selezione mascherata, il Ministero dell’Università e della...",
+      "full_content": "Roma, 11 dicembre - Dopo i disastrosi esiti della prima tornata di esami, che hanno reso evidente il fallimento del nuovo meccanismo del semestre filtro e il suo carattere di selezione mascherata, il Ministero dell’Università e della...",
+      "has_full_content": true,
+      "id": "fc607610e528b593"
+    },
+    {
+      "title": "Lettera aperta su iscrizioni superiori 2026-2027",
+      "url": "https://www.flcgil.it/sindacato/documenti/scuola/lettera-aperta-su-iscrizioni-superiori-2026-2027.flc",
+      "date": "Thu, 11 Dec 2025 11:03:03 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Lettera aperta su iscrizioni superiori 2026-2027",
+      "full_content": "Lettera aperta su iscrizioni superiori 2026-2027",
+      "has_full_content": false,
+      "id": "3955b291272fd2fe"
+    },
+    {
+      "title": "Filiera tecnologico-professionale. La FLC CGIL scrive alle famiglie: i quadriennali riducono la qualità dell’istruzione e privano ragazze e ragazze di necessari strumenti per costruire il loro futuro",
+      "url": "https://www.flcgil.it/scuola/docenti/secondo-ciclo/filiera-tecnologico-professionale-la-flc-cgil-scrive-alle-famiglie-i-quadriennali-riducono-la-qualita-dell-istruzione-e-privano-ragazze-e-ragazze-di-necessari-strumenti-per-costruire-il-loro-futuro.flc",
+      "date": "Thu, 11 Dec 2025 11:02:47 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Il 22 dicembre 2025 scadranno i termini per la presentazione delle istanze per l’attivazione dei percorsi quadriennali legati alla Filiera tecnologico-professionale. La data inizialmente fissata al 10 dicembre...",
+      "full_content": "Il 22 dicembre 2025 scadranno i termini per la presentazione delle istanze per l’attivazione dei percorsi quadriennali legati alla Filiera tecnologico-professionale. La data inizialmente fissata al 10 dicembre...",
+      "has_full_content": true,
+      "id": "cff967db51f72961"
+    },
+    {
+      "title": "Aggiornamento GAE biennio 2026/2028: il ministero anticipa che la presentazione delle domande sarà dal 15 al 30 dicembre",
+      "url": "https://www.flcgil.it/scuola/precari/aggiornamento-gae-biennio-2026-2028-il-ministero-anticipa-che-la-presentazione-delle-domande-sara-dal-15-al-30-dicembre.flc",
+      "date": "Thu, 11 Dec 2025 10:27:30 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Il Ministero dell’Istruzione ha comunicato alle organizzazioni sindacali di avere adottato il decreto ministeriale n. 247, relativo all'aggiornamento delle Graduatorie ad Esaurimento.\nL'articolo 9, comma 5, del decreto...",
+      "full_content": "Il Ministero dell’Istruzione ha comunicato alle organizzazioni sindacali di avere adottato il decreto ministeriale n. 247, relativo all'aggiornamento delle Graduatorie ad Esaurimento.\nL'articolo 9, comma 5, del decreto...",
+      "has_full_content": true,
+      "id": "5d4df5151abb7214"
+    },
+    {
+      "title": "Servizio civile nazionale: valido per la riserva del 15% nelle GPS anche se non recente. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/servizio-civile-nazionale-valido-per-la-riserva-del-15-nelle-gps-anche-se-non-recente-pillole-di-question-time/",
+      "date": "Sun, 14 Dec 2025 20:54:13 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 10 novembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente esperta Sonia Cannas, è stato affrontato un tema rilevante per molti aspiranti docenti: il riconoscimento del servizio civile nazionale ai fini della riserva nei punteggi delle GPS. L’attenzione si è concentrata sulla possibilità di far valere un servizio svolto nel 2012 per accedere alla quota riservata del 15%.\nL'articolo\nServizio civile nazionale: valido per la riserva del 15% nell",
+      "full_content": "Nel question time del 10 novembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente esperta Sonia Cannas, è stato affrontato un tema rilevante per molti aspiranti docenti: il riconoscimento del servizio civile nazionale ai fini della riserva nei punteggi delle GPS. L’attenzione si è concentrata sulla possibilità di far valere un servizio svolto nel 2012 per accedere alla quota riservata del 15%.\nL'articolo\nServizio civile nazionale: valido per la riserva del 15% nelle GPS anche se non recente. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "bdfcf47e58d7d780"
+    },
+    {
+      "title": "Docenti neoassunti: incontri introduttivi e conclusivi per 6 ore, di cui 3 da INDIRE",
+      "url": "https://www.orizzontescuola.it/docenti-neoassunti-incontri-introduttivi-e-conclusivi-per-6-ore-di-cui-3-da-indire/",
+      "date": "Sun, 14 Dec 2025 16:47:06 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Il Ministero dell'Istruzione e del Merito ha pubblicato la nota n. 95371 dell'11 dicembre 2025 dedicata periodo di formazione e prova per i docenti neoassunti e per i docenti che hanno ottenuto il passaggio di ruolo. Attività formative per l’anno scolastico 2025-2026.\nL'articolo\nDocenti neoassunti: incontri introduttivi e conclusivi per 6 ore, di cui 3 da INDIRE\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Il Ministero dell'Istruzione e del Merito ha pubblicato la nota n. 95371 dell'11 dicembre 2025 dedicata periodo di formazione e prova per i docenti neoassunti e per i docenti che hanno ottenuto il passaggio di ruolo. Attività formative per l’anno scolastico 2025-2026.\nL'articolo\nDocenti neoassunti: incontri introduttivi e conclusivi per 6 ore, di cui 3 da INDIRE\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "00b58da85cf52944"
     },
     {
       "title": "Chi ha avuto almeno 70 alla prova scritta del concorso PNRR3 ma non rientra tra gli ammessi all’orale, non avrà punteggio per le GPS. Pillole di Question Time",
@@ -141,26 +317,26 @@
       "id": "df5252aa4173cd25"
     },
     {
-      "title": "Accesso a prova orale concorso: il calcolo del triplo dei posti include i candidati con riserva? Pillole di Question Time",
-      "url": "https://www.orizzontescuola.it/accesso-a-prova-orale-concorso-il-calcolo-del-triplo-dei-posti-include-i-candidati-con-riserva-pillole-di-question-time/",
-      "date": "Sat, 13 Dec 2025 12:18:22 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "title": "Webinar con Albanese, FLC CGIL contro “l’attacco del Governo a scuole toscane”",
+      "url": "https://www.flcgil.it/regioni/toscana/webinar-albanese-flc-cgil-contro-attacco-governo-a-scuole-toscane.flc",
+      "date": "Sat, 13 Dec 2025 11:46:00 +0100",
+      "source": "FLC CGIL",
       "type": "rss_article",
-      "description": "Nel question time del 9 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata analizzata una questione tecnica legata alla procedura concorsuale, in particolare al calcolo del numero massimo di candidati ammessi alla prova orale. L’attenzione si è concentrata sull’eventuale inclusione dei candidati con riserva nel computo del triplo dei posti banditi.\nL'articolo\nAccesso a prova orale concorso: il calcolo del triplo dei posti include i",
-      "full_content": "Nel question time del 9 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata analizzata una questione tecnica legata alla procedura concorsuale, in particolare al calcolo del numero massimo di candidati ammessi alla prova orale. L’attenzione si è concentrata sull’eventuale inclusione dei candidati con riserva nel computo del triplo dei posti banditi.\nL'articolo\nAccesso a prova orale concorso: il calcolo del triplo dei posti include i candidati con riserva? Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "description": "A cura della FLC CGIL Toscana\nLa FLC CGIL Toscana esprime la sua solidarietà alle docenti e ai docenti del liceo Dini di Pisa, dell’Istituto Comprensivo Massa 6 di Massa e del Liceo Montale di Pontedera che, in questi...",
+      "full_content": "A cura della FLC CGIL Toscana\nLa FLC CGIL Toscana esprime la sua solidarietà alle docenti e ai docenti del liceo Dini di Pisa, dell’Istituto Comprensivo Massa 6 di Massa e del Liceo Montale di Pontedera che, in questi...",
       "has_full_content": true,
-      "id": "36c0698c244231d3"
+      "id": "0ed5145748cb0639"
     },
     {
-      "title": "Docenti inseriti sia in GaE che GPS: attenzione alla scelta della provincia!",
-      "url": "https://www.orizzontescuola.it/docenti-inseriti-sia-in-gae-che-gps-attenzione-alla-scelta-della-provincia/",
-      "date": "Sat, 13 Dec 2025 12:04:48 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "title": "CSPI su GPS 2026/2028 chiede punteggi per corsi INDIRE e TFA sostegno proporzionati all’impegno formativo e stop ai contratti a chi è inserito con titolo estero in attesa di riconoscimento",
+      "url": "https://www.flcgil.it/scuola/precari/cspi-su-gps-2026-2028-chiede-punteggi-per-corsi-indire-e-tfa-sostegno-proporzionati-all-impegno-formativo-e-stop-ai-contratti-a-chi-e-inserito-con-titolo-estero-in-attesa-di-riconoscimento.flc",
+      "date": "Sat, 13 Dec 2025 09:53:21 +0100",
+      "source": "FLC CGIL",
       "type": "rss_article",
-      "description": "Nei prossimi mesi gli aspiranti docenti saranno chiamati a compilare le domande di aggiornamento o primo inserimento negli elenchi per le supplenze valide per gli anni scolastici 2026/27 e 2027/28. Si tratta di GaE (graduatorie ad esaurimento) e GPS (graduatorie provinciali e di istituto).\nL'articolo\nDocenti inseriti sia in GaE che GPS: attenzione alla scelta della provincia!\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Nei prossimi mesi gli aspiranti docenti saranno chiamati a compilare le domande di aggiornamento o primo inserimento negli elenchi per le supplenze valide per gli anni scolastici 2026/27 e 2027/28. Si tratta di GaE (graduatorie ad esaurimento) e GPS (graduatorie provinciali e di istituto).\nL'articolo\nDocenti inseriti sia in GaE che GPS: attenzione alla scelta della provincia!\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "240332f7ebcee8d5"
+      "description": "Lo scorso giovedì 11 dicembre il Consiglio Superiore della Pubblica Istruzione ha votato all’unanimità un",
+      "full_content": "Lo scorso giovedì 11 dicembre il Consiglio Superiore della Pubblica Istruzione ha votato all’unanimità un",
+      "has_full_content": false,
+      "id": "8f5945e7efa379d0"
     },
     {
       "title": "Personale ATA: il Ministero comunica l’assegnazione delle risorse per la gestione delle pensioni",
@@ -207,6 +383,50 @@
       "id": "cce30f14c21c1bbd"
     },
     {
+      "title": "Fracassi (FLC CGIL) a Bernini: piano ricercatori striminzito e parziale, proseguiamo la mobilitazione",
+      "url": "https://www.flcgil.it/comunicati-stampa/flc/fracassi-flc-cgil-a-bernini-piano-ricercatori-striminzito-e-parziale-proseguiamo-la-mobilitazione.flc",
+      "date": "Fri, 12 Dec 2025 18:54:37 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Roma, 12 dicembre - “Il piano ricercatori annunciato dalla ministra Bernini è striminzito, tardivo e parziale”, così commenta Gianna Fracassi segretaria generale della FLC CGIL...",
+      "full_content": "Roma, 12 dicembre - “Il piano ricercatori annunciato dalla ministra Bernini è striminzito, tardivo e parziale”, così commenta Gianna Fracassi segretaria generale della FLC CGIL...",
+      "has_full_content": false,
+      "id": "878f456ad799a1c3"
+    },
+    {
+      "title": "Delusione e sconforto per lo striminzito e parziale piano ricercatori della ministra Bernini",
+      "url": "https://www.flcgil.it/attualita/delusione-e-sconforto-per-lo-striminzito-e-parziale-piano-ricercatori-della-ministra-bernini.flc",
+      "date": "Fri, 12 Dec 2025 18:07:52 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Nella legge di bilancio 2026 arriveranno nuove risorse per assumere ricercatori nelle Università e negli Enti Pubblici di Ricerca, secondo un emendamento proposta dalla maggioranza di governo.\nTra...",
+      "full_content": "Nella legge di bilancio 2026 arriveranno nuove risorse per assumere ricercatori nelle Università e negli Enti Pubblici di Ricerca, secondo un emendamento proposta dalla maggioranza di governo.\nTra...",
+      "has_full_content": false,
+      "id": "36a7bf99a6097735"
+    },
+    {
+      "title": "Il CSPI si esprime sulla proposta di sperimentazione del “Liceo Internazionale per l’Innovazione” di Milano",
+      "url": "https://www.flcgil.it/scuola/docenti/secondo-ciclo/cspi-si-esprime-proposta-sperimentazione-liceo-internazionale-innovazione-milano.flc",
+      "date": "Fri, 12 Dec 2025 17:38:54 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Il CSPI, in data 11 dicembre 2025, si è espresso sullo Schema di decreto recante l’autorizzazione, ai sensi dell’art. 11 del d.P.R. 8 marzo 1999, n. 275, della sperimentazione del progetto denominato “Liceo Internazionale...",
+      "full_content": "Il CSPI, in data 11 dicembre 2025, si è espresso sullo Schema di decreto recante l’autorizzazione, ai sensi dell’art. 11 del d.P.R. 8 marzo 1999, n. 275, della sperimentazione del progetto denominato “Liceo Internazionale...",
+      "has_full_content": true,
+      "id": "fbff3569fca3f06f"
+    },
+    {
+      "title": "Parere CSPI del 12 dicembre 2025 - Proposta sperimentazione Liceo Internazionale Innovazione Milano",
+      "url": "https://www.flcgil.it/sindacato/documenti/scuola/parere-cspi-del-12-dicembre-2025-proposta-sperimentazione-liceo-internazionale-innovazione-milano.flc",
+      "date": "Fri, 12 Dec 2025 17:35:40 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Parere CSPI del 12 dicembre 2025 - Proposta sperimentazione Liceo Internazionale Innovazione Milano",
+      "full_content": "Parere CSPI del 12 dicembre 2025 - Proposta sperimentazione Liceo Internazionale Innovazione Milano",
+      "has_full_content": false,
+      "id": "ec76e528123cebba"
+    },
+    {
       "title": "Organici ATA, riduzione dal 2026/27 di oltre 2mila posti: pubblicato DECRETO e TABELLE",
       "url": "https://www.orizzontescuola.it/organici-ata-riduzione-dal-2026-27-di-oltre-2mila-posti-pubblicato-decreto-e-tabelle/",
       "date": "Fri, 12 Dec 2025 15:50:52 +0000",
@@ -216,6 +436,39 @@
       "full_content": "Pubblicato sul sito del Ministero dell’Istruzione e del Merito, il decreto ministeriale n.211/2025 di revisione dell’organico ATA.\nL'articolo\nOrganici ATA, riduzione dal 2026/27 di oltre 2mila posti: pubblicato DECRETO e TABELLE\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "c79b794fd24fe471"
+    },
+    {
+      "title": "Indennità DSGA reggenti scuole sottodimensionate: pagamento il 19 dicembre",
+      "url": "https://www.flcgil.it/scuola/ata/indennita-dsga-reggenti-scuole-sottodimensionate-pagamento-il-19-dicembre.flc",
+      "date": "Fri, 12 Dec 2025 12:35:28 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Finalmente, grazie alle incessanti pressioni della FLC CGIL, i DSGA che hanno retto due istituzioni scolastiche negli anni scolastici 2021/2022, 2022/2023 e 2023/2024, di cui una sottodimensionata, riceveranno il pagamento dell'...",
+      "full_content": "Finalmente, grazie alle incessanti pressioni della FLC CGIL, i DSGA che hanno retto due istituzioni scolastiche negli anni scolastici 2021/2022, 2022/2023 e 2023/2024, di cui una sottodimensionata, riceveranno il pagamento dell'...",
+      "has_full_content": true,
+      "id": "a535f1cb8f1f60e4"
+    },
+    {
+      "title": "CNR: risorse per le stabilizzazioni, ora",
+      "url": "https://www.flcgil.it/risorse/cnr-risorse-per-le-stabilizzazioni-ora.flc",
+      "date": "Fri, 12 Dec 2025 12:23:08 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Il 10 dicembre, presso la Sala Volterra della sede Centrale del CNR a Roma, si è svolto l’incontro tra il Presidente CNR, Prof. Lenzi, il Direttore Generale Dr. Greco e il Dirigente dell’Ufficio del Personale, Dr. Raimondi, con le...",
+      "full_content": "Il 10 dicembre, presso la Sala Volterra della sede Centrale del CNR a Roma, si è svolto l’incontro tra il Presidente CNR, Prof. Lenzi, il Direttore Generale Dr. Greco e il Dirigente dell’Ufficio del Personale, Dr. Raimondi, con le...",
+      "has_full_content": true,
+      "id": "2053b227b3adbb00"
+    },
+    {
+      "title": "Parere CSPI del 12 dicembre 2025 - Schema di ordinanza del MIM su procedure aggiornamento e rinnovo graduatorie provinciali e di istituto e conferimento supplenze personale docente e educativo",
+      "url": "https://www.flcgil.it/sindacato/documenti/scuola/parere-cspi-del-12-dicembre-2025-schema-di-ordinanza-del-mim-su-procedure-aggiornamento-e-rinnovo-graduatorie-provinciali-e-di-istituto-e-conferimento-supplenze-personale-docente-e-educativo.flc",
+      "date": "Fri, 12 Dec 2025 09:50:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Parere CSPI del 12 dicembre 2025 - Schema di ordinanza del MIM su procedure aggiornamento e rinnovo graduatorie provinciali e di istituto e conferimento supplenze personale docente e educativo",
+      "full_content": "Parere CSPI del 12 dicembre 2025 - Schema di ordinanza del MIM su procedure aggiornamento e rinnovo graduatorie provinciali e di istituto e conferimento supplenze personale docente e educativo",
+      "has_full_content": false,
+      "id": "7121326b45a9fc2e"
     },
     {
       "title": "Graduatorie ATA 24 mesi: aggiornamento atteso nella primavera 2026. Tra i requisiti la CIAD",
@@ -229,9 +482,31 @@
       "id": "e9e9d1503eb94e49"
     },
     {
+      "title": "Consenso internazionale per lo sciopero del 12 dicembre della FLC CGIL. Education International scrive alla Presidente Meloni e al Ministro Valditara",
+      "url": "https://www.flcgil.it/attualita/consenso-internazionale-per-lo-sciopero-del-12-dicembre-della-flc-cgil-education-international-scrive-alla-presidente-meloni-e-al-ministro-valditara.flc",
+      "date": "Fri, 12 Dec 2025 09:06:01 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "La FLC CGIL, nell’ambito del proprio impegno internazionale, ha sottoposto alle organizzazioni sindacali affiliate a Education International (33 milioni di aderenti in 178 Paesi del mondo) e a ETUCE, sua sezione europea, le ragioni che animano...",
+      "full_content": "La FLC CGIL, nell’ambito del proprio impegno internazionale, ha sottoposto alle organizzazioni sindacali affiliate a Education International (33 milioni di aderenti in 178 Paesi del mondo) e a ETUCE, sua sezione europea, le ragioni che animano...",
+      "has_full_content": true,
+      "id": "0e63504c14f34003"
+    },
+    {
+      "title": "Aggiornamento GAE biennio 2026/2028: il ministero anticipa che la presentazione delle domande sarà dall'8 al 22 gennaio",
+      "url": "https://www.flcgil.it/scuola/precari/aggiornamento-gae-biennio-2026-2028-il-ministero-anticipa-che-la-presentazione-delle-domande-sara-dall-8-al-22-gennaio.flc",
+      "date": "Fri, 12 Dec 2025 08:48:52 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Il Ministero dell’Istruzione ha comunicato alle organizzazioni sindacali le possibili date di pubblicazione del decreto ministeriale relativo all'aggiornamento delle Graduatorie ad Esaurimento.\nL'articolo 9, comma 5, del...",
+      "full_content": "Il Ministero dell’Istruzione ha comunicato alle organizzazioni sindacali le possibili date di pubblicazione del decreto ministeriale relativo all'aggiornamento delle Graduatorie ad Esaurimento.\nL'articolo 9, comma 5, del...",
+      "has_full_content": true,
+      "id": "f9b42ba174a93bc3"
+    },
+    {
       "title": "Comunicazione avvio anno di formazione e prova a seguito di trasformazione contratti da T.D. a T.I. dei docenti neoassunti per l’a.s. 2025/2026 che conseguono l’abilitazione all’insegnamento entro il 31/12/2025.",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2025/12/05/comunicazione-avvio-anno-di-formazione-e-prova-a-seguito-di-trasformazione-contratti-da-t-d-a-t-i-dei-docenti-neoassunti-per-la-s-2025-2026-che-conseguono-labilitazione-all/",
-      "date": "2025-12-14T18:25:32.074602",
+      "date": "2025-12-15T01:25:32.647773",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -240,7 +515,7 @@
     {
       "title": "DDG n. 2796 – 09-12-2025_Comitato di vigilanza prova asincrona concorso DT",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2025/12/09/ddg-n-2796-09-12-2025_comitato-di-vigilanza-prova-asincrona-concorso-dt/",
-      "date": "2025-12-14T18:25:32.074578",
+      "date": "2025-12-15T01:25:32.647751",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -249,7 +524,7 @@
     {
       "title": "Trasmissione nota ministeriale prot. AOODGTVET n. 2406 del 10/12/2025 – Filiera formativa tecnologico professionale – Attivazione percorsi per l’anno scolastico 2026/2027 – Proroga presentazione candidature 22 dicembre 2025.",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2025/12/11/trasmissione-nota-ministeriale-prot-aoodgtvet-n-2406-del-10-12-2025-filiera-formativa-tecnologico-professionale-attivazione-percorsi-per-lanno-scolastico-2026-2027/",
-      "date": "2025-12-14T18:25:32.074565",
+      "date": "2025-12-15T01:25:32.647737",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -258,7 +533,7 @@
     {
       "title": "Avviso pubblico per l’individuazione degli osservatori esterni nelle classi campione delle rilevazioni nazionali degli apprendimenti a.s. 2025/2026",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2025/12/11/avviso-pubblico-per-lindividuazione-degli-osservatori-esterni-nelle-classi-campione-delle-rilevazioni-nazionali-degli-apprendimenti-a-s-2025-2026/",
-      "date": "2025-12-14T18:25:32.074516",
+      "date": "2025-12-15T01:25:32.647692",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -267,7 +542,7 @@
     {
       "title": "Decreto Dirigenziale n. 71068 del 5 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-71068-del-5-novembre-2025",
-      "date": "2025-12-14T18:25:26.336735",
+      "date": "2025-12-15T01:25:27.800986",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -276,7 +551,7 @@
     {
       "title": "Decreto Dirigenziale n. 71096 del 5 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-71096-del-5-novembre-2025",
-      "date": "2025-12-14T18:25:26.336689",
+      "date": "2025-12-15T01:25:27.800940",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -285,7 +560,7 @@
     {
       "title": "Decreto Dipartimentale n. 3272 del 31 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3272-del-31-ottobre-2025",
-      "date": "2025-12-14T18:25:26.336643",
+      "date": "2025-12-15T01:25:27.800894",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -294,7 +569,7 @@
     {
       "title": "Decreto Dipartimentale n. 3274 del 31 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3274-del-31-ottobre-2025",
-      "date": "2025-12-14T18:25:26.336595",
+      "date": "2025-12-15T01:25:27.800848",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -303,7 +578,7 @@
     {
       "title": "Decreto Dipartimentale n. 3276 del 31 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3276-del-31-ottobre-2025",
-      "date": "2025-12-14T18:25:26.336539",
+      "date": "2025-12-15T01:25:27.800800",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -312,7 +587,7 @@
     {
       "title": "Decreto Ministeriale n. 213 del 5 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-213-del-5-novembre-2025",
-      "date": "2025-12-14T18:25:26.336456",
+      "date": "2025-12-15T01:25:27.800753",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -321,7 +596,7 @@
     {
       "title": "Circolare n. 3540 del 5 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-n-3540-del-5-novembre-2025",
-      "date": "2025-12-14T18:25:26.336411",
+      "date": "2025-12-15T01:25:27.800709",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -330,7 +605,7 @@
     {
       "title": "Decreto Ministeriale n. 212 del 5 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-212-del-5-novembre-2025",
-      "date": "2025-12-14T18:25:26.336366",
+      "date": "2025-12-15T01:25:27.800664",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -339,7 +614,7 @@
     {
       "title": "Decreto Dirigenziale n. 1952 del 23 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-1952-del-23-ottobre-2025",
-      "date": "2025-12-14T18:25:26.336322",
+      "date": "2025-12-15T01:25:27.800619",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -348,7 +623,7 @@
     {
       "title": "Decreto Direttoriale n. 2974 del 10 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-2974-del-10-ottobre-2025",
-      "date": "2025-12-14T18:25:26.336277",
+      "date": "2025-12-15T01:25:27.800573",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -357,7 +632,7 @@
     {
       "title": "Decreto Dirigenziale n. 73414 del 7 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-73414-del-7-novembre-2025",
-      "date": "2025-12-14T18:25:26.336232",
+      "date": "2025-12-15T01:25:27.800528",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -366,7 +641,7 @@
     {
       "title": "Decreto Dirigenziale n. 73607 del 7 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-73607-del-7-novembre-2025",
-      "date": "2025-12-14T18:25:26.336186",
+      "date": "2025-12-15T01:25:27.800483",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -375,7 +650,7 @@
     {
       "title": "Decreto Direttoriale n. 3358 del 5 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3358-del-5-novembre-2025",
-      "date": "2025-12-14T18:25:26.336141",
+      "date": "2025-12-15T01:25:27.800437",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -384,7 +659,7 @@
     {
       "title": "Decreto Dipartimentale n. 3327 del 4 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3327-del-4-novembre-2025",
-      "date": "2025-12-14T18:25:26.336093",
+      "date": "2025-12-15T01:25:27.800392",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -393,7 +668,7 @@
     {
       "title": "Decreto Dipartimentale n. 3318 del 4 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3318-del-4-novembre-2025",
-      "date": "2025-12-14T18:25:26.336049",
+      "date": "2025-12-15T01:25:27.800347",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -402,7 +677,7 @@
     {
       "title": "Decreto Direttoriale n. 3359 del 5 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3359-del-5-novembre-2025",
-      "date": "2025-12-14T18:25:26.336005",
+      "date": "2025-12-15T01:25:27.800302",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -411,7 +686,7 @@
     {
       "title": "Decreto Dipartimentale n. 3312 del 4 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3312-del-4-novembre-2025",
-      "date": "2025-12-14T18:25:26.335960",
+      "date": "2025-12-15T01:25:27.800256",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -420,7 +695,7 @@
     {
       "title": "Decreto Dipartimentale n. 3319 del 04 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3319-del-04-novembre-2025",
-      "date": "2025-12-14T18:25:26.335914",
+      "date": "2025-12-15T01:25:27.800208",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -429,7 +704,7 @@
     {
       "title": "Decreto Dipartimentale n. 3325 del 04 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3325-del-04-novembre-2025",
-      "date": "2025-12-14T18:25:26.335869",
+      "date": "2025-12-15T01:25:27.800148",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -438,7 +713,7 @@
     {
       "title": "Decreto Dipartimentale n. 3326 del 04 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3326-del-04-novembre-2025",
-      "date": "2025-12-14T18:25:26.335824",
+      "date": "2025-12-15T01:25:27.800102",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -447,7 +722,7 @@
     {
       "title": "Decreto Dipartimentale n. 64 del 7 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-64-del-7-novembre-2025",
-      "date": "2025-12-14T18:25:26.335778",
+      "date": "2025-12-15T01:25:27.800055",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -456,7 +731,7 @@
     {
       "title": "Decreto Dipartimentale n. 65 del 10 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-65-del-10-novembre-2025",
-      "date": "2025-12-14T18:25:26.335732",
+      "date": "2025-12-15T01:25:27.800005",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -465,7 +740,7 @@
     {
       "title": "Decreto Direttoriale n. 722 del 29 settembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-722-del-29-settembre-2025",
-      "date": "2025-12-14T18:25:26.335680",
+      "date": "2025-12-15T01:25:27.799952",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -474,7 +749,7 @@
     {
       "title": "Decreto Dipartimentale n. 3342 del 04 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3342-del-04-novembre-2025",
-      "date": "2025-12-14T18:25:26.335625",
+      "date": "2025-12-15T01:25:27.799903",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -483,7 +758,7 @@
     {
       "title": "Decreto Dipartimentale n. 3345 del 04 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3345-del-04-novembre-2025",
-      "date": "2025-12-14T18:25:26.335577",
+      "date": "2025-12-15T01:25:27.799857",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -492,7 +767,7 @@
     {
       "title": "Decreto Direttoriale n. 810 del 17 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-810-del-17-ottobre-2025",
-      "date": "2025-12-14T18:25:26.335527",
+      "date": "2025-12-15T01:25:27.799811",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -501,7 +776,7 @@
     {
       "title": "Decreto Dipartimentale n. 3397 del 10 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3397-del-10-novembre-2025",
-      "date": "2025-12-14T18:25:26.335467",
+      "date": "2025-12-15T01:25:27.799762",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -510,7 +785,7 @@
     {
       "title": "Decreto direttoriale n. 2897 del 7 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-2897-del-7-ottobre-2025",
-      "date": "2025-12-14T18:25:26.335423",
+      "date": "2025-12-15T01:25:27.799716",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -519,7 +794,7 @@
     {
       "title": "Decreto direttoriale n. 2584 dell'11 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-2584-dell-11-novembre-2025",
-      "date": "2025-12-14T18:25:26.335378",
+      "date": "2025-12-15T01:25:27.799670",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -528,7 +803,7 @@
     {
       "title": "Decreto Dipartimentale n. 3419 dell'11 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3419-dell-11-novembre-2025",
-      "date": "2025-12-14T18:25:26.335333",
+      "date": "2025-12-15T01:25:27.799620",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -537,7 +812,7 @@
     {
       "title": "Decreto Dipartimentale n. 3420 dell'11 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3420-dell-11-novembre-2025",
-      "date": "2025-12-14T18:25:26.335287",
+      "date": "2025-12-15T01:25:27.799574",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -546,7 +821,7 @@
     {
       "title": "Decreto Dipartimentale n. 3421 dell'11 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3421-dell-11-novembre-2025",
-      "date": "2025-12-14T18:25:26.335242",
+      "date": "2025-12-15T01:25:27.799528",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -555,7 +830,7 @@
     {
       "title": "Decreto Direttoriale n. 1583 dell'11 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1583-dell-11-novembre-2025",
-      "date": "2025-12-14T18:25:26.335197",
+      "date": "2025-12-15T01:25:27.799482",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -564,7 +839,7 @@
     {
       "title": "Decreto Direttoriale n. 151 del 12 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-151-del-12-novembre-2025",
-      "date": "2025-12-14T18:25:26.335148",
+      "date": "2025-12-15T01:25:27.799436",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -573,7 +848,7 @@
     {
       "title": "Decreto Direttoriale n. 2922 dell' 8 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-2922-dell-8-ottobre-2025",
-      "date": "2025-12-14T18:25:26.335104",
+      "date": "2025-12-15T01:25:27.799390",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -582,7 +857,7 @@
     {
       "title": "Decreto Ministeriale n. 88 del 21 maggio 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-88-del-21-maggio-2025",
-      "date": "2025-12-14T18:25:26.335057",
+      "date": "2025-12-15T01:25:27.799342",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -591,7 +866,7 @@
     {
       "title": "Decreto Ministeriale n. 106 del 29 maggio 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-106-del-29-maggio-2025",
-      "date": "2025-12-14T18:25:26.335013",
+      "date": "2025-12-15T01:25:27.799296",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -600,7 +875,7 @@
     {
       "title": "Decreto Ministeriale n. 192 del 16 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-192-del-16-ottobre-2025",
-      "date": "2025-12-14T18:25:26.334969",
+      "date": "2025-12-15T01:25:27.799250",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -609,7 +884,7 @@
     {
       "title": "Decreto Dipartimentale n. 3352 del 4 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3352-del-4-novembre-2025",
-      "date": "2025-12-14T18:25:26.334924",
+      "date": "2025-12-15T01:25:27.799203",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -618,7 +893,7 @@
     {
       "title": "Decreto Direttoriale n. 1603 del 13 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1603-del-13-novembre-2025",
-      "date": "2025-12-14T18:25:26.334879",
+      "date": "2025-12-15T01:25:27.799142",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -627,7 +902,7 @@
     {
       "title": "Decreto Direttoriale n.1606 del 13 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1606-del-13-novembre-2025",
-      "date": "2025-12-14T18:25:26.334834",
+      "date": "2025-12-15T01:25:27.799096",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -636,7 +911,7 @@
     {
       "title": "Decreto Direttoriale n.1604 del 13 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1604-del-13-novembre-2025",
-      "date": "2025-12-14T18:25:26.334788",
+      "date": "2025-12-15T01:25:27.799045",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -645,7 +920,7 @@
     {
       "title": "Decreto Direttoriale n.1605 del 13 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1605-del-13-novembre-2025",
-      "date": "2025-12-14T18:25:26.334743",
+      "date": "2025-12-15T01:25:27.798999",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -654,7 +929,7 @@
     {
       "title": "Decreto Dirigenziale n. 77317 del 13 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-77317-del-13-novembre-2025",
-      "date": "2025-12-14T18:25:26.334698",
+      "date": "2025-12-15T01:25:27.798953",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -663,7 +938,7 @@
     {
       "title": "Decreto Dirigenziale n. 77315 del 13 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-77315-del-13-novembre-2025",
-      "date": "2025-12-14T18:25:26.334651",
+      "date": "2025-12-15T01:25:27.798907",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -672,7 +947,7 @@
     {
       "title": "Decreto Dipartimentale n. 3406 del 10 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3406-del-10-novembre-2025",
-      "date": "2025-12-14T18:25:26.334602",
+      "date": "2025-12-15T01:25:27.798858",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -681,7 +956,7 @@
     {
       "title": "Decreto Dipartimentale n. 3405 del 10 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3405-del-10-novembre-2025",
-      "date": "2025-12-14T18:25:26.334547",
+      "date": "2025-12-15T01:25:27.798812",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -690,7 +965,7 @@
     {
       "title": "Decreto Dipartimentale n. 3468 del 14 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3468-del-14-novembre-2025",
-      "date": "2025-12-14T18:25:26.334496",
+      "date": "2025-12-15T01:25:27.798766",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -699,7 +974,7 @@
     {
       "title": "Decreto Dipartimentale n. 3404 del 10 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3404-del-10-novembre-2025",
-      "date": "2025-12-14T18:25:26.334436",
+      "date": "2025-12-15T01:25:27.798720",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -708,7 +983,7 @@
     {
       "title": "Decreto Dipartimentale n. 3403 del 10 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3403-del-10-novembre-2025",
-      "date": "2025-12-14T18:25:26.334390",
+      "date": "2025-12-15T01:25:27.798675",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -717,7 +992,7 @@
     {
       "title": "Decreto Dipartimentale n. 85 del 14 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-85-del-14-novembre-2025",
-      "date": "2025-12-14T18:25:26.334344",
+      "date": "2025-12-15T01:25:27.798630",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -726,7 +1001,7 @@
     {
       "title": "Decreto Dipartimentale n. 3446 del 12 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3446-del-12-novembre-2025",
-      "date": "2025-12-14T18:25:26.334297",
+      "date": "2025-12-15T01:25:27.798584",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -735,7 +1010,7 @@
     {
       "title": "Decreto Dipartimentale n. 3443 del 12 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3443-del-12-novembre-2025",
-      "date": "2025-12-14T18:25:26.334247",
+      "date": "2025-12-15T01:25:27.798538",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -744,7 +1019,7 @@
     {
       "title": "Decreto Dipartimentale n. 3442 del 12 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3442-del-12-novembre-2025",
-      "date": "2025-12-14T18:25:26.334202",
+      "date": "2025-12-15T01:25:27.798492",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -753,7 +1028,7 @@
     {
       "title": "Decreto Dirigenziale n. 77828 del 14 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-77828-del-14-novembre-2025",
-      "date": "2025-12-14T18:25:26.334156",
+      "date": "2025-12-15T01:25:27.798445",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -762,7 +1037,7 @@
     {
       "title": "Decreto Dipartimentale n. 3408 del 10 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3408-del-10-novembre-2025",
-      "date": "2025-12-14T18:25:26.334097",
+      "date": "2025-12-15T01:25:27.798385",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -771,7 +1046,7 @@
     {
       "title": "Decreto Dipartimentale n. 3410 del 10 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3410-del-10-novembre-2025",
-      "date": "2025-12-14T18:25:26.334051",
+      "date": "2025-12-15T01:25:27.798338",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -780,7 +1055,7 @@
     {
       "title": "Decreto Dipartimentale n. 93 del 19 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-93-del-19-novembre-2025",
-      "date": "2025-12-14T18:25:26.334004",
+      "date": "2025-12-15T01:25:27.798290",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -789,7 +1064,7 @@
     {
       "title": "Decreto Dipartimentale n. 3484 del 18 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3484-del-18-novembre-2025",
-      "date": "2025-12-14T18:25:26.333957",
+      "date": "2025-12-15T01:25:27.798242",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -798,7 +1073,7 @@
     {
       "title": "Decreto Dipartimentale n. 3487 del 18 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3487-del-18-novembre-2025",
-      "date": "2025-12-14T18:25:26.333913",
+      "date": "2025-12-15T01:25:27.798193",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -807,7 +1082,7 @@
     {
       "title": "Decreto Dipartimentale n. 3489 del 18 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3489-del-18-novembre-2025",
-      "date": "2025-12-14T18:25:26.333859",
+      "date": "2025-12-15T01:25:27.798134",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -816,7 +1091,7 @@
     {
       "title": "Decreto Dipartimentale n. 3488 del 18 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3488-del-18-novembre-2025",
-      "date": "2025-12-14T18:25:26.333815",
+      "date": "2025-12-15T01:25:27.798084",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -825,7 +1100,7 @@
     {
       "title": "Decreto Dipartimentale n. 3480 del 18 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3480-del-18-novembre-2025",
-      "date": "2025-12-14T18:25:26.333771",
+      "date": "2025-12-15T01:25:27.798038",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -834,7 +1109,7 @@
     {
       "title": "Decreto Direttoriale n.1657 del 20 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1657-del-20-novembre-2025",
-      "date": "2025-12-14T18:25:26.333725",
+      "date": "2025-12-15T01:25:27.797992",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -843,7 +1118,7 @@
     {
       "title": "Decreto Dipartimentale n. 91 del 14 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-91-del-14-novembre-2025",
-      "date": "2025-12-14T18:25:26.333675",
+      "date": "2025-12-15T01:25:27.797938",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -852,7 +1127,7 @@
     {
       "title": "Decreto Direttoriale n. 3303 del 3 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3303-del-3-novembre-2025",
-      "date": "2025-12-14T18:25:26.333630",
+      "date": "2025-12-15T01:25:27.797892",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -861,7 +1136,7 @@
     {
       "title": "Decreto Dipartimentale n. 94 del 19 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-94-del-19-novembre-2025",
-      "date": "2025-12-14T18:25:26.333585",
+      "date": "2025-12-15T01:25:27.797846",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -870,7 +1145,7 @@
     {
       "title": "Decreto Direttoriale n. 62 del 25 settembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-62-del-25-settembre-2025",
-      "date": "2025-12-14T18:25:26.333539",
+      "date": "2025-12-15T01:25:27.797792",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -879,7 +1154,7 @@
     {
       "title": "Decreto Direttoriale n. 71 del 31 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-71-del-31-ottobre-2025",
-      "date": "2025-12-14T18:25:26.333489",
+      "date": "2025-12-15T01:25:27.797746",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -888,7 +1163,7 @@
     {
       "title": "Decreto Direttoriale n. 157 del 19 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-157-del-19-novembre-2025",
-      "date": "2025-12-14T18:25:26.333426",
+      "date": "2025-12-15T01:25:27.797694",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -897,7 +1172,7 @@
     {
       "title": "Decreto Dipartimentale n. 61 del 20 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-61-del-20-novembre-2025",
-      "date": "2025-12-14T18:25:26.333381",
+      "date": "2025-12-15T01:25:27.797649",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -906,7 +1181,7 @@
     {
       "title": "Decreto Direttoriale n. 3514 del 20 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3514-del-20-novembre-2025",
-      "date": "2025-12-14T18:25:26.333335",
+      "date": "2025-12-15T01:25:27.797603",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -915,7 +1190,7 @@
     {
       "title": "Circolare  prot. n. 2203 del 17 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-prot-n-2203-del-17-novembre-2025",
-      "date": "2025-12-14T18:25:26.333284",
+      "date": "2025-12-15T01:25:27.797554",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -924,7 +1199,7 @@
     {
       "title": "Decreto Dipartimentale n. 63 del 03 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-63-del-03-novembre-2025",
-      "date": "2025-12-14T18:25:26.333240",
+      "date": "2025-12-15T01:25:27.797508",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -933,7 +1208,7 @@
     {
       "title": "Decreto Dipartimentale n. 91 del 14 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-91-del-14-novembre-2025-1",
-      "date": "2025-12-14T18:25:26.333195",
+      "date": "2025-12-15T01:25:27.797462",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -942,7 +1217,7 @@
     {
       "title": "Circolare n. 7515 del 24 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-n-7515-del-24-novembre-2025",
-      "date": "2025-12-14T18:25:26.333148",
+      "date": "2025-12-15T01:25:27.797414",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -951,7 +1226,7 @@
     {
       "title": "Decreto Direttoriale n. 3542 del 24 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3542-del-24-novembre-2025",
-      "date": "2025-12-14T18:25:26.333097",
+      "date": "2025-12-15T01:25:27.797360",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -960,7 +1235,7 @@
     {
       "title": "Decreto Direttoriale n. 3253 del 29 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3253-del-29-ottobre-2025",
-      "date": "2025-12-14T18:25:26.333052",
+      "date": "2025-12-15T01:25:27.797313",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -969,7 +1244,7 @@
     {
       "title": "Decreto Dipartimentale n. 3353 del 5 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3353-del-5-novembre-2025",
-      "date": "2025-12-14T18:25:26.333008",
+      "date": "2025-12-15T01:25:27.797261",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -978,7 +1253,7 @@
     {
       "title": "Circolare n. 3784 del 20 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-n-3784-del-20-novembre-2025",
-      "date": "2025-12-14T18:25:26.332964",
+      "date": "2025-12-15T01:25:27.797209",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -987,7 +1262,7 @@
     {
       "title": "Decreto Dipartimentale n. 98 del 21 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-98-del-21-novembre-2025",
-      "date": "2025-12-14T18:25:26.332920",
+      "date": "2025-12-15T01:25:27.797148",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -996,7 +1271,7 @@
     {
       "title": "Decreto Ministeriale n. 210 del 3 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-210-del-3-novembre-2025",
-      "date": "2025-12-14T18:25:26.332875",
+      "date": "2025-12-15T01:25:27.797103",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1005,7 +1280,7 @@
     {
       "title": "Decreto Dipartimentale n. 3517 del 20 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3517-del-20-novembre-2025",
-      "date": "2025-12-14T18:25:26.332830",
+      "date": "2025-12-15T01:25:27.797058",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1014,7 +1289,7 @@
     {
       "title": "Decreto Dipartimentale n. 3556 del 24 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3556-del-24-novembre-2025",
-      "date": "2025-12-14T18:25:26.332784",
+      "date": "2025-12-15T01:25:27.797012",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1023,7 +1298,7 @@
     {
       "title": "Decreto Dipartimentale n. 3549 del 24 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3549-del-24-novembre-2025",
-      "date": "2025-12-14T18:25:26.332735",
+      "date": "2025-12-15T01:25:27.796967",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1032,7 +1307,7 @@
     {
       "title": "Decreto Dipartimentale n. 3554 del 24 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3554-del-24-novembre-2025",
-      "date": "2025-12-14T18:25:26.332685",
+      "date": "2025-12-15T01:25:27.796918",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1041,7 +1316,7 @@
     {
       "title": "Decreto Dipartimentale n. 3555 del 24 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3555-del-24-novembre-2025",
-      "date": "2025-12-14T18:25:26.332639",
+      "date": "2025-12-15T01:25:27.796873",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1050,7 +1325,7 @@
     {
       "title": "Decreto Direttoriale n. 911 del 5 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-911-del-5-novembre-2025",
-      "date": "2025-12-14T18:25:26.332592",
+      "date": "2025-12-15T01:25:27.796827",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1059,7 +1334,7 @@
     {
       "title": "Decreto Direttoriale n.1692 del 25 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1692-del-25-novembre-2025",
-      "date": "2025-12-14T18:25:26.332538",
+      "date": "2025-12-15T01:25:27.796781",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1068,7 +1343,7 @@
     {
       "title": "Decreto Direttoriale n. 1722 del 27 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1722-del-27-novembre-2025",
-      "date": "2025-12-14T18:25:26.332458",
+      "date": "2025-12-15T01:25:27.796736",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1077,7 +1352,7 @@
     {
       "title": "Decreto direttoriale n. 3616 del 27 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3616-del-27-novembre-2025",
-      "date": "2025-12-14T18:25:26.332405",
+      "date": "2025-12-15T01:25:27.796683",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1086,7 +1361,7 @@
     {
       "title": "Decreto Dipartimentale n. 3561 del 25 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3561-del-25-novembre-2025",
-      "date": "2025-12-14T18:25:26.332356",
+      "date": "2025-12-15T01:25:27.796632",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1095,7 +1370,7 @@
     {
       "title": "Decreto Dipartimentale n. 3564 del 25 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3564-del-25-novembre-2025",
-      "date": "2025-12-14T18:25:26.332312",
+      "date": "2025-12-15T01:25:27.796585",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1104,7 +1379,7 @@
     {
       "title": "Decreto Dipartimentale n. 3598 del 27 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3598-del-27-novembre-2025",
-      "date": "2025-12-14T18:25:26.332267",
+      "date": "2025-12-15T01:25:27.796540",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1113,7 +1388,7 @@
     {
       "title": "Decreto Dipartimentale n. 3606 del 27 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3606-del-27-novembre-2025",
-      "date": "2025-12-14T18:25:26.332219",
+      "date": "2025-12-15T01:25:27.796492",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1122,7 +1397,7 @@
     {
       "title": "Decreto Dipartimentale n. 3602 del 27 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3602-del-27-novembre-2025",
-      "date": "2025-12-14T18:25:26.332173",
+      "date": "2025-12-15T01:25:27.796446",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1131,7 +1406,7 @@
     {
       "title": "Decreto Dipartimentale n. 3601 del 27 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3601-del-27-novembre-2025",
-      "date": "2025-12-14T18:25:26.332128",
+      "date": "2025-12-15T01:25:27.796399",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1140,7 +1415,7 @@
     {
       "title": "Decreto Dipartimentale n. 3608 del 27 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3608-del-27-novembre-2025",
-      "date": "2025-12-14T18:25:26.332083",
+      "date": "2025-12-15T01:25:27.796353",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1149,7 +1424,7 @@
     {
       "title": "Decreto direttoriale n. 3387 del  7 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3387-del-7-novembre-2025",
-      "date": "2025-12-14T18:25:26.332034",
+      "date": "2025-12-15T01:25:27.796307",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1158,7 +1433,7 @@
     {
       "title": "Decreto Direttoriale n. 3589 del 26 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3589-del-26-novembre-2025",
-      "date": "2025-12-14T18:25:26.331987",
+      "date": "2025-12-15T01:25:27.796258",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1167,7 +1442,7 @@
     {
       "title": "Decreto dipartimentale n. 3627 del 1° dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3627-del-1-dicembre-2025",
-      "date": "2025-12-14T18:25:26.331941",
+      "date": "2025-12-15T01:25:27.796203",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1176,7 +1451,7 @@
     {
       "title": "Decreto dipartimentale n. 3628 del 1° dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3628-del-1-dicembre-2025",
-      "date": "2025-12-14T18:25:26.331896",
+      "date": "2025-12-15T01:25:27.796144",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1185,7 +1460,7 @@
     {
       "title": "Decreto Ministeriale n. 221 del 14 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-221-del-14-novembre-2025",
-      "date": "2025-12-14T18:25:26.331850",
+      "date": "2025-12-15T01:25:27.796098",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1194,7 +1469,7 @@
     {
       "title": "Decreto Direttoriale n. 3587 del 26 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3587-del-26-novembre-2025",
-      "date": "2025-12-14T18:25:26.331804",
+      "date": "2025-12-15T01:25:27.796052",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1203,7 +1478,7 @@
     {
       "title": "Decreto Direttoriale n.1780 del 03 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1780-del-03-dicembre-2025",
-      "date": "2025-12-14T18:25:26.331758",
+      "date": "2025-12-15T01:25:27.796006",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1212,7 +1487,7 @@
     {
       "title": "Decreto Direttoriale n. 3457 del 13 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3457-del-13-novembre-2025",
-      "date": "2025-12-14T18:25:26.331713",
+      "date": "2025-12-15T01:25:27.795960",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1221,7 +1496,7 @@
     {
       "title": "Decreto Direttoriale n. 2878 del 3 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-2878-del-3-ottobre-2025",
-      "date": "2025-12-14T18:25:26.331664",
+      "date": "2025-12-15T01:25:27.795912",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1230,7 +1505,7 @@
     {
       "title": "Decreto Direttoriale n. 3374 del 06 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3374-del-06-novembre-2025",
-      "date": "2025-12-14T18:25:26.331618",
+      "date": "2025-12-15T01:25:27.795866",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1239,7 +1514,7 @@
     {
       "title": "Decreto Dipartimentale n. 99 del 3 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-99-del-3-dicembre-2025",
-      "date": "2025-12-14T18:25:26.331572",
+      "date": "2025-12-15T01:25:27.795821",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1248,7 +1523,7 @@
     {
       "title": "Decreto Dipartimentale n. 3629 del 2 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3629-del-2-dicembre-2025",
-      "date": "2025-12-14T18:25:26.331517",
+      "date": "2025-12-15T01:25:27.795769",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1257,7 +1532,7 @@
     {
       "title": "Decreto Ministeriale n. 201 del 31 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-201-del-31-ottobre-2025",
-      "date": "2025-12-14T18:25:26.331455",
+      "date": "2025-12-15T01:25:27.795725",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1266,7 +1541,7 @@
     {
       "title": "Decreto Dipartimentale n. 3661 del 3 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3661-del-3-dicembre-2025",
-      "date": "2025-12-14T18:25:26.331403",
+      "date": "2025-12-15T01:25:27.795679",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1275,7 +1550,7 @@
     {
       "title": "Decreto Dipartimentale n. 3663 del 3 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3663-del-3-dicembre-2025",
-      "date": "2025-12-14T18:25:26.331358",
+      "date": "2025-12-15T01:25:27.795634",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1284,7 +1559,7 @@
     {
       "title": "Decreto Dipartimentale n. 3665 del 3 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3665-del-3-dicembre-2025",
-      "date": "2025-12-14T18:25:26.331313",
+      "date": "2025-12-15T01:25:27.795588",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1293,7 +1568,7 @@
     {
       "title": "Decreto Dipartimentale n. 3664 del 3 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3664-del-3-dicembre-2025",
-      "date": "2025-12-14T18:25:26.331269",
+      "date": "2025-12-15T01:25:27.795529",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1302,7 +1577,7 @@
     {
       "title": "Decreto Dipartimentale n. 3666 del 3 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3666-del-3-dicembre-2025",
-      "date": "2025-12-14T18:25:26.331224",
+      "date": "2025-12-15T01:25:27.795483",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1311,7 +1586,7 @@
     {
       "title": "Decreto Direttoriale n. 3535 del 21 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3535-del-21-novembre-2025",
-      "date": "2025-12-14T18:25:26.331179",
+      "date": "2025-12-15T01:25:27.795437",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1320,7 +1595,7 @@
     {
       "title": "Decreto Direttoriale n. 3534 del 21 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3534-del-21-novembre-2025",
-      "date": "2025-12-14T18:25:26.331132",
+      "date": "2025-12-15T01:25:27.795390",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1329,7 +1604,7 @@
     {
       "title": "Decreto Direttoriale n. 3586 del 26 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3586-del-26-novembre-2025",
-      "date": "2025-12-14T18:25:26.331086",
+      "date": "2025-12-15T01:25:27.795342",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1338,7 +1613,7 @@
     {
       "title": "Decreto Direttoriale n. 67 del 23 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-67-del-23-ottobre-2025",
-      "date": "2025-12-14T18:25:26.331038",
+      "date": "2025-12-15T01:25:27.795289",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1347,7 +1622,7 @@
     {
       "title": "Decreto Direttoriale n. 1093 del 5 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1093-del-5-dicembre-2025",
-      "date": "2025-12-14T18:25:26.330987",
+      "date": "2025-12-15T01:25:27.795238",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1356,7 +1631,7 @@
     {
       "title": "Decreto Direttoriale n.1832 del 5 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1832-del-5-dicembre-2025",
-      "date": "2025-12-14T18:25:26.330939",
+      "date": "2025-12-15T01:25:27.795186",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1365,7 +1640,7 @@
     {
       "title": "Decreto Direttoriale n. 3695 del 5 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3695-del-5-dicembre-2025",
-      "date": "2025-12-14T18:25:26.330894",
+      "date": "2025-12-15T01:25:27.795127",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1374,7 +1649,7 @@
     {
       "title": "Decreto Direttoriale n. 3708 del 5 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3708-del-5-dicembre-2025",
-      "date": "2025-12-14T18:25:26.330849",
+      "date": "2025-12-15T01:25:27.795080",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1383,7 +1658,7 @@
     {
       "title": "Decreto Dipartimentale n. 3706 del 5 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3706-del-5-dicembre-2025",
-      "date": "2025-12-14T18:25:26.330800",
+      "date": "2025-12-15T01:25:27.795030",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1392,7 +1667,7 @@
     {
       "title": "Decreto Ministeriale n. 238 del 28 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-238-del-28-novembre-2025",
-      "date": "2025-12-14T18:25:26.330752",
+      "date": "2025-12-15T01:25:27.794980",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1401,7 +1676,7 @@
     {
       "title": "Decreto Direttoriale n. 3620 del 29 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3620-del-29-novembre-2025",
-      "date": "2025-12-14T18:25:26.330704",
+      "date": "2025-12-15T01:25:27.794932",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1410,7 +1685,7 @@
     {
       "title": "Decreto Dirigenziale n. 56171 del 10 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-56171-del-10-novembre-2025",
-      "date": "2025-12-14T18:25:26.330655",
+      "date": "2025-12-15T01:25:27.794882",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1419,7 +1694,7 @@
     {
       "title": "Decreto Dirigenziale n. 55584 del 31 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-55584-del-31-ottobre-2025",
-      "date": "2025-12-14T18:25:26.330608",
+      "date": "2025-12-15T01:25:27.794836",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1428,7 +1703,7 @@
     {
       "title": "Decreto Dirigenziale n. 56404 del 13 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-56404-del-13-novembre-2025",
-      "date": "2025-12-14T18:25:26.330559",
+      "date": "2025-12-15T01:25:27.794791",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1437,7 +1712,7 @@
     {
       "title": "Decreto Dirigenziale n. 55986 del 6 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-55986-del-6-novembre-2025",
-      "date": "2025-12-14T18:25:26.330505",
+      "date": "2025-12-15T01:25:27.794745",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1446,7 +1721,7 @@
     {
       "title": "Decreto Direttoriale n. 1788 del 3 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1788-del-3-dicembre-2025",
-      "date": "2025-12-14T18:25:26.330447",
+      "date": "2025-12-15T01:25:27.794695",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1455,7 +1730,7 @@
     {
       "title": "Decreto Direttoriale n. 1854 del 10 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1854-del-10-dicembre-2025",
-      "date": "2025-12-14T18:25:26.330402",
+      "date": "2025-12-15T01:25:27.794650",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1464,7 +1739,7 @@
     {
       "title": "Decreto Dirigenziale n. 55990 del 06 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-55990-del-06-novembre-2025",
-      "date": "2025-12-14T18:25:26.330357",
+      "date": "2025-12-15T01:25:27.794604",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1473,7 +1748,7 @@
     {
       "title": "Decreto Dirigenziale n. 56284 dell'11 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-56284-del-11-novembre-2025",
-      "date": "2025-12-14T18:25:26.330310",
+      "date": "2025-12-15T01:25:27.794558",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1482,7 +1757,7 @@
     {
       "title": "Decreto Dirigenziale n. 56164 del 10 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-56164-del-10-novembre-2025",
-      "date": "2025-12-14T18:25:26.330265",
+      "date": "2025-12-15T01:25:27.794512",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1491,7 +1766,7 @@
     {
       "title": "Decreto Dipartimentale n. 3717 del 10 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3717-del-10-dicembre-2025",
-      "date": "2025-12-14T18:25:26.330219",
+      "date": "2025-12-15T01:25:27.794457",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1500,7 +1775,7 @@
     {
       "title": "Decreto Dipartimentale n. 3702 del 5 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3702-del-5-dicembre-2025",
-      "date": "2025-12-14T18:25:26.330174",
+      "date": "2025-12-15T01:25:27.794411",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1509,7 +1784,7 @@
     {
       "title": "Decreto Dipartimentale n. 3700 del 5 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3700-del-5-dicembre-2025",
-      "date": "2025-12-14T18:25:26.330129",
+      "date": "2025-12-15T01:25:27.794364",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1518,7 +1793,7 @@
     {
       "title": "Decreto Dipartimentale n. 3699 del 5 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3699-del-5-dicembre-2025",
-      "date": "2025-12-14T18:25:26.330083",
+      "date": "2025-12-15T01:25:27.794312",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1527,7 +1802,7 @@
     {
       "title": "Decreto Dipartimentale n. 456 del 7 marzo 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-456-del-7-marzo-2025",
-      "date": "2025-12-14T18:25:26.330038",
+      "date": "2025-12-15T01:25:27.794265",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1536,7 +1811,7 @@
     {
       "title": "Decreto Dipartimentale n. 2352 dell' 8 agosto 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2352-dell-8-agosto-2025",
-      "date": "2025-12-14T18:25:26.329992",
+      "date": "2025-12-15T01:25:27.794217",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1545,7 +1820,7 @@
     {
       "title": "Decreto Dipartimentale n. 2067 del 28 luglio 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2067-del-28-luglio-2025",
-      "date": "2025-12-14T18:25:26.329948",
+      "date": "2025-12-15T01:25:27.794154",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1554,7 +1829,7 @@
     {
       "title": "Decreto Dipartimentale n. 2143 del 30 luglio 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2143-del-30-luglio-2025",
-      "date": "2025-12-14T18:25:26.329902",
+      "date": "2025-12-15T01:25:27.794109",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1563,7 +1838,7 @@
     {
       "title": "Decreto Dipartimentale n. 2309 del 7 agosto 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2309-del-7-agosto-2025",
-      "date": "2025-12-14T18:25:26.329857",
+      "date": "2025-12-15T01:25:27.794064",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1572,7 +1847,7 @@
     {
       "title": "Decreto Direttoriale n. 1875 dell'11 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1875-dell-11-dicembre-2025",
-      "date": "2025-12-14T18:25:26.329808",
+      "date": "2025-12-15T01:25:27.794015",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1581,7 +1856,7 @@
     {
       "title": "Decreto Direttoriale n. 1874 dell'11 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1874-dell-11-dicembre-2025",
-      "date": "2025-12-14T18:25:26.329762",
+      "date": "2025-12-15T01:25:27.793969",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1590,7 +1865,7 @@
     {
       "title": "Decreto Direttoriale n. 1876 dell'11 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1876-del-11-dicembre-2025",
-      "date": "2025-12-14T18:25:26.329716",
+      "date": "2025-12-15T01:25:27.793923",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1599,7 +1874,7 @@
     {
       "title": "Decreto Direttoriale n. 3622 del 1 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3622-del-1-dicembre-2025",
-      "date": "2025-12-14T18:25:26.329670",
+      "date": "2025-12-15T01:25:27.793876",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1608,7 +1883,7 @@
     {
       "title": "Decreto Direttoriale n. 3623 del 1 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3623-del-1-dicembre-2025",
-      "date": "2025-12-14T18:25:26.329619",
+      "date": "2025-12-15T01:25:27.793827",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1617,7 +1892,7 @@
     {
       "title": "Decreto Ministeriale n. 218 dell'11 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-218-dell-11-novembre-2025",
-      "date": "2025-12-14T18:25:26.329567",
+      "date": "2025-12-15T01:25:27.793780",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1626,7 +1901,7 @@
     {
       "title": "Decreto Dipartimentale n. 3732 del 10 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3732-del-10-dicembre-2025",
-      "date": "2025-12-14T18:25:26.329518",
+      "date": "2025-12-15T01:25:27.793733",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1635,7 +1910,7 @@
     {
       "title": "Decreto Dipartimentale n. 2429 del 21 agosto 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2429-del-21-agosto-2025",
-      "date": "2025-12-14T18:25:26.329456",
+      "date": "2025-12-15T01:25:27.793687",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1644,7 +1919,7 @@
     {
       "title": "Decreto Dipartimentale n. 2488 del 2 settembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2488-del-2-settembre-2025",
-      "date": "2025-12-14T18:25:26.329411",
+      "date": "2025-12-15T01:25:27.793637",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1653,7 +1928,7 @@
     {
       "title": "Decreto Dipartimentale n. 2528 del 9 settembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2528-del-9-settembre-2025",
-      "date": "2025-12-14T18:25:26.329366",
+      "date": "2025-12-15T01:25:27.793590",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1662,7 +1937,7 @@
     {
       "title": "Decreto Dipartimentale n. 2537 del 9 settembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2537-del-9-settembre-2025",
-      "date": "2025-12-14T18:25:26.329314",
+      "date": "2025-12-15T01:25:27.793540",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1671,7 +1946,7 @@
     {
       "title": "Decreto Dipartimentale n. 2804 del 25 settembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2804-del-25-settembre-2025",
-      "date": "2025-12-14T18:25:26.329268",
+      "date": "2025-12-15T01:25:27.793487",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1680,7 +1955,7 @@
     {
       "title": "Decreto Dipartimentale n. 2942 del 9 ottobre  2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2942-del-9-ottobre-2025",
-      "date": "2025-12-14T18:25:26.329222",
+      "date": "2025-12-15T01:25:27.793440",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1689,7 +1964,7 @@
     {
       "title": "Decreto Dipartimentale n. 2837 del 29 settembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2837-del-29-settembre-2025",
-      "date": "2025-12-14T18:25:26.329176",
+      "date": "2025-12-15T01:25:27.793393",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1698,7 +1973,7 @@
     {
       "title": "Decreto Dipartimentale n. 2943 del 9 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2943-del-9-ottobre-2025",
-      "date": "2025-12-14T18:25:26.329130",
+      "date": "2025-12-15T01:25:27.793346",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1707,7 +1982,7 @@
     {
       "title": "Decreto Ministeriale n. 211 del 3 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-211-del-3-novembre-2025",
-      "date": "2025-12-14T18:25:26.329083",
+      "date": "2025-12-15T01:25:27.793299",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1716,7 +1991,7 @@
     {
       "title": "RSS(Apre una nuova finestra)(Apre una nuova finestra)",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_OXOyq2TZX0Cz&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=getRSS&p_p_cacheability=cacheLevelPage",
-      "date": "2025-12-14T18:25:26.329040",
+      "date": "2025-12-15T01:25:27.793256",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1725,7 +2000,7 @@
     {
       "title": "Atti e Normativa",
       "url": "https://www.mim.gov.it/web/guest/normativa",
-      "date": "2025-12-14T18:25:26.328999",
+      "date": "2025-12-15T01:25:27.793211",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1734,7 +2009,7 @@
     {
       "title": "riforma 4+2",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=8558254",
-      "date": "2025-12-14T18:25:26.328728",
+      "date": "2025-12-15T01:25:27.792916",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1743,7 +2018,7 @@
     {
       "title": "Studenti, diritto allo studio e residenze",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38273",
-      "date": "2025-12-14T18:25:26.328695",
+      "date": "2025-12-15T01:25:27.792881",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1752,7 +2027,7 @@
     {
       "title": "Promozione all'estero",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=117772",
-      "date": "2025-12-14T18:25:26.328661",
+      "date": "2025-12-15T01:25:27.792847",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1761,7 +2036,7 @@
     {
       "title": "Programmazione Triennale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=230898",
-      "date": "2025-12-14T18:25:26.328627",
+      "date": "2025-12-15T01:25:27.792813",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1770,7 +2045,7 @@
     {
       "title": "Finanziamenti",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=240829",
-      "date": "2025-12-14T18:25:26.328591",
+      "date": "2025-12-15T01:25:27.792778",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1779,7 +2054,7 @@
     {
       "title": "Facoltà assunzionali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=240828",
-      "date": "2025-12-14T18:25:26.328550",
+      "date": "2025-12-15T01:25:27.792743",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1788,7 +2063,7 @@
     {
       "title": "Dipartimenti di eccellenza",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=241425",
-      "date": "2025-12-14T18:25:26.328469",
+      "date": "2025-12-15T01:25:27.792705",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1797,7 +2072,7 @@
     {
       "title": "Programmazione e finanziamenti",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38266",
-      "date": "2025-12-14T18:25:26.328426",
+      "date": "2025-12-15T01:25:27.792661",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1806,7 +2081,7 @@
     {
       "title": "Professioni",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=124664",
-      "date": "2025-12-14T18:25:26.328394",
+      "date": "2025-12-15T01:25:27.792628",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1815,7 +2090,7 @@
     {
       "title": "Politiche internazionali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=117829",
-      "date": "2025-12-14T18:25:26.328362",
+      "date": "2025-12-15T01:25:27.792595",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1824,7 +2099,7 @@
     {
       "title": "Politiche europee",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=117803",
-      "date": "2025-12-14T18:25:26.328329",
+      "date": "2025-12-15T01:25:27.792561",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1833,7 +2108,7 @@
     {
       "title": "Offerta Formativa",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38257",
-      "date": "2025-12-14T18:25:26.328297",
+      "date": "2025-12-15T01:25:27.792524",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1842,7 +2117,7 @@
     {
       "title": "Mobilità internazionale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=124463",
-      "date": "2025-12-14T18:25:26.328263",
+      "date": "2025-12-15T01:25:27.792488",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1851,7 +2126,7 @@
     {
       "title": "Il sistema universitario",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38272",
-      "date": "2025-12-14T18:25:26.328230",
+      "date": "2025-12-15T01:25:27.792454",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1860,7 +2135,7 @@
     {
       "title": "Istituti di specializzazione in psicoterapia",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=438714",
-      "date": "2025-12-14T18:25:26.328196",
+      "date": "2025-12-15T01:25:27.792420",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1869,7 +2144,7 @@
     {
       "title": "Equipollenze ed equiparazioni",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=124469",
-      "date": "2025-12-14T18:25:26.328159",
+      "date": "2025-12-15T01:25:27.792378",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1878,7 +2153,7 @@
     {
       "title": "Cooperazione bilaterale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=124454",
-      "date": "2025-12-14T18:25:26.328127",
+      "date": "2025-12-15T01:25:27.792345",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1887,7 +2162,7 @@
     {
       "title": "Chiamate dirette",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=506496",
-      "date": "2025-12-14T18:25:26.328093",
+      "date": "2025-12-15T01:25:27.792307",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1896,7 +2171,7 @@
     {
       "title": "Abilitazione Scientifica Nazionale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=1115063",
-      "date": "2025-12-14T18:25:26.328060",
+      "date": "2025-12-15T01:25:27.792269",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1905,7 +2180,7 @@
     {
       "title": "Carriera accademica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=87782",
-      "date": "2025-12-14T18:25:26.328022",
+      "date": "2025-12-15T01:25:27.792229",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1914,7 +2189,7 @@
     {
       "title": "Anagrafica studenti e rilevazioni università",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=347113",
-      "date": "2025-12-14T18:25:26.327988",
+      "date": "2025-12-15T01:25:27.792189",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1923,7 +2198,7 @@
     {
       "title": "Accesso programmato",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=117708",
-      "date": "2025-12-14T18:25:26.327954",
+      "date": "2025-12-15T01:25:27.792134",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1932,7 +2207,7 @@
     {
       "title": "Università",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20655",
-      "date": "2025-12-14T18:25:26.327864",
+      "date": "2025-12-15T01:25:27.792045",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1941,7 +2216,7 @@
     {
       "title": "Sistema IFTS",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=141196",
-      "date": "2025-12-14T18:25:26.327824",
+      "date": "2025-12-15T01:25:27.792008",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1950,7 +2225,7 @@
     {
       "title": "Scuole di Alta Tecnologia",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=91388",
-      "date": "2025-12-14T18:25:26.327784",
+      "date": "2025-12-15T01:25:27.791968",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1959,7 +2234,7 @@
     {
       "title": "Welfare dello studente e politiche giovanili",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20667",
-      "date": "2025-12-14T18:25:26.327749",
+      "date": "2025-12-15T01:25:27.791935",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1968,7 +2243,7 @@
     {
       "title": "Sostegno alla Disabilità",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20674",
-      "date": "2025-12-14T18:25:26.327709",
+      "date": "2025-12-15T01:25:27.791901",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1977,7 +2252,7 @@
     {
       "title": "Sistema, istituzioni e attori",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=297326",
-      "date": "2025-12-14T18:25:26.327675",
+      "date": "2025-12-15T01:25:27.791867",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1986,7 +2261,7 @@
     {
       "title": "Sistema nazionale di valutazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20671",
-      "date": "2025-12-14T18:25:26.327641",
+      "date": "2025-12-15T01:25:27.791833",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1995,7 +2270,7 @@
     {
       "title": "Scuola non statale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20631",
-      "date": "2025-12-14T18:25:26.327605",
+      "date": "2025-12-15T01:25:27.791798",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2004,7 +2279,7 @@
     {
       "title": "Scuola e Lavoro",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20632",
-      "date": "2025-12-14T18:25:26.327570",
+      "date": "2025-12-15T01:25:27.791764",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2013,7 +2288,7 @@
     {
       "title": "Riconoscimento titoli esteri",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20652",
-      "date": "2025-12-14T18:25:26.327526",
+      "date": "2025-12-15T01:25:27.791730",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2022,7 +2297,7 @@
     {
       "title": "Immissioni in ruolo",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=3549279",
-      "date": "2025-12-14T18:25:26.327457",
+      "date": "2025-12-15T01:25:27.791697",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2031,7 +2306,7 @@
     {
       "title": "Reclutamento e servizio del personale scolastico",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20645",
-      "date": "2025-12-14T18:25:26.327420",
+      "date": "2025-12-15T01:25:27.791659",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2040,7 +2315,7 @@
     {
       "title": "Progressione area funzionari ed elevata qualificazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=8465008",
-      "date": "2025-12-14T18:25:26.327387",
+      "date": "2025-12-15T01:25:27.791622",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2049,7 +2324,7 @@
     {
       "title": "Scuole associate all'UNESCO",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=3423225",
-      "date": "2025-12-14T18:25:26.327354",
+      "date": "2025-12-15T01:25:27.791589",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2058,7 +2333,7 @@
     {
       "title": "Progetti e iniziative internazionali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=2250721",
-      "date": "2025-12-14T18:25:26.327318",
+      "date": "2025-12-15T01:25:27.791553",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2067,7 +2342,7 @@
     {
       "title": "Politiche Sportive Scolastiche",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20680",
-      "date": "2025-12-14T18:25:26.327284",
+      "date": "2025-12-15T01:25:27.791519",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2076,7 +2351,7 @@
     {
       "title": "Percorsi di Studio e Formazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20599",
-      "date": "2025-12-14T18:25:26.327250",
+      "date": "2025-12-15T01:25:27.791484",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2085,7 +2360,7 @@
     {
       "title": "Partecipazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20665",
-      "date": "2025-12-14T18:25:26.327217",
+      "date": "2025-12-15T01:25:27.791449",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2094,7 +2369,7 @@
     {
       "title": "Orientamento e dispersione scolastica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20653",
-      "date": "2025-12-14T18:25:26.327182",
+      "date": "2025-12-15T01:25:27.791416",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2103,7 +2378,7 @@
     {
       "title": "Organici, mobilità e contratti",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20634",
-      "date": "2025-12-14T18:25:26.327148",
+      "date": "2025-12-15T01:25:27.791382",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2112,7 +2387,7 @@
     {
       "title": "Olimpiadi di Italiano",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=373213",
-      "date": "2025-12-14T18:25:26.327113",
+      "date": "2025-12-15T01:25:27.791348",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2121,7 +2396,7 @@
     {
       "title": "Olimpiadi e Competizioni",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20614",
-      "date": "2025-12-14T18:25:26.327074",
+      "date": "2025-12-15T01:25:27.791310",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2130,7 +2405,7 @@
     {
       "title": "Cittadinanza e Costituzione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=373214",
-      "date": "2025-12-14T18:25:26.327032",
+      "date": "2025-12-15T01:25:27.791271",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2139,7 +2414,7 @@
     {
       "title": "Articolo 9 della Costituzione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=373212",
-      "date": "2025-12-14T18:25:26.326985",
+      "date": "2025-12-15T01:25:27.791233",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2148,7 +2423,7 @@
     {
       "title": "Offerta didattica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20592",
-      "date": "2025-12-14T18:25:26.326942",
+      "date": "2025-12-15T01:25:27.791187",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2157,7 +2432,7 @@
     {
       "title": "Lingue di minoranza",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38253",
-      "date": "2025-12-14T18:25:26.326901",
+      "date": "2025-12-15T01:25:27.791134",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2166,7 +2441,7 @@
     {
       "title": "Istruzione degli Adulti",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20648",
-      "date": "2025-12-14T18:25:26.326866",
+      "date": "2025-12-15T01:25:27.791100",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2175,7 +2450,7 @@
     {
       "title": "Iscrizioni",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20602",
-      "date": "2025-12-14T18:25:26.326833",
+      "date": "2025-12-15T01:25:27.791066",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2184,7 +2459,7 @@
     {
       "title": "Internazionalizzazione del sistema di istruzione e formazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20585",
-      "date": "2025-12-14T18:25:26.326792",
+      "date": "2025-12-15T01:25:27.791025",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2193,7 +2468,7 @@
     {
       "title": "Intercultura",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20683",
-      "date": "2025-12-14T18:25:26.326758",
+      "date": "2025-12-15T01:25:27.790992",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2202,7 +2477,7 @@
     {
       "title": "Semplificazione amministrativa",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=8969240",
-      "date": "2025-12-14T18:25:26.326724",
+      "date": "2025-12-15T01:25:27.790958",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2211,7 +2486,7 @@
     {
       "title": "Innovazione Digitale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20661",
-      "date": "2025-12-14T18:25:26.326685",
+      "date": "2025-12-15T01:25:27.790920",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2220,7 +2495,7 @@
     {
       "title": "Iniziative Esterne",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=482816",
-      "date": "2025-12-14T18:25:26.326651",
+      "date": "2025-12-15T01:25:27.790883",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2229,7 +2504,7 @@
     {
       "title": "Inclusione e integrazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=1885364",
-      "date": "2025-12-14T18:25:26.326612",
+      "date": "2025-12-15T01:25:27.790849",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2238,7 +2513,7 @@
     {
       "title": "Il sistema di istruzione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=1775364",
-      "date": "2025-12-14T18:25:26.326577",
+      "date": "2025-12-15T01:25:27.790814",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2247,7 +2522,7 @@
     {
       "title": "Graduatoria nazionale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=2611766",
-      "date": "2025-12-14T18:25:26.326543",
+      "date": "2025-12-15T01:25:27.790780",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2256,7 +2531,7 @@
     {
       "title": "Formazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20615",
-      "date": "2025-12-14T18:25:26.326507",
+      "date": "2025-12-15T01:25:27.790746",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2265,7 +2540,7 @@
     {
       "title": "Fondi Strutturali Europei",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20639",
-      "date": "2025-12-14T18:25:26.326459",
+      "date": "2025-12-15T01:25:27.790713",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2274,7 +2549,7 @@
     {
       "title": "Esami di abilitazione albi professionali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=458848",
-      "date": "2025-12-14T18:25:26.326424",
+      "date": "2025-12-15T01:25:27.790678",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2283,7 +2558,7 @@
     {
       "title": "Esami di Stato e abilitazione albi professionali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20642",
-      "date": "2025-12-14T18:25:26.326384",
+      "date": "2025-12-15T01:25:27.790640",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2292,7 +2567,7 @@
     {
       "title": "Edilizia Scolastica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20603",
-      "date": "2025-12-14T18:25:26.326349",
+      "date": "2025-12-15T01:25:27.790606",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2301,7 +2576,7 @@
     {
       "title": "Dispersione Scolastica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38244",
-      "date": "2025-12-14T18:25:26.326316",
+      "date": "2025-12-15T01:25:27.790572",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2310,7 +2585,7 @@
     {
       "title": "Confronto e Partecipazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=100823",
-      "date": "2025-12-14T18:25:26.326281",
+      "date": "2025-12-15T01:25:27.790538",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2319,7 +2594,7 @@
     {
       "title": "Concorso Docenti 2018",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=766152",
-      "date": "2025-12-14T18:25:26.326244",
+      "date": "2025-12-15T01:25:27.790503",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2328,7 +2603,7 @@
     {
       "title": "Concorso DSGA",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=2282455",
-      "date": "2025-12-14T18:25:26.326210",
+      "date": "2025-12-15T01:25:27.790470",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2337,7 +2612,7 @@
     {
       "title": "Competizioni e iniziative per le eccellenze",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20609",
-      "date": "2025-12-14T18:25:26.326171",
+      "date": "2025-12-15T01:25:27.790435",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2346,7 +2621,7 @@
     {
       "title": "Anno Scolastico in Corso",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20649",
-      "date": "2025-12-14T18:25:26.326137",
+      "date": "2025-12-15T01:25:27.790401",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2355,7 +2630,7 @@
     {
       "title": "Anagrafe studenti e rilevazioni sulle scuole",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=314071",
-      "date": "2025-12-14T18:25:26.326103",
+      "date": "2025-12-15T01:25:27.790366",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2364,7 +2639,7 @@
     {
       "title": "Valutazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38275",
-      "date": "2025-12-14T18:25:26.326069",
+      "date": "2025-12-15T01:25:27.790329",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2373,7 +2648,7 @@
     {
       "title": "Sistema della ricerca",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38271",
-      "date": "2025-12-14T18:25:26.326036",
+      "date": "2025-12-15T01:25:27.790290",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2382,7 +2657,7 @@
     {
       "title": "Ricerca di base",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=374860",
-      "date": "2025-12-14T18:25:26.326003",
+      "date": "2025-12-15T01:25:27.790255",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2391,7 +2666,7 @@
     {
       "title": "Ricerca Internazionale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20662",
-      "date": "2025-12-14T18:25:26.325969",
+      "date": "2025-12-15T01:25:27.790220",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2400,7 +2675,7 @@
     {
       "title": "Programmi di Finanziamento",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20611",
-      "date": "2025-12-14T18:25:26.325935",
+      "date": "2025-12-15T01:25:27.790181",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2409,7 +2684,7 @@
     {
       "title": "Programmazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20617",
-      "date": "2025-12-14T18:25:26.325902",
+      "date": "2025-12-15T01:25:27.790132",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2418,7 +2693,7 @@
     {
       "title": "Settimana della scienza",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=717805",
-      "date": "2025-12-14T18:25:26.325868",
+      "date": "2025-12-15T01:25:27.790095",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2427,7 +2702,7 @@
     {
       "title": "Diffusione della cultura scientifica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=520599",
-      "date": "2025-12-14T18:25:26.325834",
+      "date": "2025-12-15T01:25:27.790061",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2436,7 +2711,7 @@
     {
       "title": "Iniziative speciali e grandi ricerche",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20657",
-      "date": "2025-12-14T18:25:26.325792",
+      "date": "2025-12-15T01:25:27.790020",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2445,7 +2720,7 @@
     {
       "title": "Protocolli d'Intesa",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=1891444",
-      "date": "2025-12-14T18:25:26.325756",
+      "date": "2025-12-15T01:25:27.789985",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2454,7 +2729,7 @@
     {
       "title": "Personale scuola all'estero",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=1929226",
-      "date": "2025-12-14T18:25:26.325722",
+      "date": "2025-12-15T01:25:27.789950",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2463,7 +2738,7 @@
     {
       "title": "Biblioteca",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=535754",
-      "date": "2025-12-14T18:25:26.325689",
+      "date": "2025-12-15T01:25:27.789916",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2472,7 +2747,7 @@
     {
       "title": "Accesso professione docente",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=1929225",
-      "date": "2025-12-14T18:25:26.325654",
+      "date": "2025-12-15T01:25:27.789882",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2481,7 +2756,7 @@
     {
       "title": "Studenti, diritto allo studio e residenze",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=230930",
-      "date": "2025-12-14T18:25:26.325615",
+      "date": "2025-12-15T01:25:27.789846",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2490,7 +2765,7 @@
     {
       "title": "Rilevazioni sulle istituzioni AFAM",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=348236",
-      "date": "2025-12-14T18:25:26.325574",
+      "date": "2025-12-15T01:25:27.789811",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2499,7 +2774,7 @@
     {
       "title": "Promozione all'estero",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=231056",
-      "date": "2025-12-14T18:25:26.325534",
+      "date": "2025-12-15T01:25:27.789774",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2508,7 +2783,7 @@
     {
       "title": "Finanziamenti AFAM",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=232356",
-      "date": "2025-12-14T18:25:26.325496",
+      "date": "2025-12-15T01:25:27.789741",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2517,7 +2792,7 @@
     {
       "title": "Programmazione e finanziamenti AFAM",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=112453",
-      "date": "2025-12-14T18:25:26.325445",
+      "date": "2025-12-15T01:25:27.789704",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2526,7 +2801,7 @@
     {
       "title": "Professioni",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=231246",
-      "date": "2025-12-14T18:25:26.325411",
+      "date": "2025-12-15T01:25:27.789670",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2535,7 +2810,7 @@
     {
       "title": "Produzione artistica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=89888",
-      "date": "2025-12-14T18:25:26.325374",
+      "date": "2025-12-15T01:25:27.789637",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2544,7 +2819,7 @@
     {
       "title": "Politiche internazionali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=90853",
-      "date": "2025-12-14T18:25:26.325341",
+      "date": "2025-12-15T01:25:27.789603",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2553,7 +2828,7 @@
     {
       "title": "Politiche europee",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=231133",
-      "date": "2025-12-14T18:25:26.325307",
+      "date": "2025-12-15T01:25:27.789570",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2562,7 +2837,7 @@
     {
       "title": "Personale Afam",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=231025",
-      "date": "2025-12-14T18:25:26.325274",
+      "date": "2025-12-15T01:25:27.789536",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2571,7 +2846,7 @@
     {
       "title": "Conservatorio della Musica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403069",
-      "date": "2025-12-14T18:25:26.325236",
+      "date": "2025-12-15T01:25:27.789495",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2580,7 +2855,7 @@
     {
       "title": "Accademia Nazionale di Danza",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403068",
-      "date": "2025-12-14T18:25:26.325203",
+      "date": "2025-12-15T01:25:27.789461",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2589,7 +2864,7 @@
     {
       "title": "Accademia Nazionale di Arte Drammatica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403067",
-      "date": "2025-12-14T18:25:26.325168",
+      "date": "2025-12-15T01:25:27.789427",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2598,7 +2873,7 @@
     {
       "title": "Accademia Belle Arti legalmente riconosciuta",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403066",
-      "date": "2025-12-14T18:25:26.325134",
+      "date": "2025-12-15T01:25:27.789391",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2607,7 +2882,7 @@
     {
       "title": "Accademia Belle Arti",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403065",
-      "date": "2025-12-14T18:25:26.325100",
+      "date": "2025-12-15T01:25:27.789353",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2616,7 +2891,7 @@
     {
       "title": "Terzo Ciclo",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20669",
-      "date": "2025-12-14T18:25:26.325046",
+      "date": "2025-12-15T01:25:27.789301",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2625,7 +2900,7 @@
     {
       "title": "Istituzioni private autorizzate a rilasciare titoli AFAM",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=1292742",
-      "date": "2025-12-14T18:25:26.325011",
+      "date": "2025-12-15T01:25:27.789265",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2634,7 +2909,7 @@
     {
       "title": "Conservatorio della Musica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403062",
-      "date": "2025-12-14T18:25:26.324974",
+      "date": "2025-12-15T01:25:27.789227",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2643,7 +2918,7 @@
     {
       "title": "Accademia Nazionale di Danza",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403061",
-      "date": "2025-12-14T18:25:26.324940",
+      "date": "2025-12-15T01:25:27.789189",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2652,7 +2927,7 @@
     {
       "title": "Accademia Nazionale di Arte Drammatica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403060",
-      "date": "2025-12-14T18:25:26.324906",
+      "date": "2025-12-15T01:25:27.789139",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2661,7 +2936,7 @@
     {
       "title": "Accademia Belle Arti legalmente riconosciuta",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403059",
-      "date": "2025-12-14T18:25:26.324871",
+      "date": "2025-12-15T01:25:27.789103",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2670,7 +2945,7 @@
     {
       "title": "Accademia Belle Arti",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403058",
-      "date": "2025-12-14T18:25:26.324832",
+      "date": "2025-12-15T01:25:27.789068",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2679,7 +2954,7 @@
     {
       "title": "Secondo Ciclo",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20681",
-      "date": "2025-12-14T18:25:26.324777",
+      "date": "2025-12-15T01:25:27.789012",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2688,7 +2963,7 @@
     {
       "title": "Riconoscimento titoli esteri Afam",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38238",
-      "date": "2025-12-14T18:25:26.324742",
+      "date": "2025-12-15T01:25:27.788977",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2697,7 +2972,7 @@
     {
       "title": "Corsi quinquennali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20638",
-      "date": "2025-12-14T18:25:26.324708",
+      "date": "2025-12-15T01:25:27.788942",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2706,7 +2981,7 @@
     {
       "title": "Istituzioni private autorizzate a rilasciare titoli AFAM",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=371860",
-      "date": "2025-12-14T18:25:26.324673",
+      "date": "2025-12-15T01:25:27.788907",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2715,7 +2990,7 @@
     {
       "title": "Conservatorio della musica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38237",
-      "date": "2025-12-14T18:25:26.324636",
+      "date": "2025-12-15T01:25:27.788870",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2724,7 +2999,7 @@
     {
       "title": "Accademia Nazionale di Danza",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=371841",
-      "date": "2025-12-14T18:25:26.324603",
+      "date": "2025-12-15T01:25:27.788834",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2733,7 +3008,7 @@
     {
       "title": "Accademia Nazionale di Arte Drammatica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=371844",
-      "date": "2025-12-14T18:25:26.324569",
+      "date": "2025-12-15T01:25:27.788796",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2742,7 +3017,7 @@
     {
       "title": "Accademia Belle Arti legalmente riconosciuta",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=371831",
-      "date": "2025-12-14T18:25:26.324532",
+      "date": "2025-12-15T01:25:27.788757",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2751,7 +3026,7 @@
     {
       "title": "Accademia Belle Arti",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20658",
-      "date": "2025-12-14T18:25:26.324492",
+      "date": "2025-12-15T01:25:27.788723",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2760,7 +3035,7 @@
     {
       "title": "Primo Ciclo",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20621",
-      "date": "2025-12-14T18:25:26.324416",
+      "date": "2025-12-15T01:25:27.788667",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2769,7 +3044,7 @@
     {
       "title": "Equipollenze e riconoscimento titoli esteri",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20630",
-      "date": "2025-12-14T18:25:26.324381",
+      "date": "2025-12-15T01:25:27.788631",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2778,7 +3053,7 @@
     {
       "title": "Altri titoli",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20650",
-      "date": "2025-12-14T18:25:26.324345",
+      "date": "2025-12-15T01:25:27.788594",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2787,7 +3062,7 @@
     {
       "title": "Offerta Formativa",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=107109",
-      "date": "2025-12-14T18:25:26.324234",
+      "date": "2025-12-15T01:25:27.788483",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2796,7 +3071,7 @@
     {
       "title": "Mobilità internazionale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=231179",
-      "date": "2025-12-14T18:25:26.324197",
+      "date": "2025-12-15T01:25:27.788447",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2805,7 +3080,7 @@
     {
       "title": "Istituzioni Afam riconosciute",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=366956",
-      "date": "2025-12-14T18:25:26.324157",
+      "date": "2025-12-15T01:25:27.788406",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2814,7 +3089,7 @@
     {
       "title": "Il sistema Afam",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=230523",
-      "date": "2025-12-14T18:25:26.324116",
+      "date": "2025-12-15T01:25:27.788365",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2823,7 +3098,7 @@
     {
       "title": "Cooperazione bilaterale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=231145",
-      "date": "2025-12-14T18:25:26.324076",
+      "date": "2025-12-15T01:25:27.788321",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2832,7 +3107,7 @@
     {
       "title": "Afam/Alta formazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20620",
-      "date": "2025-12-14T18:25:26.323918",
+      "date": "2025-12-15T01:25:27.788141",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2841,7 +3116,7 @@
     {
       "title": "Decreti del Presidente della Repubblica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20677",
-      "date": "2025-12-14T18:25:26.323869",
+      "date": "2025-12-15T01:25:27.788098",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2850,7 +3125,7 @@
     {
       "title": "Decreti del Presidente del Consiglio dei Ministri",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=2584611",
-      "date": "2025-12-14T18:25:26.323830",
+      "date": "2025-12-15T01:25:27.788059",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2859,7 +3134,7 @@
     {
       "title": "Decreti Ministeriali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20647",
-      "date": "2025-12-14T18:25:26.323780",
+      "date": "2025-12-15T01:25:27.788015",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2868,7 +3143,7 @@
     {
       "title": "Decreti Legislativi",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20682",
-      "date": "2025-12-14T18:25:26.323739",
+      "date": "2025-12-15T01:25:27.787972",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2877,7 +3152,7 @@
     {
       "title": "Decreti Interministeriali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38242",
-      "date": "2025-12-14T18:25:26.323700",
+      "date": "2025-12-15T01:25:27.787933",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2886,7 +3161,7 @@
     {
       "title": "Decreti Dirigenziali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20684",
-      "date": "2025-12-14T18:25:26.323659",
+      "date": "2025-12-15T01:25:27.787894",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2895,7 +3170,7 @@
     {
       "title": "Decreti Direttoriali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=74904",
-      "date": "2025-12-14T18:25:26.323616",
+      "date": "2025-12-15T01:25:27.787854",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2904,7 +3179,7 @@
     {
       "title": "Decreti Dipartimentali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38241",
-      "date": "2025-12-14T18:25:26.323563",
+      "date": "2025-12-15T01:25:27.787807",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
