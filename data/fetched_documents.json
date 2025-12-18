@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-18T12:39:28.694717",
+  "last_fetch": "2025-12-18T18:29:09.294948",
   "stats": {
-    "total": 352,
+    "total": 351,
     "fetched": 4,
     "skipped": 96,
     "failed": 0,
     "pdfs": 0,
     "html": 4
   },
-  "total_documents": 378,
+  "total_documents": 382,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -5559,6 +5559,65 @@
       "size_chars": 62,
       "success": true,
       "fetched_at": "2025-12-18T12:39:27.608155",
+      "document_type": "html"
+    },
+    {
+      "title": "Ferie docenti con contratto al 30 giugno, avvisi dei Dirigenti Scolastici: è obbligatorio richiederle a Natale o si possono spostare a giugno?",
+      "url": "https://www.orizzontescuola.it/ferie-docenti-con-contratto-al-30-giugno-avvisi-dei-dirigenti-scolastici-e-obbligatorio-richiederle-a-natale-o-si-possono-spostare-a-giugno/",
+      "date": "Thu, 18 Dec 2025 14:05:36 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Riproponiamo la risposta fornita al quesito dall'Avv. Walter Miceli nel question time del 23 ottobre 2025 trasmesso su OrizzonteScuola TV e condotto da Andrea Carlino. In questi giorni infatti i docenti con contratto al 30 giugno 2026 stanno ricevendo dai Dirigenti Scolastici l'invito a fruire delle ferire nel periodo di sospensione delle lezioni per la pausa didattica natalizia.\nL'articolo\nFerie docenti con contratto al 30 giugno, avvisi dei Dirigenti Scolastici: è obbligatorio richiederle a Na",
+      "full_content": "Riproponiamo la risposta fornita al quesito dall'Avv. Walter Miceli nel question time del 23 ottobre 2025 trasmesso su OrizzonteScuola TV e condotto da Andrea Carlino. In questi giorni infatti i docenti con contratto al 30 giugno 2026 stanno ricevendo dai Dirigenti Scolastici l'invito a fruire delle ferire nel periodo di sospensione delle lezioni per la pausa didattica natalizia.\nL'articolo\nFerie docenti con contratto al 30 giugno, avvisi dei Dirigenti Scolastici: è obbligatorio richiederle a Natale o si possono spostare a giugno?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "1d97192b8bdd691a",
+      "text": "Riproponiamo la risposta fornita al quesito dall'Avv. Walter Miceli nel question time del 23 ottobre 2025 trasmesso su OrizzonteScuola TV e condotto da Andrea Carlino. In questi giorni infatti i docenti con contratto al 30 giugno 2026 stanno ricevendo dai Dirigenti Scolastici l'invito a fruire delle ferire nel periodo di sospensione delle lezioni per la pausa didattica natalizia.\nL'articolo\nFerie docenti con contratto al 30 giugno, avvisi dei Dirigenti Scolastici: è obbligatorio richiederle a Natale o si possono spostare a giugno?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-18T18:29:04.122629",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Legge sulla montagna e punteggio aggiuntivo per docenti e ATA: individuati circa 2.800 comuni. Manca ancora il decreto",
+      "url": "https://www.orizzontescuola.it/legge-sulla-montagna-e-punteggio-aggiuntivo-per-docenti-e-ata-individuati-circa-2-800-comuni-manca-ancora-il-decreto/",
+      "date": "Thu, 18 Dec 2025 13:37:39 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Sono in corso di definizione i criteri per la classificazione dei comuni cosiddetti \"montani\", che possano rientrare nel Decreto atteso nell'ambito della Legge sulla montagna, che interessa anche il servizio di docenti e ATA. In seguito alla  proposta del Ministro Calderoli dovrebbe svolgersi  lunedì 22 dicembre un incontro con le Regioni.\nL'articolo\nLegge sulla montagna e punteggio aggiuntivo per docenti e ATA: individuati circa 2.800 comuni. Manca ancora il decreto\nsembra essere il primo su\nOr",
+      "full_content": "Sono in corso di definizione i criteri per la classificazione dei comuni cosiddetti \"montani\", che possano rientrare nel Decreto atteso nell'ambito della Legge sulla montagna, che interessa anche il servizio di docenti e ATA. In seguito alla  proposta del Ministro Calderoli dovrebbe svolgersi  lunedì 22 dicembre un incontro con le Regioni.\nL'articolo\nLegge sulla montagna e punteggio aggiuntivo per docenti e ATA: individuati circa 2.800 comuni. Manca ancora il decreto\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "f99c55ab4649dafa",
+      "text": "Sono in corso di definizione i criteri per la classificazione dei comuni cosiddetti \"montani\", che possano rientrare nel Decreto atteso nell'ambito della Legge sulla montagna, che interessa anche il servizio di docenti e ATA. In seguito alla  proposta del Ministro Calderoli dovrebbe svolgersi  lunedì 22 dicembre un incontro con le Regioni.\nL'articolo\nLegge sulla montagna e punteggio aggiuntivo per docenti e ATA: individuati circa 2.800 comuni. Manca ancora il decreto\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-18T18:29:04.622804",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Concorso docenti PNRR3 scuola secondaria: griglia di valutazione per classi di concorso con prova pratica",
+      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-scuola-secondaria-griglia-di-valutazione-per-classi-di-concorso-con-prova-pratica/",
+      "date": "Thu, 18 Dec 2025 13:14:33 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "La Commissione nazionale ha diffuso le griglie di valutazione e i Quadri di riferimento per lo svolgimento della prova orale e pratica dei concorsi docenti indetti con DDG n. 2939/2025 per la scuola secondaria.\nL'articolo\nConcorso docenti PNRR3 scuola secondaria: griglia di valutazione per classi di concorso con prova pratica\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "La Commissione nazionale ha diffuso le griglie di valutazione e i Quadri di riferimento per lo svolgimento della prova orale e pratica dei concorsi docenti indetti con DDG n. 2939/2025 per la scuola secondaria.\nL'articolo\nConcorso docenti PNRR3 scuola secondaria: griglia di valutazione per classi di concorso con prova pratica\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "f44bf33b29e560cd",
+      "text": "La Commissione nazionale ha diffuso le griglie di valutazione e i Quadri di riferimento per lo svolgimento della prova orale e pratica dei concorsi docenti indetti con DDG n. 2939/2025 per la scuola secondaria.\nL'articolo\nConcorso docenti PNRR3 scuola secondaria: griglia di valutazione per classi di concorso con prova pratica\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-18T18:29:05.122979",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Nomina Commissioni Concorso ordinario docenti_AAEE_DDG 2938/2025 – Ufficio Scolastico Regionale",
+      "url": "https://www.ufficioscolasticoregionalelazio.it/2025/12/18/nomina-commissioni-concorso-ordinario-docenti_aaee_ddg-2938-2025/",
+      "date": "2025-12-18T18:29:02.789051",
+      "source": "USR Lazio",
+      "type": "comunicazione",
+      "description": "",
+      "id": "2dfafda18e5f3162",
+      "text": "m_pi.AOODRLA.REGISTRO DECRETI (R).0002810.18-12-2025 [235 KB]",
+      "size_chars": 61,
+      "success": true,
+      "fetched_at": "2025-12-18T18:29:07.911498",
       "document_type": "html"
     }
   ]
