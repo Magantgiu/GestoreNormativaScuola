@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-18T06:30:25.362782",
+  "last_fetch": "2025-12-18T12:39:28.694717",
   "stats": {
     "total": 352,
-    "fetched": 0,
-    "skipped": 100,
+    "fetched": 4,
+    "skipped": 96,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 4
   },
-  "total_documents": 374,
+  "total_documents": 378,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -5501,6 +5501,65 @@
       "fetched_at": "2025-12-18T01:20:14.585005",
       "document_type": "rss_full",
       "success": true
+    },
+    {
+      "title": "Tutor e orientatore: informativa al MIM sul DM per l’ a.s. 2025/2026",
+      "url": "https://www.flcgil.it/scuola/docenti/secondo-ciclo/tutor-e-orientatore-informativa-al-mim-sul-dm-per-l-a-s-2025-2026.flc",
+      "date": "Thu, 18 Dec 2025 11:07:24 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "In data 17 dicembre 2025 il MIM ha fornito l’informativa sul DM in via di emanazione relativo ai criteri di riparto e le modalità di utilizzo dei finanziamenti destinati alla retribuzione del docente tutor ed orientatore delle classi...",
+      "full_content": "In data 17 dicembre 2025 il MIM ha fornito l’informativa sul DM in via di emanazione relativo ai criteri di riparto e le modalità di utilizzo dei finanziamenti destinati alla retribuzione del docente tutor ed orientatore delle classi...",
+      "has_full_content": true,
+      "id": "dd4fa39b32a3efc6",
+      "text": "In data 17 dicembre 2025 il MIM ha fornito l’informativa sul DM in via di emanazione relativo ai criteri di riparto e le modalità di utilizzo dei finanziamenti destinati alla retribuzione del docente tutor ed orientatore delle classi...",
+      "fetched_at": "2025-12-18T12:39:22.656552",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Legge di bilancio 2026: un passo indietro sulla penalizzazione del riscatto degli studi universitari",
+      "url": "https://www.flcgil.it/attualita/previdenza/legge-di-bilancio-2026-un-passo-indietro-sulla-penalizzazione-del-riscatto-degli-studi-universitari.flc",
+      "date": "Thu, 18 Dec 2025 09:45:16 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Il coro di proteste indignate alla notizia dell’emendamento del governo alla legge di bilancio, che avrebbe ridotto progressivamente, ai fini della maturazione dei requisiti pensionistici, il riconoscimento degli anni  di studio...",
+      "full_content": "Il coro di proteste indignate alla notizia dell’emendamento del governo alla legge di bilancio, che avrebbe ridotto progressivamente, ai fini della maturazione dei requisiti pensionistici, il riconoscimento degli anni  di studio...",
+      "has_full_content": true,
+      "id": "8d139533245489e8",
+      "text": "Il coro di proteste indignate alla notizia dell’emendamento del governo alla legge di bilancio, che avrebbe ridotto progressivamente, ai fini della maturazione dei requisiti pensionistici, il riconoscimento degli anni  di studio...",
+      "fetched_at": "2025-12-18T12:39:23.156737",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Elenchi regionali per il ruolo 2026: saranno visibili solo a chi si iscrive. Manca trasparenza. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-2026-saranno-visibili-solo-a-chi-si-iscrive-manca-trasparenza-pillole-di-question-time/",
+      "date": "Thu, 18 Dec 2025 09:35:22 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 16 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stato approfondito il tema della trasparenza nella gestione degli elenchi regionali per le immissioni in ruolo. Il punto centrale della discussione ha riguardato la possibilità di consultazione pubblica degli elenchi.\nL'articolo\nElenchi regionali per il ruolo 2026: saranno visibili solo a chi si iscrive. Manca trasparenza. Pillole di Question",
+      "full_content": "Nel question time del 16 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stato approfondito il tema della trasparenza nella gestione degli elenchi regionali per le immissioni in ruolo. Il punto centrale della discussione ha riguardato la possibilità di consultazione pubblica degli elenchi.\nL'articolo\nElenchi regionali per il ruolo 2026: saranno visibili solo a chi si iscrive. Manca trasparenza. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "cc7ff0867855dd41",
+      "text": "Nel question time del 16 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stato approfondito il tema della trasparenza nella gestione degli elenchi regionali per le immissioni in ruolo. Il punto centrale della discussione ha riguardato la possibilità di consultazione pubblica degli elenchi.\nL'articolo\nElenchi regionali per il ruolo 2026: saranno visibili solo a chi si iscrive. Manca trasparenza. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-18T12:39:23.656918",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Trasmissione nota MIM del 17 dicembre 2025, n. 6640 – Linee guida per l’istruzione parentale – Ufficio Scolastico Regionale",
+      "url": "https://www.ufficioscolasticoregionalelazio.it/2025/12/18/trasmissione-nota-mim-del-17-dicembre-2025-n-6640-linee-guida-per-listruzione-parentale/",
+      "date": "2025-12-18T12:39:20.167523",
+      "source": "USR Lazio",
+      "type": "comunicazione",
+      "description": "",
+      "id": "5ec701a2156d6d3f",
+      "text": "m_pi.AOODRLA.REGISTRO UFFICIALE(U).0112295.18-12-2025 [250 KB]",
+      "size_chars": 62,
+      "success": true,
+      "fetched_at": "2025-12-18T12:39:27.608155",
+      "document_type": "html"
     }
   ]
 }
