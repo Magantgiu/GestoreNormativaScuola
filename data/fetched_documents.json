@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-19T12:40:29.305782",
+  "last_fetch": "2025-12-19T18:27:37.682847",
   "stats": {
-    "total": 322,
-    "fetched": 34,
-    "skipped": 66,
+    "total": 323,
+    "fetched": 6,
+    "skipped": 94,
     "failed": 0,
     "pdfs": 0,
-    "html": 34
+    "html": 6
   },
-  "total_documents": 418,
+  "total_documents": 424,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -6126,6 +6126,94 @@
       "size_chars": 517,
       "success": true,
       "fetched_at": "2025-12-19T12:40:27.307833",
+      "document_type": "html"
+    },
+    {
+      "title": "Percorsi sostegno INDIRE: l’accesso possibile per docenti della A066 classe di concorso ad esaurimento. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/percorsi-sostegno-indire-laccesso-possibile-per-docenti-della-a066-classe-di-concorso-ad-esaurimento-pillole-di-question-time/",
+      "date": "Fri, 19 Dec 2025 15:48:23 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 17 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stato affrontato un tema di interesse per i docenti appartenenti a classi di concorso non più attive nei nuovi ordinamenti, ma tuttora presenti nel sistema scolastico grazie alla gestione ad esaurimento. Un’attenzione particolare è stata dedicata alla classe di concorso A-066, “Trattamento testi, dati e applicazioni. Informatica”, e alla poss",
+      "full_content": "Nel question time del 17 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stato affrontato un tema di interesse per i docenti appartenenti a classi di concorso non più attive nei nuovi ordinamenti, ma tuttora presenti nel sistema scolastico grazie alla gestione ad esaurimento. Un’attenzione particolare è stata dedicata alla classe di concorso A-066, “Trattamento testi, dati e applicazioni. Informatica”, e alla possibilità per i suoi docenti di accedere ai percorsi INDIRE dedicati al sostegno.\nL'articolo\nPercorsi sostegno INDIRE: l’accesso possibile per docenti della A066 classe di concorso ad esaurimento. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "759fff60f581e100",
+      "text": "Nel question time del 17 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stato affrontato un tema di interesse per i docenti appartenenti a classi di concorso non più attive nei nuovi ordinamenti, ma tuttora presenti nel sistema scolastico grazie alla gestione ad esaurimento. Un’attenzione particolare è stata dedicata alla classe di concorso A-066, “Trattamento testi, dati e applicazioni. Informatica”, e alla possibilità per i suoi docenti di accedere ai percorsi INDIRE dedicati al sostegno.\nL'articolo\nPercorsi sostegno INDIRE: l’accesso possibile per docenti della A066 classe di concorso ad esaurimento. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-19T18:27:27.500894",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "GAE, GPS ed elenchi regionali ruolo: quando si potrà presentare domanda. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/gae-gps-ed-elenchi-regionali-ruolo-quando-si-potra-presentare-domanda-pillole-di-question-time/",
+      "date": "Fri, 19 Dec 2025 12:55:43 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 16 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stato affrontato un punto centrale per migliaia di docenti e aspiranti tali: la tempistica degli aggiornamenti delle graduatorie e degli elenchi per il 2026. In particolare, è stato fornito un quadro indicativo sul cronoprogramma relativo alle GAE, alle GPS e agli elenchi regionali.\nL'articolo\nGAE, GPS ed elenchi regionali ruolo: quando si po",
+      "full_content": "Nel question time del 16 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stato affrontato un punto centrale per migliaia di docenti e aspiranti tali: la tempistica degli aggiornamenti delle graduatorie e degli elenchi per il 2026. In particolare, è stato fornito un quadro indicativo sul cronoprogramma relativo alle GAE, alle GPS e agli elenchi regionali.\nL'articolo\nGAE, GPS ed elenchi regionali ruolo: quando si potrà presentare domanda. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "10537b9c0dad3ca3",
+      "text": "Nel question time del 16 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stato affrontato un punto centrale per migliaia di docenti e aspiranti tali: la tempistica degli aggiornamenti delle graduatorie e degli elenchi per il 2026. In particolare, è stato fornito un quadro indicativo sul cronoprogramma relativo alle GAE, alle GPS e agli elenchi regionali.\nL'articolo\nGAE, GPS ed elenchi regionali ruolo: quando si potrà presentare domanda. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-19T18:27:28.001093",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Fascicolo digitale docenti e ATA, attiva la piattaforma MIM. Ecco quali dati contiene, completa entro giugno 2026",
+      "url": "https://www.orizzontescuola.it/fascicolo-digitale-docenti-e-ata-la-nuova-piattaforma-mim-per-gestire-carriera-e-servizi-a-regime-entro-giugno-2026/",
+      "date": "Fri, 19 Dec 2025 12:29:46 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Il Ministero dell'Istruzione e del Merito ha avviato il Fascicolo digitale del personale scolastico, una piattaforma che permette a docenti e personale ATA di consultare i dati relativi al proprio percorso professionale.\nL'articolo\nFascicolo digitale docenti e ATA, attiva la piattaforma MIM. Ecco quali dati contiene, completa entro giugno 2026\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Il Ministero dell'Istruzione e del Merito ha avviato il Fascicolo digitale del personale scolastico, una piattaforma che permette a docenti e personale ATA di consultare i dati relativi al proprio percorso professionale.\nL'articolo\nFascicolo digitale docenti e ATA, attiva la piattaforma MIM. Ecco quali dati contiene, completa entro giugno 2026\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "b3081ccb13fb4bf0",
+      "text": "Il Ministero dell'Istruzione e del Merito ha avviato il Fascicolo digitale del personale scolastico, una piattaforma che permette a docenti e personale ATA di consultare i dati relativi al proprio percorso professionale.\nL'articolo\nFascicolo digitale docenti e ATA, attiva la piattaforma MIM. Ecco quali dati contiene, completa entro giugno 2026\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-19T18:27:28.501285",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Nuovi Percorsi INDIRE per docenti specializzati all’estero: cosa cambia. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/nuovi-percorsi-indire-per-docenti-specializzati-allestero-cosa-cambia-pillole-di-question-time/",
+      "date": "Fri, 19 Dec 2025 11:13:11 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 17 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stato approfondito il tema dell’accesso ai percorsi INDIRE da parte dei docenti con titolo di specializzazione sul sostegno conseguito all’estero. L’attenzione si è concentrata sulle novità introdotte dal decreto n. 77 del 2025, con particolare riguardo a chi è ancora in attesa del riconoscimento del titolo e a chi ha ricevuto un rigetto.\nL'a",
+      "full_content": "Nel question time del 17 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stato approfondito il tema dell’accesso ai percorsi INDIRE da parte dei docenti con titolo di specializzazione sul sostegno conseguito all’estero. L’attenzione si è concentrata sulle novità introdotte dal decreto n. 77 del 2025, con particolare riguardo a chi è ancora in attesa del riconoscimento del titolo e a chi ha ricevuto un rigetto.\nL'articolo\nNuovi Percorsi INDIRE per docenti specializzati all’estero: cosa cambia. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "83bdf52a406d49d8",
+      "text": "Nel question time del 17 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stato approfondito il tema dell’accesso ai percorsi INDIRE da parte dei docenti con titolo di specializzazione sul sostegno conseguito all’estero. L’attenzione si è concentrata sulle novità introdotte dal decreto n. 77 del 2025, con particolare riguardo a chi è ancora in attesa del riconoscimento del titolo e a chi ha ricevuto un rigetto.\nL'articolo\nNuovi Percorsi INDIRE per docenti specializzati all’estero: cosa cambia. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-19T18:27:29.001468",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Graduatoria di merito Concorso Ordinario IRC – AAEE – D.M. 103/2024 – Ufficio Scolastico Regionale",
+      "url": "https://www.ufficioscolasticoregionalelazio.it/2025/12/19/graduatoria-di-merito-concorso-ordinario-irc-aaee-d-m-103-2024/",
+      "date": "2025-12-19T18:27:26.237938",
+      "source": "USR Lazio",
+      "type": "comunicazione",
+      "description": "",
+      "id": "38bb23c9a9ee96d1",
+      "text": "m_pi.AOODRLA.REGISTRO DECRETI (R).0002812.19-12-2025 [250 KB]",
+      "size_chars": 61,
+      "success": true,
+      "fetched_at": "2025-12-19T18:27:31.962111",
+      "document_type": "html"
+    },
+    {
+      "title": "Graduatoria di merito Concorso Ordinario IRC – MMSS – D.M. 104/2024 – Ufficio Scolastico Regionale",
+      "url": "https://www.ufficioscolasticoregionalelazio.it/2025/12/19/graduatoria-di-merito-concorso-ordinario-irc-mmss-d-m-104-2024/",
+      "date": "2025-12-19T18:27:26.237914",
+      "source": "USR Lazio",
+      "type": "comunicazione",
+      "description": "",
+      "id": "74dcb8899c33a538",
+      "text": "m_pi.AOODRLA.REGISTRO DECRETI (R).0002813.19-12-2025 [234 KB]",
+      "size_chars": 61,
+      "success": true,
+      "fetched_at": "2025-12-19T18:27:36.169627",
       "document_type": "html"
     }
   ]
