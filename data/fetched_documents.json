@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-18T18:29:09.294948",
+  "last_fetch": "2025-12-19T01:23:37.099239",
   "stats": {
     "total": 351,
-    "fetched": 4,
-    "skipped": 96,
+    "fetched": 2,
+    "skipped": 98,
     "failed": 0,
     "pdfs": 0,
-    "html": 4
+    "html": 2
   },
-  "total_documents": 382,
+  "total_documents": 384,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -5619,6 +5619,36 @@
       "success": true,
       "fetched_at": "2025-12-18T18:29:07.911498",
       "document_type": "html"
+    },
+    {
+      "title": "Ci saranno ruoli anche da GPS sostegno nel 2026 per la scuola secondaria? Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/ci-saranno-ruoli-anche-da-gps-sostegno-nel-2026-per-la-scuola-secondaria-pillole-di-question-time/",
+      "date": "Thu, 18 Dec 2025 18:00:33 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 17 novembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stato affrontato il tema delle assunzioni immediate dalla prima fascia GPS sostegno in caso di aggiornamento delle graduatorie. L’attenzione si è focalizzata sui criteri necessari per attivare la procedura finalizzata al ruolo.\nL'articolo\nCi saranno ruoli anche da GPS sostegno nel 2026 per la scuola secondaria? Pillole di Question Time\nsembra essere il primo su\nO",
+      "full_content": "Nel question time del 17 novembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stato affrontato il tema delle assunzioni immediate dalla prima fascia GPS sostegno in caso di aggiornamento delle graduatorie. L’attenzione si è focalizzata sui criteri necessari per attivare la procedura finalizzata al ruolo.\nL'articolo\nCi saranno ruoli anche da GPS sostegno nel 2026 per la scuola secondaria? Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "010a93d5ea129142",
+      "text": "Nel question time del 17 novembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stato affrontato il tema delle assunzioni immediate dalla prima fascia GPS sostegno in caso di aggiornamento delle graduatorie. L’attenzione si è focalizzata sui criteri necessari per attivare la procedura finalizzata al ruolo.\nL'articolo\nCi saranno ruoli anche da GPS sostegno nel 2026 per la scuola secondaria? Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-19T01:23:36.093576",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Prova finale sostegno Indire: pubblicate le sedi per l’esame finale del 20 dicembre",
+      "url": "https://www.orizzontescuola.it/prova-finale-sostegno-indire-pubblicate-le-sedi-per-lesame-finale-del-20-dicembre/",
+      "date": "Thu, 18 Dec 2025 17:49:40 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Il primo percorso sostegno Indire di cui all’articolo 6 e articolo 7 del decreto-legge 31 maggio 2024, n. 71, convertito, con modificazioni, dalla legge 29 luglio 2024, n. 106 giunge a conclusione. Sabato 20 dicembre gli esami finali.\nL'articolo\nProva finale sostegno Indire: pubblicate le sedi per l’esame finale del 20 dicembre\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Il primo percorso sostegno Indire di cui all’articolo 6 e articolo 7 del decreto-legge 31 maggio 2024, n. 71, convertito, con modificazioni, dalla legge 29 luglio 2024, n. 106 giunge a conclusione. Sabato 20 dicembre gli esami finali.\nL'articolo\nProva finale sostegno Indire: pubblicate le sedi per l’esame finale del 20 dicembre\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "24fbe2b21ddcdde0",
+      "text": "Il primo percorso sostegno Indire di cui all’articolo 6 e articolo 7 del decreto-legge 31 maggio 2024, n. 71, convertito, con modificazioni, dalla legge 29 luglio 2024, n. 106 giunge a conclusione. Sabato 20 dicembre gli esami finali.\nL'articolo\nProva finale sostegno Indire: pubblicate le sedi per l’esame finale del 20 dicembre\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-19T01:23:36.593794",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
