@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-20T06:27:54.369612",
+  "last_fetch": "2025-12-20T12:34:31.891566",
   "stats": {
     "total": 348,
-    "fetched": 0,
-    "skipped": 100,
+    "fetched": 4,
+    "skipped": 96,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 4
   },
-  "total_documents": 434,
+  "total_documents": 438,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -6369,6 +6369,66 @@
       "success": true,
       "fetched_at": "2025-12-20T01:19:45.953492",
       "document_type": "html"
+    },
+    {
+      "title": "Sostegno, secondo ciclo INDIRE per docenti con tre anni di servizio. No 2025/26, solo specifico, serve titolo di studio. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/sostegno-secondo-ciclo-indire-per-docenti-con-tre-anni-di-servizio-no-2025-26-solo-specifico-serve-titolo-di-studio-pillole-di-question-time/",
+      "date": "Sat, 20 Dec 2025 10:26:20 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 17 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stata discussa una questione importante relativa all’accesso ai percorsi di formazione per i docenti con esperienza triennale sul sostegno. Un focus particolare è stato posto sui requisiti di servizio richiesti per l’ammissione ai percorsi INDIRE riservati ai cosiddetti “triennalisti”.\nL'articolo\nSostegno, secondo ciclo INDIRE per docenti con",
+      "full_content": "Nel question time del 17 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stata discussa una questione importante relativa all’accesso ai percorsi di formazione per i docenti con esperienza triennale sul sostegno. Un focus particolare è stato posto sui requisiti di servizio richiesti per l’ammissione ai percorsi INDIRE riservati ai cosiddetti “triennalisti”.\nL'articolo\nSostegno, secondo ciclo INDIRE per docenti con tre anni di servizio. No 2025/26, solo specifico, serve titolo di studio. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "1a82578318dbb6fb",
+      "text": "Nel question time del 17 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stata discussa una questione importante relativa all’accesso ai percorsi di formazione per i docenti con esperienza triennale sul sostegno. Un focus particolare è stato posto sui requisiti di servizio richiesti per l’ammissione ai percorsi INDIRE riservati ai cosiddetti “triennalisti”.\nL'articolo\nSostegno, secondo ciclo INDIRE per docenti con tre anni di servizio. No 2025/26, solo specifico, serve titolo di studio. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-20T12:34:29.884864",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Registro elettronico, semplificata procedura caricamento assenze da parte delle segreterie scolastiche",
+      "url": "https://www.orizzontescuola.it/registro-elettronico-semplificata-procedura-caricamento-assenze-da-parte-delle-segreterie-scolastiche/",
+      "date": "Sat, 20 Dec 2025 10:03:37 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Ieri al Ministero dell'Istruzione e del Merito un incontro sul Fascicolo digitale per il personale scolastico e un sistema semplificato per le segreterie scolastiche per la trasmissione delle assenze.\nL'articolo\nRegistro elettronico, semplificata procedura caricamento assenze da parte delle segreterie scolastiche\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Ieri al Ministero dell'Istruzione e del Merito un incontro sul Fascicolo digitale per il personale scolastico e un sistema semplificato per le segreterie scolastiche per la trasmissione delle assenze.\nL'articolo\nRegistro elettronico, semplificata procedura caricamento assenze da parte delle segreterie scolastiche\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "ac713955e4b27575",
+      "text": "Ieri al Ministero dell'Istruzione e del Merito un incontro sul Fascicolo digitale per il personale scolastico e un sistema semplificato per le segreterie scolastiche per la trasmissione delle assenze.\nL'articolo\nRegistro elettronico, semplificata procedura caricamento assenze da parte delle segreterie scolastiche\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-20T12:34:30.385033",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Elenchi regionali per il ruolo: come funzioneranno. Lalla vi spiegherà tutto nell’edizione speciale della newsletter “Diventare insegnanti”",
+      "url": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-come-funzioneranno-lalla-vi-spieghera-tutto-nelledizione-speciale-della-newsletter-diventare-insegnanti/",
+      "date": "Sat, 20 Dec 2025 09:00:59 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel sesto numero della newsletter settimanale Diventare insegnanti, edizione speciale anticipata a mercoledì 24 dicembre, Lalla vi fornirà una guida da scaricare sul funzionamento degli elenchi regionali per il ruolo. Vi spiegherà tutto. Iscriviti entro mercoledì ore 12. All’interno troverai le istruzioni per il download. Cosa riceverò iscrivendomi alla newsletter? Chi si iscrive riceverà: notizie filtrate […]\nL'articolo\nElenchi regionali per il ruolo: come funzioneranno. Lalla vi spiegherà tutt",
+      "full_content": "Nel sesto numero della newsletter settimanale Diventare insegnanti, edizione speciale anticipata a mercoledì 24 dicembre, Lalla vi fornirà una guida da scaricare sul funzionamento degli elenchi regionali per il ruolo. Vi spiegherà tutto. Iscriviti entro mercoledì ore 12. All’interno troverai le istruzioni per il download. Cosa riceverò iscrivendomi alla newsletter? Chi si iscrive riceverà: notizie filtrate […]\nL'articolo\nElenchi regionali per il ruolo: come funzioneranno. Lalla vi spiegherà tutto nell’edizione speciale della newsletter “Diventare insegnanti”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "f9eca7c7b94f9f1e",
+      "text": "Nel sesto numero della newsletter settimanale Diventare insegnanti, edizione speciale anticipata a mercoledì 24 dicembre, Lalla vi fornirà una guida da scaricare sul funzionamento degli elenchi regionali per il ruolo. Vi spiegherà tutto. Iscriviti entro mercoledì ore 12. All’interno troverai le istruzioni per il download. Cosa riceverò iscrivendomi alla newsletter? Chi si iscrive riceverà: notizie filtrate […]\nL'articolo\nElenchi regionali per il ruolo: come funzioneranno. Lalla vi spiegherà tutto nell’edizione speciale della newsletter “Diventare insegnanti”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-20T12:34:30.885221",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Scorrimento graduatorie concorso PNRR: prima i vincitori, poi gli idonei nei limite del 30% dei posti. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/scorrimento-graduatorie-concorso-pnrr-prima-i-vincitori-poi-gli-idonei-nei-limite-del-30-dei-posti-pillole-di-question-time/",
+      "date": "Sat, 20 Dec 2025 09:00:03 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time dell’11 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stata fornita una spiegazione dettagliata sulla gestione delle graduatorie concorsuali legate al PNRR. L’attenzione si è focalizzata sulle modalità di scorrimento previste dopo l’espletamento del concorso PNRR 3 e le prossime immissioni in ruolo, con particolare riferimento agli idonei del primo bando.\nL'articolo\nScorrimento graduatorie conc",
+      "full_content": "Nel question time dell’11 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stata fornita una spiegazione dettagliata sulla gestione delle graduatorie concorsuali legate al PNRR. L’attenzione si è focalizzata sulle modalità di scorrimento previste dopo l’espletamento del concorso PNRR 3 e le prossime immissioni in ruolo, con particolare riferimento agli idonei del primo bando.\nL'articolo\nScorrimento graduatorie concorso PNRR: prima i vincitori, poi gli idonei nei limite del 30% dei posti. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "10df1d49c37dead9",
+      "text": "Nel question time dell’11 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stata fornita una spiegazione dettagliata sulla gestione delle graduatorie concorsuali legate al PNRR. L’attenzione si è focalizzata sulle modalità di scorrimento previste dopo l’espletamento del concorso PNRR 3 e le prossime immissioni in ruolo, con particolare riferimento agli idonei del primo bando.\nL'articolo\nScorrimento graduatorie concorso PNRR: prima i vincitori, poi gli idonei nei limite del 30% dei posti. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-20T12:34:31.385394",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
