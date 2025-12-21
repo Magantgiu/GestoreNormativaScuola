@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-21T06:28:28.461931",
+  "last_fetch": "2025-12-21T12:35:23.305830",
   "stats": {
-    "total": 348,
-    "fetched": 0,
-    "skipped": 100,
+    "total": 323,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 1
   },
-  "total_documents": 441,
+  "total_documents": 442,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -6472,6 +6472,21 @@
       "success": true,
       "fetched_at": "2025-12-20T18:24:41.926403",
       "document_type": "html"
+    },
+    {
+      "title": "Secondo ciclo sostegno Indire/Università: chi partecipa, quando partono i corsi, il titolo ottenuto [LO SPECIALE]",
+      "url": "https://www.orizzontescuola.it/secondo-ciclo-sostegno-indire-chi-partecipa-quando-partono-i-corsi-il-titolo-ottenuto-lo-speciale/",
+      "date": "Sun, 21 Dec 2025 08:26:26 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "L'approvazione definitiva del Decreto Scuola n. 127/2025 lo scorso 29 ottobre ha reso possibile un nuovo ciclo di percorsi per la specializzazione sul sostegno paralleli al tradizionale TFA sostegno. L'obiettivo di alcune modifiche è quello di \"recuperare\" i docenti rimasti esclusi dal primo percorso per docenti con tre anni di servizio e allargare la platea di coloro che  sanano il titolo conseguito all'estero. L'impostazione prevede lezioni sincrone, online e in presenza; verifiche intermedie ",
+      "full_content": "L'approvazione definitiva del Decreto Scuola n. 127/2025 lo scorso 29 ottobre ha reso possibile un nuovo ciclo di percorsi per la specializzazione sul sostegno paralleli al tradizionale TFA sostegno. L'obiettivo di alcune modifiche è quello di \"recuperare\" i docenti rimasti esclusi dal primo percorso per docenti con tre anni di servizio e allargare la platea di coloro che  sanano il titolo conseguito all'estero. L'impostazione prevede lezioni sincrone, online e in presenza; verifiche intermedie con esame finale; e una durata minima complessiva di quattro mesi, con conclusione entro il 31 dicembre 2026.\nL'articolo\nSecondo ciclo sostegno Indire/Università: chi partecipa, quando partono i corsi, il titolo ottenuto [LO SPECIALE]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "d25bacb1211f873a",
+      "text": "L'approvazione definitiva del Decreto Scuola n. 127/2025 lo scorso 29 ottobre ha reso possibile un nuovo ciclo di percorsi per la specializzazione sul sostegno paralleli al tradizionale TFA sostegno. L'obiettivo di alcune modifiche è quello di \"recuperare\" i docenti rimasti esclusi dal primo percorso per docenti con tre anni di servizio e allargare la platea di coloro che  sanano il titolo conseguito all'estero. L'impostazione prevede lezioni sincrone, online e in presenza; verifiche intermedie con esame finale; e una durata minima complessiva di quattro mesi, con conclusione entro il 31 dicembre 2026.\nL'articolo\nSecondo ciclo sostegno Indire/Università: chi partecipa, quando partono i corsi, il titolo ottenuto [LO SPECIALE]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-21T12:35:22.799511",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
