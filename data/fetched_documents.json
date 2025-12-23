@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-22T18:28:46.181230",
+  "last_fetch": "2025-12-23T01:23:41.215187",
   "stats": {
-    "total": 348,
-    "fetched": 11,
-    "skipped": 89,
+    "total": 323,
+    "fetched": 3,
+    "skipped": 97,
     "failed": 0,
     "pdfs": 0,
-    "html": 11
+    "html": 3
   },
-  "total_documents": 461,
+  "total_documents": 464,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -6771,6 +6771,48 @@
       "size_chars": 736,
       "success": true,
       "fetched_at": "2025-12-22T18:28:44.180091",
+      "document_type": "html"
+    },
+    {
+      "title": "Decreto Dipartimentale n. 3666 del 3 dicembre 2025 - Decreto Dipartimentale n. 3666 del 3 dicembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3666-del-3-dicembre-2025",
+      "date": "2025-12-23T01:23:21.564142",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "c537fdf399fb7cb1",
+      "text": "Torna alla pagina iniziale\nHome\n>\nArgomenti e Servizi\n>\nScuola\n>\nIl sistema di istruzione\n>\nRiconoscimento Titoli Esteri\n>\nRiconoscimento professione docente\n>\nArchivio pubblicazione decreti riconoscimento\n>\nDecreto Dipartimentale n. 3666 del 3 dicembre 2025\nGiovedì, 04 dicembre 2025\nDecreto Dipartimentale n. 3666 del 3 dicembre 2025\nNota Prot. n.\n3666\nUfficio: DGOF\nRiconoscimento Formazione Docente\nDocumenti Allegati\nm_pi.AOODPIT.REGISTRO DECRETI DIPARTIMENTALI(R).0003666.03-12-2025.pdf\nTwitter\nFacebook\nGoogle+",
+      "size_chars": 517,
+      "success": true,
+      "fetched_at": "2025-12-23T01:23:32.389031",
+      "document_type": "html"
+    },
+    {
+      "title": "Decreto Direttoriale n. 3535 del 21 novembre 2025 - Decreto Direttoriale n. 3535 del 21 novembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3535-del-21-novembre-2025",
+      "date": "2025-12-23T01:23:21.564096",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "ee7755f68267b561",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Direttoriale n. 3535 del 21 novembre 2025\nGiovedì, 04 dicembre 2025\nDecreto Direttoriale n. 3535 del 21 novembre 2025\nNota Prot. n.\n3535\nUfficio: DPIT-DGSO\nDecreto di erogazione dell'acconto relativo alle risorse dedicate agli interventi riferiti ai servizi di istruzione ospedaliera e domiciliare, A.S. 2025/2026.\nDecreto di erogazione agli UU.SS.RR. dell'acconto relativo alle risorse dedicate agli interventi riferiti ai servizi di istruzione ospedaliera e domiciliare, anno scolastico 2025/2026.\nDocumenti Allegati\nm_pi.AOODPIT.REGISTRO DECRETI DIPARTIMENTALI(R).0003535.21-11-2025.pdf",
+      "size_chars": 650,
+      "success": true,
+      "fetched_at": "2025-12-23T01:23:36.445879",
+      "document_type": "html"
+    },
+    {
+      "title": "Decreto Direttoriale n. 3534 del 21 novembre 2025 - Decreto Direttoriale n. 3534 del 21 novembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3534-del-21-novembre-2025",
+      "date": "2025-12-23T01:23:21.564049",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "123326f298084e2a",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Direttoriale n. 3534 del 21 novembre 2025\nGiovedì, 04 dicembre 2025\nDecreto Direttoriale n. 3534 del 21 novembre 2025\nNota Prot. n.\n3534\nUfficio: DPIT-DGSO\nDecreto disciplinante i criteri per il riparto delle risorse destinate all'erogazione dei servizi di istruzione ospedaliera e domiciliare, anno scolastico 2025/2026.\nDecreto disciplinante i criteri per il riparto delle risorse destinate agli UU.SS.RR. per l'erogazione dei servizi di istruzione ospedaliera e domiciliare, anno scolastico 2025/2026.\nDocumenti Allegati\nm_pi.AOODPIT.REGISTRO DECRETI DIPARTIMENTALI(R).0003534.21-11-2025.pdf",
+      "size_chars": 655,
+      "success": true,
+      "fetched_at": "2025-12-23T01:23:39.851883",
       "document_type": "html"
     }
   ]
