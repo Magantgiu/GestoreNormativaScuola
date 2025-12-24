@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-23T18:28:36.629635",
+  "last_fetch": "2025-12-24T01:22:40.109802",
   "stats": {
-    "total": 348,
-    "fetched": 6,
-    "skipped": 94,
+    "total": 323,
+    "fetched": 4,
+    "skipped": 96,
     "failed": 0,
     "pdfs": 0,
-    "html": 6
+    "html": 4
   },
-  "total_documents": 476,
+  "total_documents": 480,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -6993,6 +6993,63 @@
       "size_chars": 2566,
       "success": true,
       "fetched_at": "2025-12-23T18:28:35.377118",
+      "document_type": "html"
+    },
+    {
+      "title": "TFA Indire: “7.800 partecipanti in 14 sedi dislocate su scala nazionale”. I dati",
+      "url": "https://www.orizzontescuola.it/tfa-indire-7-800-partecipanti-in-14-sedi-dislocate-su-scala-nazionale-i-dati/",
+      "date": "Tue, 23 Dec 2025 16:46:10 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Si è chiusa il 20 dicembre la fase finale dei percorsi di specializzazione per il sostegno agli alunni con disabilità, avviati in base agli articoli 6 e 7 del decreto-legge del 31 maggio 2024, n. 71. Il calendario delle lezioni aveva preso il via il 1° agosto per i docenti con almeno tre anni di esperienza sul sostegno, mentre i corsisti in possesso di un titolo estero erano stati ammessi dal 22 dello stesso mese.\nL'articolo\nTFA Indire: “7.800 partecipanti in 14 sedi dislocate su scala nazionale",
+      "full_content": "Si è chiusa il 20 dicembre la fase finale dei percorsi di specializzazione per il sostegno agli alunni con disabilità, avviati in base agli articoli 6 e 7 del decreto-legge del 31 maggio 2024, n. 71. Il calendario delle lezioni aveva preso il via il 1° agosto per i docenti con almeno tre anni di esperienza sul sostegno, mentre i corsisti in possesso di un titolo estero erano stati ammessi dal 22 dello stesso mese.\nL'articolo\nTFA Indire: “7.800 partecipanti in 14 sedi dislocate su scala nazionale”. I dati\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "5209cc0994a86370",
+      "text": "Si è chiusa il 20 dicembre la fase finale dei percorsi di specializzazione per il sostegno agli alunni con disabilità, avviati in base agli articoli 6 e 7 del decreto-legge del 31 maggio 2024, n. 71. Il calendario delle lezioni aveva preso il via il 1° agosto per i docenti con almeno tre anni di esperienza sul sostegno, mentre i corsisti in possesso di un titolo estero erano stati ammessi dal 22 dello stesso mese.\nL'articolo\nTFA Indire: “7.800 partecipanti in 14 sedi dislocate su scala nazionale”. I dati\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-24T01:22:24.718926",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Decreto Direttoriale n. 3586 del 26 novembre 2025 - Decreto Direttoriale n. 3586 del 26 novembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3586-del-26-novembre-2025",
+      "date": "2025-12-24T01:22:18.574041",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "e9710c645e46b3f3",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Direttoriale n. 3586 del 26 novembre 2025\nGiovedì, 04 dicembre 2025\nDecreto Direttoriale n. 3586 del 26 novembre 2025\nNota Prot. n.\n3568\nUfficio: DPIT-DGSO\nDecreto disciplinante i criteri e l'erogazione di risorse destinate al potenziamento degli interventi a favore di studenti con disabilità o bisogni educativi speciali\nDecreto disciplinante i criteri e l'erogazione di risorse a favore degli UU.SS.RR. per il potenziamento degli interventi dedicati a studenti con disabilità o bisogni educativi speciali, A.S. 2025/2026\nDocumenti Allegati\nm_pi.AOODPIT.REGISTRO DECRETI DIPARTIMENTALI(R).0003586.26-11-2025.pdf",
+      "size_chars": 674,
+      "success": true,
+      "fetched_at": "2025-12-24T01:22:29.403660",
+      "document_type": "html"
+    },
+    {
+      "title": "Decreto Direttoriale n. 67 del 23 ottobre 2025 - Decreto Direttoriale n. 67 del 23 ottobre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-67-del-23-ottobre-2025",
+      "date": "2025-12-24T01:22:18.573990",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "e3dd0508e4e2ffb8",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Direttoriale n. 67 del 23 ottobre 2025\nVenerdì, 05 dicembre 2025\nDecreto Direttoriale n. 67 del 23 ottobre 2025\nNota Prot. n.\n67\nUfficio: DGIS-UFIV\nDecreto di nomina delle figure GEDOC del MIM.\nDocumenti Allegati\nm_pi.AOODGCASIS.REGISTRO dei DECRETI DIRETTORIALI(R).0000067.23-10-2025.pdf",
+      "size_chars": 349,
+      "success": true,
+      "fetched_at": "2025-12-24T01:22:33.784156",
+      "document_type": "html"
+    },
+    {
+      "title": "Decreto Direttoriale n. 1093 del 5 dicembre 2025 - Decreto Direttoriale n. 1093 del 5 dicembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1093-del-5-dicembre-2025",
+      "date": "2025-12-24T01:22:18.573935",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "30e88c6097863d86",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Direttoriale n. 1093 del 5 dicembre 2025\nMartedì, 09 dicembre 2025\nDecreto Direttoriale n. 1093 del 5 dicembre 2025\nNota Prot. n.\n1093\nUfficio: DGERS\nDecreto di approvazione della graduatoria provvisoria degli interventi volti all'eliminazione delle barriere architettoniche negli edifici pubblici ospitanti scuole statali o paritarie di ogni ordine e grado.\nDocumenti Allegati\nDecreto Direttoriale n. 1093 del 5 dicembre 2025.zip",
+      "size_chars": 491,
+      "success": true,
+      "fetched_at": "2025-12-24T01:22:38.322383",
       "document_type": "html"
     }
   ]
