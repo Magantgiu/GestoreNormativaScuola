@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-26T12:37:52.582036",
+  "last_fetch": "2025-12-26T18:27:50.428620",
   "stats": {
-    "total": 348,
-    "fetched": 0,
-    "skipped": 100,
+    "total": 323,
+    "fetched": 3,
+    "skipped": 97,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 3
   },
-  "total_documents": 488,
+  "total_documents": 491,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -7174,6 +7174,48 @@
       "size_chars": 3624,
       "success": true,
       "fetched_at": "2025-12-24T12:38:55.943197",
+      "document_type": "html"
+    },
+    {
+      "title": "Decreto Direttoriale n.1832 del 5 dicembre 2025 - Decreto Direttoriale n.1832 del 5 dicembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1832-del-5-dicembre-2025",
+      "date": "2025-12-26T18:27:27.601741",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "b0a30aa03874fc56",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Direttoriale n.1832 del 5 dicembre 2025\nMartedì, 09 dicembre 2025\nDecreto Direttoriale n.1832 del 5 dicembre 2025\nNota Prot. n.\n1832\nUfficio: DGRUF\nDGRUF - Decreto Direttoriale n.1832 del 5 dicembre 2025, Società Wolters Kluver Italia sr\nAutorizzazione all'emissione dell'impegno di Euro 5.490,00 a favore della Wolters Kluver Italia srl - \"Spese per acquisto di cancelleria, di stampati speciali e quanto altro possa occorrere per il funzionamento degli uffici - noleggio e trasporto mobili, macchine e impianti\"\nDocumenti Allegati\nAutorizzo IS nr. 388 Wolters Kluwer Prot 1832 5.12.25 .pdf",
+      "size_chars": 652,
+      "success": true,
+      "fetched_at": "2025-12-26T18:27:39.013094",
+      "document_type": "html"
+    },
+    {
+      "title": "Decreto Direttoriale n. 3695 del 5 dicembre 2025 - Decreto Direttoriale n. 3695 del 5 dicembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3695-del-5-dicembre-2025",
+      "date": "2025-12-26T18:27:27.601693",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "03c8ba1e4b6d518e",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Direttoriale n. 3695 del 5 dicembre 2025\nMartedì, 09 dicembre 2025\nDecreto Direttoriale n. 3695 del 5 dicembre 2025\nNota Prot. n.\n3695\nUfficio: DGAFI\nDetermina per affidamento sottosoglia mediante trattativa diretta sul MEPA\nDetermina per affidamento sottosoglia mediante trattativa diretta sul MEPA Commissione educativa italo francese per attuazione del Trattato del Quirinale\nDocumenti Allegati\nDecreto Direttoriale n. 3695 del 5 dicembre 2025.pdf",
+      "size_chars": 511,
+      "success": true,
+      "fetched_at": "2025-12-26T18:27:43.421015",
+      "document_type": "html"
+    },
+    {
+      "title": "Decreto Direttoriale n. 3708 del 5 dicembre 2025 - Decreto Direttoriale n. 3708 del 5 dicembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3708-del-5-dicembre-2025",
+      "date": "2025-12-26T18:27:27.601642",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "c1fff638cbafaf50",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Direttoriale n. 3708 del 5 dicembre 2025\nMartedì, 09 dicembre 2025\nDecreto Direttoriale n. 3708 del 5 dicembre 2025\nNota Prot. n.\n3708\nUfficio: DGAFI\nDecreto di impegno Commissione educativa italo francese per attuazione del Trattato del Quirinale 9 e 10 dicembre 2025\nDocumenti Allegati\nDecreto Direttoriale n. 3708 del 5 dicembre 2025.pdf",
+      "size_chars": 401,
+      "success": true,
+      "fetched_at": "2025-12-26T18:27:49.369483",
       "document_type": "html"
     }
   ]
