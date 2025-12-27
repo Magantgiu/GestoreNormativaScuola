@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-27T12:36:13.570144",
+  "last_fetch": "2025-12-27T18:26:03.102778",
   "stats": {
-    "total": 29,
-    "fetched": 4,
-    "skipped": 25,
+    "total": 348,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 4
+    "html": 1
   },
-  "total_documents": 495,
+  "total_documents": 496,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -7276,6 +7276,21 @@
       "success": true,
       "fetched_at": "2025-12-27T12:36:12.360247",
       "document_type": "html"
+    },
+    {
+      "title": "Supplenze insegnanti 2025, stop alle GPS dopo il 31 dicembre. Ma ci saranno ancora nomine, anche fino a termine lezioni",
+      "url": "https://www.orizzontescuola.it/supplenze-insegnanti-2025-stop-alle-gps-dopo-il-31-dicembre-ma-ci-saranno-ancora-nomine-anche-fino-a-termine-lezioni/",
+      "date": "Sat, 27 Dec 2025 14:30:15 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Supplenze docenti anno scolastico 2025/26: la data del 31 dicembre rappresenta uno spartiacque rispetto alla tipologia di contratti da stipulare, da cui derivano anche diritti come i permessi e i giorni di malattia eventualmente fruibili.\nL'articolo\nSupplenze insegnanti 2025, stop alle GPS dopo il 31 dicembre. Ma ci saranno ancora nomine, anche fino a termine lezioni\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Supplenze docenti anno scolastico 2025/26: la data del 31 dicembre rappresenta uno spartiacque rispetto alla tipologia di contratti da stipulare, da cui derivano anche diritti come i permessi e i giorni di malattia eventualmente fruibili.\nL'articolo\nSupplenze insegnanti 2025, stop alle GPS dopo il 31 dicembre. Ma ci saranno ancora nomine, anche fino a termine lezioni\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "977f789f91ccd763",
+      "text": "Supplenze docenti anno scolastico 2025/26: la data del 31 dicembre rappresenta uno spartiacque rispetto alla tipologia di contratti da stipulare, da cui derivano anche diritti come i permessi e i giorni di malattia eventualmente fruibili.\nL'articolo\nSupplenze insegnanti 2025, stop alle GPS dopo il 31 dicembre. Ma ci saranno ancora nomine, anche fino a termine lezioni\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-27T18:26:02.595605",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
