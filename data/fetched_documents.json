@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-27T06:28:36.777087",
+  "last_fetch": "2025-12-27T12:36:13.570144",
   "stats": {
-    "total": 348,
-    "fetched": 0,
-    "skipped": 100,
+    "total": 29,
+    "fetched": 4,
+    "skipped": 25,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 4
   },
-  "total_documents": 491,
+  "total_documents": 495,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -7216,6 +7216,65 @@
       "size_chars": 401,
       "success": true,
       "fetched_at": "2025-12-26T18:27:49.369483",
+      "document_type": "html"
+    },
+    {
+      "title": "Immissioni in ruolo docenti 2025, il 31 dicembre stop scorrimento graduatorie PNRR. Cosa faranno dopo gli Uffici Scolastici",
+      "url": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2025-il-31-dicembre-stop-scorrimento-graduatorie-pnrr-cosa-faranno-dopo-gli-uffici-scolastici/",
+      "date": "Sat, 27 Dec 2025 11:27:16 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Immissioni in ruolo docenti anno scolastico 2025/26: il 31 dicembre 2025 è il termine ultimo per portare a termine le assunzioni da graduatorie di concorsi PNRR1 e 2 pubblicate dopo il 31 agosto ed entro il 10 dicembre 2025.\nL'articolo\nImmissioni in ruolo docenti 2025, il 31 dicembre stop scorrimento graduatorie PNRR. Cosa faranno dopo gli Uffici Scolastici\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Immissioni in ruolo docenti anno scolastico 2025/26: il 31 dicembre 2025 è il termine ultimo per portare a termine le assunzioni da graduatorie di concorsi PNRR1 e 2 pubblicate dopo il 31 agosto ed entro il 10 dicembre 2025.\nL'articolo\nImmissioni in ruolo docenti 2025, il 31 dicembre stop scorrimento graduatorie PNRR. Cosa faranno dopo gli Uffici Scolastici\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "6b08f8b6cb004b59",
+      "text": "Immissioni in ruolo docenti anno scolastico 2025/26: il 31 dicembre 2025 è il termine ultimo per portare a termine le assunzioni da graduatorie di concorsi PNRR1 e 2 pubblicate dopo il 31 agosto ed entro il 10 dicembre 2025.\nL'articolo\nImmissioni in ruolo docenti 2025, il 31 dicembre stop scorrimento graduatorie PNRR. Cosa faranno dopo gli Uffici Scolastici\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-27T12:36:07.553505",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Mobilità docenti 2026, aver superato il concorso ordinario dà punteggio. Differenza tra trasferimento e passaggio di ruolo. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/mobilita-docenti-2026-aver-superato-il-concorso-ordinario-da-punteggio-differenza-tra-trasferimento-e-passaggio-di-ruolo-pillole-di-question-time/",
+      "date": "Sat, 27 Dec 2025 10:24:48 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 9 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata affrontata una questione rilevante per i docenti vincitori di più concorsi ordinari, in particolare all’interno della stessa classe di concorso. Il punto centrale ha riguardato l’influenza di tali concorsi sulla mobilità, in vista di eventuali trasferimenti o passaggi di ruolo.\nL'articolo\nMobilità docenti 2026, aver superato il concorso ordinario dà punteggi",
+      "full_content": "Nel question time del 9 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata affrontata una questione rilevante per i docenti vincitori di più concorsi ordinari, in particolare all’interno della stessa classe di concorso. Il punto centrale ha riguardato l’influenza di tali concorsi sulla mobilità, in vista di eventuali trasferimenti o passaggi di ruolo.\nL'articolo\nMobilità docenti 2026, aver superato il concorso ordinario dà punteggio. Differenza tra trasferimento e passaggio di ruolo. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "eb22433a2deb6120",
+      "text": "Nel question time del 9 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata affrontata una questione rilevante per i docenti vincitori di più concorsi ordinari, in particolare all’interno della stessa classe di concorso. Il punto centrale ha riguardato l’influenza di tali concorsi sulla mobilità, in vista di eventuali trasferimenti o passaggi di ruolo.\nL'articolo\nMobilità docenti 2026, aver superato il concorso ordinario dà punteggio. Differenza tra trasferimento e passaggio di ruolo. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-27T12:36:08.053672",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Carta docente, 3.794 sentenze già eseguite in Puglia. Verificare accredito",
+      "url": "https://www.orizzontescuola.it/carta-docente-3-794-sentenze-gia-eseguite-in-puglia-verificare-accredito/",
+      "date": "Sat, 27 Dec 2025 09:32:12 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "L'USR Puglia comunica che il Ministero ha confermato l'esecuzione di 3.794 sentenze relativa alla Carta docente, con relativo accredito. Si sollecitano quindi i docenti a verificare l'effettiva disponibilità nel borsellino elettronico.\nL'articolo\nCarta docente, 3.794 sentenze già eseguite in Puglia. Verificare accredito\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "L'USR Puglia comunica che il Ministero ha confermato l'esecuzione di 3.794 sentenze relativa alla Carta docente, con relativo accredito. Si sollecitano quindi i docenti a verificare l'effettiva disponibilità nel borsellino elettronico.\nL'articolo\nCarta docente, 3.794 sentenze già eseguite in Puglia. Verificare accredito\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "2417f8fd3613b4c5",
+      "text": "L'USR Puglia comunica che il Ministero ha confermato l'esecuzione di 3.794 sentenze relativa alla Carta docente, con relativo accredito. Si sollecitano quindi i docenti a verificare l'effettiva disponibilità nel borsellino elettronico.\nL'articolo\nCarta docente, 3.794 sentenze già eseguite in Puglia. Verificare accredito\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-27T12:36:08.553844",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Scuola, al via il Fascicolo digitale del personale scolastico",
+      "url": "https://www.cislscuolaromarieti.it/scuola-al-via-il-fascicolo-digitale-del-personale-scolastico/",
+      "date": "19 Dicembre 2025",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "23cc6e7b3f0c7ff4",
+      "text": "Con comunicato del MIM è stata annunciata l’apertura sull’area riservata sezione servizi, di una nuova funzione di avvio del Fascicolo digitale del personale della scuola.\nL’innovazione è prevista all’interno del processo di semplificazione su cui il ministero sta lavorando e che prevede, tra le altre novità, la creazione appunto del Fascicolo digitale  che conterrà tutti i dati utili dal primo rapporto di lavoro nella scuola e per tutto l’arco della carriera.\nQuella di oggi avvia una prima fase di rilascio delle funzioni di una piattaforma che consentirà a tutto il personale di visualizzare i  titoli dichiarati in occasione dei concorsi a partire dal 2020 e i servizi svolti presenti al SIDI.\nNel corso della mattinata si è tenuta la seconda riunione del gruppo di lavoro tra organizzazioni sindacali e Direzione dei Servizi Informativi del MIM nel corso della quale ci è stata preannunciata l’apertura della funzione di accesso al Fascicolo digitale.\nDa qui a marzo si attiverà una fase di segnalazione di misure necessarie a perfezionare le funzioni  con l’obiettivo di poter utilizzare il servizio in occasione delle prossime domande di mobilità.\nDi seguito il link del comunicato MIM:\nhttps://www.mim.gov.it/web/guest/-/scuola-al-via-il-fascicolo-digitale-del-personale-scolastico-piu-semplicita-trasparenza-e-nuovi-servizi-per-docenti-e-ata-valditara-un-primo-passo-ver\nShare\nArticoli correlati\n23 Dicembre 2025\nSottoscritto in via definitiva il CCNL 2022/24. Barbacci: subito al lavoro per chiudere nel 2026 il rinnovo per il triennio 2025/27\nLeggi di più\n22 Dicembre 2025\nIl parere del CSPI sulla sperimentazione nazionale finalizzata allo sviluppo delle competenze non cognitive e trasversali nei percorsi scolastici\nLeggi di più",
+      "size_chars": 1746,
+      "success": true,
+      "fetched_at": "2025-12-27T12:36:12.360247",
       "document_type": "html"
     }
   ]
