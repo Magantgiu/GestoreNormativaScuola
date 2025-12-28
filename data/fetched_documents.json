@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-28T12:36:34.555809",
+  "last_fetch": "2025-12-28T18:26:58.794603",
   "stats": {
     "total": 348,
-    "fetched": 2,
-    "skipped": 98,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 2
+    "html": 1
   },
-  "total_documents": 498,
+  "total_documents": 499,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -7319,6 +7319,21 @@
       "id": "ffdade1d1ad0a4aa",
       "text": "Durante l’ultima trasmissione di Orizzonte Scuola TV, spazio alla posizione di ANIEF sul tema della specializzazione sul sostegno. Chiara Cozzetto, in rappresentanza del direttivo nazionale, ha illustrato gli aggiornamenti normativi previsti dai decreti 75 e 77 del 2025, relativi ai nuovi percorsi Indire riservati rispettivamente ai cosiddetti triennalisti e ai docenti con titolo estero.\nL'articolo\nSostegno, Anief dice sì ai percorsi Indire: professionalità acquisita con il servizio e risposte ai ritardi per specializzati estero\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2025-12-28T12:36:34.048954",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Specializzazione sostegno con percorsi INDIRE: critica la FLC CGIL, mancano dati completi su riconoscimento titoli esteri",
+      "url": "https://www.orizzontescuola.it/specializzazione-sul-sostegno-con-percorsi-indire-critica-la-flc-cgil-mancano-dati-completi-su-riconoscimento-titoli-esteri/",
+      "date": "Sun, 28 Dec 2025 17:42:15 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel recente incontro su Orizzonte Scuola TV,  il tema dei percorsi di specializzazione sul sostegno è stato affrontato da Marco Vulcano, rappresentante nazionale della FLC-CGIL, che ha espresso un punto di vista fortemente critico rispetto al decreto. Nella giornata del 23 dicembre si è svolto un confronto tra sindacati e Ministero concluso - secondo il sindacato -  senza reali chiarimenti.\nL'articolo\nSpecializzazione sostegno con percorsi INDIRE: critica la FLC CGIL, mancano dati completi su ri",
+      "full_content": "Nel recente incontro su Orizzonte Scuola TV,  il tema dei percorsi di specializzazione sul sostegno è stato affrontato da Marco Vulcano, rappresentante nazionale della FLC-CGIL, che ha espresso un punto di vista fortemente critico rispetto al decreto. Nella giornata del 23 dicembre si è svolto un confronto tra sindacati e Ministero concluso - secondo il sindacato -  senza reali chiarimenti.\nL'articolo\nSpecializzazione sostegno con percorsi INDIRE: critica la FLC CGIL, mancano dati completi su riconoscimento titoli esteri\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "16c723cee90ac285",
+      "text": "Nel recente incontro su Orizzonte Scuola TV,  il tema dei percorsi di specializzazione sul sostegno è stato affrontato da Marco Vulcano, rappresentante nazionale della FLC-CGIL, che ha espresso un punto di vista fortemente critico rispetto al decreto. Nella giornata del 23 dicembre si è svolto un confronto tra sindacati e Ministero concluso - secondo il sindacato -  senza reali chiarimenti.\nL'articolo\nSpecializzazione sostegno con percorsi INDIRE: critica la FLC CGIL, mancano dati completi su riconoscimento titoli esteri\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-28T18:26:58.287638",
       "document_type": "rss_full",
       "success": true
     }
