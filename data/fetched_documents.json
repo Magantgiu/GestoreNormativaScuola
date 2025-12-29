@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-29T12:40:18.158540",
+  "last_fetch": "2025-12-29T18:29:11.851732",
   "stats": {
-    "total": 348,
-    "fetched": 4,
-    "skipped": 96,
+    "total": 349,
+    "fetched": 7,
+    "skipped": 93,
     "failed": 0,
     "pdfs": 0,
-    "html": 4
+    "html": 7
   },
-  "total_documents": 504,
+  "total_documents": 511,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -7412,6 +7412,105 @@
       "fetched_at": "2025-12-29T12:40:17.650794",
       "document_type": "rss_full",
       "success": true
+    },
+    {
+      "title": "Dirigenti scolastici FLC CGIL: su suicidio Mendico inaccettabile strumentalizzazione per campagna contro scuola e personale scolastico",
+      "url": "https://www.flcgil.it/comunicati-stampa/dirigenti-scolastici-flc-cgil-su-suicidio-mendico-inaccettabile-strumentalizzazione-per-campagna-contro-scuola-e-personale-scolastico.flc",
+      "date": "Mon, 29 Dec 2025 16:55:43 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Roma, 29 dicembre – “In questi giorni assistiamo all’anticipazione sui media di contenuti, parziali e decontestualizzati, degli esiti della visita ispettiva disposta dall'ufficio scolastico regionale del Lazio a seguito della...",
+      "full_content": "Roma, 29 dicembre – “In questi giorni assistiamo all’anticipazione sui media di contenuti, parziali e decontestualizzati, degli esiti della visita ispettiva disposta dall'ufficio scolastico regionale del Lazio a seguito della...",
+      "has_full_content": true,
+      "id": "92ea08273c49abb0",
+      "text": "Roma, 29 dicembre – “In questi giorni assistiamo all’anticipazione sui media di contenuti, parziali e decontestualizzati, degli esiti della visita ispettiva disposta dall'ufficio scolastico regionale del Lazio a seguito della...",
+      "fetched_at": "2025-12-29T18:28:41.759572",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Sottoscritto definitivamente il CCNI sui criteri di accesso al sistema di assistenza sanitaria integrativa per il personale scolastico",
+      "url": "https://www.cislscuolaromarieti.it/sottoscritto-definitivamente-il-ccni-sui-criteri-di-accesso-al-sistema-di-assistenza-sanitaria-integrativa-per-il-personale-scolastico/",
+      "date": "29 Dicembre 2025",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "8edfe7d971d57d5f",
+      "text": "Si è svolto oggi, lunedì 29 dicembre 2025, l’incontro convocato dal Ministero dell’istruzione e del merito in modalità mista per la sottoscrizione del CCNI relativo alla “\nIndividuazione dei criteri e delle modalità di accesso al sistema di assistenza sanitaria integrativa\n” per il personale della scuola.\nRispetto a quanto era stato anticipato in occasione della firma dell’Ipotesi di CCNI, l’Amministrazione ha informato le organizzazioni sindacali che, dopo aver effettuato le necessarie verifiche anche di carattere normativo, la decorrenza della copertura assicurativa coinciderà con la data di aggiudicazione del servizio (e non, come era stato ipotizzato, dal 1° gennaio 2026).\nLa CISL Scuola ha chiesto che si trovino soluzioni volte a evitare una riduzione del numero dei mesi di copertura dell’assistenza sanitaria integrativa.  L’Amministrazione, considerato che le risorse sono rese disponibili per il quadriennio 2026/2029, ha assicurato che\nla copertura assicurativa potrà estendersi anche dopo la fine dell’anno 2029\n, per il numero di giorni corrispondenti al periodo di tempo intercorrente tra il 1° gennaio 2026 e la data di aggiudicazione del servizio.\nCome richiesto dalla CISL Scuola, si prevede l’attivazione di un\nservizio di supporto al personale\nbasato su FAQ condivise tra Amministrazione e organizzazioni sindacali.\nSi ricorda che l’adesione al sistema di assistenza sanitaria integrativa avverrà in modo automatico, ma sarà comunque necessaria una formale adesione di ciascun interessato.\nIl Contratto è stato sottoscritto da\nCISL Scuola\n,\nSNALS\n,\nGILDA Unams\ne\nANIEF\n. Non ha sottoscritto la FLC Cgil, mentre la UIL Scuola non ha partecipato alle trattative in quanto non firmataria del CCNL 2019/2021, di cui il CCNI, la cui ipotesi è stata firmata nell’agosto 2025, costituisce un’integrazione.\nCon la firma del CCNI possono ora prendere avvio tutte le attività necessarie alla predisposizione della\ngara europea\n, che avrà una durata di\n35 giorni\n, al termine della quale si procederà ad aggiudicare il servizio.\nShare\nArticoli correlati\n29 Dicembre 2025\nMIM. Concorso pubblico su base territoriale, per titoli ed esami, per il reclutamento di n. 3.997 assistenti di varie amministrazioni a tempo pieno e indeterminato\nLeggi di più\n29 Dicembre 2025\nATP Rieti. Graduatorie definitive permessi diritto allo studio personale docente, educativo ed Ata – anno 2026\nLeggi di più",
+      "size_chars": 2405,
+      "success": true,
+      "fetched_at": "2025-12-29T18:28:46.155761",
+      "document_type": "html"
+    },
+    {
+      "title": "MIM. Concorso pubblico su base territoriale, per titoli ed esami, per il reclutamento di n. 3.997 assistenti di varie amministrazioni a tempo pieno e indeterminato",
+      "url": "https://www.cislscuolaromarieti.it/mim-concorso-pubblico-su-base-territoriale-per-titoli-ed-esami-per-il-reclutamento-di-n-3-997-assistenti-di-varie-amministrazioni-a-tempo-pieno-e-indeterminato/",
+      "date": "29 Dicembre 2025",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "b05c48652498de6f",
+      "text": "Riportiamo dal sito ufficiale del MIM:\nIl bando di concorso pubblico su base territoriale, per titoli ed esami, per il reclutamento di un contingente complessivo di n. 3.997 unità di personale non dirigenziale, a tempo pieno e indeterminato, da inquadrare nei ruoli di diverse Amministrazioni, nell’Area degli assistenti è stato pubblicato in data 23 dicembre 2025 sul portale InPA all’indirizzo:\nhttps://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2479a6e7761b48f2be7fa54b3699cb98\nFonte:\nhttps://www.mim.gov.it/web/guest/-/concorso-pubblico-su-base-territoriale-per-titoli-ed-esami-per-il-reclutamento-di-n-3-997-assistenti-di-varie-amministrazioni-a-tempo-pieno-e-indeterm\nShare\nArticoli correlati\n29 Dicembre 2025\nSottoscritto definitivamente il CCNI sui criteri di accesso al sistema di assistenza sanitaria integrativa per il personale scolastico\nLeggi di più\n29 Dicembre 2025\nATP Rieti. Graduatorie definitive permessi diritto allo studio personale docente, educativo ed Ata – anno 2026\nLeggi di più",
+      "size_chars": 1028,
+      "success": true,
+      "fetched_at": "2025-12-29T18:28:51.880420",
+      "document_type": "html"
+    },
+    {
+      "title": "ATP Rieti. Graduatorie definitive permessi diritto allo studio personale docente, educativo ed Ata – anno 2026",
+      "url": "https://www.cislscuolaromarieti.it/atp-rieti-graduatorie-definitive-permessi-diritto-allo-studio-personale-docente-educativo-ed-ata-anno-2026/",
+      "date": "29 Dicembre 2025",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "c31eb561c9403a52",
+      "text": "Riportiamo dal sito ufficiale dell’ATP di Rieti:\nGraduatorie definitive permessi diritto allo studio personale docente, educativo ed Ata – anno 2026\nVAI ALLE GRADUATORIE\nFonte:\nhttps://www.usp-rieti.it/2025/12/29/graduatorie-definitive-permessi-diritto-allo-studio-personale-docente-educativo-ed-ata-anno-2026/\nShare\nArticoli correlati\n29 Dicembre 2025\nSottoscritto definitivamente il CCNI sui criteri di accesso al sistema di assistenza sanitaria integrativa per il personale scolastico\nLeggi di più\n29 Dicembre 2025\nMIM. Concorso pubblico su base territoriale, per titoli ed esami, per il reclutamento di n. 3.997 assistenti di varie amministrazioni a tempo pieno e indeterminato\nLeggi di più",
+      "size_chars": 694,
+      "success": true,
+      "fetched_at": "2025-12-29T18:28:57.203577",
+      "document_type": "html"
+    },
+    {
+      "title": "Indicazioni contraddittorie dal Ministero su utilizzo economie MOF, la CISL Scuola chiede di attivare il confronto per corretta applicazione del CCNI",
+      "url": "https://www.cislscuolaromarieti.it/indicazioni-contraddittorie-dal-ministero-su-utilizzo-economie-mof-la-cisl-scuola-chiede-di-attivare-il-confronto-per-corretta-applicazione-del-ccni/",
+      "date": "29 Dicembre 2025",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "b06ec10121a2c8dd",
+      "text": "La CISL Scuola ha inviato oggi la formale richiesta di apertura del confronto sull’applicazione dell’ipotesi di CCNI sottoscritta il 23 ottobre scorso e riguardante all’utilizzo delle economie.\nCiò a seguito dell’invio di una nota del Direttore Generale per le risorse che rettifica, ad avviso della CISL Scuola impropriamente, la comunicazione inviata in precedenza dall’Ufficio VII della stessa Direzione Generale sulle modalità con cui procedere alla contrattazione d’istituto per l’utilizzo delle ulteriori risorse MOF.\nLa CISL Scuola, nella propria richiesta, sottolinea come sia indispensabile l’attivazione del tavolo di confronto tecnico, “\nper fornire alle autonomie scolastiche indicazioni certe e, soprattutto, condivise sulle modalità di Contrattazione Integrativa di Istituto necessarie per l’utilizzo delle nuove risorse finanziarie\n“, rivendicando in sostanza una coerente applicazione di quanto prevede il CCNI sottoscritto il 23 ottobre.\n20251224_-_Richiesta_attivazione_tavolo_tecnico\nShare\nArticoli correlati\n29 Dicembre 2025\nSottoscritto definitivamente il CCNI sui criteri di accesso al sistema di assistenza sanitaria integrativa per il personale scolastico\nLeggi di più\n29 Dicembre 2025\nMIM. Concorso pubblico su base territoriale, per titoli ed esami, per il reclutamento di n. 3.997 assistenti di varie amministrazioni a tempo pieno e indeterminato\nLeggi di più",
+      "size_chars": 1386,
+      "success": true,
+      "fetched_at": "2025-12-29T18:29:02.358669",
+      "document_type": "html"
+    },
+    {
+      "title": "Avviso Pubblico per la manifestazione di interesse ai fini dell’individuazione di enti, associazioni e enti del Terzo settore idonei ad accogliere studenti e studentesse sottoposti alla sanzione di allontanamento dalle lezioni – Ufficio Scolastico Regionale",
+      "url": "https://www.ufficioscolasticoregionalelazio.it/2025/12/29/avviso-pubblico-per-la-manifestazione-di-interesse-ai-fini-dellindividuazione-di-enti-associazioni-e-enti-del-terzo-settore-idonei-ad-accogliere-studenti-e-studentesse-sottoposti-alla-sanzio/",
+      "date": "2025-12-29T18:28:40.244736",
+      "source": "USR Lazio",
+      "type": "comunicazione",
+      "description": "",
+      "id": "e89d67a9f9a30a74",
+      "text": "m_pi.AOODRLA.REGISTRO UFFICIALE(U).0114792.29-12-2025 [333 KB]",
+      "size_chars": 62,
+      "success": true,
+      "fetched_at": "2025-12-29T18:29:05.816400",
+      "document_type": "html"
+    },
+    {
+      "title": "Indizione Gare Nazionali 2026  (AFM – RIM – SIA) – nota prot. n. 10170 del 03/12/2025 – Ufficio Scolastico Regionale",
+      "url": "https://www.ufficioscolasticoregionalelazio.it/2025/12/29/indizione-gare-nazionali-2026-afm-rim-sia-nota-prot-n-10170-del-03-12-2025/",
+      "date": "2025-12-29T18:28:40.244717",
+      "source": "USR Lazio",
+      "type": "comunicazione",
+      "description": "",
+      "id": "1e8590c12faf059b",
+      "text": "m_pi.AOODRLA.REGISTRO UFFICIALE(U).0114833.29-12-2025 [279 KB]",
+      "size_chars": 62,
+      "success": true,
+      "fetched_at": "2025-12-29T18:29:10.200037",
+      "document_type": "html"
     }
   ]
 }
