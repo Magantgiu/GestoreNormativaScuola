@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2025-12-31T12:38:57.451659",
+  "last_fetch": "2025-12-31T18:27:35.110871",
   "stats": {
     "total": 349,
-    "fetched": 6,
-    "skipped": 94,
+    "fetched": 3,
+    "skipped": 97,
     "failed": 0,
     "pdfs": 0,
-    "html": 6
+    "html": 3
   },
-  "total_documents": 519,
+  "total_documents": 522,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -7634,6 +7634,51 @@
       "success": true,
       "fetched_at": "2025-12-31T12:38:55.808594",
       "document_type": "html"
+    },
+    {
+      "title": "Legge di bilancio: il Ministro Valditara vanta aumenti dei finanziamenti alla scuola? Ma non a quella della Costituzione",
+      "url": "https://www.flcgil.it/scuola/ata/legge-di-bilancio-ministro-valditara-vanta-aumenti-finanziamenti-scuola-ma-non-quella-costituzione.flc",
+      "date": "Wed, 31 Dec 2025 15:30:51 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "In una recente intervista rilasciata dal Ministro Valditara si sostiene che, grazie all’ultima legge di bilancio, le risorse per la scuola italiana sarebbero in aumento nel 2026 rispetto al 2025 di circa 875 milioni di euro passando da 57...",
+      "full_content": "In una recente intervista rilasciata dal Ministro Valditara si sostiene che, grazie all’ultima legge di bilancio, le risorse per la scuola italiana sarebbero in aumento nel 2026 rispetto al 2025 di circa 875 milioni di euro passando da 57...",
+      "has_full_content": true,
+      "id": "7d355da2623e6771",
+      "text": "In una recente intervista rilasciata dal Ministro Valditara si sostiene che, grazie all’ultima legge di bilancio, le risorse per la scuola italiana sarebbero in aumento nel 2026 rispetto al 2025 di circa 875 milioni di euro passando da 57...",
+      "fetched_at": "2025-12-31T18:27:33.599250",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Supplenze da gennaio 2026, abilitati a dicembre rimangono in seconda fascia GPS ma hanno priorità negli interpelli",
+      "url": "https://www.orizzontescuola.it/supplenze-da-gennaio-2026-abilitati-a-dicembre-rimangono-in-seconda-fascia-gps-ma-hanno-priorita-negli-interpelli/",
+      "date": "Wed, 31 Dec 2025 12:58:09 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Supplenze docenti anno scolastico 2025/26: si sono conclusi a dicembre numerosi percorsi abilitanti per il conseguimento dei 30 0 60 CFU. I vantaggi sono sia immediati che futuri, ma al momento non è possibile cambiare fascia nelle GPS.\nL'articolo\nSupplenze da gennaio 2026, abilitati a dicembre rimangono in seconda fascia GPS ma hanno priorità negli interpelli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Supplenze docenti anno scolastico 2025/26: si sono conclusi a dicembre numerosi percorsi abilitanti per il conseguimento dei 30 0 60 CFU. I vantaggi sono sia immediati che futuri, ma al momento non è possibile cambiare fascia nelle GPS.\nL'articolo\nSupplenze da gennaio 2026, abilitati a dicembre rimangono in seconda fascia GPS ma hanno priorità negli interpelli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "9fd9331ef47e139d",
+      "text": "Supplenze docenti anno scolastico 2025/26: si sono conclusi a dicembre numerosi percorsi abilitanti per il conseguimento dei 30 0 60 CFU. I vantaggi sono sia immediati che futuri, ma al momento non è possibile cambiare fascia nelle GPS.\nL'articolo\nSupplenze da gennaio 2026, abilitati a dicembre rimangono in seconda fascia GPS ma hanno priorità negli interpelli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-31T18:27:34.099437",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Organici ATA, dal 2026/27 taglio di 2.174 collaboratori scolastici nelle scuole superiori",
+      "url": "https://www.orizzontescuola.it/organici-ata-dal-2026-27-taglio-di-2-174-collaboratori-scolastici-nelle-scuole-superiori/",
+      "date": "Wed, 31 Dec 2025 11:55:47 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Con l’anno scolastico 2026/2027, nelle scuole secondarie di secondo grado entreranno in vigore nuovi parametri per la determinazione dell’organico dei collaboratori scolastici. Le modifiche sono state introdotte dal decreto ministeriale del 3 novembre che attua quanto previsto dall’art. 1, comma 828, della legge 207/2024.\nL'articolo\nOrganici ATA, dal 2026/27 taglio di 2.174 collaboratori scolastici nelle scuole superiori\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Con l’anno scolastico 2026/2027, nelle scuole secondarie di secondo grado entreranno in vigore nuovi parametri per la determinazione dell’organico dei collaboratori scolastici. Le modifiche sono state introdotte dal decreto ministeriale del 3 novembre che attua quanto previsto dall’art. 1, comma 828, della legge 207/2024.\nL'articolo\nOrganici ATA, dal 2026/27 taglio di 2.174 collaboratori scolastici nelle scuole superiori\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "be5209e69791f688",
+      "text": "Con l’anno scolastico 2026/2027, nelle scuole secondarie di secondo grado entreranno in vigore nuovi parametri per la determinazione dell’organico dei collaboratori scolastici. Le modifiche sono state introdotte dal decreto ministeriale del 3 novembre che attua quanto previsto dall’art. 1, comma 828, della legge 207/2024.\nL'articolo\nOrganici ATA, dal 2026/27 taglio di 2.174 collaboratori scolastici nelle scuole superiori\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2025-12-31T18:27:34.599610",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
