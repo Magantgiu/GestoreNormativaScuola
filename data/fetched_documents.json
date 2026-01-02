@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-02T12:37:47.408696",
+  "last_fetch": "2026-01-02T18:27:45.407691",
   "stats": {
-    "total": 348,
-    "fetched": 3,
-    "skipped": 97,
+    "total": 350,
+    "fetched": 5,
+    "skipped": 95,
     "failed": 0,
     "pdfs": 0,
-    "html": 3
+    "html": 5
   },
-  "total_documents": 526,
+  "total_documents": 531,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -7738,6 +7738,81 @@
       "id": "1b44c4ce4ab9f5c0",
       "text": "Gennaio 2026: il 7 gennaio (8 solo per la Sicilia, a meno di diversa decisione delle singole istituzioni scolastiche) si rientra a scuola dopo le festività natalizie. Il docente supplente sarà confermato? Ci saranno nuove supplenze? Ecco tutte le risposte.\nL'articolo\nSupplenze docenti a gennaio 2026: posto accantonato concorso, sostegno in deroga, proroga e conferma. Tutte le nomine\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2026-01-02T12:37:46.902183",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Concorso PNRR3 scuola primaria: in Lombardia ammessi alla prova orale 1.713 candidati ma i posti sono più di 3.500",
+      "url": "https://www.orizzontescuola.it/concorso-pnrr3-scuola-primaria-in-lombardia-ammessi-alla-prova-orale-1-713-candidati-ma-i-posti-sono-piu-di-3-500/",
+      "date": "Fri, 02 Jan 2026 16:51:55 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Concorso docenti PNRR3: posti vuoti ancor prima di concludere la procedura per la scuola primaria in Lombardia. E il numero è importante: ben 1.824 posti non potranno essere coperti.\nL'articolo\nConcorso PNRR3 scuola primaria: in Lombardia ammessi alla prova orale 1.713 candidati ma i posti sono più di 3.500\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Concorso docenti PNRR3: posti vuoti ancor prima di concludere la procedura per la scuola primaria in Lombardia. E il numero è importante: ben 1.824 posti non potranno essere coperti.\nL'articolo\nConcorso PNRR3 scuola primaria: in Lombardia ammessi alla prova orale 1.713 candidati ma i posti sono più di 3.500\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "f6075813a95fc1f4",
+      "text": "Concorso docenti PNRR3: posti vuoti ancor prima di concludere la procedura per la scuola primaria in Lombardia. E il numero è importante: ben 1.824 posti non potranno essere coperti.\nL'articolo\nConcorso PNRR3 scuola primaria: in Lombardia ammessi alla prova orale 1.713 candidati ma i posti sono più di 3.500\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-02T18:27:42.900362",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Concorso infanzia e primaria PNRR3, arrivano le convocazioni prova orale. Dal 19 gennaio [IN AGGIORNAMENTO]",
+      "url": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-pnrr3-arrivano-le-convocazioni-prova-orale-dal-19-gennaio-in-aggiornamento/",
+      "date": "Fri, 02 Jan 2026 15:43:57 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Convocazioni concorso DDG n. 2398/2025: arrivate le prime convocazioni per la prova orale. La convocazione viene inviata a coloro che hanno raggiunto il voto minimo rientrando nel gruppo degli ammessi alla prova orale.\nL'articolo\nConcorso infanzia e primaria PNRR3, arrivano le convocazioni prova orale. Dal 19 gennaio [IN AGGIORNAMENTO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Convocazioni concorso DDG n. 2398/2025: arrivate le prime convocazioni per la prova orale. La convocazione viene inviata a coloro che hanno raggiunto il voto minimo rientrando nel gruppo degli ammessi alla prova orale.\nL'articolo\nConcorso infanzia e primaria PNRR3, arrivano le convocazioni prova orale. Dal 19 gennaio [IN AGGIORNAMENTO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "be42717a3718646d",
+      "text": "Convocazioni concorso DDG n. 2398/2025: arrivate le prime convocazioni per la prova orale. La convocazione viene inviata a coloro che hanno raggiunto il voto minimo rientrando nel gruppo degli ammessi alla prova orale.\nL'articolo\nConcorso infanzia e primaria PNRR3, arrivano le convocazioni prova orale. Dal 19 gennaio [IN AGGIORNAMENTO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-02T18:27:43.400531",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Welfare scuola, assistenza sanitaria integrativa: firmato il CCNI definitivo, a chi spetta [TESTO]",
+      "url": "https://www.orizzontescuola.it/welfare-scuola-assistenza-sanitaria-integrativa-firmato-il-ccni-definitivo-requisiti-e-regole-di-adesione/",
+      "date": "Fri, 02 Jan 2026 15:26:04 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Firmato il CCNI da 320 milioni che garantisce l'assistenza sanitaria gratuita al personale di ruolo e ai supplenti con contratto al 30 giugno o 31 agosto, con avvio previsto dopo la gara europea. L'adesione è volontaria: unica per i dipendenti a tempo indeterminato, mentre i precari dovranno rinnovarla ad ogni incarico tramite apposita piattaforma.\nL'articolo\nWelfare scuola, assistenza sanitaria integrativa: firmato il CCNI definitivo, a chi spetta [TESTO]\nsembra essere il primo su\nOrizzonte Scu",
+      "full_content": "Firmato il CCNI da 320 milioni che garantisce l'assistenza sanitaria gratuita al personale di ruolo e ai supplenti con contratto al 30 giugno o 31 agosto, con avvio previsto dopo la gara europea. L'adesione è volontaria: unica per i dipendenti a tempo indeterminato, mentre i precari dovranno rinnovarla ad ogni incarico tramite apposita piattaforma.\nL'articolo\nWelfare scuola, assistenza sanitaria integrativa: firmato il CCNI definitivo, a chi spetta [TESTO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "f081dfa69a225998",
+      "text": "Firmato il CCNI da 320 milioni che garantisce l'assistenza sanitaria gratuita al personale di ruolo e ai supplenti con contratto al 30 giugno o 31 agosto, con avvio previsto dopo la gara europea. L'adesione è volontaria: unica per i dipendenti a tempo indeterminato, mentre i precari dovranno rinnovarla ad ogni incarico tramite apposita piattaforma.\nL'articolo\nWelfare scuola, assistenza sanitaria integrativa: firmato il CCNI definitivo, a chi spetta [TESTO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-02T18:27:43.900709",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Fascicolo digitale personale scuola, online le FAQ. Segnalazione di dati parziali o errati",
+      "url": "https://www.orizzontescuola.it/fascicolo-digitale-personale-scuola-online-le-faq-segnalazione-di-dati-parziali-o-errati/",
+      "date": "Fri, 02 Jan 2026 14:16:48 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Il Fascicolo digitale del Personale scolastico è un servizio offerto dal Ministero dell’istruzione e del merito per Docenti, ATA, Personale educativo e Insegnanti di religione cattolica (IRC) in servizio o in pensione. Permette di accedere in maniera immediata alle informazioni relative alla propria carriera lavorativa in ambito scolastico.\nL'articolo\nFascicolo digitale personale scuola, online le FAQ. Segnalazione di dati parziali o errati\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Il Fascicolo digitale del Personale scolastico è un servizio offerto dal Ministero dell’istruzione e del merito per Docenti, ATA, Personale educativo e Insegnanti di religione cattolica (IRC) in servizio o in pensione. Permette di accedere in maniera immediata alle informazioni relative alla propria carriera lavorativa in ambito scolastico.\nL'articolo\nFascicolo digitale personale scuola, online le FAQ. Segnalazione di dati parziali o errati\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "2b5c01cf78c7d69c",
+      "text": "Il Fascicolo digitale del Personale scolastico è un servizio offerto dal Ministero dell’istruzione e del merito per Docenti, ATA, Personale educativo e Insegnanti di religione cattolica (IRC) in servizio o in pensione. Permette di accedere in maniera immediata alle informazioni relative alla propria carriera lavorativa in ambito scolastico.\nL'articolo\nFascicolo digitale personale scuola, online le FAQ. Segnalazione di dati parziali o errati\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-02T18:27:44.400894",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Assicurazione sanitaria integrativa per il personale scolastico: posso pagarmi il dentista? Come funziona, a chi si applica e quali prestazioni prevede. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/assicurazione-sanitaria-integrativa-per-il-personale-scolastico-posso-pagarmi-il-dentista-come-funziona-a-chi-si-applica-e-quali-prestazioni-prevede-pillole-di-question-time/",
+      "date": "Fri, 02 Jan 2026 11:33:42 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Nel question time del 29 dicembre su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Marcello Pacifico, è stato approfondito il tema della nuova assicurazione sanitaria integrativa prevista per il personale della scuola. L’attenzione si è concentrata sul funzionamento, sulle tempistiche di attivazione, sulle categorie di personale coinvolte e sulle prestazioni che potrebbero essere incluse.\nL'articolo\nAssicurazione sanitaria integrativa per il personale scolastico: posso pagarmi il d",
+      "full_content": "Nel question time del 29 dicembre su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Marcello Pacifico, è stato approfondito il tema della nuova assicurazione sanitaria integrativa prevista per il personale della scuola. L’attenzione si è concentrata sul funzionamento, sulle tempistiche di attivazione, sulle categorie di personale coinvolte e sulle prestazioni che potrebbero essere incluse.\nL'articolo\nAssicurazione sanitaria integrativa per il personale scolastico: posso pagarmi il dentista? Come funziona, a chi si applica e quali prestazioni prevede. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "51480df0f42b21ad",
+      "text": "Nel question time del 29 dicembre su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Marcello Pacifico, è stato approfondito il tema della nuova assicurazione sanitaria integrativa prevista per il personale della scuola. L’attenzione si è concentrata sul funzionamento, sulle tempistiche di attivazione, sulle categorie di personale coinvolte e sulle prestazioni che potrebbero essere incluse.\nL'articolo\nAssicurazione sanitaria integrativa per il personale scolastico: posso pagarmi il dentista? Come funziona, a chi si applica e quali prestazioni prevede. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-02T18:27:44.901081",
       "document_type": "rss_full",
       "success": true
     }
