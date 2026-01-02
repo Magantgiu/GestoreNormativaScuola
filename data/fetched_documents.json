@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-02T06:31:03.774138",
+  "last_fetch": "2026-01-02T12:37:47.408696",
   "stats": {
-    "total": 349,
-    "fetched": 0,
-    "skipped": 100,
+    "total": 348,
+    "fetched": 3,
+    "skipped": 97,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 3
   },
-  "total_documents": 523,
+  "total_documents": 526,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -7695,6 +7695,51 @@
       "success": true,
       "fetched_at": "2026-01-01T01:42:37.937752",
       "document_type": "html"
+    },
+    {
+      "title": "Supplenze docenti 2025/26, nomine da GPS concluse a Torino",
+      "url": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-nomine-da-gps-concluse-a-torino/",
+      "date": "Fri, 02 Jan 2026 10:19:29 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Supplenze docenti, per il 2025/26 l'Ufficio Scolastico di Torino ha concluso le operazioni di propria competenza per l'attribuzione degli incarichi al 31 agosto o 30 giugno 2026.\nL'articolo\nSupplenze docenti 2025/26, nomine da GPS concluse a Torino\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Supplenze docenti, per il 2025/26 l'Ufficio Scolastico di Torino ha concluso le operazioni di propria competenza per l'attribuzione degli incarichi al 31 agosto o 30 giugno 2026.\nL'articolo\nSupplenze docenti 2025/26, nomine da GPS concluse a Torino\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "7bf69ee2a0793d6a",
+      "text": "Supplenze docenti, per il 2025/26 l'Ufficio Scolastico di Torino ha concluso le operazioni di propria competenza per l'attribuzione degli incarichi al 31 agosto o 30 giugno 2026.\nL'articolo\nSupplenze docenti 2025/26, nomine da GPS concluse a Torino\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-02T12:37:45.901788",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Supplenze docenti, dopo il 31 dicembre sono temporanee e assegnate solo da Graduatorie di istituto. Nota Bari",
+      "url": "https://www.orizzontescuola.it/supplenze-docenti-dopo-il-31-dicembre-sono-temporanee-e-assegnate-solo-da-graduatorie-di-istituto-nota-bari/",
+      "date": "Fri, 02 Jan 2026 10:09:31 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Supplenze docenti anno scolastico 2025/26: l'ufficio Scolastico di Bari comunica di aver concluso le procedure di individuazione da GPS.\nL'articolo\nSupplenze docenti, dopo il 31 dicembre sono temporanee e assegnate solo da Graduatorie di istituto. Nota Bari\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Supplenze docenti anno scolastico 2025/26: l'ufficio Scolastico di Bari comunica di aver concluso le procedure di individuazione da GPS.\nL'articolo\nSupplenze docenti, dopo il 31 dicembre sono temporanee e assegnate solo da Graduatorie di istituto. Nota Bari\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "3a2e9eaff2817e46",
+      "text": "Supplenze docenti anno scolastico 2025/26: l'ufficio Scolastico di Bari comunica di aver concluso le procedure di individuazione da GPS.\nL'articolo\nSupplenze docenti, dopo il 31 dicembre sono temporanee e assegnate solo da Graduatorie di istituto. Nota Bari\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-02T12:37:46.401965",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Supplenze docenti a gennaio 2026: posto accantonato concorso, sostegno in deroga, proroga e conferma. Tutte le nomine",
+      "url": "https://www.orizzontescuola.it/supplenze-docenti-a-gennaio-2026-posto-accantonato-concorso-sostegno-in-deroga-proroga-e-conferma-tutte-le-nomine/",
+      "date": "Fri, 02 Jan 2026 08:55:39 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Gennaio 2026: il 7 gennaio (8 solo per la Sicilia, a meno di diversa decisione delle singole istituzioni scolastiche) si rientra a scuola dopo le festività natalizie. Il docente supplente sarà confermato? Ci saranno nuove supplenze? Ecco tutte le risposte.\nL'articolo\nSupplenze docenti a gennaio 2026: posto accantonato concorso, sostegno in deroga, proroga e conferma. Tutte le nomine\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Gennaio 2026: il 7 gennaio (8 solo per la Sicilia, a meno di diversa decisione delle singole istituzioni scolastiche) si rientra a scuola dopo le festività natalizie. Il docente supplente sarà confermato? Ci saranno nuove supplenze? Ecco tutte le risposte.\nL'articolo\nSupplenze docenti a gennaio 2026: posto accantonato concorso, sostegno in deroga, proroga e conferma. Tutte le nomine\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "1b44c4ce4ab9f5c0",
+      "text": "Gennaio 2026: il 7 gennaio (8 solo per la Sicilia, a meno di diversa decisione delle singole istituzioni scolastiche) si rientra a scuola dopo le festività natalizie. Il docente supplente sarà confermato? Ci saranno nuove supplenze? Ecco tutte le risposte.\nL'articolo\nSupplenze docenti a gennaio 2026: posto accantonato concorso, sostegno in deroga, proroga e conferma. Tutte le nomine\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-02T12:37:46.902183",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
