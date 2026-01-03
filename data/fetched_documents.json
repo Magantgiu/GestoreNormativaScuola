@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-03T12:35:36.233405",
+  "last_fetch": "2026-01-03T18:26:26.842960",
   "stats": {
     "total": 350,
-    "fetched": 5,
-    "skipped": 95,
+    "fetched": 2,
+    "skipped": 98,
     "failed": 0,
     "pdfs": 0,
-    "html": 5
+    "html": 2
   },
-  "total_documents": 545,
+  "total_documents": 547,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -8014,6 +8014,36 @@
       "id": "c3f985bdf1535099",
       "text": "Il personale ATA assunto a tempo indeterminato è soggetto a un periodo di prova la cui durata varia in base all’area di inquadramento. La disciplina è contenuta nell’articolo 62 del CCNL Istruzione e Ricerca 2019/2021, sottoscritto il 18 gennaio 2024.\nL'articolo\nPeriodo di prova ATA: cosa succede in caso di lunga assenza per malattia\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2026-01-03T12:35:35.725771",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Immissioni in ruolo docenti con titolo estero inseriti negli elenchi ex art. 9 comma 4 del DM 119/2023: quando e come?",
+      "url": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-con-titolo-estero-inseriti-negli-elenchi-ex-art-9-comma-4-del-dm-119-2023-quando-e-come/",
+      "date": "Sat, 03 Jan 2026 14:15:58 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Daniela Nicolò portavoce Community Uniti per INDIRE porta l'attenzione sui docenti con titolo estero inseriti negli elenchi ex art. 9 comma 4 del DM 119/2023.\nL'articolo\nImmissioni in ruolo docenti con titolo estero inseriti negli elenchi ex art. 9 comma 4 del DM 119/2023: quando e come?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Daniela Nicolò portavoce Community Uniti per INDIRE porta l'attenzione sui docenti con titolo estero inseriti negli elenchi ex art. 9 comma 4 del DM 119/2023.\nL'articolo\nImmissioni in ruolo docenti con titolo estero inseriti negli elenchi ex art. 9 comma 4 del DM 119/2023: quando e come?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "6c154f7ae7621e4a",
+      "text": "Daniela Nicolò portavoce Community Uniti per INDIRE porta l'attenzione sui docenti con titolo estero inseriti negli elenchi ex art. 9 comma 4 del DM 119/2023.\nL'articolo\nImmissioni in ruolo docenti con titolo estero inseriti negli elenchi ex art. 9 comma 4 del DM 119/2023: quando e come?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-03T18:26:25.835158",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Trento, concorso per 210 docenti di sostegno: domande entro il 5 gennaio",
+      "url": "https://www.orizzontescuola.it/trento-concorso-per-210-docenti-di-sostegno-domande-entro-il-5-gennaio/",
+      "date": "Sat, 03 Jan 2026 13:55:05 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nella provincia autonoma di Trento è stato bandito\nun concorso per l’assunzione a tempo indeterminato di insegnanti di sostegno\nnelle scuole statali. I posti disponibili sono 210, distribuiti tra i diversi gradi scolastici.\nL'articolo\nTrento, concorso per 210 docenti di sostegno: domande entro il 5 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Nella provincia autonoma di Trento è stato bandito\nun concorso per l’assunzione a tempo indeterminato di insegnanti di sostegno\nnelle scuole statali. I posti disponibili sono 210, distribuiti tra i diversi gradi scolastici.\nL'articolo\nTrento, concorso per 210 docenti di sostegno: domande entro il 5 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "352405b81576b2d7",
+      "text": "Nella provincia autonoma di Trento è stato bandito\nun concorso per l’assunzione a tempo indeterminato di insegnanti di sostegno\nnelle scuole statali. I posti disponibili sono 210, distribuiti tra i diversi gradi scolastici.\nL'articolo\nTrento, concorso per 210 docenti di sostegno: domande entro il 5 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-03T18:26:26.335312",
       "document_type": "rss_full",
       "success": true
     }
