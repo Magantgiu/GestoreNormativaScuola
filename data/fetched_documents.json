@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-03T01:20:52.115945",
+  "last_fetch": "2026-01-03T06:29:45.872328",
   "stats": {
-    "total": 350,
-    "fetched": 0,
-    "skipped": 100,
+    "total": 325,
+    "fetched": 9,
+    "skipped": 91,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 9
   },
-  "total_documents": 531,
+  "total_documents": 540,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -7815,6 +7815,132 @@
       "fetched_at": "2026-01-02T18:27:44.901081",
       "document_type": "rss_full",
       "success": true
+    },
+    {
+      "title": "Decreto Dipartimentale n. 3706 del 5 dicembre 2025 - Decreto Dipartimentale n. 3706 del 5 dicembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3706-del-5-dicembre-2025",
+      "date": "2026-01-03T06:28:53.367404",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "45c9f494aacdc99b",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Dipartimentale n. 3706 del 5 dicembre 2025\nMartedì, 09 dicembre 2025\nDecreto Dipartimentale n. 3706 del 5 dicembre 2025\nNota Prot. n.\n3706\nUfficio: DGAFI\nDecreto di approvazione contratto stipulato per prestazione del Servizio relativo alla Commissione educativa italo francese per attuazione del Trattato del Quirinale\nDocumenti Allegati\nDecreto Dipartimentale n. 3706 del 5 dicembre 2025.pdf",
+      "size_chars": 454,
+      "success": true,
+      "fetched_at": "2026-01-03T06:29:03.402600",
+      "document_type": "html"
+    },
+    {
+      "title": "Decreto Ministeriale n. 238 del 28 novembre 2025 - Decreto Ministeriale n. 238 del 28 novembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-238-del-28-novembre-2025",
+      "date": "2026-01-03T06:28:53.367350",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "60b14313ff582bfc",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Ministeriale n. 238 del 28 novembre 2025\nMartedì, 09 dicembre 2025\nDecreto Ministeriale n. 238 del 28 novembre 2025\nNota Prot. n.\n238\nUfficio: DGSIOS ex DGSIP ufficio 2\nDisciplina delle modalità di erogazione del \"Fondo per promuovere i viaggi nella memoria ai campi di concentramento nazisti\" di cui all'articolo 2 bis, comma 3, della legge 20 luglio 2000, n. 211 - Risorse finalizzate a promuovere e incentivare, nel rispetto dell'autonomia scolastica, i \"viaggi nella memoria\" ai campi di concentramento nazisti, per gli studenti degli ultimi due anni delle scuole secondarie di secondo grado, accompagnati da percorsi didattici e formativi, al fine di far maturare la coscienza civica delle nuove generazioni rispetto all'estrema sofferenza patita dal popolo ebraico durante la persecuzione nazista della Shoah\nDocumenti Allegati\nDecreto Ministeriale n. 238 del 28 novembre 2025.pdf",
+      "size_chars": 947,
+      "success": true,
+      "fetched_at": "2026-01-03T06:29:07.382775",
+      "document_type": "html"
+    },
+    {
+      "title": "Decreto Direttoriale n. 3620 del 29 novembre 2025 - Decreto Direttoriale n. 3620 del 29 novembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3620-del-29-novembre-2025",
+      "date": "2026-01-03T06:28:53.367302",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "3aa536a9a3c8d9b2",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Direttoriale n. 3620 del 29 novembre 2025\nMartedì, 09 dicembre 2025\nDecreto Direttoriale n. 3620 del 29 novembre 2025\nNota Prot. n.\n3620\nUfficio: DGSIOS ex DGSIP ufficio 2\nDecreto di assegnazione fondi di bilancio, in favore degli UUSSRR, di euro 2.000.000,00 Cap. 3020 p.g. 1 E.F. 2025 - Risorse finalizzate a promuovere e incentivare, nel rispetto dell'autonomia scolastica, i \"viaggi nella memoria\" ai campi di concentramento nazisti, per gli studenti degli ultimi due anni delle scuole secondarie di secondo grado, accompagnati da percorsi didattici e formativi, al fine di far maturare la coscienza civica delle nuove generazioni rispetto all'estrema sofferenza patita dal popolo ebraico durante la persecuzione nazista della Shoah\nDocumenti Allegati\nDecreto Direttoriale n. 3620 del 29 novembre 2025.pdf",
+      "size_chars": 870,
+      "success": true,
+      "fetched_at": "2026-01-03T06:29:12.865919",
+      "document_type": "html"
+    },
+    {
+      "title": "Decreto Dirigenziale n. 56171 del 10 novembre 2025 - Decreto Dirigenziale n. 56171 del 10 novembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-56171-del-10-novembre-2025",
+      "date": "2026-01-03T06:28:53.367248",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "c6a601829ca85eef",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Dirigenziale n. 56171 del 10 novembre 2025\nMercoledì, 10 dicembre 2025\nDecreto Dirigenziale n. 56171 del 10 novembre 2025\nNota Prot. n.\n56171\nUfficio: DGRUF\nDetermina di affidare il servizio di fornitura e installazione di nr. 1 caldaia a condensazione per le esigenze degli uffici del Ministero dell'Istruzione e del Merito, sede di via Ippolito Nievo n.35, Roma, alla BLUTERMO SERVIZI S.R.L.\nDocumenti Allegati\nDecreto Dirigenziale n. 56171 del 10 novembre 2025 .pdf",
+      "size_chars": 529,
+      "success": true,
+      "fetched_at": "2026-01-03T06:29:17.348390",
+      "document_type": "html"
+    },
+    {
+      "title": "Decreto Dirigenziale n. 55584 del 31 ottobre 2025 - Decreto Dirigenziale n. 55584 del 31 ottobre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-55584-del-31-ottobre-2025",
+      "date": "2026-01-03T06:28:53.367182",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "a2fb5d0ccd946df5",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Dirigenziale n. 55584 del 31 ottobre 2025\nMercoledì, 10 dicembre 2025\nDecreto Dirigenziale n. 55584 del 31 ottobre 2025\nNota Prot. n.\n55584\nUfficio: DGRUF\nDetermina per l'affidamento mediante trattativa diretta il servizio di pulizia e lavaggio dei tendaggi presenti negli uffici del Ministero dell'Istruzione e del Merito di Roma, V.le Trastevere 76/A - 00153 Roma (RM), alla ditta individuale BARCHIESI MASSIMO.\nDocumenti Allegati\nDecreto Dirigenziale n. 55584 del 31 ottobre 2025.pdf",
+      "size_chars": 547,
+      "success": true,
+      "fetched_at": "2026-01-03T06:29:20.940157",
+      "document_type": "html"
+    },
+    {
+      "title": "Decreto Dirigenziale n. 56404 del 13 novembre 2025 - Decreto Dirigenziale n. 56404 del 13 novembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-56404-del-13-novembre-2025",
+      "date": "2026-01-03T06:28:53.367136",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "8dd0cd1d5de272c6",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Dirigenziale n. 56404 del 13 novembre 2025\nMercoledì, 10 dicembre 2025\nDecreto Dirigenziale n. 56404 del 13 novembre 2025\nNota Prot. n.\n56404\nUfficio: DGRUF\nDetermina per l'affidamento del servizio di fornitura e installazione di nr. 180 punti presa per gli uffici del Ministero dell'Istruzione e del Merito, sito in Viale Trastevere n. 76/A, Roma, alla GI.G.A. S.r.l.\nDocumenti Allegati\nDecreto Dirigenziale n. 56404 del 13 novembre 2025.pdf",
+      "size_chars": 503,
+      "success": true,
+      "fetched_at": "2026-01-03T06:29:26.857095",
+      "document_type": "html"
+    },
+    {
+      "title": "Decreto Dirigenziale n. 55986 del 6 novembre 2025 - Decreto Dirigenziale n. 55986 del 6 novembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-55986-del-6-novembre-2025",
+      "date": "2026-01-03T06:28:53.367085",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "5bee1f38ed4ffb06",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Dirigenziale n. 55986 del 6 novembre 2025\nMercoledì, 10 dicembre 2025\nDecreto Dirigenziale n. 55986 del 6 novembre 2025\nNota Prot. n.\n55986\nUfficio: DGRUF\nDetermina di affidamento, mediante Trattativa Diretta sul Me.Pa. (n. 5761835), per la stipula di una polizza assicurativa Kasko per i rischi di danneggiamento dell'autoveicolo e a copertura dei rischi per gli infortuni per il personale dell'amministrazione centrale in missione con mezzo proprio del Ministero dell'istruzione e del Merito, con la società AIG Europe S.A.\nDocumenti Allegati\nDecreto Dirigenziale n. 55986 del 6 novembre 2025",
+      "size_chars": 655,
+      "success": true,
+      "fetched_at": "2026-01-03T06:29:32.594501",
+      "document_type": "html"
+    },
+    {
+      "title": "Decreto Direttoriale n. 1788 del 3 dicembre 2025 - Decreto Direttoriale n. 1788 del 3 dicembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1788-del-3-dicembre-2025",
+      "date": "2026-01-03T06:28:53.367034",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "4b9b2d617e1ef042",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Direttoriale n. 1788 del 3 dicembre 2025\nMercoledì, 10 dicembre 2025\nDecreto Direttoriale n. 1788 del 3 dicembre 2025\nNota Prot. n.\n1788\nUfficio: DGRUF\nAutorizzazione all'emissione dell'impegno di Euro 21.716,00 a favore della Ares S.p.a. \"Spese relative alla manutenzione, di impianti ed attrezzature, all'adeguamento sicurezza nei luoghi di lavoro ed agli interventi di manutenzione ordinaria degli immobili\"\nDocumenti Allegati\nImpegno di spesa n 423 ARES S.p.a. Prot. 1788 3.12.25.pdf",
+      "size_chars": 548,
+      "success": true,
+      "fetched_at": "2026-01-03T06:29:37.959287",
+      "document_type": "html"
+    },
+    {
+      "title": "Decreto Direttoriale n. 1854 del 10 dicembre 2025 - Decreto Direttoriale n. 1854 del 10 dicembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1854-del-10-dicembre-2025",
+      "date": "2026-01-03T06:28:53.366989",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "0535816a4582b2f5",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Direttoriale n. 1854 del 10 dicembre 2025\nMercoledì, 10 dicembre 2025\nDecreto Direttoriale n. 1854 del 10 dicembre 2025\nNota Prot. n.\n1854\nUfficio: DGRUF\nAvvio delle procedure di acquisizione del servizio di rassegna stampa, periodo dal 01 gennaio 2026 al 31 dicembre 2026, per le sedi del Ministero dell'istruzione e del merito, sito in V.le Trastevere 76/A, Roma, mediante Trattativa Diretta sul MEPA con l'operatore economico DATA STAMPA S.r.l.\nDocumenti Allegati\nDetermina a contrarre n 60 DATA STAMPA SRL Prot. 1854 10.12.25.pdf",
+      "size_chars": 594,
+      "success": true,
+      "fetched_at": "2026-01-03T06:29:44.752677",
+      "document_type": "html"
     }
   ]
 }
