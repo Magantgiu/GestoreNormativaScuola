@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-04T12:36:29.490900",
+  "last_fetch": "2026-01-04T18:26:30.817039",
   "stats": {
-    "total": 350,
-    "fetched": 3,
-    "skipped": 97,
+    "total": 349,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 3
+    "html": 1
   },
-  "total_documents": 550,
+  "total_documents": 551,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -8090,6 +8090,21 @@
       "id": "c8d0e43170ba16f4",
       "text": "Il Ministero ha presentato ai sindacati la BOZZA del decreto relativo agli elenchi regionali per il ruolo, previsto dal DL 45/2025. Il testo avrebbe dovuto essere pubblicato entro il 31 dicembre, ma la data non è stata rispettata. Se ne riparlerà a gennaio.\nL'articolo\nElenchi regionali, ecco la novità delle immissioni in ruolo docenti 2026/27. Chi partecipa, chi ha la precedenza e chi la riserva. SCARICA LA GUIDA\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2026-01-04T12:36:28.983221",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Continuità didattica e conferma del docente di sostegno: la procedura ci sarà anche nel 2026/27. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/continuita-didattica-e-conferma-del-docente-di-sostegno-la-procedura-ci-sara-anche-nel-2026-27-pillole-di-question-time/",
+      "date": "Sun, 04 Jan 2026 14:35:01 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 24 novembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Simone Craparo della Gilda, è stata affrontata una questione legata alla continuità didattica. Un focus particolare è stato posto sulla conferma del docente da parte delle famiglie e sulle perplessità espresse dai sindacati.\nL'articolo\nContinuità didattica e conferma del docente di sostegno: la procedura ci sarà anche nel 2026/27. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuo",
+      "full_content": "Nel question time del 24 novembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Simone Craparo della Gilda, è stata affrontata una questione legata alla continuità didattica. Un focus particolare è stato posto sulla conferma del docente da parte delle famiglie e sulle perplessità espresse dai sindacati.\nL'articolo\nContinuità didattica e conferma del docente di sostegno: la procedura ci sarà anche nel 2026/27. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "3f682656ad1c341f",
+      "text": "Nel question time del 24 novembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Simone Craparo della Gilda, è stata affrontata una questione legata alla continuità didattica. Un focus particolare è stato posto sulla conferma del docente da parte delle famiglie e sulle perplessità espresse dai sindacati.\nL'articolo\nContinuità didattica e conferma del docente di sostegno: la procedura ci sarà anche nel 2026/27. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-04T18:26:30.309944",
       "document_type": "rss_full",
       "success": true
     }
