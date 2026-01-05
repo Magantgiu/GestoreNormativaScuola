@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-05T12:42:43.697330",
+  "last_fetch": "2026-01-05T18:31:19.321848",
   "stats": {
-    "total": 28,
-    "fetched": 7,
-    "skipped": 21,
+    "total": 53,
+    "fetched": 1,
+    "skipped": 52,
     "failed": 0,
     "pdfs": 0,
-    "html": 7
+    "html": 1
   },
-  "total_documents": 559,
+  "total_documents": 560,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -8224,6 +8224,21 @@
       "success": true,
       "fetched_at": "2026-01-05T12:42:42.237454",
       "document_type": "html"
+    },
+    {
+      "title": "Stipendio ATA 2026, da gennaio 2026 scattano i nuovi incrementi: fino a 206 euro mensili per i funzionari. Le tabelle",
+      "url": "https://www.orizzontescuola.it/stipendio-ata-2026-da-gennaio-2026-scattano-i-nuovi-incrementi-fino-a-206-euro-mensili-per-i-funzionari-le-tabelle/",
+      "date": "Mon, 05 Jan 2026 14:30:24 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Dal 2026 scattano gli aumenti mensili per il personale ATA, che oscillano tra i 95 euro dei collaboratori e i 206 euro dei funzionari in base all'anzianità di servizio. La misura rimodula al rialzo le retribuzioni di tutti i profili, inclusi assistenti e operatori, premiando la permanenza nel ruolo.\nL'articolo\nStipendio ATA 2026, da gennaio 2026 scattano i nuovi incrementi: fino a 206 euro mensili per i funzionari. Le tabelle\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Dal 2026 scattano gli aumenti mensili per il personale ATA, che oscillano tra i 95 euro dei collaboratori e i 206 euro dei funzionari in base all'anzianità di servizio. La misura rimodula al rialzo le retribuzioni di tutti i profili, inclusi assistenti e operatori, premiando la permanenza nel ruolo.\nL'articolo\nStipendio ATA 2026, da gennaio 2026 scattano i nuovi incrementi: fino a 206 euro mensili per i funzionari. Le tabelle\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "25a9fc6136c92ca5",
+      "text": "Dal 2026 scattano gli aumenti mensili per il personale ATA, che oscillano tra i 95 euro dei collaboratori e i 206 euro dei funzionari in base all'anzianità di servizio. La misura rimodula al rialzo le retribuzioni di tutti i profili, inclusi assistenti e operatori, premiando la permanenza nel ruolo.\nL'articolo\nStipendio ATA 2026, da gennaio 2026 scattano i nuovi incrementi: fino a 206 euro mensili per i funzionari. Le tabelle\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-05T18:31:18.814888",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
