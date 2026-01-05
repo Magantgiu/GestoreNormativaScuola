@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-05T06:36:36.155779",
+  "last_fetch": "2026-01-05T12:42:43.697330",
   "stats": {
-    "total": 349,
-    "fetched": 0,
-    "skipped": 100,
+    "total": 28,
+    "fetched": 7,
+    "skipped": 21,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 7
   },
-  "total_documents": 552,
+  "total_documents": 559,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -8122,6 +8122,108 @@
       "fetched_at": "2026-01-05T01:31:34.357590",
       "document_type": "rss_full",
       "success": true
+    },
+    {
+      "title": "Supplenze docenti 2025/26: nomine da GPS concluse anche a Frosinone",
+      "url": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-nomine-da-gps-concluse-anche-a-frosinone/",
+      "date": "Mon, 05 Jan 2026 11:52:08 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Anche l'Ambito territoriale di Frosinone ha comunicato di aver concluso da GPS per il conferimento degli incarichi a tempo determinato.\nL'articolo\nSupplenze docenti 2025/26: nomine da GPS concluse anche a Frosinone\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Anche l'Ambito territoriale di Frosinone ha comunicato di aver concluso da GPS per il conferimento degli incarichi a tempo determinato.\nL'articolo\nSupplenze docenti 2025/26: nomine da GPS concluse anche a Frosinone\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "7275d1252b6ee7be",
+      "text": "Anche l'Ambito territoriale di Frosinone ha comunicato di aver concluso da GPS per il conferimento degli incarichi a tempo determinato.\nL'articolo\nSupplenze docenti 2025/26: nomine da GPS concluse anche a Frosinone\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-05T12:42:28.666489",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Graduatorie terza fascia ATA: il mezzo punto scatta con almeno 16 giorni di supplenza",
+      "url": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-il-mezzo-punto-scatta-con-almeno-16-giorni-di-supplenza/",
+      "date": "Mon, 05 Jan 2026 11:04:14 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Gli aspiranti ATA inseriti in graduatoria, alle prese con le sostituzioni del personale titolare temporaneamente assente, devono raggiungere almeno i 16 giorni di servizio per ottenere il primo mezzo punto.\nL'articolo\nGraduatorie terza fascia ATA: il mezzo punto scatta con almeno 16 giorni di supplenza\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Gli aspiranti ATA inseriti in graduatoria, alle prese con le sostituzioni del personale titolare temporaneamente assente, devono raggiungere almeno i 16 giorni di servizio per ottenere il primo mezzo punto.\nL'articolo\nGraduatorie terza fascia ATA: il mezzo punto scatta con almeno 16 giorni di supplenza\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "770e94f2d7fcaee6",
+      "text": "Gli aspiranti ATA inseriti in graduatoria, alle prese con le sostituzioni del personale titolare temporaneamente assente, devono raggiungere almeno i 16 giorni di servizio per ottenere il primo mezzo punto.\nL'articolo\nGraduatorie terza fascia ATA: il mezzo punto scatta con almeno 16 giorni di supplenza\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-05T12:42:29.166663",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Graduatorie ATA 24 mesi, aggiornamento 2026: il servizio da assistente vale ancora per il collaboratore scolastico?",
+      "url": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-aggiornamento-2026-il-servizio-da-assistente-vale-ancora-per-il-collaboratore-scolastico/",
+      "date": "Mon, 05 Jan 2026 09:56:05 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Atteso in primavera l'aggiornamento delle graduatorie ATA 24 mesi, dette anche di prima fascia, utilizzate per l'attribuzione dei ruoli e delle supplenze al 30 giugno o 31 agosto. Resta il dubbio sulla possibilità di far valutare il servizio svolto come assistente per il profilo del collaboratore scolastico.\nL'articolo\nGraduatorie ATA 24 mesi, aggiornamento 2026: il servizio da assistente vale ancora per il collaboratore scolastico?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Atteso in primavera l'aggiornamento delle graduatorie ATA 24 mesi, dette anche di prima fascia, utilizzate per l'attribuzione dei ruoli e delle supplenze al 30 giugno o 31 agosto. Resta il dubbio sulla possibilità di far valutare il servizio svolto come assistente per il profilo del collaboratore scolastico.\nL'articolo\nGraduatorie ATA 24 mesi, aggiornamento 2026: il servizio da assistente vale ancora per il collaboratore scolastico?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "e0e569b6662c83ad",
+      "text": "Atteso in primavera l'aggiornamento delle graduatorie ATA 24 mesi, dette anche di prima fascia, utilizzate per l'attribuzione dei ruoli e delle supplenze al 30 giugno o 31 agosto. Resta il dubbio sulla possibilità di far valutare il servizio svolto come assistente per il profilo del collaboratore scolastico.\nL'articolo\nGraduatorie ATA 24 mesi, aggiornamento 2026: il servizio da assistente vale ancora per il collaboratore scolastico?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-05T12:42:29.666886",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Un lungo precariato incide negativamente sui livelli pensionistici: ecco come",
+      "url": "https://www.orizzontescuola.it/un-lungo-precariato-incide-negativamente-sui-livelli-pensionistici-ecco-come/",
+      "date": "Mon, 05 Jan 2026 07:40:36 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 29 dicembre su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Marcello Pacifico, è stata posta l’attenzione sul nesso tra la precarietà lavorativa nella scuola, il ritardo nell’ingresso in ruolo e le conseguenze a lungo termine su pensione, arretrati e riconoscimento dei diritti economici. L’intervento ha evidenziato criticità strutturali che continuano a incidere sulla carriera di migliaia di lavoratori del comparto.\nL'articolo\nUn lungo precariato incide negat",
+      "full_content": "Nel question time del 29 dicembre su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Marcello Pacifico, è stata posta l’attenzione sul nesso tra la precarietà lavorativa nella scuola, il ritardo nell’ingresso in ruolo e le conseguenze a lungo termine su pensione, arretrati e riconoscimento dei diritti economici. L’intervento ha evidenziato criticità strutturali che continuano a incidere sulla carriera di migliaia di lavoratori del comparto.\nL'articolo\nUn lungo precariato incide negativamente sui livelli pensionistici: ecco come\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "16c5cc9140fc035b",
+      "text": "Nel question time del 29 dicembre su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Marcello Pacifico, è stata posta l’attenzione sul nesso tra la precarietà lavorativa nella scuola, il ritardo nell’ingresso in ruolo e le conseguenze a lungo termine su pensione, arretrati e riconoscimento dei diritti economici. L’intervento ha evidenziato criticità strutturali che continuano a incidere sulla carriera di migliaia di lavoratori del comparto.\nL'articolo\nUn lungo precariato incide negativamente sui livelli pensionistici: ecco come\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-05T12:42:30.167078",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "CORSO DI FORMAZIONE DEI RAPPRESENTANTI DEI LAVORATORI PER LA SICUREZZA RLS – 32 ORE (SECONDA EDIZIONE!)",
+      "url": "https://www.cislscuolaromarieti.it/corso-di-formazione-dei-rappresentanti-dei-lavoratori-per-la-sicurezza-rls-32-ore-seconda-edizione/",
+      "date": "5 Gennaio 2026",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "56e240e87bdfba44",
+      "text": "IRSEF IRFED LAZIO E CISL SCUOLA LAZIO ORGANIZZANO\nCORSO DI FORMAZIONE DEI RAPPRESENTANTI DEI\nLAVORATORI PER LA SICUREZZA RLS\nArticolo 37, comma 11 del D.Lgs. 81/2008 e S.M.I.\nMODALITÀ VIDEOCONFERENZA SINCRONA\nSi comunica alle SS.LL. che nell’ambito dell’attuazione delle norme in materia di Salute e Sicurezza dei Luoghi di Lavoro saranno attivati i seguenti corsi:\n●\nCORSO DI FORMAZIONE DEI RAPPRESENTANTI DEI LAVORATORI PER LA SICUREZZA\nPER UN TOTALE DI 32 ORE – Costo del corso € 250\n●\nCORSO DI AGGIORNAMENTO DEI RAPPRESENTANTI DEI LAVORATORI PER LA SICUREZZA\nPER UN TOTALE DI 8 ORE – Costo del corso € 80\nPer tutte le informazioni relative al corso (relatori, tempi, calendario et.) CLICCA QUI\nShare\nArticoli correlati\n2 Gennaio 2026\nIn Gazzetta Ufficiale la legge di bilancio per il 2026. Sui contenuti della manovra una scheda illustrativa della CISL Scuola\nLeggi di più\n2 Gennaio 2026\nDecreto legge 200/2025 (“Milleproroghe”) in Gazzetta Ufficiale. Un scheda illustrativa della CISL Scuola\nLeggi di più",
+      "size_chars": 1009,
+      "success": true,
+      "fetched_at": "2026-01-05T12:42:33.920753",
+      "document_type": "html"
+    },
+    {
+      "title": "In Gazzetta Ufficiale la legge di bilancio per il 2026. Sui contenuti della manovra una scheda illustrativa della CISL Scuola",
+      "url": "https://www.cislscuolaromarieti.it/in-gazzetta-ufficiale-la-legge-di-bilancio-per-il-2026-sui-contenuti-della-manovra-una-scheda-illustrativa-della-cisl-scuola/",
+      "date": "2 Gennaio 2026",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "c4fa9ba098ef749e",
+      "text": "È stata pubblicata sulla Gazzetta Ufficiale n. 301, ed entra in vigore dal 1° gennaio 2026, la\nlegge 30.12.2025, n. 199\nconcernente il bilancio di previsione dello Stato per l’anno finanziario 2026.\nA cura dell’Ufficio sindacale – legale della CISL Scuola nazionale sono state riportate in una\nscheda di lettura\nle novità di maggior interesse per il personale della scuola.\nUn\ngiudizio articolato sui contenuti della legge\nè stato espresso dalla CISL, evidenziando i punti su cui trovano positivo riscontro le richieste avanzate in sede di confronto col Governo e i gruppi parlamentari e quelli su cui permane una posizione di dissenso.\nSi segnala anche l’\nintervista rilasciata al quotidiano Avvenire\ndalla segretaria generale della CISL,\nDaniela Fumarola\n.\nScheda_n.16_-_Legge_di_bilancio\nShare\nArticoli correlati\n5 Gennaio 2026\nCORSO DI FORMAZIONE DEI RAPPRESENTANTI DEI LAVORATORI PER LA SICUREZZA RLS – 32 ORE (SECONDA EDIZIONE!)\nLeggi di più\n2 Gennaio 2026\nDecreto legge 200/2025 (“Milleproroghe”) in Gazzetta Ufficiale. Un scheda illustrativa della CISL Scuola\nLeggi di più",
+      "size_chars": 1080,
+      "success": true,
+      "fetched_at": "2026-01-05T12:42:38.033677",
+      "document_type": "html"
+    },
+    {
+      "title": "Decreto legge 200/2025 (\"Milleproroghe\") in Gazzetta Ufficiale. Un scheda illustrativa della CISL Scuola",
+      "url": "https://www.cislscuolaromarieti.it/decreto-legge-200-2025-milleproroghe-in-gazzetta-ufficiale-un-scheda-illustrativa-della-cisl-scuola/",
+      "date": "2 Gennaio 2026",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "6c02bde831b70a50",
+      "text": "Sulla Gazzetta Ufficiale 302 del 31 dicembre 2025 è stato pubblicato il decreto-legge 31/12/2025 n. 200 contenente “\nDisposizioni urgenti in materia di termini normativi\n” (cosiddetto decreto “Mille proroghe”).\nIn allegato, il testo del decreto-legge e una scheda illustrativa predisposta dalla segreteria nazionale CISL Scuola (Ufficio sindacale – legale).\nD.L.200_-_1000_proroghe\nscheda-17-2025-1000proroghe\nShare\nArticoli correlati\n5 Gennaio 2026\nCORSO DI FORMAZIONE DEI RAPPRESENTANTI DEI LAVORATORI PER LA SICUREZZA RLS – 32 ORE (SECONDA EDIZIONE!)\nLeggi di più\n2 Gennaio 2026\nIn Gazzetta Ufficiale la legge di bilancio per il 2026. Sui contenuti della manovra una scheda illustrativa della CISL Scuola\nLeggi di più",
+      "size_chars": 720,
+      "success": true,
+      "fetched_at": "2026-01-05T12:42:42.237454",
+      "document_type": "html"
     }
   ]
 }
