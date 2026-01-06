@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-06T06:32:12.394838",
+  "last_fetch": "2026-01-06T12:40:57.945263",
   "stats": {
     "total": 28,
-    "fetched": 0,
-    "skipped": 28,
+    "fetched": 5,
+    "skipped": 23,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 5
   },
-  "total_documents": 560,
+  "total_documents": 565,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -8239,6 +8239,80 @@
       "fetched_at": "2026-01-05T18:31:18.814888",
       "document_type": "rss_full",
       "success": true
+    },
+    {
+      "title": "Dall’aggiornamento GaE e GPS, agli elenchi regionali per il ruolo. Parte il terzo ciclo per le abilitazioni. Tutte le novità 2026 a cura di Sonia Cannas",
+      "url": "https://www.orizzontescuola.it/dallaggiornamento-delle-gps-agli-elenchi-regionali-per-il-ruolo-parte-il-terzo-ciclo-per-le-abilitazioni-tutte-le-novita-2026-a-cura-di-sonia-cannas/",
+      "date": "Tue, 06 Jan 2026 12:00:21 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Durante la diretta su\nOrizzonte Scuola\n, Sonia Cannas ha evidenziato come\nil 2026 segna un momento di rilievo per le procedure concorsuali e le supplenze\n. In attesa dell'aggiornamento delle GPS, la nostra ospite ha fatto il punto anche sui percorsi abilitanti, gli elenchi regionali e lo stato dell'arte per quanto riguarda i concorsi.\nL'articolo\nDall’aggiornamento GaE e GPS, agli elenchi regionali per il ruolo. Parte il terzo ciclo per le abilitazioni. Tutte le novità 2026 a cura di Sonia Cannas",
+      "full_content": "Durante la diretta su\nOrizzonte Scuola\n, Sonia Cannas ha evidenziato come\nil 2026 segna un momento di rilievo per le procedure concorsuali e le supplenze\n. In attesa dell'aggiornamento delle GPS, la nostra ospite ha fatto il punto anche sui percorsi abilitanti, gli elenchi regionali e lo stato dell'arte per quanto riguarda i concorsi.\nL'articolo\nDall’aggiornamento GaE e GPS, agli elenchi regionali per il ruolo. Parte il terzo ciclo per le abilitazioni. Tutte le novità 2026 a cura di Sonia Cannas\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "c37609019a0b8d97",
+      "text": "Durante la diretta su\nOrizzonte Scuola\n, Sonia Cannas ha evidenziato come\nil 2026 segna un momento di rilievo per le procedure concorsuali e le supplenze\n. In attesa dell'aggiornamento delle GPS, la nostra ospite ha fatto il punto anche sui percorsi abilitanti, gli elenchi regionali e lo stato dell'arte per quanto riguarda i concorsi.\nL'articolo\nDall’aggiornamento GaE e GPS, agli elenchi regionali per il ruolo. Parte il terzo ciclo per le abilitazioni. Tutte le novità 2026 a cura di Sonia Cannas\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-06T12:40:50.928757",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Concorso docenti PNRR3, alle riserve fino al 50% dei posti in graduatoria. Chi ne ha diritto",
+      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-alle-riserve-fino-al-50-dei-posti-in-graduatoria-chi-ne-ha-diritto/",
+      "date": "Tue, 06 Jan 2026 08:47:28 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Concorso docenti PNRR3: quali candidati, superate le prove, avranno diritto alla riserva dei posti nella formulazione della graduatoria? L’art. 5 del D.P.R. 487/1994 come modificato dall’art. 1 l. e) del D.P.R. 82/2023 dispone \"Nei pubblici concorsi, le riserve di posti in favore di particolari categorie di cittadini, comunque denominate, non possono complessivamente superare la metà dei posti messi a concorso\".\nL'articolo\nConcorso docenti PNRR3, alle riserve fino al 50% dei posti in graduatoria",
+      "full_content": "Concorso docenti PNRR3: quali candidati, superate le prove, avranno diritto alla riserva dei posti nella formulazione della graduatoria? L’art. 5 del D.P.R. 487/1994 come modificato dall’art. 1 l. e) del D.P.R. 82/2023 dispone \"Nei pubblici concorsi, le riserve di posti in favore di particolari categorie di cittadini, comunque denominate, non possono complessivamente superare la metà dei posti messi a concorso\".\nL'articolo\nConcorso docenti PNRR3, alle riserve fino al 50% dei posti in graduatoria. Chi ne ha diritto\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "c915fd2857e199d4",
+      "text": "Concorso docenti PNRR3: quali candidati, superate le prove, avranno diritto alla riserva dei posti nella formulazione della graduatoria? L’art. 5 del D.P.R. 487/1994 come modificato dall’art. 1 l. e) del D.P.R. 82/2023 dispone \"Nei pubblici concorsi, le riserve di posti in favore di particolari categorie di cittadini, comunque denominate, non possono complessivamente superare la metà dei posti messi a concorso\".\nL'articolo\nConcorso docenti PNRR3, alle riserve fino al 50% dei posti in graduatoria. Chi ne ha diritto\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-06T12:40:51.429029",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Arretrati del personale scolastico: quando arrivano i pagamenti. Le date da tenere sott’occhio",
+      "url": "https://www.orizzontescuola.it/arretrati-del-personale-scolastico-quando-arrivano-i-pagamenti-le-date-da-tenere-sottocchio/",
+      "date": "Tue, 06 Jan 2026 08:36:49 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Dopo la firma definitiva del\ncontratto scuola 2022-2024\n, avvenuta a fine dicembre 2025, la questione degli arretrati economici è diventata prioritaria per docenti e personale ATA. Le cifre sono state definite, le tempistiche quasi interamente delineate. Restano da monitorare alcune date chiave, che scandiranno le operazioni di accredito e gestione dei conguagli previsti per gennaio 2026.\nL'articolo\nArretrati del personale scolastico: quando arrivano i pagamenti. Le date da tenere sott’occhio\nse",
+      "full_content": "Dopo la firma definitiva del\ncontratto scuola 2022-2024\n, avvenuta a fine dicembre 2025, la questione degli arretrati economici è diventata prioritaria per docenti e personale ATA. Le cifre sono state definite, le tempistiche quasi interamente delineate. Restano da monitorare alcune date chiave, che scandiranno le operazioni di accredito e gestione dei conguagli previsti per gennaio 2026.\nL'articolo\nArretrati del personale scolastico: quando arrivano i pagamenti. Le date da tenere sott’occhio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "c3139d1f1f76c168",
+      "text": "Dopo la firma definitiva del\ncontratto scuola 2022-2024\n, avvenuta a fine dicembre 2025, la questione degli arretrati economici è diventata prioritaria per docenti e personale ATA. Le cifre sono state definite, le tempistiche quasi interamente delineate. Restano da monitorare alcune date chiave, che scandiranno le operazioni di accredito e gestione dei conguagli previsti per gennaio 2026.\nL'articolo\nArretrati del personale scolastico: quando arrivano i pagamenti. Le date da tenere sott’occhio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-06T12:40:51.929245",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Se il docente precario non gode delle ferie, queste vanno retribuite",
+      "url": "https://www.orizzontescuola.it/se-il-docente-precario-non-gode-delle-ferie-queste-vanno-retribuite-anief/",
+      "date": "Tue, 06 Jan 2026 07:00:01 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Una docente impegnata in due incarichi annuali tra il 2022 e il 2024 si è rivolta al tribunale dopo essersi vista negare il pagamento per le ferie non utilizzate. La vicenda si è conclusa con il riconoscimento di un risarcimento pari a quasi 3.500 euro. Il tribunale del lavoro di Lanciano ha stabilito che l'amministrazione scolastica non può considerare un dipendente in ferie senza prima averlo informato e invitato formalmente a usufruirne.\nL'articolo\nSe il docente precario non gode delle ferie,",
+      "full_content": "Una docente impegnata in due incarichi annuali tra il 2022 e il 2024 si è rivolta al tribunale dopo essersi vista negare il pagamento per le ferie non utilizzate. La vicenda si è conclusa con il riconoscimento di un risarcimento pari a quasi 3.500 euro. Il tribunale del lavoro di Lanciano ha stabilito che l'amministrazione scolastica non può considerare un dipendente in ferie senza prima averlo informato e invitato formalmente a usufruirne.\nL'articolo\nSe il docente precario non gode delle ferie, queste vanno retribuite\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "e6d748d6324c3f96",
+      "text": "Una docente impegnata in due incarichi annuali tra il 2022 e il 2024 si è rivolta al tribunale dopo essersi vista negare il pagamento per le ferie non utilizzate. La vicenda si è conclusa con il riconoscimento di un risarcimento pari a quasi 3.500 euro. Il tribunale del lavoro di Lanciano ha stabilito che l'amministrazione scolastica non può considerare un dipendente in ferie senza prima averlo informato e invitato formalmente a usufruirne.\nL'articolo\nSe il docente precario non gode delle ferie, queste vanno retribuite\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-06T12:40:52.429457",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Il cordoglio della Cisl Scuola di Roma per la scomparsa del giovane Riccardo Minghetti",
+      "url": "https://www.cislscuolaromarieti.it/il-cordoglio-della-cisl-scuola-di-roma-per-la-scomparsa-del-giovane-riccardo-minghetti/",
+      "date": "6 Gennaio 2026",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "e995f99f35c82222",
+      "text": "Esprimiamo dolore per la scomparsa del giovane\nRiccardo Minghetti\n, 16 anni, studente presso il liceo scientifico “Stanislao Cannizzaro” dell’Eur, a causa della tragedia che si è consumata a\nCrans-Montana\n, in Svizzera, la notte di Capodanno.\nLa Cisl Scuola di Roma Capitale e Rieti si unisce al cordoglio della famiglia, dei parenti e degli amici del giovane Riccardo, la cui prematura scomparsa lascia sgomenti e frastornati.\nRivolgiamo, con commozione e fraterna solidarietà, le più sentite condoglianze ai genitori, alla sorella, agli amici e alla comunità scolastica del liceo scientifico “Stanislao Cannizzaro”.\nIL COMUNICATO\nShare\nArticoli correlati\n5 Gennaio 2026\nCORSO DI FORMAZIONE DEI RAPPRESENTANTI DEI LAVORATORI PER LA SICUREZZA RLS – 32 ORE (SECONDA EDIZIONE!)\nLeggi di più\n2 Gennaio 2026\nIn Gazzetta Ufficiale la legge di bilancio per il 2026. Sui contenuti della manovra una scheda illustrativa della CISL Scuola\nLeggi di più",
+      "size_chars": 942,
+      "success": true,
+      "fetched_at": "2026-01-06T12:40:56.611642",
+      "document_type": "html"
     }
   ]
 }
