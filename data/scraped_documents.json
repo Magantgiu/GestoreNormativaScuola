@@ -1,167 +1,13 @@
 {
-  "scraped_at": "2026-01-07T01:25:52.827752",
+  "scraped_at": "2026-01-07T06:31:44.516418",
   "stats": {
     "total_sources": 7,
     "successful": 7,
     "failed": 0,
-    "total_docs": 53,
-    "unique_documents": 53
+    "total_docs": 28,
+    "unique_documents": 28
   },
   "documents": [
-    {
-      "title": "Legge di bilancio: il Ministro Valditara vanta aumenti dei finanziamenti alla scuola? Ma non a quella della Costituzione",
-      "url": "https://www.flcgil.it/scuola/legge-di-bilancio-ministro-valditara-vanta-aumenti-finanziamenti-scuola-ma-non-quella-costituzione.flc",
-      "date": "Wed, 31 Dec 2025 15:30:51 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "In una recente intervista rilasciata dal Ministro Valditara si sostiene che, grazie all’ultima",
-      "full_content": "In una recente intervista rilasciata dal Ministro Valditara si sostiene che, grazie all’ultima",
-      "has_full_content": false,
-      "id": "bbbd18f0e99a2b79"
-    },
-    {
-      "title": "Concorsi Università al 30 dicembre 2025",
-      "url": "https://www.flcgil.it/universita/concorsi-universita-al-30-dicembre-2025.flc",
-      "date": "Wed, 31 Dec 2025 10:17:22 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Gazzetta Ufficiale n°101 del 30 dicembre 2025\nUNIVERSITÀ ALDO MORO DI BARI\nProcedura di selezione per la chiamata di tre professori di seconda fascia, vari...",
-      "full_content": "Gazzetta Ufficiale n°101 del 30 dicembre 2025\nUNIVERSITÀ ALDO MORO DI BARI\nProcedura di selezione per la chiamata di tre professori di seconda fascia, vari...",
-      "has_full_content": false,
-      "id": "f60fbc1190cfadb3"
-    },
-    {
-      "title": "Ccnl Istruzione, Flc: ecco perché non abbiamo firmato",
-      "url": "https://www.flcgil.it/rassegna-stampa/nazionale/ccnl-istruzione-flc-ecco-perche-non-abbiamo-firmato.flc",
-      "date": "Wed, 24 Dec 2025 09:28:48 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "“Retribuzioni insufficienti, mancato recupero dell’inflazione e scarsa valorizzazione professionale. La\nnostra non...",
-      "full_content": "“Retribuzioni insufficienti, mancato recupero dell’inflazione e scarsa valorizzazione professionale. La\nnostra non...",
-      "has_full_content": false,
-      "id": "b80355bdd8b2b4f8"
-    },
-    {
-      "title": "Legge 199 del 30 dicembre 2025 - Bilancio di previsione dello Stato anno finanziario 2026 e bilancio pluriennale triennio 2026-2028",
-      "url": "https://www.flcgil.it/leggi-normative/documenti/leggi/legge-199-del-30-dicembre-2025-bilancio-previsione-stato-anno-finanziario-2026-e-bilancio-pluriennale-triennio-2026-2028.flc",
-      "date": "Tue, 30 Dec 2025 23:54:00 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Bilancio di previsione dello Stato per l’anno finanziario 2026 e bilancio pluriennale per il triennio 2026-2028. Pubblicata in Gazzetta Ufficiale Serie Generale n. 301 del 30 dicembre 2025 - Supplemento Ordinario n. 42. Entrata in vigore del...",
-      "full_content": "Bilancio di previsione dello Stato per l’anno finanziario 2026 e bilancio pluriennale per il triennio 2026-2028. Pubblicata in Gazzetta Ufficiale Serie Generale n. 301 del 30 dicembre 2025 - Supplemento Ordinario n. 42. Entrata in vigore del...",
-      "has_full_content": true,
-      "id": "0545324c86c6cc12"
-    },
-    {
-      "title": "Assicurazione sanitaria integrativa: la FLC CGIL non firma il CCNI",
-      "url": "https://www.flcgil.it/scuola/assicurazione-sanitaria-integrativa-la-flc-cgil-non-firma-il-ccni.flc",
-      "date": "Tue, 30 Dec 2025 11:35:33 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "In data 29 dicembre 2025 si è svolto l’incontro tra il MIM e i sindacati scuola per la sottoscrizione definitiva del CCNI relativo all’individuazione dei criteri e delle modalità di accesso al...",
-      "full_content": "In data 29 dicembre 2025 si è svolto l’incontro tra il MIM e i sindacati scuola per la sottoscrizione definitiva del CCNI relativo all’individuazione dei criteri e delle modalità di accesso al...",
-      "has_full_content": false,
-      "id": "0d39d1bdd661b6c0"
-    },
-    {
-      "title": "Docenti, corsi di formazione in ingresso abilitanti: decreti ministeriali ancora non pubblicati ma alcuni atenei privati e telematici pubblicano i bandi",
-      "url": "https://www.flcgil.it/scuola/docenti/docenti-corsi-formazione-in-ingresso-abilitanti-decreti-ministeriali-ancora-non-pubblicati-alcuni-atenei-privati-e-telematici-pubblicano-bandi.flc",
-      "date": "Tue, 23 Dec 2025 21:09:49 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "La FLC CGIL ha\nscritto\nal Ministero dell’Istruzione e al Ministero dell’Università e della Ricerca in merito ai corsi di formazione in ingresso abilitanti.\n...",
-      "full_content": "La FLC CGIL ha\nscritto\nal Ministero dell’Istruzione e al Ministero dell’Università e della Ricerca in merito ai corsi di formazione in ingresso abilitanti.\n...",
-      "has_full_content": false,
-      "id": "3d3681ad4890cdb4"
-    },
-    {
-      "title": "Riapertura contrattazione integrativa di istituto: la nota ministeriale del 23 dicembre è illegittima e va ritirata",
-      "url": "https://www.flcgil.it/scuola/riapertura-contrattazione-integrativa-istituto-nota-ministeriale-23-dicembre-illegittima-va-ritirata.flc",
-      "date": "Tue, 23 Dec 2025 19:00:57 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Il Ministero dell’Istruzione e del Merito ha inviato alle scuole la",
-      "full_content": "Il Ministero dell’Istruzione e del Merito ha inviato alle scuole la",
-      "has_full_content": false,
-      "id": "3f2039330e79673b"
-    },
-    {
-      "title": "Specializzazioni “abbreviate” per il sostegno: tavolo di confronto al MIM",
-      "url": "https://www.flcgil.it/scuola/docenti/specializzazioni-abbreviate-per-il-sostegno-tavolo-di-confronto-al-mim.flc",
-      "date": "Tue, 23 Dec 2025 17:01:44 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "È proseguito, martedì 23 dicembre 2025 presso il Ministero dell’Istruzione, il confronto relativo allo Schema di Decreto Interministeriale recante modifiche ed integrazioni ai percorsi di specializzazione sul...",
-      "full_content": "È proseguito, martedì 23 dicembre 2025 presso il Ministero dell’Istruzione, il confronto relativo allo Schema di Decreto Interministeriale recante modifiche ed integrazioni ai percorsi di specializzazione sul...",
-      "has_full_content": true,
-      "id": "46734685af0d856e"
-    },
-    {
-      "title": "CCNL comparto “Istruzione e Ricerca” 2022-2024 del 23 dicembre 2025",
-      "url": "https://www.flcgil.it/contratti/documenti/istruzione-e-ricerca/ccnl-comparto-istruzione-e-ricerca-2022-2024-del-23-dicembre-2025.flc",
-      "date": "Tue, 23 Dec 2025 15:00:00 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Il testo del Contratto collettivo nazionale di lavoro sugli aspetti normativi e del trattamento economico di docenti, personale ATA, ricercatori, tecnologi, lettori/CEL, tecnici, amministrativi del comparto che comprende scuola, universit&agrave...",
-      "full_content": "Il testo del Contratto collettivo nazionale di lavoro sugli aspetti normativi e del trattamento economico di docenti, personale ATA, ricercatori, tecnologi, lettori/CEL, tecnici, amministrativi del comparto che comprende scuola, universit&agrave...",
-      "has_full_content": true,
-      "id": "afb75d0ef968d442"
-    },
-    {
-      "title": "In difesa del lavoro e della pace",
-      "url": "https://www.flcgil.it/ricerca/in-difesa-del-lavoro-e-della-pace.flc",
-      "date": "Tue, 23 Dec 2025 14:22:49 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Il 2025 si avvia a conclusione e possiamo dire che in INDIRE è stato un anno positivo per quanto riguarda la lotta al precariato: più di 70 lavoratori e lavoratrici hanno firmato un contratto a tempo indeterminato...",
-      "full_content": "Il 2025 si avvia a conclusione e possiamo dire che in INDIRE è stato un anno positivo per quanto riguarda la lotta al precariato: più di 70 lavoratori e lavoratrici hanno firmato un contratto a tempo indeterminato...",
-      "has_full_content": true,
-      "id": "37c147ad2ec19efa"
-    },
-    {
-      "title": "CCNL “Istruzione e Ricerca” 2022-2024: la FLC CGIL non firma",
-      "url": "https://www.flcgil.it/contratto-istruzione-ricerca/ccnl-istruzione-e-ricerca-2022-2024-flc-cgil-non-firma.flc",
-      "date": "Tue, 23 Dec 2025 12:55:00 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "In data 23 dicembre 2025, l’ARAN insieme a CISL, UIL, SNALS, GILDA e ANIEF hanno definitivamente sottoscritto il CCNL “Istruzione e Ricerca” per il triennio 2022-2024 per i settori...",
-      "full_content": "In data 23 dicembre 2025, l’ARAN insieme a CISL, UIL, SNALS, GILDA e ANIEF hanno definitivamente sottoscritto il CCNL “Istruzione e Ricerca” per il triennio 2022-2024 per i settori...",
-      "has_full_content": false,
-      "id": "bf941e8fca3b84c1"
-    },
-    {
-      "title": "Contratto “Istruzione e Ricerca” 2022/2024, FLC CGIL: retribuzioni insufficienti, non firmiamo",
-      "url": "https://www.flcgil.it/comunicati-stampa/flc/contratto-istruzione-e-ricerca-2022-2024-flc-cgil-retribuzioni-insufficienti-non-firmiamo.flc",
-      "date": "Tue, 23 Dec 2025 12:47:13 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "“Retribuzioni insufficienti, mancato recupero dell’inflazione e scarsa valorizzazione professionale. La nostra non firma è una scelta coerente con il mandato della consultazione delle lavoratrici e dei lavoratori”. &Egrave...",
-      "full_content": "“Retribuzioni insufficienti, mancato recupero dell’inflazione e scarsa valorizzazione professionale. La nostra non firma è una scelta coerente con il mandato della consultazione delle lavoratrici e dei lavoratori”. &Egrave...",
-      "has_full_content": true,
-      "id": "c16cb2e9ff4ff061"
-    },
-    {
-      "title": "Nota 83754 del 23 dicembre 2025 - Rettifica comunicazione riapertura contrattazione integrativa d’istituto per utilizzo ulteriori risorse MOF",
-      "url": "https://www.flcgil.it/leggi-normative/documenti/note-ministeriali/nota-83754-del-23-dicembre-2025-rettifica-comunicazione-riapertura-contrattazione-integrativa-d-istituto-per-utilizzo-ulteriori-risorse-mof.flc",
-      "date": "Tue, 23 Dec 2025 09:49:00 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Nota 83754 del 23 dicembre 2025 - Rettifica comunicazione riapertura contrattazione integrativa d’istituto per utilizzo ulteriori risorse MOF",
-      "full_content": "Nota 83754 del 23 dicembre 2025 - Rettifica comunicazione riapertura contrattazione integrativa d’istituto per utilizzo ulteriori risorse MOF",
-      "has_full_content": false,
-      "id": "c1182d14fab7a829"
-    },
-    {
-      "title": "Semplificazione amministrativa: al via l’integrazione del registro elettronico per la gestione automatizzata delle assenze",
-      "url": "https://www.flcgil.it/scuola/semplificazione-amministrativa-al-via-integrazione-registro-elettronico-per-gestione-automatizzata-assenze.flc",
-      "date": "Tue, 23 Dec 2025 09:04:11 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Nel corso del secondo incontro del 19 dicembre 2025, predisposto dall’Amministrazione con il gruppo di lavoro rappresentativo delle organizzazioni sindacali, è stato fatto il punto sullo stato di avanzamento del progetto &ldquo...",
-      "full_content": "Nel corso del secondo incontro del 19 dicembre 2025, predisposto dall’Amministrazione con il gruppo di lavoro rappresentativo delle organizzazioni sindacali, è stato fatto il punto sullo stato di avanzamento del progetto &ldquo...",
-      "has_full_content": true,
-      "id": "a81693bc8a9a3865"
-    },
     {
       "title": "Dall’aggiornamento GaE e GPS, agli elenchi regionali per il ruolo. Parte il terzo ciclo per le abilitazioni. Tutte le novità 2026 a cura di Sonia Cannas",
       "url": "https://www.orizzontescuola.it/dallaggiornamento-delle-gps-agli-elenchi-regionali-per-il-ruolo-parte-il-terzo-ciclo-per-le-abilitazioni-tutte-le-novita-2026-a-cura-di-sonia-cannas/",
@@ -240,17 +86,6 @@
       "id": "539e6a91ad3e665d"
     },
     {
-      "title": "Aumenti nominali, tagli reali: la verità sulla Legge di Bilancio 2026 [SCHEDA]",
-      "url": "https://www.flcgil.it/attualita/aumenti-nominali-tagli-reali-verita-legge-bilancio-2026-scheda.flc",
-      "date": "Sun, 04 Jan 2026 10:43:00 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "La Legge di Bilancio 2026 (",
-      "full_content": "La Legge di Bilancio 2026 (",
-      "has_full_content": false,
-      "id": "4e6f0fc981515634"
-    },
-    {
       "title": "Posizioni economiche ATA, quando si svolgeranno le prove finali? In attesa del nuovo calendario",
       "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-quando-si-svolgeranno-le-prove-finali-in-attesa-del-nuovo-calendario/",
       "date": "Sat, 03 Jan 2026 10:49:50 +0000",
@@ -282,116 +117,6 @@
       "full_content": "Il personale ATA assunto a tempo indeterminato è soggetto a un periodo di prova la cui durata varia in base all’area di inquadramento. La disciplina è contenuta nell’articolo 62 del CCNL Istruzione e Ricerca 2019/2021, sottoscritto il 18 gennaio 2024.\nL'articolo\nPeriodo di prova ATA: cosa succede in caso di lunga assenza per malattia\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "6af3534d94fc3d6d"
-    },
-    {
-      "title": "Dirigenti scolastici FLC CGIL: su suicidio Mendico inaccettabile strumentalizzazione per campagna contro scuola e personale scolastico",
-      "url": "https://www.flcgil.it/comunicati-stampa/dirigenti-scolastici-flc-cgil-su-suicidio-mendico-inaccettabile-strumentalizzazione-per-campagna-contro-scuola-e-personale-scolastico.flc",
-      "date": "Mon, 29 Dec 2025 16:55:43 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Roma, 29 dicembre – “In questi giorni assistiamo all’anticipazione sui media di contenuti, parziali e decontestualizzati, degli esiti della visita ispettiva disposta dall'ufficio scolastico regionale del Lazio a seguito della...",
-      "full_content": "Roma, 29 dicembre – “In questi giorni assistiamo all’anticipazione sui media di contenuti, parziali e decontestualizzati, degli esiti della visita ispettiva disposta dall'ufficio scolastico regionale del Lazio a seguito della...",
-      "has_full_content": true,
-      "id": "47bc9cea597056e7"
-    },
-    {
-      "title": "Concorsi Università al 23 dicembre 2025",
-      "url": "https://www.flcgil.it/universita/concorsi-universita-al-23-dicembre-2025.flc",
-      "date": "Mon, 29 Dec 2025 11:32:50 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Gazzetta Ufficiale n°100 del 23 dicembre 2025\nPOLITECNICO DI MILANO\nProcedura di selezione per la copertura di un posto di ricercatore a tempo determinato, GSD...",
-      "full_content": "Gazzetta Ufficiale n°100 del 23 dicembre 2025\nPOLITECNICO DI MILANO\nProcedura di selezione per la copertura di un posto di ricercatore a tempo determinato, GSD...",
-      "has_full_content": false,
-      "id": "0d2eb49e2dda5f8e"
-    },
-    {
-      "title": "Scuola: rivolgersi al sindacato è un diritto, non una colpa. Il Tribunale di Grosseto condanna la condotta antisindacale",
-      "url": "https://www.flcgil.it/regioni/toscana/grosseto/scuola-rivolgersi-sindacato--diritto-non-una-colpa-tribunale-grosseto-condanna-condotta-antisindacale.flc",
-      "date": "Mon, 29 Dec 2025 10:43:04 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "L’importante decreto del Giudice del Lavoro di Grosseto riafferma la libertà di azione sindacale e tutela i lavoratori dalle intimidazioni, annullando il richiamo formale inflitto a una docente e delegata RSU.\nI...",
-      "full_content": "L’importante decreto del Giudice del Lavoro di Grosseto riafferma la libertà di azione sindacale e tutela i lavoratori dalle intimidazioni, annullando il richiamo formale inflitto a una docente e delegata RSU.\nI...",
-      "has_full_content": true,
-      "id": "dc7ba0b9853bdb81"
-    },
-    {
-      "title": "Sudicio Mendico, Flc: “No a campagna contro personale scolastico”",
-      "url": "https://www.flcgil.it/rassegna-stampa/sudicio-mendico-flc-no-a-campagna-contro-personale-scolastico.flc",
-      "date": "Mon, 29 Dec 2025 09:09:00 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "La Flc Cgil interviene sulle ultime rivelazioni emerse dalla stampa, a proposito del suicidio di Paolo Mendico, che lo scorso 11 settembre si è tolto la vita, a 14 anni. Secondo le notizie...",
-      "full_content": "La Flc Cgil interviene sulle ultime rivelazioni emerse dalla stampa, a proposito del suicidio di Paolo Mendico, che lo scorso 11 settembre si è tolto la vita, a 14 anni. Secondo le notizie...",
-      "has_full_content": false,
-      "id": "8b1f3a76945d85ee"
-    },
-    {
-      "title": "Conferenza Globale di Education International sull'IA: un appuntamento per i sindacati dell’istruzione su un tema attuale e impellente",
-      "url": "https://www.flcgil.it/attualita/estero/conferenza-globale-education-international-ia-appuntamento-per-sindacati-istruzione-tema-attuale-impellente.flc",
-      "date": "Mon, 22 Dec 2025 17:56:25 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Il 4 e 5 dicembre 2025 Education International (EI) ha riunito a Bruxelles rappresentanti sindacali, educatori ed esperti per affrontare l'impatto dell'IA sull'istruzione e la ricerca. Mentre le aziende...",
-      "full_content": "Il 4 e 5 dicembre 2025 Education International (EI) ha riunito a Bruxelles rappresentanti sindacali, educatori ed esperti per affrontare l'impatto dell'IA sull'istruzione e la ricerca. Mentre le aziende...",
-      "has_full_content": true,
-      "id": "6a3230b1a96bfcfc"
-    },
-    {
-      "title": "ISTAT: firmato un protocollo d'intesa con l'amministrazione",
-      "url": "https://www.flcgil.it/enti/istat/notizie/istat-firmato-un-protocollo-d-intesa-con-l-amministrazione.flc",
-      "date": "Mon, 22 Dec 2025 17:42:03 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Di seguito il comunicato unitario al personale inviato oggi, dopo la firma del protocollo d'intesa con l'amministrazione. Non è stato possibile firmare l'ipotesi di contratto integrativa sull'accessorio 2025, perch&eacute...",
-      "full_content": "Di seguito il comunicato unitario al personale inviato oggi, dopo la firma del protocollo d'intesa con l'amministrazione. Non è stato possibile firmare l'ipotesi di contratto integrativa sull'accessorio 2025, perch&eacute...",
-      "has_full_content": true,
-      "id": "7d288b8e19497e14"
-    },
-    {
-      "title": "comunicato unitario protocollo d intesa istat 22 dicembre 2025",
-      "url": "https://www.flcgil.it/enti/istat/comunicati/comunicato-unitario-protocollo-d-intesa-istat-22-dicembre-2025.flc",
-      "date": "Mon, 22 Dec 2025 17:40:32 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "comunicato unitario protocollo d intesa istat 22 dicembre 2025",
-      "full_content": "comunicato unitario protocollo d intesa istat 22 dicembre 2025",
-      "has_full_content": false,
-      "id": "8004d7b4456db0a6"
-    },
-    {
-      "title": "Gestione acquisti e semplificazione delle procedure contabili delle scuole: avviato il tavolo al MIM",
-      "url": "https://www.flcgil.it/scuola/gestione-acquisti-e-semplificazione-delle-procedure-contabili-delle-scuole-avviato-il-tavolo-al-mim.flc",
-      "date": "Mon, 22 Dec 2025 14:33:08 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Nell’incontro svolto nella mattinata del 22 dicembre 2025 l’Amministrazione, rappresentata dai Dirigenti responsabili del Dipartimento e della Direzione Generale, ha illustrato, il percorso di lavoro sulla Gestione acquisti delle...",
-      "full_content": "Nell’incontro svolto nella mattinata del 22 dicembre 2025 l’Amministrazione, rappresentata dai Dirigenti responsabili del Dipartimento e della Direzione Generale, ha illustrato, il percorso di lavoro sulla Gestione acquisti delle...",
-      "has_full_content": true,
-      "id": "fe13aaff2a41634e"
-    },
-    {
-      "title": "Avviato il tavolo al MIM su “Flussi di Cassa e Agenti contabili”",
-      "url": "https://www.flcgil.it/scuola/avviato-tavolo-mim-flussi-di-cassa-e-agenti-contabili.flc",
-      "date": "Mon, 22 Dec 2025 14:28:05 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Nell’incontro svolto nella mattinata del 22 dicembre 2025 l’Amministrazione ha illustrato il percorso di lavoro del Ministero sulla tematica dei Flussi di cassa e conti giudiziali\nL’Amministrazione ha...",
-      "full_content": "Nell’incontro svolto nella mattinata del 22 dicembre 2025 l’Amministrazione ha illustrato il percorso di lavoro del Ministero sulla tematica dei Flussi di cassa e conti giudiziali\nL’Amministrazione ha...",
-      "has_full_content": true,
-      "id": "0d09d53ac1774edf"
-    },
-    {
-      "title": "Semplificazioni amministrative: secondo incontro sul fascicolo digitale del personale",
-      "url": "https://www.flcgil.it/scuola/semplificazioni-amministrative-secondo-incontro-fascicolo-digitale-personale.flc",
-      "date": "Mon, 22 Dec 2025 13:49:21 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Si è tenuto venerdì 19 dicembre il secondo incontro del gruppo di lavoro dedicato al fascicolo digitale del personale, nell'ambito dei percorsi di semplificazione burocratica e amministrativa attivati dal MIM...",
-      "full_content": "Si è tenuto venerdì 19 dicembre il secondo incontro del gruppo di lavoro dedicato al fascicolo digitale del personale, nell'ambito dei percorsi di semplificazione burocratica e amministrativa attivati dal MIM...",
-      "has_full_content": true,
-      "id": "00b43b682dbfa122"
     },
     {
       "title": "Supplenze 2026: tante scuole cercano insegnanti per supplenze dal 7 gennaio. Gli interpelli",
@@ -542,7 +267,7 @@
     {
       "title": "Avviso Pubblico per la manifestazione di interesse ai fini dell’individuazione di enti, associazioni e enti del Terzo settore idonei ad accogliere studenti e studentesse sottoposti alla sanzione di allontanamento dalle lezioni",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2025/12/29/avviso-pubblico-per-la-manifestazione-di-interesse-ai-fini-dellindividuazione-di-enti-associazioni-e-enti-del-terzo-settore-idonei-ad-accogliere-studenti-e-studentesse-sottoposti-alla-sanzio/",
-      "date": "2026-01-07T01:25:51.826361",
+      "date": "2026-01-07T06:31:43.514864",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -551,7 +276,7 @@
     {
       "title": "Indizione Gare Nazionali 2026  (AFM – RIM – SIA) – nota prot. n. 10170 del 03/12/2025",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2025/12/29/indizione-gare-nazionali-2026-afm-rim-sia-nota-prot-n-10170-del-03-12-2025/",
-      "date": "2026-01-07T01:25:51.826340",
+      "date": "2026-01-07T06:31:43.514842",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
