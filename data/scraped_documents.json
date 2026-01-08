@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-08T06:32:21.518448",
+  "scraped_at": "2026-01-08T12:41:26.679417",
   "stats": {
     "total_sources": 7,
     "successful": 7,
     "failed": 0,
-    "total_docs": 53,
-    "unique_documents": 53
+    "total_docs": 54,
+    "unique_documents": 54
   },
   "documents": [
     {
@@ -75,17 +75,6 @@
       "id": "9c4572e8d7f0ed75"
     },
     {
-      "title": "Supplenze 2026: riaprono le scuole dopo pausa natalizia, si cercano insegnanti. Gli interpelli",
-      "url": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-      "date": "Wed, 07 Jan 2026 14:44:03 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Supplenze docenti 2025/26: è confermata la procedura di interpello prevista dall'OM n. 88/2024. Gli interpelli saranno proposti quando le graduatorie risulteranno esaurite, ossia non ci saranno più aspiranti che potranno accettare l'incarico proposto. L'interpello è diramato a livello nazionale tramite gli Uffici Scolastici.\nL'articolo\nSupplenze 2026: riaprono le scuole dopo pausa natalizia, si cercano insegnanti. Gli interpelli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Supplenze docenti 2025/26: è confermata la procedura di interpello prevista dall'OM n. 88/2024. Gli interpelli saranno proposti quando le graduatorie risulteranno esaurite, ossia non ci saranno più aspiranti che potranno accettare l'incarico proposto. L'interpello è diramato a livello nazionale tramite gli Uffici Scolastici.\nL'articolo\nSupplenze 2026: riaprono le scuole dopo pausa natalizia, si cercano insegnanti. Gli interpelli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "7b6f9af0faed761b"
-    },
-    {
       "title": "Concorso docenti PNRR3, avvio delle prove orali. Lettere estratte [AGGIORNATO]",
       "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-lettera-estratta-per-avvio-delle-prove-orali-in-aggiornamento/",
       "date": "Wed, 07 Jan 2026 14:09:44 +0000",
@@ -95,17 +84,6 @@
       "full_content": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: ecco le lettere estratte per l'avvio delle prove orali. Avvisi USR in aggiornamento.\nL'articolo\nConcorso docenti PNRR3, avvio delle prove orali. Lettere estratte [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "fec45725eb418d1a"
-    },
-    {
-      "title": "Supplenze 2025/26: ancora nomine da GPS su posti disponibili entro il 31 dicembre [AGGIORNATO]",
-      "url": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
-      "date": "Wed, 07 Jan 2026 12:51:08 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Ultimo turno di nomina dalle GPS è stato attribuito il 31 dicembre 2025. Quasi tutti gli Uffici Scolastici hanno posto la presa di servizio il 7 gennaio (si consiglia di controllare il relativo decreto).  I posti derivanti dalle rinunce dovranno essere trattati ancora una volta da GPS, in quanto comunque disponibili entro il 31 dicembre.\nL'articolo\nSupplenze 2025/26: ancora nomine da GPS su posti disponibili entro il 31 dicembre [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Ultimo turno di nomina dalle GPS è stato attribuito il 31 dicembre 2025. Quasi tutti gli Uffici Scolastici hanno posto la presa di servizio il 7 gennaio (si consiglia di controllare il relativo decreto).  I posti derivanti dalle rinunce dovranno essere trattati ancora una volta da GPS, in quanto comunque disponibili entro il 31 dicembre.\nL'articolo\nSupplenze 2025/26: ancora nomine da GPS su posti disponibili entro il 31 dicembre [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "cf253127f369bd0a"
     },
     {
       "title": "Immissioni in ruolo docenti 2026/27, ecco quanti candidati ancora in graduatoria. Utile per gli elenchi regionali",
@@ -218,61 +196,6 @@
       "id": "afb75d0ef968d442"
     },
     {
-      "title": "In difesa del lavoro e della pace",
-      "url": "https://www.flcgil.it/ricerca/in-difesa-del-lavoro-e-della-pace.flc",
-      "date": "Tue, 23 Dec 2025 14:22:49 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Il 2025 si avvia a conclusione e possiamo dire che in INDIRE è stato un anno positivo per quanto riguarda la lotta al precariato: più di 70 lavoratori e lavoratrici hanno firmato un contratto a tempo indeterminato...",
-      "full_content": "Il 2025 si avvia a conclusione e possiamo dire che in INDIRE è stato un anno positivo per quanto riguarda la lotta al precariato: più di 70 lavoratori e lavoratrici hanno firmato un contratto a tempo indeterminato...",
-      "has_full_content": true,
-      "id": "37c147ad2ec19efa"
-    },
-    {
-      "title": "CCNL “Istruzione e Ricerca” 2022-2024: la FLC CGIL non firma",
-      "url": "https://www.flcgil.it/contratto-istruzione-ricerca/ccnl-istruzione-e-ricerca-2022-2024-flc-cgil-non-firma.flc",
-      "date": "Tue, 23 Dec 2025 12:55:00 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "In data 23 dicembre 2025, l’ARAN insieme a CISL, UIL, SNALS, GILDA e ANIEF hanno definitivamente sottoscritto il CCNL “Istruzione e Ricerca” per il triennio 2022-2024 per i settori...",
-      "full_content": "In data 23 dicembre 2025, l’ARAN insieme a CISL, UIL, SNALS, GILDA e ANIEF hanno definitivamente sottoscritto il CCNL “Istruzione e Ricerca” per il triennio 2022-2024 per i settori...",
-      "has_full_content": false,
-      "id": "bf941e8fca3b84c1"
-    },
-    {
-      "title": "Contratto “Istruzione e Ricerca” 2022/2024, FLC CGIL: retribuzioni insufficienti, non firmiamo",
-      "url": "https://www.flcgil.it/comunicati-stampa/flc/contratto-istruzione-e-ricerca-2022-2024-flc-cgil-retribuzioni-insufficienti-non-firmiamo.flc",
-      "date": "Tue, 23 Dec 2025 12:47:13 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "“Retribuzioni insufficienti, mancato recupero dell’inflazione e scarsa valorizzazione professionale. La nostra non firma è una scelta coerente con il mandato della consultazione delle lavoratrici e dei lavoratori”. &Egrave...",
-      "full_content": "“Retribuzioni insufficienti, mancato recupero dell’inflazione e scarsa valorizzazione professionale. La nostra non firma è una scelta coerente con il mandato della consultazione delle lavoratrici e dei lavoratori”. &Egrave...",
-      "has_full_content": true,
-      "id": "c16cb2e9ff4ff061"
-    },
-    {
-      "title": "Nota 83754 del 23 dicembre 2025 - Rettifica comunicazione riapertura contrattazione integrativa d’istituto per utilizzo ulteriori risorse MOF",
-      "url": "https://www.flcgil.it/leggi-normative/documenti/note-ministeriali/nota-83754-del-23-dicembre-2025-rettifica-comunicazione-riapertura-contrattazione-integrativa-d-istituto-per-utilizzo-ulteriori-risorse-mof.flc",
-      "date": "Tue, 23 Dec 2025 09:49:00 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Nota 83754 del 23 dicembre 2025 - Rettifica comunicazione riapertura contrattazione integrativa d’istituto per utilizzo ulteriori risorse MOF",
-      "full_content": "Nota 83754 del 23 dicembre 2025 - Rettifica comunicazione riapertura contrattazione integrativa d’istituto per utilizzo ulteriori risorse MOF",
-      "has_full_content": false,
-      "id": "c1182d14fab7a829"
-    },
-    {
-      "title": "Semplificazione amministrativa: al via l’integrazione del registro elettronico per la gestione automatizzata delle assenze",
-      "url": "https://www.flcgil.it/scuola/semplificazione-amministrativa-al-via-integrazione-registro-elettronico-per-gestione-automatizzata-assenze.flc",
-      "date": "Tue, 23 Dec 2025 09:04:11 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Nel corso del secondo incontro del 19 dicembre 2025, predisposto dall’Amministrazione con il gruppo di lavoro rappresentativo delle organizzazioni sindacali, è stato fatto il punto sullo stato di avanzamento del progetto &ldquo...",
-      "full_content": "Nel corso del secondo incontro del 19 dicembre 2025, predisposto dall’Amministrazione con il gruppo di lavoro rappresentativo delle organizzazioni sindacali, è stato fatto il punto sullo stato di avanzamento del progetto &ldquo...",
-      "has_full_content": true,
-      "id": "a81693bc8a9a3865"
-    },
-    {
       "title": "Dall’aggiornamento GaE e GPS, agli elenchi regionali per il ruolo. Parte il terzo ciclo per le abilitazioni. Tutte le novità 2026 a cura di Sonia Cannas",
       "url": "https://www.orizzontescuola.it/dallaggiornamento-delle-gps-agli-elenchi-regionali-per-il-ruolo-parte-il-terzo-ciclo-per-le-abilitazioni-tutte-le-novita-2026-a-cura-di-sonia-cannas/",
       "date": "Tue, 06 Jan 2026 12:00:21 +0000",
@@ -282,28 +205,6 @@
       "full_content": "Durante la diretta su\nOrizzonte Scuola\n, Sonia Cannas ha evidenziato come\nil 2026 segna un momento di rilievo per le procedure concorsuali e le supplenze\n. In attesa dell'aggiornamento delle GPS, la nostra ospite ha fatto il punto anche sui percorsi abilitanti, gli elenchi regionali e lo stato dell'arte per quanto riguarda i concorsi.\nL'articolo\nDall’aggiornamento GaE e GPS, agli elenchi regionali per il ruolo. Parte il terzo ciclo per le abilitazioni. Tutte le novità 2026 a cura di Sonia Cannas\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "271fe5e7665a66f5"
-    },
-    {
-      "title": "Concorso docenti PNRR3, alle riserve fino al 50% dei posti in graduatoria. Chi ne ha diritto",
-      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-alle-riserve-fino-al-50-dei-posti-in-graduatoria-chi-ne-ha-diritto/",
-      "date": "Tue, 06 Jan 2026 08:47:28 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Concorso docenti PNRR3: quali candidati, superate le prove, avranno diritto alla riserva dei posti nella formulazione della graduatoria? L’art. 5 del D.P.R. 487/1994 come modificato dall’art. 1 l. e) del D.P.R. 82/2023 dispone \"Nei pubblici concorsi, le riserve di posti in favore di particolari categorie di cittadini, comunque denominate, non possono complessivamente superare la metà dei posti messi a concorso\".\nL'articolo\nConcorso docenti PNRR3, alle riserve fino al 50% dei posti in graduatoria",
-      "full_content": "Concorso docenti PNRR3: quali candidati, superate le prove, avranno diritto alla riserva dei posti nella formulazione della graduatoria? L’art. 5 del D.P.R. 487/1994 come modificato dall’art. 1 l. e) del D.P.R. 82/2023 dispone \"Nei pubblici concorsi, le riserve di posti in favore di particolari categorie di cittadini, comunque denominate, non possono complessivamente superare la metà dei posti messi a concorso\".\nL'articolo\nConcorso docenti PNRR3, alle riserve fino al 50% dei posti in graduatoria. Chi ne ha diritto\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "b8ebb61d78e9eeb3"
-    },
-    {
-      "title": "Posizioni economiche ATA: il simulatore per esercitarti a superare l’esame",
-      "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-simulatore-e-video-lezioni-per-superare-la-prova-finale/",
-      "date": "Tue, 06 Jan 2026 08:40:17 +0000",
-      "source": "Orizzonte Scuola - ATA",
-      "type": "rss_article",
-      "description": "Il test finale per il personale ATA che ha frequentato i corsi di formazione per l’attribuzione delle nuove 46mila posizioni economiche slitterà a Gennaio, perché il Ministero ha deciso di riassegnare le sedi. La notizia è ormai confermata, dopo le anticipazioni della nostra testata. Per esercitarti nello studio e nella preparazione all’esame, il team di […]\nL'articolo\nPosizioni economiche ATA: il simulatore per esercitarti a superare l’esame\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Il test finale per il personale ATA che ha frequentato i corsi di formazione per l’attribuzione delle nuove 46mila posizioni economiche slitterà a Gennaio, perché il Ministero ha deciso di riassegnare le sedi. La notizia è ormai confermata, dopo le anticipazioni della nostra testata. Per esercitarti nello studio e nella preparazione all’esame, il team di […]\nL'articolo\nPosizioni economiche ATA: il simulatore per esercitarti a superare l’esame\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "aa80df70eae4eba0"
     },
     {
       "title": "Arretrati del personale scolastico: quando arrivano i pagamenti. Le date da tenere sott’occhio",
@@ -317,26 +218,147 @@
       "id": "d110ca6c29ea1749"
     },
     {
-      "title": "Se il docente precario non gode delle ferie, queste vanno retribuite",
-      "url": "https://www.orizzontescuola.it/se-il-docente-precario-non-gode-delle-ferie-queste-vanno-retribuite-anief/",
-      "date": "Tue, 06 Jan 2026 07:00:01 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "title": "Aggiornamento GAE 2026-2028: pubblicato l’avviso e il decreto sul portale INPA",
+      "url": "https://www.flcgil.it/scuola/precari/aggiornamento-gae-2026-2028-pubblicato-avviso-e-decreto-portale-inpa.flc",
+      "date": "Thu, 08 Jan 2026 13:02:41 +0100",
+      "source": "FLC CGIL",
       "type": "rss_article",
-      "description": "Una docente impegnata in due incarichi annuali tra il 2022 e il 2024 si è rivolta al tribunale dopo essersi vista negare il pagamento per le ferie non utilizzate. La vicenda si è conclusa con il riconoscimento di un risarcimento pari a quasi 3.500 euro. Il tribunale del lavoro di Lanciano ha stabilito che l'amministrazione scolastica non può considerare un dipendente in ferie senza prima averlo informato e invitato formalmente a usufruirne.\nL'articolo\nSe il docente precario non gode delle ferie,",
-      "full_content": "Una docente impegnata in due incarichi annuali tra il 2022 e il 2024 si è rivolta al tribunale dopo essersi vista negare il pagamento per le ferie non utilizzate. La vicenda si è conclusa con il riconoscimento di un risarcimento pari a quasi 3.500 euro. Il tribunale del lavoro di Lanciano ha stabilito che l'amministrazione scolastica non può considerare un dipendente in ferie senza prima averlo informato e invitato formalmente a usufruirne.\nL'articolo\nSe il docente precario non gode delle ferie, queste vanno retribuite\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "d85e4be242b04ad6"
+      "description": "Il Ministero del’Istruzione\nha pubblicato sul portale INPA\nl’avviso con il Decreto...",
+      "full_content": "Il Ministero del’Istruzione\nha pubblicato sul portale INPA\nl’avviso con il Decreto...",
+      "has_full_content": false,
+      "id": "f4c3654907c18b61"
     },
     {
-      "title": "GPS Graduatorie 2026/28 vecchie e nuove regole: requisiti di accesso, domanda, info per  le supplenze. Lalla vi spiegherà tutto nella newsletter “Diventare insegnanti”",
-      "url": "https://www.orizzontescuola.it/gps-graduatorie-2026-28-vecchi-e-nuove-regole-requisiti-di-accesso-domanda-info-per-le-supplenze-lalla-vi-spieghera-tutto-nella-newsletter-diventare-insegnanti/",
-      "date": "Tue, 06 Jan 2026 06:39:59 +0000",
+      "title": "nota flc cgil istat concorsi del 7 gennaio 2026",
+      "url": "https://www.flcgil.it/enti/istat/documenti/nota-flc-cgil-istat-concorsi-del-7-gennaio-2026.flc",
+      "date": "Thu, 08 Jan 2026 12:54:26 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "nota flc cgil istat concorsi del 7 gennaio 2026",
+      "full_content": "nota flc cgil istat concorsi del 7 gennaio 2026",
+      "has_full_content": false,
+      "id": "51579779ac1562c4"
+    },
+    {
+      "title": "nota flc cgil istat concorsi 29 dicembre 2025",
+      "url": "https://www.flcgil.it/enti/istat/documenti/nota-flc-cgil-istat-concorsi-29-dicembre-2025.flc",
+      "date": "Thu, 08 Jan 2026 12:48:16 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "nota flc cgil istat concorsi 29 dicembre 2025",
+      "full_content": "nota flc cgil istat concorsi 29 dicembre 2025",
+      "has_full_content": false,
+      "id": "6ea5fd8bdb02d476"
+    },
+    {
+      "title": "ISTAT - accordo integrativo scorrimento 54 del 18 dicembre 2025",
+      "url": "https://www.flcgil.it/enti/istat/contratti-accordi-integrativi/istat-accordo-integrativo-scorrimento-54-del-18-dicembre-2025.flc",
+      "date": "Thu, 08 Jan 2026 12:36:04 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "ISTAT - accordo integrativo scorrimento 54 del 18 dicembre 2025",
+      "full_content": "ISTAT - accordo integrativo scorrimento 54 del 18 dicembre 2025",
+      "has_full_content": false,
+      "id": "538dbba0aa2c9ace"
+    },
+    {
+      "title": "Istat, articolo 54: scorrimento e nuova graduatoria, pubblicate le delibere prima del 31 dicembre!",
+      "url": "https://www.flcgil.it/enti/istat/notizie/articolo-54-scorrimento-e-nuova-graduatoria-pubblicate-le-delibere-prima-del-31-dicembre.flc",
+      "date": "Thu, 08 Jan 2026 12:28:38 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Dopo la firma definitiva dell’accordo il 18 dicembre da parte del direttore generale, venerdì 19 dicembre è stata pubblicata la delibera dei 76 scorrimenti delle graduatorie art. 54.",
+      "full_content": "Dopo la firma definitiva dell’accordo il 18 dicembre da parte del direttore generale, venerdì 19 dicembre è stata pubblicata la delibera dei 76 scorrimenti delle graduatorie art. 54.",
+      "has_full_content": false,
+      "id": "b610fc9baf8aec0a"
+    },
+    {
+      "title": "Protocollo d'intesa Istat 22 dicembre 2025",
+      "url": "https://www.flcgil.it/enti/istat/contratti-accordi-integrativi/protocollo-d-intesa-istat-22-dicembre-2025.flc",
+      "date": "Thu, 08 Jan 2026 12:19:47 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Protocollo d'intesa Istat 22 dicembre 2025",
+      "full_content": "Protocollo d'intesa Istat 22 dicembre 2025",
+      "has_full_content": false,
+      "id": "3c389b84a715b20d"
+    },
+    {
+      "title": "Supplenze 2025/26: ancora nomine da GPS su posti disponibili entro il 31 dicembre [AGGIORNATO]",
+      "url": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
+      "date": "Thu, 08 Jan 2026 12:00:08 +0000",
       "source": "Orizzonte Scuola - Diventare Insegnanti",
       "type": "rss_article",
-      "description": "Si avvicina la pubblicazione dell’Ordinanza relativa alle Graduatorie GPS per il biennio 2026/28. Particolare attenzione deve essere prestata alla compilazione della domanda GPS, i controlli saranno più accurati e tempestivi. Offriamo ai nostri lettori una GUIDA completa per i singoli passaggi del testo, ampliando i nostri servizi di aiuto e consulenza. Lalla vi spiegherà tutto. […]\nL'articolo\nGPS Graduatorie 2026/28 vecchie e nuove regole: requisiti di accesso, domanda, info per  le supplenze. ",
-      "full_content": "Si avvicina la pubblicazione dell’Ordinanza relativa alle Graduatorie GPS per il biennio 2026/28. Particolare attenzione deve essere prestata alla compilazione della domanda GPS, i controlli saranno più accurati e tempestivi. Offriamo ai nostri lettori una GUIDA completa per i singoli passaggi del testo, ampliando i nostri servizi di aiuto e consulenza. Lalla vi spiegherà tutto. […]\nL'articolo\nGPS Graduatorie 2026/28 vecchie e nuove regole: requisiti di accesso, domanda, info per  le supplenze. Lalla vi spiegherà tutto nella newsletter “Diventare insegnanti”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "description": "Ultimo turno di nomina dalle GPS è stato attribuito il 31 dicembre 2025. Quasi tutti gli Uffici Scolastici hanno posto la presa di servizio il 7 gennaio (si consiglia di controllare il relativo decreto).  I posti derivanti dalle rinunce dovranno essere trattati ancora una volta da GPS, in quanto comunque disponibili entro il 31 dicembre.\nL'articolo\nSupplenze 2025/26: ancora nomine da GPS su posti disponibili entro il 31 dicembre [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Ultimo turno di nomina dalle GPS è stato attribuito il 31 dicembre 2025. Quasi tutti gli Uffici Scolastici hanno posto la presa di servizio il 7 gennaio (si consiglia di controllare il relativo decreto).  I posti derivanti dalle rinunce dovranno essere trattati ancora una volta da GPS, in quanto comunque disponibili entro il 31 dicembre.\nL'articolo\nSupplenze 2025/26: ancora nomine da GPS su posti disponibili entro il 31 dicembre [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
-      "id": "539e6a91ad3e665d"
+      "id": "cf253127f369bd0a"
+    },
+    {
+      "title": "Supplenze 2026: riaprono le scuole dopo pausa natalizia, si cercano insegnanti. Gli interpelli",
+      "url": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+      "date": "Thu, 08 Jan 2026 12:00:03 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Supplenze docenti 2025/26: è confermata la procedura di interpello prevista dall'OM n. 88/2024. Gli interpelli saranno proposti quando le graduatorie risulteranno esaurite, ossia non ci saranno più aspiranti che potranno accettare l'incarico proposto. L'interpello è diramato a livello nazionale tramite gli Uffici Scolastici.\nL'articolo\nSupplenze 2026: riaprono le scuole dopo pausa natalizia, si cercano insegnanti. Gli interpelli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Supplenze docenti 2025/26: è confermata la procedura di interpello prevista dall'OM n. 88/2024. Gli interpelli saranno proposti quando le graduatorie risulteranno esaurite, ossia non ci saranno più aspiranti che potranno accettare l'incarico proposto. L'interpello è diramato a livello nazionale tramite gli Uffici Scolastici.\nL'articolo\nSupplenze 2026: riaprono le scuole dopo pausa natalizia, si cercano insegnanti. Gli interpelli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "7b6f9af0faed761b"
+    },
+    {
+      "title": "Graduatorie ad Esaurimento (GaE): domanda dall’8 gennaio ore 12:00 al 22 gennaio. DECRETO, tabelle titoli e percentuali genere [SPECIALE]",
+      "url": "https://www.orizzontescuola.it/graduatorie-ad-esaurimento-gae-domanda-dall8-gennaio-ore-1200-al-22-gennaio-possibili-i-reinserimenti/",
+      "date": "Thu, 08 Jan 2026 11:27:25 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "GaE Graduatorie ad esaurimento: la domanda di aggiornamento, permanenza o reinserimento potrà essere presentata in modalità telematica alla sede territoriale dell'Ufficio Scolastico scelto dal 8 gennaio (dalle 12:00) al 22 gennaio (alle 23:59). Le graduatorie hanno validità per gli anni scolastici 2026/2027 e 2027/2028, e possono essere utilizzate per: assunzioni a tempo indeterminato; supplenze annuali (31 agosto); supplenze fino al termine delle attività didattiche (30 giugno).\nL'articolo\nGrad",
+      "full_content": "GaE Graduatorie ad esaurimento: la domanda di aggiornamento, permanenza o reinserimento potrà essere presentata in modalità telematica alla sede territoriale dell'Ufficio Scolastico scelto dal 8 gennaio (dalle 12:00) al 22 gennaio (alle 23:59). Le graduatorie hanno validità per gli anni scolastici 2026/2027 e 2027/2028, e possono essere utilizzate per: assunzioni a tempo indeterminato; supplenze annuali (31 agosto); supplenze fino al termine delle attività didattiche (30 giugno).\nL'articolo\nGraduatorie ad Esaurimento (GaE): domanda dall’8 gennaio ore 12:00 al 22 gennaio. DECRETO, tabelle titoli e percentuali genere [SPECIALE]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "a9e58aabfe9d1b41"
+    },
+    {
+      "title": "GaE Graduatorie ad esaurimento: ecco la domanda e la GUIDA MIM, scadenza 22 gennaio",
+      "url": "https://www.orizzontescuola.it/gae-graduatorie-ad-esaurimento-ecco-la-domanda-e-la-guida-mim-scadenza-22-gennaio/",
+      "date": "Thu, 08 Jan 2026 11:20:15 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Da oggi alle 12.00 è attiva la presentazione della domanda per le GaE Graduatorie ad esaurimento 2026/27 e 2027/28. Scadenza 22 gennaio ore 23.59.\nL'articolo\nGaE Graduatorie ad esaurimento: ecco la domanda e la GUIDA MIM, scadenza 22 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Da oggi alle 12.00 è attiva la presentazione della domanda per le GaE Graduatorie ad esaurimento 2026/27 e 2027/28. Scadenza 22 gennaio ore 23.59.\nL'articolo\nGaE Graduatorie ad esaurimento: ecco la domanda e la GUIDA MIM, scadenza 22 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "a3cc33bb7e0ac1d3"
+    },
+    {
+      "title": "Scuola: nuove tutele per conciliare salute e lavoro [SCHEDA]",
+      "url": "https://www.flcgil.it/scuola/scuola-nuove-tutele-per-conciliare-salute-lavoro-scheda.flc",
+      "date": "Thu, 08 Jan 2026 10:30:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "La legge 18 luglio 2025, n. 106 introduce nuove misure di tutela per il personale della scuola affetto da malattie oncologiche, invalidanti o croniche. Tra le principali novità: 10 ore annue aggiuntive di permesso...",
+      "full_content": "La legge 18 luglio 2025, n. 106 introduce nuove misure di tutela per il personale della scuola affetto da malattie oncologiche, invalidanti o croniche. Tra le principali novità: 10 ore annue aggiuntive di permesso...",
+      "has_full_content": true,
+      "id": "8812274ca729d329"
+    },
+    {
+      "title": "Iscrizione contemporanea a due percorsi universitari: cosa prevede la normativa. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/iscrizione-contemporanea-a-due-percorsi-universitari-cosa-prevede-la-normativa-pillole-di-question-time/",
+      "date": "Thu, 08 Jan 2026 08:20:19 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 5 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sara Cannas, docente esperta, è stata discussa una questione importante relativa alla possibilità di iscriversi contemporaneamente a due percorsi universitari. Un focus particolare è stato posto sul caso specifico di chi intende frequentare sia un percorso abilitante sia un corso CLIL.\nL'articolo\nIscrizione contemporanea a due percorsi universitari: cosa prevede la normativa. Pillole di Question T",
+      "full_content": "Nel question time del 5 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sara Cannas, docente esperta, è stata discussa una questione importante relativa alla possibilità di iscriversi contemporaneamente a due percorsi universitari. Un focus particolare è stato posto sul caso specifico di chi intende frequentare sia un percorso abilitante sia un corso CLIL.\nL'articolo\nIscrizione contemporanea a due percorsi universitari: cosa prevede la normativa. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "3c8dfdab2e729321"
+    },
+    {
+      "title": "Posizioni economiche ATA: il simulatore per esercitarti a superare l’esame",
+      "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-simulatore-e-video-lezioni-per-superare-la-prova-finale/",
+      "date": "Thu, 08 Jan 2026 05:52:17 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Il test finale per il personale ATA che ha frequentato i corsi di formazione per l’attribuzione delle nuove 46mila posizioni economiche slitterà a Gennaio, perché il Ministero ha deciso di riassegnare le sedi. La notizia è ormai confermata, dopo le anticipazioni della nostra testata. Per esercitarti nello studio e nella preparazione all’esame, il team di […]\nL'articolo\nPosizioni economiche ATA: il simulatore per esercitarti a superare l’esame\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Il test finale per il personale ATA che ha frequentato i corsi di formazione per l’attribuzione delle nuove 46mila posizioni economiche slitterà a Gennaio, perché il Ministero ha deciso di riassegnare le sedi. La notizia è ormai confermata, dopo le anticipazioni della nostra testata. Per esercitarti nello studio e nella preparazione all’esame, il team di […]\nL'articolo\nPosizioni economiche ATA: il simulatore per esercitarti a superare l’esame\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "aa80df70eae4eba0"
     },
     {
       "title": "Aumenti nominali, tagli reali: la verità sulla Legge di Bilancio 2026 [SCHEDA]",
@@ -425,28 +447,6 @@
       "full_content": "La Flc Cgil interviene sulle ultime rivelazioni emerse dalla stampa, a proposito del suicidio di Paolo Mendico, che lo scorso 11 settembre si è tolto la vita, a 14 anni. Secondo le notizie...",
       "has_full_content": false,
       "id": "9e2f134d76685de6"
-    },
-    {
-      "title": "Conferenza Globale di Education International sull'IA: un appuntamento per i sindacati dell’istruzione su un tema attuale e impellente",
-      "url": "https://www.flcgil.it/attualita/estero/conferenza-globale-education-international-ia-appuntamento-per-sindacati-istruzione-tema-attuale-impellente.flc",
-      "date": "Mon, 22 Dec 2025 17:56:25 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Il 4 e 5 dicembre 2025 Education International (EI) ha riunito a Bruxelles rappresentanti sindacali, educatori ed esperti per affrontare l'impatto dell'IA sull'istruzione e la ricerca. Mentre le aziende...",
-      "full_content": "Il 4 e 5 dicembre 2025 Education International (EI) ha riunito a Bruxelles rappresentanti sindacali, educatori ed esperti per affrontare l'impatto dell'IA sull'istruzione e la ricerca. Mentre le aziende...",
-      "has_full_content": true,
-      "id": "6a3230b1a96bfcfc"
-    },
-    {
-      "title": "ISTAT: firmato un protocollo d'intesa con l'amministrazione",
-      "url": "https://www.flcgil.it/enti/istat/notizie/istat-firmato-un-protocollo-d-intesa-con-l-amministrazione.flc",
-      "date": "Mon, 22 Dec 2025 17:42:03 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Di seguito il comunicato unitario al personale inviato oggi, dopo la firma del protocollo d'intesa con l'amministrazione. Non è stato possibile firmare l'ipotesi di contratto integrativa sull'accessorio 2025, perch&eacute...",
-      "full_content": "Di seguito il comunicato unitario al personale inviato oggi, dopo la firma del protocollo d'intesa con l'amministrazione. Non è stato possibile firmare l'ipotesi di contratto integrativa sull'accessorio 2025, perch&eacute...",
-      "has_full_content": true,
-      "id": "7d288b8e19497e14"
     },
     {
       "title": "Stipendio ATA 2026, da gennaio 2026 scattano i nuovi incrementi: fino a 206 euro mensili per i funzionari. Le tabelle",
@@ -542,7 +542,7 @@
     {
       "title": "Avviso Pubblico per la manifestazione di interesse ai fini dell’individuazione di enti, associazioni e enti del Terzo settore idonei ad accogliere studenti e studentesse sottoposti alla sanzione di allontanamento dalle lezioni",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2025/12/29/avviso-pubblico-per-la-manifestazione-di-interesse-ai-fini-dellindividuazione-di-enti-associazioni-e-enti-del-terzo-settore-idonei-ad-accogliere-studenti-e-studentesse-sottoposti-alla-sanzio/",
-      "date": "2026-01-08T06:32:20.516793",
+      "date": "2026-01-08T12:41:25.678244",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -551,11 +551,20 @@
     {
       "title": "Indizione Gare Nazionali 2026  (AFM – RIM – SIA) – nota prot. n. 10170 del 03/12/2025",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2025/12/29/indizione-gare-nazionali-2026-afm-rim-sia-nota-prot-n-10170-del-03-12-2025/",
-      "date": "2026-01-08T06:32:20.516770",
+      "date": "2026-01-08T12:41:25.678231",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
       "id": "9beb1e8938646ed2"
+    },
+    {
+      "title": "Decreto Ministeriale n. 247 del 10 dicembre 2025 – Aggiornamento delle graduatorie ad esaurimento del personale docente ed educativo e delle graduatorie di istituto di I fascia del personale docente ed educativo, valevoli per gli anni scolastici 2026/2027 e 2027/28",
+      "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/08/decreto-ministeriale-n-247-del-10-dicembre-2025-aggiornamento-delle-graduatorie-ad-esaurimento-del-personale-docente-ed-educativo-e-delle-graduatorie-di-istituto-di-i-fascia-del-personale-docente-e/",
+      "date": "2026-01-08T12:41:25.678174",
+      "source": "USR Lazio",
+      "type": "comunicazione",
+      "description": "",
+      "id": "8a2d06d5e74793a6"
     },
     {
       "title": "In Gazzetta Ufficiale la legge di bilancio per il 2026. Sui contenuti della manovra una scheda illustrativa della CISL Scuola",
