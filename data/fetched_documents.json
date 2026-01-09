@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-09T12:41:02.525372",
+  "last_fetch": "2026-01-09T18:30:26.816907",
   "stats": {
-    "total": 52,
-    "fetched": 7,
-    "skipped": 45,
+    "total": 53,
+    "fetched": 5,
+    "skipped": 48,
     "failed": 0,
     "pdfs": 0,
-    "html": 7
+    "html": 5
   },
-  "total_documents": 600,
+  "total_documents": 605,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -8847,6 +8847,78 @@
       "size_chars": 4686,
       "success": true,
       "fetched_at": "2026-01-09T12:41:01.234685",
+      "document_type": "html"
+    },
+    {
+      "title": "Nota FLC CGIL ISTAT concorsi del 9 gennaio 2026",
+      "url": "https://www.flcgil.it/enti/istat/documenti/nota-flc-cgil-istat-concorsi-del-9-gennaio-2026.flc",
+      "date": "Fri, 09 Jan 2026 13:57:01 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Nota FLC CGIL ISTAT concorsi del 9 gennaio 2026",
+      "full_content": "Nota FLC CGIL ISTAT concorsi del 9 gennaio 2026",
+      "has_full_content": false,
+      "id": "675cabc494157704",
+      "text": "FLC\nScuola\nUniversità e AFAM\nRicerca\nRisorse\nApprofondimenti\nArgomenti\nContratti\nNormativa\nRSU\nSpeciali\nChi siamo\nDove siamo\nContattaci\nLogo Mini\nFacebook\nTwitter\nYouTube\nNotizie\nComunicati\nRSU\nContrattazione\nPrecariato\nPolitiche della ricerca\nRisorse\nArgomenti\nContratti integrativi\nRegolamenti\nAtti dell'Ente\nhttps://www.flcgil.it/@3973121\nHome\n»\nEnti\n»\nISTAT\n»\nDocumenti\n»\nNota FLC CGIL ISTAT concorsi del 9 gennaio 2026\nNota FLC CGIL ISTAT concorsi del 9 gennaio 2026\nScarica il documento\nTweet\nInvia ad un amico\nStampa\nTag:\nconcorsi e selezioni\nI nostri rappresentanti\nComitato di Ente FLC CGIL\nServizi e comunicazioni\nServizi assicurativi per iscritte/i e RSU\nI più letti\n17 dicembre, i Precari della Ricerca ancora in piazza! Per le stabilizzazioni ultima chiamata per il governo\nIstat: incontro su salario accessorio IV-VIII e allocazione presso le sedi territoriali\nIOS dell'Istat: subito gli aumenti in busta paga!\nISTAT: usciti i bandi di concorso per oltre 200 posti, la FLC CGIL chiede di correggere alcune anomalie\nIstat, articolo 54: scorrimento e nuova graduatoria, pubblicate le delibere prima del 31 dicembre!\nISTAT: firmato un protocollo d'intesa con l'amministrazione\nSeguici su facebook\nAltre notizie da flcgil.it\nPNRR: notizie e provvedimenti\nMessina: contrattazione di scuola, censurata la condotta antisindacale di una dirigente scolastica\nIOS dell'Istat: subito gli aumenti in busta paga!\nISTAT: usciti i bandi di concorso per oltre 200 posti, la FLC CGIL chiede di correggere alcune anomalie\nAggiornamento GAE 2026-2028: pubblicato l’avviso e il decreto sul portale INPA\nIstat, articolo 54: scorrimento e nuova graduatoria, pubblicate le delibere prima del 31 dicembre!\nTutte le notizie\nNotizie dal mondo della ricerca\nBetelgeuse non è sola\nProblema medico sulla Stazione spaziale\nQuando gli algoritmi alzano i prezzi: il lato oscuro della concorrenza automatizzata\nLa gravità produce stranezze quantistiche? La proposta divide i fisici\nLink consigliati\nCGIL\nEdizioni Conoscenza\nCollettiva\nProteo Fare Sapere\nFutura Editrice\nFondazione Di Vittorio\nFeed RSS www.flcgil.it\nConcorsi Ricerca\nArticolo 33\nIscriviti alla FLC CGIL\nServizi agli iscritti\nServizi assicurativi\nFLC CGIL\nChi siamo\nDove siamo\nQuanti siamo\nStatuto\nBilancio sociale\nServizi\nIscriviti\nContattaci\nCasa editrice\nArchivio storico\nGiornale\nNewsletter\nFeed RSS\nLink utili\nPrivacy policy\nFLC CGIL\nNOTIZIE\nCGIL\nNOTIZIE\nPNRR: notizie e provvedimenti\nIOS dell'Istat: subito gli aumenti in busta paga!\nISTAT: usciti i bandi di concorso per oltre 200 posti, la FLC CGIL chiede di correggere alcune anomalie\nWebmail\nGmail\nIntranet",
+      "size_chars": 2612,
+      "success": true,
+      "fetched_at": "2026-01-09T18:30:08.836537",
+      "document_type": "html"
+    },
+    {
+      "title": "Domande GAE, aggiornamenti: consentito inserimento corsi Indire e in convenzione e finestra per chi non è iscritto al collocamento",
+      "url": "https://www.cislscuolaromarieti.it/domande-gae-aggiornamenti-consentito-inserimento-corsi-indire-e-in-convenzione-e-finestra-per-chi-non-e-iscritto-al-collocamento/",
+      "date": "9 Gennaio 2026",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "9569e405aeb41159",
+      "text": "Segnaliamo che il ministero ha aggiornato l’applicativo per la presentazione delle domande di aggiornamento GAE inserendo, tra i titoli di sostegno, quelli conseguiti tramite\ni percorsi\nstraordinari realizzati da INDIRE o da Università in convenzione\ndi cui agli articoli 6 e 7 del D.L 71/2024\n.\nSegnaliamo inoltre la possibilità di usufruire,da parte di chi non è in possesso dell’iscrizione al collocamento perchè attualmente occupato, di una apposita finestra che sarà aperta dal 15 giugno al 2 luglio 2026 per richiedere l’attribuzione della Riserva.\nTale possibilità, solitamente prevista solo nell’anno intermedio tra un aggiornamento e l’altro, è stata invece prevista anche in occasione dell’aggiornamento dall’articolo 10 comma 2 del DM 247/2025\nShare\nArticoli correlati\n9 Gennaio 2026\nUSR Lazio. Scuole autorizzate percorsi quadriennali di istruzione tecnica e professionale – D.M. 221/25\nLeggi di più\n9 Gennaio 2026\nATP Roma. Conferimento incarichi a T.D. a.s. 2025/2026 – XV Turno di nomina\nLeggi di più",
+      "size_chars": 1015,
+      "success": true,
+      "fetched_at": "2026-01-09T18:30:13.326114",
+      "document_type": "html"
+    },
+    {
+      "title": "USR Lazio. Scuole autorizzate percorsi quadriennali di istruzione tecnica e professionale – D.M. 221/25",
+      "url": "https://www.cislscuolaromarieti.it/usr-lazio-scuole-autorizzate-percorsi-quadriennali-di-istruzione-tecnica-e-professionale-d-m-221-25/",
+      "date": "9 Gennaio 2026",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "0274ae48014d96a2",
+      "text": "Riportiamo dal sito ufficiale dell’USR del Lazio:\nL’USR del Lazio comunica le istituzioni scolastiche che, a partire dall’anno scolastico 2026/2027, sono autorizzate ad attivare i percorsi quadriennali di istruzione tecnica e professionale previsti dal D.M. 221/25.\nDi seguito il comunicato e l’elenco:\nm_pi.AOODRLA.REGISTRO DECRETI (R).0000040.09-01-2026\nScuole autorizzate quadriennali Filiera ex DM 22-12-2025 a.s. 2026-2027\nFonte:\nhttps://www.ufficioscolasticoregionalelazio.it/2026/01/09/attivazione-percorsi-quadriennali-di-istruzione-tecnica-e-professionale-d-m-221-25/\nShare\nArticoli correlati\n9 Gennaio 2026\nDomande GAE, aggiornamenti: consentito inserimento corsi Indire e in convenzione e finestra per chi non è iscritto al collocamento\nLeggi di più\n9 Gennaio 2026\nATP Roma. Conferimento incarichi a T.D. a.s. 2025/2026 – XV Turno di nomina\nLeggi di più",
+      "size_chars": 864,
+      "success": true,
+      "fetched_at": "2026-01-09T18:30:17.564275",
+      "document_type": "html"
+    },
+    {
+      "title": "ATP Roma. Conferimento incarichi a T.D. a.s. 2025/2026 – XV Turno di nomina",
+      "url": "https://www.cislscuolaromarieti.it/atp-roma-conferimento-incarichi-a-t-d-a-s-2025-2026-xv-turno-di-nomina/",
+      "date": "9 Gennaio 2026",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "b39dd72a098ed421",
+      "text": "Riportiamo dal sito ufficiale dell’ATP di Roma:\nConferimento incarichi a T.D. a.s. 2025/2026 – XV Turno di nomina\nm_pi.AOOUSPRM.REGISTRO UFFICIALE(U).0001627.09-01-2026\nbollettino Definitivo_XV turno\nFonte:\nhttps://www.atpromaistruzione.it/atp/2026/01/conferimento-incarichi-a-t-d-a-s-2025-2026-xv-turno-di-nomina/\nShare\nArticoli correlati\n9 Gennaio 2026\nDomande GAE, aggiornamenti: consentito inserimento corsi Indire e in convenzione e finestra per chi non è iscritto al collocamento\nLeggi di più\n9 Gennaio 2026\nUSR Lazio. Scuole autorizzate percorsi quadriennali di istruzione tecnica e professionale – D.M. 221/25\nLeggi di più",
+      "size_chars": 630,
+      "success": true,
+      "fetched_at": "2026-01-09T18:30:21.942875",
+      "document_type": "html"
+    },
+    {
+      "title": "Avviso convocazione prova orale EEEE (I parte) – DDG 2938/2025 – Ufficio Scolastico Regionale",
+      "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/09/avviso-convocazione-prova-orale-eeee-i-parte-ddg-2938-2025/",
+      "date": "2026-01-09T18:30:04.623163",
+      "source": "USR Lazio",
+      "type": "comunicazione",
+      "description": "",
+      "id": "5c3a5d7ffe3c11e5",
+      "text": "AOODRLA.REGISTRO UFFICIALE.2026.0001906 [285 KB]",
+      "size_chars": 48,
+      "success": true,
+      "fetched_at": "2026-01-09T18:30:25.218760",
       "document_type": "html"
     }
   ]
