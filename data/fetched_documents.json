@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-09T18:30:26.816907",
+  "last_fetch": "2026-01-10T01:24:02.556333",
   "stats": {
     "total": 53,
-    "fetched": 5,
-    "skipped": 48,
+    "fetched": 3,
+    "skipped": 50,
     "failed": 0,
     "pdfs": 0,
-    "html": 5
+    "html": 3
   },
-  "total_documents": 605,
+  "total_documents": 608,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -8920,6 +8920,51 @@
       "success": true,
       "fetched_at": "2026-01-09T18:30:25.218760",
       "document_type": "html"
+    },
+    {
+      "title": "Supplenza da interpello per Assistente Tecnico Area Odontotecnica",
+      "url": "https://www.orizzontescuola.it/supplenza-da-interpello-per-assistente-tecnico-area-odontotecnica/",
+      "date": "Fri, 09 Jan 2026 20:47:09 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Il Polo Scientifico Tecnico Professionale E- Fermi - G. Giorgi di Luccca ricerca un assistente tecnico per supplenza breve con possibilità di proroga.\nL'articolo\nSupplenza da interpello per Assistente Tecnico Area Odontotecnica\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Il Polo Scientifico Tecnico Professionale E- Fermi - G. Giorgi di Luccca ricerca un assistente tecnico per supplenza breve con possibilità di proroga.\nL'articolo\nSupplenza da interpello per Assistente Tecnico Area Odontotecnica\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "4ce93de080718a80",
+      "text": "Il Polo Scientifico Tecnico Professionale E- Fermi - G. Giorgi di Luccca ricerca un assistente tecnico per supplenza breve con possibilità di proroga.\nL'articolo\nSupplenza da interpello per Assistente Tecnico Area Odontotecnica\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-10T01:24:01.047309",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Valle d’Aosta, aggiornamento graduatorie docenti: pubblicato il decreto per il biennio 2026-2028, domande entro il 25 gennaio",
+      "url": "https://www.orizzontescuola.it/valle-daosta-aggiornamento-graduatorie-docenti-pubblicato-il-decreto-per-il-biennio-2026-2028-domande-entro-il-25-gennaio/",
+      "date": "Fri, 09 Jan 2026 18:52:53 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "La Regione Valle d'Aosta ha emanato il decreto del Presidente della Regione numero 300 del 9 gennaio 2026. Il provvedimento riguarda l'aggiornamento delle graduatorie ad esaurimento del personale docente ed educativo per gli anni scolastici 2026/2027 e 2027/2028.\nL'articolo\nValle d’Aosta, aggiornamento graduatorie docenti: pubblicato il decreto per il biennio 2026-2028, domande entro il 25 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "La Regione Valle d'Aosta ha emanato il decreto del Presidente della Regione numero 300 del 9 gennaio 2026. Il provvedimento riguarda l'aggiornamento delle graduatorie ad esaurimento del personale docente ed educativo per gli anni scolastici 2026/2027 e 2027/2028.\nL'articolo\nValle d’Aosta, aggiornamento graduatorie docenti: pubblicato il decreto per il biennio 2026-2028, domande entro il 25 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "a92deb40d47612af",
+      "text": "La Regione Valle d'Aosta ha emanato il decreto del Presidente della Regione numero 300 del 9 gennaio 2026. Il provvedimento riguarda l'aggiornamento delle graduatorie ad esaurimento del personale docente ed educativo per gli anni scolastici 2026/2027 e 2027/2028.\nL'articolo\nValle d’Aosta, aggiornamento graduatorie docenti: pubblicato il decreto per il biennio 2026-2028, domande entro il 25 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-10T01:24:01.547470",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "GaE, le novità 2026: si può inserire titolo Indire, operazioni annuali previste tra il 15 giugno e il 2 luglio",
+      "url": "https://www.orizzontescuola.it/gae-le-novita-2026-si-puo-inserire-titolo-indire-operazioni-annuali-previste-tra-il-15-giugno-e-il-2-luglio/",
+      "date": "Fri, 09 Jan 2026 18:42:47 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "La domanda per l'aggiornamento delle GaE Graduatorie ad esaurimento sarà disponibile fino alle 23.59 del 22 gennaio 2026.\nL'articolo\nGaE, le novità 2026: si può inserire titolo Indire, operazioni annuali previste tra il 15 giugno e il 2 luglio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "La domanda per l'aggiornamento delle GaE Graduatorie ad esaurimento sarà disponibile fino alle 23.59 del 22 gennaio 2026.\nL'articolo\nGaE, le novità 2026: si può inserire titolo Indire, operazioni annuali previste tra il 15 giugno e il 2 luglio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "07170d116b7f614f",
+      "text": "La domanda per l'aggiornamento delle GaE Graduatorie ad esaurimento sarà disponibile fino alle 23.59 del 22 gennaio 2026.\nL'articolo\nGaE, le novità 2026: si può inserire titolo Indire, operazioni annuali previste tra il 15 giugno e il 2 luglio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-10T01:24:02.047642",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
