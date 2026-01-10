@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-10T06:28:51.321192",
+  "last_fetch": "2026-01-10T12:37:44.197427",
   "stats": {
     "total": 53,
-    "fetched": 0,
-    "skipped": 53,
+    "fetched": 1,
+    "skipped": 52,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 1
   },
-  "total_documents": 608,
+  "total_documents": 609,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -8963,6 +8963,21 @@
       "id": "07170d116b7f614f",
       "text": "La domanda per l'aggiornamento delle GaE Graduatorie ad esaurimento sarà disponibile fino alle 23.59 del 22 gennaio 2026.\nL'articolo\nGaE, le novità 2026: si può inserire titolo Indire, operazioni annuali previste tra il 15 giugno e il 2 luglio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2026-01-10T01:24:02.047642",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "GaE, 3 date da ricordare: domanda entro il 22 gennaio, operazioni annuali dal 15 giugno, scelta scuole prima fascia GI da stabilire. NOTA Ministero",
+      "url": "https://www.orizzontescuola.it/gae-3-date-da-ricordare-domanda-entro-il-22-gennaio-operazioni-annuali-dal-15-giugno-scelta-scuole-prima-fascia-gi-da-stabilire-nota-ministero/",
+      "date": "Sat, 10 Jan 2026 10:31:21 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Il Ministero dell'Istruzione e del Merico, con decreto n. 247 del 10 dicembre 2025 ha avviato l'aggiornamento delle Graduatorie ad esaurimento utili per ruoli e supplenze nel biennio 2026/27 e 2027/28.\nL'articolo\nGaE, 3 date da ricordare: domanda entro il 22 gennaio, operazioni annuali dal 15 giugno, scelta scuole prima fascia GI da stabilire. NOTA Ministero\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Il Ministero dell'Istruzione e del Merico, con decreto n. 247 del 10 dicembre 2025 ha avviato l'aggiornamento delle Graduatorie ad esaurimento utili per ruoli e supplenze nel biennio 2026/27 e 2027/28.\nL'articolo\nGaE, 3 date da ricordare: domanda entro il 22 gennaio, operazioni annuali dal 15 giugno, scelta scuole prima fascia GI da stabilire. NOTA Ministero\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "d46bdf3859f26aa6",
+      "text": "Il Ministero dell'Istruzione e del Merico, con decreto n. 247 del 10 dicembre 2025 ha avviato l'aggiornamento delle Graduatorie ad esaurimento utili per ruoli e supplenze nel biennio 2026/27 e 2027/28.\nL'articolo\nGaE, 3 date da ricordare: domanda entro il 22 gennaio, operazioni annuali dal 15 giugno, scelta scuole prima fascia GI da stabilire. NOTA Ministero\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-10T12:37:43.687662",
       "document_type": "rss_full",
       "success": true
     }
