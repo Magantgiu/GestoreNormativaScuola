@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-11T18:27:31.297077",
+  "last_fetch": "2026-01-12T01:31:47.088401",
   "stats": {
     "total": 53,
-    "fetched": 2,
-    "skipped": 51,
+    "fetched": 1,
+    "skipped": 52,
     "failed": 0,
     "pdfs": 0,
-    "html": 2
+    "html": 1
   },
-  "total_documents": 614,
+  "total_documents": 615,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -9053,6 +9053,21 @@
       "id": "cc3f3180e7940195",
       "text": "Nel question time del 23 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata affrontata una questione rilevante legata alle procedure concorsuali del PNRR. L’attenzione si è concentrata sulla durata delle graduatorie di merito PNRR1 e PNRR2 e sulla distinzione tra vincitori e idonei.\nL'articolo\nGraduatorie di merito concorsi PNRR1 e PNRR2: vincitori e idonei non hanno gli stessi diritti. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2026-01-11T18:27:30.787361",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Supplenze docenti, validità anno scolastico e 12 punti: differenza tra 166 e 180 giorni di servizio",
+      "url": "https://www.orizzontescuola.it/supplenze-docenti-validita-anno-scolastico-e-12-punti-differenza-tra-166-e-180-giorni-di-servizio/",
+      "date": "Sun, 11 Jan 2026 17:35:02 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "I 166 giorni di servizio utili per ottenere i 12 punti nelle GPS valgono anche come annualità? Perché spesso si parla di \"180 giorni\" per anno scolastico?\nL'articolo\nSupplenze docenti, validità anno scolastico e 12 punti: differenza tra 166 e 180 giorni di servizio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "I 166 giorni di servizio utili per ottenere i 12 punti nelle GPS valgono anche come annualità? Perché spesso si parla di \"180 giorni\" per anno scolastico?\nL'articolo\nSupplenze docenti, validità anno scolastico e 12 punti: differenza tra 166 e 180 giorni di servizio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "d8503e2b2a16a45d",
+      "text": "I 166 giorni di servizio utili per ottenere i 12 punti nelle GPS valgono anche come annualità? Perché spesso si parla di \"180 giorni\" per anno scolastico?\nL'articolo\nSupplenze docenti, validità anno scolastico e 12 punti: differenza tra 166 e 180 giorni di servizio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-12T01:31:46.579710",
       "document_type": "rss_full",
       "success": true
     }
