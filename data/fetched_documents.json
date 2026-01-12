@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-12T06:34:27.105586",
+  "last_fetch": "2026-01-12T12:42:47.625926",
   "stats": {
     "total": 53,
-    "fetched": 0,
-    "skipped": 53,
+    "fetched": 4,
+    "skipped": 49,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 4
   },
-  "total_documents": 615,
+  "total_documents": 619,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -9068,6 +9068,66 @@
       "id": "d8503e2b2a16a45d",
       "text": "I 166 giorni di servizio utili per ottenere i 12 punti nelle GPS valgono anche come annualità? Perché spesso si parla di \"180 giorni\" per anno scolastico?\nL'articolo\nSupplenze docenti, validità anno scolastico e 12 punti: differenza tra 166 e 180 giorni di servizio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2026-01-12T01:31:46.579710",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Concorso PNRR3 docenti infanzia e primaria: si può ricevere la traccia tramite email, 24 ore di tempo per preparare lezione simulata",
+      "url": "https://www.orizzontescuola.it/concorso-pnrr3-docenti-infanzia-e-primaria-si-puo-ricevere-la-traccia-tramite-email-24-ore-di-tempo-per-preparare-lezione-simulata/",
+      "date": "Mon, 12 Jan 2026 10:05:26 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Prova orale infanzia e primaria concorso docenti PNRR3 bandito con DDG n. 2938/2025, la traccia da sviluppare per svolgere la lezione simulata, di cui all’articolo 7, commi 2 e 3 del Decreto ministeriale n. 206 del 26 ottobre 2023, viene estratta dal candidato 24 ore prima dell’orario programmato per la propria prova. La  convocazione arriva al candidato almeno 15 giorni prima rispetto la data della prova.\nL'articolo\nConcorso PNRR3 docenti infanzia e primaria: si può ricevere la traccia tramite ",
+      "full_content": "Prova orale infanzia e primaria concorso docenti PNRR3 bandito con DDG n. 2938/2025, la traccia da sviluppare per svolgere la lezione simulata, di cui all’articolo 7, commi 2 e 3 del Decreto ministeriale n. 206 del 26 ottobre 2023, viene estratta dal candidato 24 ore prima dell’orario programmato per la propria prova. La  convocazione arriva al candidato almeno 15 giorni prima rispetto la data della prova.\nL'articolo\nConcorso PNRR3 docenti infanzia e primaria: si può ricevere la traccia tramite email, 24 ore di tempo per preparare lezione simulata\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "7f355279786122e1",
+      "text": "Prova orale infanzia e primaria concorso docenti PNRR3 bandito con DDG n. 2938/2025, la traccia da sviluppare per svolgere la lezione simulata, di cui all’articolo 7, commi 2 e 3 del Decreto ministeriale n. 206 del 26 ottobre 2023, viene estratta dal candidato 24 ore prima dell’orario programmato per la propria prova. La  convocazione arriva al candidato almeno 15 giorni prima rispetto la data della prova.\nL'articolo\nConcorso PNRR3 docenti infanzia e primaria: si può ricevere la traccia tramite email, 24 ore di tempo per preparare lezione simulata\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-12T12:42:45.615756",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Concorso docenti PNRR3, voto minimo può attendere. Quesiti contestati rallentano la procedura: la conferma",
+      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-voto-minimo-puo-attendere-quesiti-contestati-rallentano-la-procedura-la-conferma/",
+      "date": "Mon, 12 Jan 2026 08:28:23 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Concorso docenti PNRR3: la prova scritta per la scuola secondaria è stata svolta tra il 1° e il 5 dicembre 2025. Il passaggio successivo avrebbe dovuto essere la pubblicazione del voto minimo per determinare l'ammissione alla prova orale.\nL'articolo\nConcorso docenti PNRR3, voto minimo può attendere. Quesiti contestati rallentano la procedura: la conferma\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Concorso docenti PNRR3: la prova scritta per la scuola secondaria è stata svolta tra il 1° e il 5 dicembre 2025. Il passaggio successivo avrebbe dovuto essere la pubblicazione del voto minimo per determinare l'ammissione alla prova orale.\nL'articolo\nConcorso docenti PNRR3, voto minimo può attendere. Quesiti contestati rallentano la procedura: la conferma\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "75a9f7f57a16bdf7",
+      "text": "Concorso docenti PNRR3: la prova scritta per la scuola secondaria è stata svolta tra il 1° e il 5 dicembre 2025. Il passaggio successivo avrebbe dovuto essere la pubblicazione del voto minimo per determinare l'ammissione alla prova orale.\nL'articolo\nConcorso docenti PNRR3, voto minimo può attendere. Quesiti contestati rallentano la procedura: la conferma\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-12T12:42:46.115911",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Pittoni (Lega): il doppio canale vero non esclude nessuna graduatoria. Il primo “pezzo” gli elenchi regionali",
+      "url": "https://www.orizzontescuola.it/pittoni-lega-il-doppio-canale-vero-non-esclude-nessuna-graduatoria-il-primo-pezzo-gli-elenchi-regionali/",
+      "date": "Mon, 12 Jan 2026 08:09:05 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Mario Pittoni, responsabile del Dipartimento Istruzione della Lega, già Presidente della Commissione Cultura al Senato, interviene su Facebook e dialoga con i docenti sul \"doppio canale di reclutamento\".\nL'articolo\nPittoni (Lega): il doppio canale vero non esclude nessuna graduatoria. Il primo “pezzo” gli elenchi regionali\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Mario Pittoni, responsabile del Dipartimento Istruzione della Lega, già Presidente della Commissione Cultura al Senato, interviene su Facebook e dialoga con i docenti sul \"doppio canale di reclutamento\".\nL'articolo\nPittoni (Lega): il doppio canale vero non esclude nessuna graduatoria. Il primo “pezzo” gli elenchi regionali\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "5fd29364e485d425",
+      "text": "Mario Pittoni, responsabile del Dipartimento Istruzione della Lega, già Presidente della Commissione Cultura al Senato, interviene su Facebook e dialoga con i docenti sul \"doppio canale di reclutamento\".\nL'articolo\nPittoni (Lega): il doppio canale vero non esclude nessuna graduatoria. Il primo “pezzo” gli elenchi regionali\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-12T12:42:46.616082",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "GPS graduatorie supplenze docenti 2026/28: vecchi e nuovi requisiti di accesso. Chi avrà la riserva e chi no",
+      "url": "https://www.orizzontescuola.it/gps-graduatorie-supplenze-docenti-2026-28-vecchi-e-nuovi-requisiti-di-accesso-chi-avra-la-riserva-e-chi-no/",
+      "date": "Mon, 12 Jan 2026 07:22:55 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Graduatorie GPS si rinnovano in inverno (in tanti sperano in un rinvio in primavera). Quali sono i requisiti di accesso? Cosa cambia rispetto al 2024?\nL'articolo\nGPS graduatorie supplenze docenti 2026/28: vecchi e nuovi requisiti di accesso. Chi avrà la riserva e chi no\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Graduatorie GPS si rinnovano in inverno (in tanti sperano in un rinvio in primavera). Quali sono i requisiti di accesso? Cosa cambia rispetto al 2024?\nL'articolo\nGPS graduatorie supplenze docenti 2026/28: vecchi e nuovi requisiti di accesso. Chi avrà la riserva e chi no\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "97dbaea16c49c625",
+      "text": "Graduatorie GPS si rinnovano in inverno (in tanti sperano in un rinvio in primavera). Quali sono i requisiti di accesso? Cosa cambia rispetto al 2024?\nL'articolo\nGPS graduatorie supplenze docenti 2026/28: vecchi e nuovi requisiti di accesso. Chi avrà la riserva e chi no\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-12T12:42:47.116266",
       "document_type": "rss_full",
       "success": true
     }
