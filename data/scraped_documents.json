@@ -1,79 +1,13 @@
 {
-  "scraped_at": "2026-01-12T18:30:33.031653",
+  "scraped_at": "2026-01-13T01:22:57.073853",
   "stats": {
     "total_sources": 7,
     "successful": 7,
     "failed": 0,
-    "total_docs": 53,
-    "unique_documents": 53
+    "total_docs": 28,
+    "unique_documents": 28
   },
   "documents": [
-    {
-      "title": "Legge di bilancio: il Ministro Valditara vanta aumenti dei finanziamenti alla scuola? Ma non a quella della Costituzione",
-      "url": "https://www.flcgil.it/scuola/legge-di-bilancio-ministro-valditara-vanta-aumenti-finanziamenti-scuola-ma-non-quella-costituzione.flc",
-      "date": "Wed, 31 Dec 2025 15:30:51 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "In una recente intervista rilasciata dal Ministro Valditara si sostiene che, grazie all’ultima",
-      "full_content": "In una recente intervista rilasciata dal Ministro Valditara si sostiene che, grazie all’ultima",
-      "has_full_content": false,
-      "id": "bbbd18f0e99a2b79"
-    },
-    {
-      "title": "Concorsi Università al 30 dicembre 2025",
-      "url": "https://www.flcgil.it/universita/concorsi-universita-al-30-dicembre-2025.flc",
-      "date": "Wed, 31 Dec 2025 10:17:22 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Gazzetta Ufficiale n°101 del 30 dicembre 2025\nUNIVERSITÀ ALDO MORO DI BARI\nProcedura di selezione per la chiamata di tre professori di seconda fascia, vari...",
-      "full_content": "Gazzetta Ufficiale n°101 del 30 dicembre 2025\nUNIVERSITÀ ALDO MORO DI BARI\nProcedura di selezione per la chiamata di tre professori di seconda fascia, vari...",
-      "has_full_content": false,
-      "id": "f60fbc1190cfadb3"
-    },
-    {
-      "title": "Legge di bilancio 2026: tagli anche per i campus formativi integrati, fiore all’occhiello della filiera formativa tecnologico-professionale",
-      "url": "https://www.flcgil.it/scuola/docenti/secondo-ciclo/legge-di-bilancio-2026-tagli-anche-campus-formativi-integrati-fiore-occhiello-filiera-formativa-tecnologico-professionale.flc",
-      "date": "Wed, 07 Jan 2026 19:09:50 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "La riforma introdotta con la L.121/2024 rappresenta per l’istruzione tecnico-professionale un autentico salto nel buio, come la FLC CGIL ha già avuto modo di ribadire anche in occasione della pubblicazione del",
-      "full_content": "La riforma introdotta con la L.121/2024 rappresenta per l’istruzione tecnico-professionale un autentico salto nel buio, come la FLC CGIL ha già avuto modo di ribadire anche in occasione della pubblicazione del",
-      "has_full_content": true,
-      "id": "25709410f2bf5aec"
-    },
-    {
-      "title": "20 gennaio, Napoli. Precarietà, risorse, autonomia: le mani sull’università",
-      "url": "https://www.flcgil.it/universita/20-gennaio-napoli-precarieta-risorse-autonomia-le-mani-sull-universita.flc",
-      "date": "Wed, 07 Jan 2026 09:47:53 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Precarizzazione, sviluppo incontrollato delle telematiche profit, definanziamento e fine del PNRR, controllo politico sugli atenei statali. Dell’università italiana rischiano di rimanere solo macerie.\nMartedì 20...",
-      "full_content": "Precarizzazione, sviluppo incontrollato delle telematiche profit, definanziamento e fine del PNRR, controllo politico sugli atenei statali. Dell’università italiana rischiano di rimanere solo macerie.\nMartedì 20...",
-      "has_full_content": true,
-      "id": "9588214be8c87ae2"
-    },
-    {
-      "title": "Concorsi Università al 2 gennaio 2026",
-      "url": "https://www.flcgil.it/universita/concorsi-universita-al-2-gennaio-2026.flc",
-      "date": "Wed, 07 Jan 2026 09:45:43 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Gazzetta Ufficiale n°1 del 2 gennaio 2026\nUNIVERSITÀ COMMERCIALE «LUIGI BOCCONI» DI MILANO\nProcedura di selezione per la copertura di quattro posti di assistant...",
-      "full_content": "Gazzetta Ufficiale n°1 del 2 gennaio 2026\nUNIVERSITÀ COMMERCIALE «LUIGI BOCCONI» DI MILANO\nProcedura di selezione per la copertura di quattro posti di assistant...",
-      "has_full_content": false,
-      "id": "78d0311c5df85119"
-    },
-    {
-      "title": "Precarietà, risorse, autonomia - Le mani sull'università - Napoli 20 gennaio 2026",
-      "url": "https://www.flcgil.it/sindacato/documenti/universita/precarieta-risorse-autonomia-le-mani-sull-universita-napoli-20-gennaio-2026.flc",
-      "date": "Wed, 07 Jan 2026 09:42:08 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Precarietà, risorse, autonomia - Le mani sull'università - Napoli 20 gennaio 2026",
-      "full_content": "Precarietà, risorse, autonomia - Le mani sull'università - Napoli 20 gennaio 2026",
-      "has_full_content": false,
-      "id": "afbda10a10d73772"
-    },
     {
       "title": "Arretrati del personale scolastico: quando arrivano i pagamenti. Le date da tenere sott’occhio",
       "url": "https://www.orizzontescuola.it/arretrati-del-personale-scolastico-quando-arrivano-i-pagamenti-le-date-da-tenere-sottocchio/",
@@ -84,116 +18,6 @@
       "full_content": "Dopo la firma definitiva del\ncontratto scuola 2022-2024\n, avvenuta a fine dicembre 2025, la questione degli arretrati economici è diventata prioritaria per docenti e personale ATA. Le cifre sono state definite, le tempistiche quasi interamente delineate. Restano da monitorare alcune date chiave, che scandiranno le operazioni di accredito e gestione dei conguagli previsti per gennaio 2026.\nL'articolo\nArretrati del personale scolastico: quando arrivano i pagamenti. Le date da tenere sott’occhio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "d110ca6c29ea1749"
-    },
-    {
-      "title": "Messina: contrattazione di scuola, censurata la condotta antisindacale di una dirigente scolastica",
-      "url": "https://www.flcgil.it/regioni/sicilia/messina/messina-contrattazione-di-scuola-censurata-la-condotta-antisindacale-di-una-dirigente-scolastica.flc",
-      "date": "Thu, 08 Jan 2026 14:58:48 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "A cura della FLC CGIL Messina\nCon provvedimento del 2 gennaio 2026 il Tribunale del Lavoro di Messina, decidendo un ricorso ex articolo 28 legge 300/1970 proposto dalla FLC CGIL di...",
-      "full_content": "A cura della FLC CGIL Messina\nCon provvedimento del 2 gennaio 2026 il Tribunale del Lavoro di Messina, decidendo un ricorso ex articolo 28 legge 300/1970 proposto dalla FLC CGIL di...",
-      "has_full_content": false,
-      "id": "bee29077eac96982"
-    },
-    {
-      "title": "IOS dell'Istat: subito gli aumenti in busta paga!",
-      "url": "https://www.flcgil.it/enti/istat/notizie/ios-dell-istat-subito-gli-aumenti-in-busta-paga.flc",
-      "date": "Thu, 08 Jan 2026 14:56:09 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Approvata la legge di bilancio, è rimasta intatta",
-      "full_content": "Approvata la legge di bilancio, è rimasta intatta",
-      "has_full_content": false,
-      "id": "7879f0ef45c3fa26"
-    },
-    {
-      "title": "ISTAT: usciti i bandi di concorso per oltre 200 posti, la FLC CGIL chiede di correggere alcune anomalie",
-      "url": "https://www.flcgil.it/enti/istat/notizie/istat-usciti-i-bandi-di-concorso-per-oltre-200-posti-la-flc-cgil-chiede-di-correggere-alcune-anomalie.flc",
-      "date": "Thu, 08 Jan 2026 14:43:51 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Il 23 e il 24 dicembre sono stati pubblicati gli annunciati bandi di concorso al III e al VI livello. Il 31 dicembre è stato inoltre pubblicato il bando per 18 collaboratori di amministrazione al VII livello...",
-      "full_content": "Il 23 e il 24 dicembre sono stati pubblicati gli annunciati bandi di concorso al III e al VI livello. Il 31 dicembre è stato inoltre pubblicato il bando per 18 collaboratori di amministrazione al VII livello...",
-      "has_full_content": true,
-      "id": "17d231b0b774973b"
-    },
-    {
-      "title": "nota flc cgil istat concorsi del 7 gennaio 2026",
-      "url": "https://www.flcgil.it/enti/istat/documenti/nota-flc-cgil-istat-concorsi-del-7-gennaio-2026.flc",
-      "date": "Thu, 08 Jan 2026 12:54:26 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "nota flc cgil istat concorsi del 7 gennaio 2026",
-      "full_content": "nota flc cgil istat concorsi del 7 gennaio 2026",
-      "has_full_content": false,
-      "id": "51579779ac1562c4"
-    },
-    {
-      "title": "nota flc cgil istat concorsi 29 dicembre 2025",
-      "url": "https://www.flcgil.it/enti/istat/documenti/nota-flc-cgil-istat-concorsi-29-dicembre-2025.flc",
-      "date": "Thu, 08 Jan 2026 12:48:16 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "nota flc cgil istat concorsi 29 dicembre 2025",
-      "full_content": "nota flc cgil istat concorsi 29 dicembre 2025",
-      "has_full_content": false,
-      "id": "6ea5fd8bdb02d476"
-    },
-    {
-      "title": "ISTAT - accordo integrativo scorrimento 54 del 18 dicembre 2025",
-      "url": "https://www.flcgil.it/enti/istat/contratti-accordi-integrativi/istat-accordo-integrativo-scorrimento-54-del-18-dicembre-2025.flc",
-      "date": "Thu, 08 Jan 2026 12:36:04 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "ISTAT - accordo integrativo scorrimento 54 del 18 dicembre 2025",
-      "full_content": "ISTAT - accordo integrativo scorrimento 54 del 18 dicembre 2025",
-      "has_full_content": false,
-      "id": "538dbba0aa2c9ace"
-    },
-    {
-      "title": "Istat, articolo 54: scorrimento e nuova graduatoria, pubblicate le delibere prima del 31 dicembre!",
-      "url": "https://www.flcgil.it/enti/istat/notizie/articolo-54-scorrimento-e-nuova-graduatoria-pubblicate-le-delibere-prima-del-31-dicembre.flc",
-      "date": "Thu, 08 Jan 2026 12:28:38 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Dopo la firma definitiva dell’accordo il 18 dicembre da parte del direttore generale, venerdì 19 dicembre è stata pubblicata la delibera dei 76 scorrimenti delle graduatorie art. 54.",
-      "full_content": "Dopo la firma definitiva dell’accordo il 18 dicembre da parte del direttore generale, venerdì 19 dicembre è stata pubblicata la delibera dei 76 scorrimenti delle graduatorie art. 54.",
-      "has_full_content": false,
-      "id": "b610fc9baf8aec0a"
-    },
-    {
-      "title": "Protocollo d'intesa Istat 22 dicembre 2025",
-      "url": "https://www.flcgil.it/enti/istat/contratti-accordi-integrativi/protocollo-d-intesa-istat-22-dicembre-2025.flc",
-      "date": "Thu, 08 Jan 2026 12:19:47 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Protocollo d'intesa Istat 22 dicembre 2025",
-      "full_content": "Protocollo d'intesa Istat 22 dicembre 2025",
-      "has_full_content": false,
-      "id": "3c389b84a715b20d"
-    },
-    {
-      "title": "Scuola: nuove tutele per conciliare salute e lavoro [SCHEDA]",
-      "url": "https://www.flcgil.it/scuola/scuola-nuove-tutele-per-conciliare-salute-lavoro-scheda.flc",
-      "date": "Thu, 08 Jan 2026 10:30:00 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "La\nlegge 18 luglio 2025, n. 106\nintroduce nuove misure di tutela per il...",
-      "full_content": "La\nlegge 18 luglio 2025, n. 106\nintroduce nuove misure di tutela per il...",
-      "has_full_content": false,
-      "id": "8812274ca729d329"
-    },
-    {
-      "title": "Aumenti nominali, tagli reali: la verità sulla Legge di Bilancio 2026 [SCHEDA]",
-      "url": "https://www.flcgil.it/attualita/aumenti-nominali-tagli-reali-verita-legge-bilancio-2026-scheda.flc",
-      "date": "Sun, 04 Jan 2026 10:43:00 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "La Legge di Bilancio 2026 (",
-      "full_content": "La Legge di Bilancio 2026 (",
-      "has_full_content": false,
-      "id": "4e6f0fc981515634"
     },
     {
       "title": "Posizioni economiche ATA: il simulatore per esercitarti a superare l’esame",
@@ -229,48 +53,37 @@
       "id": "50cf887f1f59954d"
     },
     {
-      "title": "Periodo di prova ATA: cosa succede in caso di lunga assenza per malattia",
-      "url": "https://www.orizzontescuola.it/periodo-di-prova-ata-cosa-succede-in-caso-di-lunga-assenza-per-malattia/",
-      "date": "Sat, 03 Jan 2026 07:37:20 +0000",
+      "title": "Supplenze 2025/26, Roma ha concluso le nomine da GPS: 15 i bollettini tra il 30 agosto e il 9 gennaio",
+      "url": "https://www.orizzontescuola.it/supplenze-2025-26-roma-ha-concluso-le-nomine-da-gps-15-i-bollettini-tra-il-30-agosto-e-il-9-gennaio/",
+      "date": "Mon, 12 Jan 2026 19:32:03 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Dopo 15 turni di nomina, effettuati tra il 30 agosto 2025 e il 9 gennaio 2026, l'Ufficio Scolastico di Roma conclude le nomine da GPS per l'anno scolastico 2025/26.\nL'articolo\nSupplenze 2025/26, Roma ha concluso le nomine da GPS: 15 i bollettini tra il 30 agosto e il 9 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Dopo 15 turni di nomina, effettuati tra il 30 agosto 2025 e il 9 gennaio 2026, l'Ufficio Scolastico di Roma conclude le nomine da GPS per l'anno scolastico 2025/26.\nL'articolo\nSupplenze 2025/26, Roma ha concluso le nomine da GPS: 15 i bollettini tra il 30 agosto e il 9 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "d0789cc994d912cc"
+    },
+    {
+      "title": "Riammissione in servizio del personale scolastico cessato: domanda entro il 15 gennaio",
+      "url": "https://www.orizzontescuola.it/riammissione-in-servizio-del-personale-scolastico-cessato-domanda-entro-il-15-gennaio/",
+      "date": "Mon, 12 Jan 2026 19:02:51 +0000",
       "source": "Orizzonte Scuola - ATA",
       "type": "rss_article",
-      "description": "Il personale ATA assunto a tempo indeterminato è soggetto a un periodo di prova la cui durata varia in base all’area di inquadramento. La disciplina è contenuta nell’articolo 62 del CCNL Istruzione e Ricerca 2019/2021, sottoscritto il 18 gennaio 2024.\nL'articolo\nPeriodo di prova ATA: cosa succede in caso di lunga assenza per malattia\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Il personale ATA assunto a tempo indeterminato è soggetto a un periodo di prova la cui durata varia in base all’area di inquadramento. La disciplina è contenuta nell’articolo 62 del CCNL Istruzione e Ricerca 2019/2021, sottoscritto il 18 gennaio 2024.\nL'articolo\nPeriodo di prova ATA: cosa succede in caso di lunga assenza per malattia\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "description": "Il personale dirigente, docente, educativo e ATA della scuola cessato dal servizio può presentare domanda di riammissione in servizio entro il 15 gennaio di ogni anno, secondo quanto previsto dall’articolo 516 del decreto legislativo 16 aprile 1994, n. 297 e dall’articolo 132 del DPR 10 gennaio 1957, n. 3.\nL'articolo\nRiammissione in servizio del personale scolastico cessato: domanda entro il 15 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Il personale dirigente, docente, educativo e ATA della scuola cessato dal servizio può presentare domanda di riammissione in servizio entro il 15 gennaio di ogni anno, secondo quanto previsto dall’articolo 516 del decreto legislativo 16 aprile 1994, n. 297 e dall’articolo 132 del DPR 10 gennaio 1957, n. 3.\nL'articolo\nRiammissione in servizio del personale scolastico cessato: domanda entro il 15 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
-      "id": "6af3534d94fc3d6d"
+      "id": "2b586465509d74dd"
     },
     {
-      "title": "Aggiornamento GAE 2026-2028: pubblicato l’avviso e il decreto sul portale INPA [SCHEDA]",
-      "url": "https://www.flcgil.it/scuola/precari/aggiornamento-gae-2026-2028-pubblicato-avviso-e-decreto-portale-inpa.flc",
-      "date": "Mon, 12 Jan 2026 18:22:00 +0100",
-      "source": "FLC CGIL",
+      "title": "Supplenze docenti 2025/26: bollettini da GPS anche a gennaio [AGGIORNATO]",
+      "url": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
+      "date": "Mon, 12 Jan 2026 17:10:08 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
       "type": "rss_article",
-      "description": "Il Ministero del’Istruzione ha\npubblicato sul portale INPA\nl’avviso con il Decreto...",
-      "full_content": "Il Ministero del’Istruzione ha\npubblicato sul portale INPA\nl’avviso con il Decreto...",
-      "has_full_content": false,
-      "id": "5b1053e0bebccfc3"
-    },
-    {
-      "title": "Scheda FLC CGIL aggiornamento domande GAE 2026-2028",
-      "url": "https://www.flcgil.it/sindacato/documenti/approfondimenti/scheda-flc-cgil-aggiornamento-domande-gae-2026-2028.flc",
-      "date": "Mon, 12 Jan 2026 17:35:31 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Le domande relative alle GAE (Graduatorie ad esaurimento) per il personale docente ed educativo, potranno essere presentate dalle ore 12:00 dell’8 gennaio alle 23:59 del 22 gennaio 2026.",
-      "full_content": "Le domande relative alle GAE (Graduatorie ad esaurimento) per il personale docente ed educativo, potranno essere presentate dalle ore 12:00 dell’8 gennaio alle 23:59 del 22 gennaio 2026.",
-      "has_full_content": false,
-      "id": "240f2518fcc3f3b1"
-    },
-    {
-      "title": "Comunicato del Movimento della pedagogia laica",
-      "url": "https://www.flcgil.it/attualita/comunicato-del-movimento-della-pedagogia-laica.flc",
-      "date": "Mon, 12 Jan 2026 16:43:13 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Il movimento della pedagogia laica si riconosce nella Costituzione italiana e si colloca nel quadro pluralista della comunità pedagogica, di cui la Società italiana di pedagogia rappresenta lo spazio comune di incontro e...",
-      "full_content": "Il movimento della pedagogia laica si riconosce nella Costituzione italiana e si colloca nel quadro pluralista della comunità pedagogica, di cui la Società italiana di pedagogia rappresenta lo spazio comune di incontro e...",
+      "description": "Ultimo turno di nomina dalle GPS è stato attribuito il 31 dicembre 2025. Quasi tutti gli Uffici Scolastici hanno posto la presa di servizio il 7 gennaio (si consiglia di controllare il relativo decreto).  I posti derivanti dalle rinunce dovranno essere trattati ancora una volta da GPS, in quanto comunque disponibili entro il 31 dicembre.\nL'articolo\nSupplenze docenti 2025/26: bollettini da GPS anche a gennaio [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Ultimo turno di nomina dalle GPS è stato attribuito il 31 dicembre 2025. Quasi tutti gli Uffici Scolastici hanno posto la presa di servizio il 7 gennaio (si consiglia di controllare il relativo decreto).  I posti derivanti dalle rinunce dovranno essere trattati ancora una volta da GPS, in quanto comunque disponibili entro il 31 dicembre.\nL'articolo\nSupplenze docenti 2025/26: bollettini da GPS anche a gennaio [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
-      "id": "b9f9ce3c9db2215f"
+      "id": "8d040bb18dd472bf"
     },
     {
       "title": "Concorso infanzia e primaria PNRR3, arrivano le convocazioni prova orale. [AGGIORNATO con Lazio]",
@@ -282,17 +95,6 @@
       "full_content": "Convocazioni concorso DDG n. 2398/2025: arrivate le prime convocazioni per la prova orale. La convocazione viene inviata a coloro che hanno raggiunto il voto minimo rientrando nel gruppo degli ammessi alla prova orale.\nL'articolo\nConcorso infanzia e primaria PNRR3, arrivano le convocazioni prova orale. [AGGIORNATO con Lazio]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "6c67679be4200e66"
-    },
-    {
-      "title": "CNR: ciao Presidente Nicolais",
-      "url": "https://www.flcgil.it/ricerca/cnr-ciao-presidente-nicolais.flc",
-      "date": "Mon, 12 Jan 2026 16:22:50 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "La FLC CGIL del CNR esprime profondo cordoglio per la scomparsa del Prof. Luigi Nicolais, già Presidente del Consiglio Nazionale delle Ricerche dal 2012 al 2016 e Ministro per le Riforme e le Innovazioni nella Pubblica...",
-      "full_content": "La FLC CGIL del CNR esprime profondo cordoglio per la scomparsa del Prof. Luigi Nicolais, già Presidente del Consiglio Nazionale delle Ricerche dal 2012 al 2016 e Ministro per le Riforme e le Innovazioni nella Pubblica...",
-      "has_full_content": true,
-      "id": "687143108af47b2c"
     },
     {
       "title": "Supplenze 2026: ecco gli ultimi interpelli alla ricerca di insegnanti",
@@ -339,17 +141,6 @@
       "id": "3fbc2e82ef3cd734"
     },
     {
-      "title": "Supplenze docenti 2025/26: si aspetta ultimo bollettino da GPS a Milano [AGGIORNATO]",
-      "url": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
-      "date": "Mon, 12 Jan 2026 12:00:08 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Ultimo turno di nomina dalle GPS è stato attribuito il 31 dicembre 2025. Quasi tutti gli Uffici Scolastici hanno posto la presa di servizio il 7 gennaio (si consiglia di controllare il relativo decreto).  I posti derivanti dalle rinunce dovranno essere trattati ancora una volta da GPS, in quanto comunque disponibili entro il 31 dicembre.\nL'articolo\nSupplenze docenti 2025/26: si aspetta ultimo bollettino da GPS a Milano [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Ultimo turno di nomina dalle GPS è stato attribuito il 31 dicembre 2025. Quasi tutti gli Uffici Scolastici hanno posto la presa di servizio il 7 gennaio (si consiglia di controllare il relativo decreto).  I posti derivanti dalle rinunce dovranno essere trattati ancora una volta da GPS, in quanto comunque disponibili entro il 31 dicembre.\nL'articolo\nSupplenze docenti 2025/26: si aspetta ultimo bollettino da GPS a Milano [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "95138d18cba9c18a"
-    },
-    {
       "title": "Mutui INPS: domande al via dal 15 gennaio. Guida ai requisiti e alle regole per Docenti e ATA",
       "url": "https://www.orizzontescuola.it/mutui-inps-domande-al-via-dal-15-gennaio-guida-ai-requisiti-e-alle-regole-per-docenti-e-ata/",
       "date": "Mon, 12 Jan 2026 11:48:22 +0000",
@@ -392,17 +183,6 @@
       "full_content": "Concorso docenti PNRR3: la prova scritta per la scuola secondaria è stata svolta tra il 1° e il 5 dicembre 2025. Il passaggio successivo avrebbe dovuto essere la pubblicazione del voto minimo per determinare l'ammissione alla prova orale.\nL'articolo\nConcorso docenti PNRR3, voto minimo può attendere. Quesiti contestati rallentano la procedura: la conferma\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "880183699f91cd4f"
-    },
-    {
-      "title": "Pittoni (Lega): il doppio canale vero non esclude nessuna graduatoria. Il primo “pezzo” gli elenchi regionali",
-      "url": "https://www.orizzontescuola.it/pittoni-lega-il-doppio-canale-vero-non-esclude-nessuna-graduatoria-il-primo-pezzo-gli-elenchi-regionali/",
-      "date": "Mon, 12 Jan 2026 08:09:05 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Mario Pittoni, responsabile del Dipartimento Istruzione della Lega, già Presidente della Commissione Cultura al Senato, interviene su Facebook e dialoga con i docenti sul \"doppio canale di reclutamento\".\nL'articolo\nPittoni (Lega): il doppio canale vero non esclude nessuna graduatoria. Il primo “pezzo” gli elenchi regionali\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Mario Pittoni, responsabile del Dipartimento Istruzione della Lega, già Presidente della Commissione Cultura al Senato, interviene su Facebook e dialoga con i docenti sul \"doppio canale di reclutamento\".\nL'articolo\nPittoni (Lega): il doppio canale vero non esclude nessuna graduatoria. Il primo “pezzo” gli elenchi regionali\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "e2f408e9a701c047"
     },
     {
       "title": "Stipendio ATA 2026, da gennaio 2026 scattano i nuovi incrementi: fino a 206 euro mensili per i funzionari. Le tabelle",
@@ -449,61 +229,6 @@
       "id": "62b325d3e9d0cad7"
     },
     {
-      "title": "Nota FLC CGIL ISTAT concorsi del 9 gennaio 2026",
-      "url": "https://www.flcgil.it/enti/istat/documenti/nota-flc-cgil-istat-concorsi-del-9-gennaio-2026.flc",
-      "date": "Fri, 09 Jan 2026 13:57:01 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Nota FLC CGIL ISTAT concorsi del 9 gennaio 2026",
-      "full_content": "Nota FLC CGIL ISTAT concorsi del 9 gennaio 2026",
-      "has_full_content": false,
-      "id": "9dccc11be9eff733"
-    },
-    {
-      "title": "Arrivano i bonus per le paritarie, ma per la scuola pubblica solo tagli",
-      "url": "https://www.flcgil.it/rassegna-stampa/arrivano-i-bonus-per-le-paritarie-ma-per-la-scuola-pubblica-solo-tagli.flc",
-      "date": "Fri, 09 Jan 2026 11:15:41 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Con la scuola, il governo fa lo stesso giochetto fatto con la sanità: si sbandiera un aumento di risorse che però viene azzerato - e anzi diventa di segno negativo - considerando l&rsquo...",
-      "full_content": "Con la scuola, il governo fa lo stesso giochetto fatto con la sanità: si sbandiera un aumento di risorse che però viene azzerato - e anzi diventa di segno negativo - considerando l&rsquo...",
-      "has_full_content": false,
-      "id": "74e15970c0f3e42e"
-    },
-    {
-      "title": "Guida FLC CGIL alla fruizione dei congedi parentali nella scuola",
-      "url": "https://www.flcgil.it/sindacato/documenti/approfondimenti/guida-flc-cgil-fruizione-congedi-parentali-scuola.flc",
-      "date": "Fri, 09 Jan 2026 10:13:00 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Uno strumento utile al personale (docenti, ATA ed educatori) e alle segreterie scolastiche per applicare le novità introdotte dalla Legge di Bilancio 2026",
-      "full_content": "Uno strumento utile al personale (docenti, ATA ed educatori) e alle segreterie scolastiche per applicare le novità introdotte dalla Legge di Bilancio 2026",
-      "has_full_content": false,
-      "id": "76c4ac70598244d6"
-    },
-    {
-      "title": "PNRR: notizie e provvedimenti",
-      "url": "https://www.flcgil.it/attualita/piano-nazionale-ripresa-resilienza/emergenza-coronavirus-covid-19-pnrr-notizie-provvedimenti.flc",
-      "date": "Fri, 09 Jan 2026 10:00:00 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "L’emergenza Coronavirus che ha investito il nostro Paese vede i sindacati in prima linea nell’affrontare la situazione e cercare di tutelare il lavoro. Diversi anche gli interventi...",
-      "full_content": "L’emergenza Coronavirus che ha investito il nostro Paese vede i sindacati in prima linea nell’affrontare la situazione e cercare di tutelare il lavoro. Diversi anche gli interventi...",
-      "has_full_content": false,
-      "id": "46ed521011b8a9ce"
-    },
-    {
-      "title": "Scuola: guida aggiornata dei congedi parentali [GUIDA]",
-      "url": "https://www.flcgil.it/scuola/scuola-guida-congedi-parentali.flc",
-      "date": "Fri, 02 Jan 2026 10:54:00 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Riteniamo utile fornire uno strumento per applicare tutti gli aggiornamenti previsti dalla",
-      "full_content": "Riteniamo utile fornire uno strumento per applicare tutti gli aggiornamenti previsti dalla",
-      "has_full_content": false,
-      "id": "b720093142798b47"
-    },
-    {
       "title": "Domande GAE, aggiornamenti: consentito inserimento corsi Indire e in convenzione e finestra per chi non è iscritto al collocamento",
       "url": "https://www.cislscuolaromarieti.it/domande-gae-aggiornamenti-consentito-inserimento-corsi-indire-e-in-convenzione-e-finestra-per-chi-non-e-iscritto-al-collocamento/",
       "date": "9 Gennaio 2026",
@@ -533,7 +258,7 @@
     {
       "title": "Avviso convocazione prova orale EEEE (I parte) – DDG 2938/2025",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/09/avviso-convocazione-prova-orale-eeee-i-parte-ddg-2938-2025/",
-      "date": "2026-01-12T18:30:32.030083",
+      "date": "2026-01-13T01:22:56.072273",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -542,7 +267,7 @@
     {
       "title": "Avviso voto minimo ammissione orale – DDG 2939/2025",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/12/avviso-voto-minimo-ammissione-orale-ddg-2939-2025/",
-      "date": "2026-01-12T18:30:32.030047",
+      "date": "2026-01-13T01:22:56.072235",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
