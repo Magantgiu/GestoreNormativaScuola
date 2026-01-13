@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-13T06:31:44.105560",
+  "last_fetch": "2026-01-13T12:43:36.028647",
   "stats": {
-    "total": 28,
-    "fetched": 0,
-    "skipped": 28,
+    "total": 27,
+    "fetched": 2,
+    "skipped": 25,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 2
   },
-  "total_documents": 631,
+  "total_documents": 633,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -9305,6 +9305,36 @@
       "id": "3e5219dafbececc6",
       "text": "Il personale dirigente, docente, educativo e ATA della scuola cessato dal servizio può presentare domanda di riammissione in servizio entro il 15 gennaio di ogni anno, secondo quanto previsto dall’articolo 516 del decreto legislativo 16 aprile 1994, n. 297 e dall’articolo 132 del DPR 10 gennaio 1957, n. 3.\nL'articolo\nRiammissione in servizio del personale scolastico cessato: domanda entro il 15 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2026-01-13T01:22:57.970533",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Concorso docenti PNRR3 secondaria, ecco dove visualizzare SI o NO alla prova orale",
+      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-secondaria-ecco-dove-visualizzare-si-o-no-alla-prova-orale/",
+      "date": "Tue, 13 Jan 2026 09:08:30 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Concorso docenti PNRR3, in corso di pubblicazione le ammissioni alla prova orale per il bando DDG n. 2939/2025. Completate le verifiche tecniche, il risultato rimane subordinato allo svolgimento di eventuali prove suppletive.\nL'articolo\nConcorso docenti PNRR3 secondaria, ecco dove visualizzare SI o NO alla prova orale\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Concorso docenti PNRR3, in corso di pubblicazione le ammissioni alla prova orale per il bando DDG n. 2939/2025. Completate le verifiche tecniche, il risultato rimane subordinato allo svolgimento di eventuali prove suppletive.\nL'articolo\nConcorso docenti PNRR3 secondaria, ecco dove visualizzare SI o NO alla prova orale\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "0280621b06a23c3e",
+      "text": "Concorso docenti PNRR3, in corso di pubblicazione le ammissioni alla prova orale per il bando DDG n. 2939/2025. Completate le verifiche tecniche, il risultato rimane subordinato allo svolgimento di eventuali prove suppletive.\nL'articolo\nConcorso docenti PNRR3 secondaria, ecco dove visualizzare SI o NO alla prova orale\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-13T12:43:35.019548",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Graduatorie ad esaurimento Valle d’Aosta, aggiornamento 2026/27 e 2027/28: domande entro il 25 gennaio. NOTA",
+      "url": "https://www.orizzontescuola.it/graduatorie-ad-esaurimento-valle-daosta-aggiornamento-2026-27-e-2027-28-domande-entro-il-25-gennaio-nota/",
+      "date": "Tue, 13 Jan 2026 08:47:52 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "La Regione Valle d’Aosta ha avviato le procedure di aggiornamento delle graduatorie ad esaurimento (GAE) per gli anni scolastici 2026/2027 e 2027/2028.\nL'articolo\nGraduatorie ad esaurimento Valle d’Aosta, aggiornamento 2026/27 e 2027/28: domande entro il 25 gennaio. NOTA\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "La Regione Valle d’Aosta ha avviato le procedure di aggiornamento delle graduatorie ad esaurimento (GAE) per gli anni scolastici 2026/2027 e 2027/2028.\nL'articolo\nGraduatorie ad esaurimento Valle d’Aosta, aggiornamento 2026/27 e 2027/28: domande entro il 25 gennaio. NOTA\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "07474b31f19d2da0",
+      "text": "La Regione Valle d’Aosta ha avviato le procedure di aggiornamento delle graduatorie ad esaurimento (GAE) per gli anni scolastici 2026/2027 e 2027/2028.\nL'articolo\nGraduatorie ad esaurimento Valle d’Aosta, aggiornamento 2026/27 e 2027/28: domande entro il 25 gennaio. NOTA\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-13T12:43:35.519730",
       "document_type": "rss_full",
       "success": true
     }
