@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-13T18:30:43.252600",
+  "last_fetch": "2026-01-14T01:29:20.298133",
   "stats": {
     "total": 53,
-    "fetched": 12,
-    "skipped": 41,
+    "fetched": 1,
+    "skipped": 52,
     "failed": 0,
     "pdfs": 0,
-    "html": 12
+    "html": 1
   },
-  "total_documents": 645,
+  "total_documents": 646,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -9514,6 +9514,21 @@
       "success": true,
       "fetched_at": "2026-01-13T18:30:41.408186",
       "document_type": "html"
+    },
+    {
+      "title": "Selezione per un collaboratore scolastico in comando presso l’USR Friuli Venezia Giulia. Domande entro il 20 gennaio",
+      "url": "https://www.orizzontescuola.it/selezione-per-un-collaboratore-scolastico-in-comando-presso-lusr-friuli-venezia-giulia-domande-entro-il-20-gennaio/",
+      "date": "Tue, 13 Jan 2026 18:22:52 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "L’Ufficio Scolastico Regionale per il Friuli Venezia Giulia ha pubblicato un avviso di selezione per il conferimento di un comando a 1 collaboratore scolastico, con decorrenza 1° febbraio 2026, presso la sede regionale di Trieste, in via Santi Martiri 3.\nL'articolo\nSelezione per un collaboratore scolastico in comando presso l’USR Friuli Venezia Giulia. Domande entro il 20 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "L’Ufficio Scolastico Regionale per il Friuli Venezia Giulia ha pubblicato un avviso di selezione per il conferimento di un comando a 1 collaboratore scolastico, con decorrenza 1° febbraio 2026, presso la sede regionale di Trieste, in via Santi Martiri 3.\nL'articolo\nSelezione per un collaboratore scolastico in comando presso l’USR Friuli Venezia Giulia. Domande entro il 20 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "02fa8b2b45233fa2",
+      "text": "L’Ufficio Scolastico Regionale per il Friuli Venezia Giulia ha pubblicato un avviso di selezione per il conferimento di un comando a 1 collaboratore scolastico, con decorrenza 1° febbraio 2026, presso la sede regionale di Trieste, in via Santi Martiri 3.\nL'articolo\nSelezione per un collaboratore scolastico in comando presso l’USR Friuli Venezia Giulia. Domande entro il 20 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-14T01:29:19.789204",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
