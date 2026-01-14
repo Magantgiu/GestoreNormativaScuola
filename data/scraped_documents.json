@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-01-14T06:31:43.811966",
+  "scraped_at": "2026-01-14T12:41:43.952552",
   "stats": {
     "total_sources": 7,
     "successful": 7,
@@ -9,37 +9,103 @@
   },
   "documents": [
     {
-      "title": "Legge di bilancio 2026: tagli alle ulteriori risorse destinate alle scuole della filiera formativa tecnologico-professionale",
-      "url": "https://www.flcgil.it/scuola/docenti/secondo-ciclo/legge-di-bilancio-2026-tagli-anche-campus-formativi-integrati-fiore-occhiello-filiera-formativa-tecnologico-professionale.flc",
-      "date": "Wed, 07 Jan 2026 19:09:50 +0100",
-      "source": "FLC CGIL",
+      "title": "Concorso docenti PNRR3, quando cominciano le prove orali? Data estrazione lettera dà una prima indicazione [AGGIORNATO]",
+      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-lettera-estratta-per-avvio-delle-prove-orali-in-aggiornamento/",
+      "date": "Wed, 14 Jan 2026 10:31:44 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
       "type": "rss_article",
-      "description": "La riforma introdotta con la L.121/2024 rappresenta per l’istruzione tecnico-professionale un autentico salto nel buio, come la FLC CGIL ha già avuto modo di ribadire anche in occasione della pubblicazione del",
-      "full_content": "La riforma introdotta con la L.121/2024 rappresenta per l’istruzione tecnico-professionale un autentico salto nel buio, come la FLC CGIL ha già avuto modo di ribadire anche in occasione della pubblicazione del",
+      "description": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: ecco le lettere estratte per l'avvio delle prove orali. Avvisi USR in aggiornamento.\nL'articolo\nConcorso docenti PNRR3, quando cominciano le prove orali? Data estrazione lettera dà una prima indicazione [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: ecco le lettere estratte per l'avvio delle prove orali. Avvisi USR in aggiornamento.\nL'articolo\nConcorso docenti PNRR3, quando cominciano le prove orali? Data estrazione lettera dà una prima indicazione [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
-      "id": "0e9fac1ab3c1ed57"
+      "id": "127c324e5e921663"
     },
     {
-      "title": "20 gennaio, Napoli. Precarietà, risorse, autonomia: le mani sull’università",
-      "url": "https://www.flcgil.it/universita/20-gennaio-napoli-precarieta-risorse-autonomia-le-mani-sull-universita.flc",
-      "date": "Wed, 07 Jan 2026 09:47:53 +0100",
+      "title": "La FLC CGIL esprime la propria solidarietà al personale scolastico e al popolo iraniano",
+      "url": "https://www.flcgil.it/attualita/estero/la-flc-cgil-esprime-la-propria-solidarieta-al-personale-scolastico-e-al-popolo-iraniano.flc",
+      "date": "Wed, 14 Jan 2026 10:28:15 +0100",
       "source": "FLC CGIL",
       "type": "rss_article",
-      "description": "Precarizzazione, sviluppo incontrollato delle telematiche profit, definanziamento e fine del PNRR, controllo politico sugli atenei statali. Dell’università italiana rischiano di rimanere solo macerie.\nMartedì 20...",
-      "full_content": "Precarizzazione, sviluppo incontrollato delle telematiche profit, definanziamento e fine del PNRR, controllo politico sugli atenei statali. Dell’università italiana rischiano di rimanere solo macerie.\nMartedì 20...",
+      "description": "Giungono dall’Iran, ormai da giorni, gravi notizie di repressioni di massa e di uccisioni, anche di studenti e bambini, da parte delle forze di sicurezza che, secondo quanto riferito, sparano ad altezza d’uomo. Le proteste sono ormai...",
+      "full_content": "Giungono dall’Iran, ormai da giorni, gravi notizie di repressioni di massa e di uccisioni, anche di studenti e bambini, da parte delle forze di sicurezza che, secondo quanto riferito, sparano ad altezza d’uomo. Le proteste sono ormai...",
       "has_full_content": true,
-      "id": "9588214be8c87ae2"
+      "id": "196f4d45bdbf4bb8"
     },
     {
-      "title": "Concorsi Università al 2 gennaio 2026",
-      "url": "https://www.flcgil.it/universita/concorsi-universita-al-2-gennaio-2026.flc",
-      "date": "Wed, 07 Jan 2026 09:45:43 +0100",
+      "title": "È morta Valeria Fedeli, sempre impegnata per la giustizia sociale e i diritti dei lavoratori",
+      "url": "https://www.flcgil.it/attualita/morta-valeria-fedeli-sempre-impegnata-per-giustizia-sociale-e-diritti-lavoratori.flc",
+      "date": "Wed, 14 Jan 2026 10:23:26 +0100",
       "source": "FLC CGIL",
       "type": "rss_article",
-      "description": "Gazzetta Ufficiale n°1 del 2 gennaio 2026\nUNIVERSITÀ COMMERCIALE «LUIGI BOCCONI» DI MILANO\nProcedura di selezione per la copertura di quattro posti di assistant...",
-      "full_content": "Gazzetta Ufficiale n°1 del 2 gennaio 2026\nUNIVERSITÀ COMMERCIALE «LUIGI BOCCONI» DI MILANO\nProcedura di selezione per la copertura di quattro posti di assistant...",
+      "description": "",
+      "full_content": "",
       "has_full_content": false,
-      "id": "78d0311c5df85119"
+      "id": "5209af7fdbe4c369"
+    },
+    {
+      "title": "Concorso docenti PNRR3 scuola secondaria, online le ammissioni alla prova orale e il voto minimo [AGGIORNATO]",
+      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-scuola-secondaria-ecco-il-voto-minimo-per-laccesso-alla-prova-orale-in-aggiornamento/",
+      "date": "Wed, 14 Jan 2026 09:46:07 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Gli USR cominciano a pubblicare il voto minimo di accesso alla prova orale per il concorso PNRR3 per la scuola secondaria bandito con DDG. 2939/2025.\nL'articolo\nConcorso docenti PNRR3 scuola secondaria, online le ammissioni alla prova orale e il voto minimo [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Gli USR cominciano a pubblicare il voto minimo di accesso alla prova orale per il concorso PNRR3 per la scuola secondaria bandito con DDG. 2939/2025.\nL'articolo\nConcorso docenti PNRR3 scuola secondaria, online le ammissioni alla prova orale e il voto minimo [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "7e70a9a2e1562898"
+    },
+    {
+      "title": "Concorsi Università al 13 gennaio 2026",
+      "url": "https://www.flcgil.it/universita/concorsi-universita-al-13-gennaio-2026.flc",
+      "date": "Wed, 14 Jan 2026 09:34:55 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Gazzetta Ufficiale n°2 del 9 gennaio 2026\nLIBERA UNIVERSITÀ DI BOLZANO\nProcedura selettiva aperta per la copertura di un posto di professoressa / professore...",
+      "full_content": "Gazzetta Ufficiale n°2 del 9 gennaio 2026\nLIBERA UNIVERSITÀ DI BOLZANO\nProcedura selettiva aperta per la copertura di un posto di professoressa / professore...",
+      "has_full_content": false,
+      "id": "4c8d8cebe197f1b8"
+    },
+    {
+      "title": "CCNL Istruzione e Ricerca 2022/2024: aggiornati gli stipendi del personale dell’Alta Formazione Artistico Nazionale con la rata di gennaio",
+      "url": "https://www.flcgil.it/universita/afam/ccnl-istruzione-e-ricerca-2022-2024-aggiornati-gli-stipendi-del-personale-dell-alta-formazione-artistico-nazionale-con-la-rata-di-gennaio.flc",
+      "date": "Wed, 14 Jan 2026 09:20:34 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Con lo stipendio di gennaio 2026, in pagamento dal 23 gennaio, saranno erogati gli aumenti stipendiali previsti dal rinnovo contrattuale del CCNL Istruzione e Ricerca per il triennio 2022/2024.\nArretrati 2024 e...",
+      "full_content": "Con lo stipendio di gennaio 2026, in pagamento dal 23 gennaio, saranno erogati gli aumenti stipendiali previsti dal rinnovo contrattuale del CCNL Istruzione e Ricerca per il triennio 2022/2024.\nArretrati 2024 e...",
+      "has_full_content": true,
+      "id": "d6a218d9f0fb4591"
+    },
+    {
+      "title": "Gravissimo il commissariamento della regione Emilia Romagna su dimensionamento della rete scolastica",
+      "url": "https://www.flcgil.it/regioni/emilia-romagna/gravissimo-il-commissariamento-della-regione-emilia-romagna-su-dimensionamento-della-rete-scolastica.flc",
+      "date": "Wed, 14 Jan 2026 09:14:28 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Comunicato stampa FLC CGIL – CISL Scuola – Gilda UNAMS – SNALS CONFSAL Emilia Romagna\nFLC CGIL, CISL Scuola, Gilda UNAMS e SNALS CONFSAL dell’Emilia-Romagna oggi...",
+      "full_content": "Comunicato stampa FLC CGIL – CISL Scuola – Gilda UNAMS – SNALS CONFSAL Emilia Romagna\nFLC CGIL, CISL Scuola, Gilda UNAMS e SNALS CONFSAL dell’Emilia-Romagna oggi...",
+      "has_full_content": false,
+      "id": "952bf1c329c66b3d"
+    },
+    {
+      "title": "Concorso docenti PNRR3: tutto pronto per la prova orale. Dal voto minimo alla convocazione, cosa sapere [LO SPECIALE]",
+      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-la-prova-orale-chi-partecipa-come-si-svolge-almeno-70-100-per-superarla-lo-speciale/",
+      "date": "Wed, 14 Jan 2026 09:10:00 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Prova orale (e pratica per alcune classi di concorso) del bando docenti PNRR3: ci siamo. Pubblicato il voto minimo, costituite le commissioni ed estratta la lettera, si può partire. Rotta: le assunzioni dell'estate 2026 e il completamento del target PNRR con 70.000 docenti da nuovo reclutamento.\nL'articolo\nConcorso docenti PNRR3: tutto pronto per la prova orale. Dal voto minimo alla convocazione, cosa sapere [LO SPECIALE]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Prova orale (e pratica per alcune classi di concorso) del bando docenti PNRR3: ci siamo. Pubblicato il voto minimo, costituite le commissioni ed estratta la lettera, si può partire. Rotta: le assunzioni dell'estate 2026 e il completamento del target PNRR con 70.000 docenti da nuovo reclutamento.\nL'articolo\nConcorso docenti PNRR3: tutto pronto per la prova orale. Dal voto minimo alla convocazione, cosa sapere [LO SPECIALE]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "6505d938ed24e4c0"
+    },
+    {
+      "title": "Concorso infanzia e primaria PNRR3, arrivano le convocazioni prova orale. [AGGIORNATO con Sicilia]",
+      "url": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-pnrr3-arrivano-le-convocazioni-prova-orale-dal-19-gennaio-in-aggiornamento/",
+      "date": "Wed, 14 Jan 2026 07:40:57 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Convocazioni concorso DDG n. 2398/2025: arrivate le prime convocazioni per la prova orale. La convocazione viene inviata a coloro che hanno raggiunto il voto minimo rientrando nel gruppo degli ammessi alla prova orale.\nL'articolo\nConcorso infanzia e primaria PNRR3, arrivano le convocazioni prova orale. [AGGIORNATO con Sicilia]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Convocazioni concorso DDG n. 2398/2025: arrivate le prime convocazioni per la prova orale. La convocazione viene inviata a coloro che hanno raggiunto il voto minimo rientrando nel gruppo degli ammessi alla prova orale.\nL'articolo\nConcorso infanzia e primaria PNRR3, arrivano le convocazioni prova orale. [AGGIORNATO con Sicilia]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "1dc8bebc97ad5799"
     },
     {
       "title": "Selezione per un collaboratore scolastico in comando presso l’USR Friuli Venezia Giulia. Domande entro il 20 gennaio",
@@ -51,17 +117,6 @@
       "full_content": "L’Ufficio Scolastico Regionale per il Friuli Venezia Giulia ha pubblicato un avviso di selezione per il conferimento di un comando a 1 collaboratore scolastico, con decorrenza 1° febbraio 2026, presso la sede regionale di Trieste, in via Santi Martiri 3.\nL'articolo\nSelezione per un collaboratore scolastico in comando presso l’USR Friuli Venezia Giulia. Domande entro il 20 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "887f817998a81d40"
-    },
-    {
-      "title": "Concorso docenti PNRR3 scuola secondaria, online le ammissioni alla prova orale e il voto minimo [AGGIORNATO]",
-      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-scuola-secondaria-ecco-il-voto-minimo-per-laccesso-alla-prova-orale-in-aggiornamento/",
-      "date": "Tue, 13 Jan 2026 16:30:07 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Gli USR cominciano a pubblicare il voto minimo di accesso alla prova orale per il concorso PNRR3 per la scuola secondaria bandito con DDG. 2939/2025.\nL'articolo\nConcorso docenti PNRR3 scuola secondaria, online le ammissioni alla prova orale e il voto minimo [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Gli USR cominciano a pubblicare il voto minimo di accesso alla prova orale per il concorso PNRR3 per la scuola secondaria bandito con DDG. 2939/2025.\nL'articolo\nConcorso docenti PNRR3 scuola secondaria, online le ammissioni alla prova orale e il voto minimo [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "7e70a9a2e1562898"
     },
     {
       "title": "Concorso docenti PNRR3, alcune classi di concorso annullate in alcune regioni. Ecco perché",
@@ -163,17 +218,6 @@
       "id": "446b1e33e61b1248"
     },
     {
-      "title": "Concorso docenti PNRR3, avvio delle prove orali. Lettere estratte [AGGIORNATO]",
-      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-lettera-estratta-per-avvio-delle-prove-orali-in-aggiornamento/",
-      "date": "Tue, 13 Jan 2026 10:06:44 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: ecco le lettere estratte per l'avvio delle prove orali. Avvisi USR in aggiornamento.\nL'articolo\nConcorso docenti PNRR3, avvio delle prove orali. Lettere estratte [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: ecco le lettere estratte per l'avvio delle prove orali. Avvisi USR in aggiornamento.\nL'articolo\nConcorso docenti PNRR3, avvio delle prove orali. Lettere estratte [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "fec45725eb418d1a"
-    },
-    {
       "title": "Concorso docenti PNRR3 secondaria, ecco dove visualizzare SI o NO alla prova orale",
       "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-secondaria-ecco-dove-visualizzare-si-o-no-alla-prova-orale/",
       "date": "Tue, 13 Jan 2026 09:08:30 +0000",
@@ -194,17 +238,6 @@
       "full_content": "A cura della FLC CGIL Emilia Romagna\nIl Governo impone all'Emilia Romagna il dimensionamento della rete scolastica con la nomina del commissario ad acta.\nLa decisione assunta poco fa dal Consiglio dei...",
       "has_full_content": true,
       "id": "be1586593c32e139"
-    },
-    {
-      "title": "Graduatorie ad esaurimento Valle d’Aosta, aggiornamento 2026/27 e 2027/28: domande entro il 25 gennaio. NOTA",
-      "url": "https://www.orizzontescuola.it/graduatorie-ad-esaurimento-valle-daosta-aggiornamento-2026-27-e-2027-28-domande-entro-il-25-gennaio-nota/",
-      "date": "Tue, 13 Jan 2026 08:47:52 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "La Regione Valle d’Aosta ha avviato le procedure di aggiornamento delle graduatorie ad esaurimento (GAE) per gli anni scolastici 2026/2027 e 2027/2028.\nL'articolo\nGraduatorie ad esaurimento Valle d’Aosta, aggiornamento 2026/27 e 2027/28: domande entro il 25 gennaio. NOTA\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "La Regione Valle d’Aosta ha avviato le procedure di aggiornamento delle graduatorie ad esaurimento (GAE) per gli anni scolastici 2026/2027 e 2027/2028.\nL'articolo\nGraduatorie ad esaurimento Valle d’Aosta, aggiornamento 2026/27 e 2027/28: domande entro il 25 gennaio. NOTA\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "172fe6d0f8c948ca"
     },
     {
       "title": "Arretrati del personale scolastico: quando arrivano i pagamenti. Le date da tenere sott’occhio",
@@ -295,28 +328,6 @@
       "id": "b610fc9baf8aec0a"
     },
     {
-      "title": "Protocollo d'intesa Istat 22 dicembre 2025",
-      "url": "https://www.flcgil.it/enti/istat/contratti-accordi-integrativi/protocollo-d-intesa-istat-22-dicembre-2025.flc",
-      "date": "Thu, 08 Jan 2026 12:19:47 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Protocollo d'intesa Istat 22 dicembre 2025",
-      "full_content": "Protocollo d'intesa Istat 22 dicembre 2025",
-      "has_full_content": false,
-      "id": "3c389b84a715b20d"
-    },
-    {
-      "title": "Scuola: nuove tutele per conciliare salute e lavoro [SCHEDA]",
-      "url": "https://www.flcgil.it/scuola/scuola-nuove-tutele-per-conciliare-salute-lavoro-scheda.flc",
-      "date": "Thu, 08 Jan 2026 10:30:00 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "La\nlegge 18 luglio 2025, n. 106\nintroduce nuove misure di tutela per il...",
-      "full_content": "La\nlegge 18 luglio 2025, n. 106\nintroduce nuove misure di tutela per il...",
-      "has_full_content": false,
-      "id": "8812274ca729d329"
-    },
-    {
       "title": "Posizioni economiche ATA: il simulatore per esercitarti a superare l’esame",
       "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-simulatore-e-video-lezioni-per-superare-la-prova-finale/",
       "date": "Sat, 10 Jan 2026 05:52:17 +0000",
@@ -337,17 +348,6 @@
       "full_content": "Il Ministero dell’Istruzione e del Merito ha rinviato la prova finale di valutazione per l’attribuzione delle posizioni economiche ATA, procedura finalizzata alla valorizzazione professionale del personale amministrativo, tecnico e ausiliario.\nL'articolo\nPosizioni economiche ATA, quando si svolgeranno le prove finali? In attesa del nuovo calendario\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "4606d11a8408c1aa"
-    },
-    {
-      "title": "Supplenze 2025/26, Roma ha concluso le nomine da GPS: 15 i bollettini tra il 30 agosto e il 9 gennaio",
-      "url": "https://www.orizzontescuola.it/supplenze-2025-26-roma-ha-concluso-le-nomine-da-gps-15-i-bollettini-tra-il-30-agosto-e-il-9-gennaio/",
-      "date": "Mon, 12 Jan 2026 19:32:03 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Dopo 15 turni di nomina, effettuati tra il 30 agosto 2025 e il 9 gennaio 2026, l'Ufficio Scolastico di Roma conclude le nomine da GPS per l'anno scolastico 2025/26.\nL'articolo\nSupplenze 2025/26, Roma ha concluso le nomine da GPS: 15 i bollettini tra il 30 agosto e il 9 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Dopo 15 turni di nomina, effettuati tra il 30 agosto 2025 e il 9 gennaio 2026, l'Ufficio Scolastico di Roma conclude le nomine da GPS per l'anno scolastico 2025/26.\nL'articolo\nSupplenze 2025/26, Roma ha concluso le nomine da GPS: 15 i bollettini tra il 30 agosto e il 9 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "d0789cc994d912cc"
     },
     {
       "title": "Riammissione in servizio del personale scolastico cessato: domanda entro il 15 gennaio",
@@ -506,7 +506,7 @@
     {
       "title": "Avviso voto minimo ammissione orale – DDG 2939/2025",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/12/avviso-voto-minimo-ammissione-orale-ddg-2939-2025/",
-      "date": "2026-01-14T06:31:42.810172",
+      "date": "2026-01-14T12:41:42.950810",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -515,7 +515,7 @@
     {
       "title": "Avviso – Manifestazione di interesse – elenco di esperti in progettazione Erasmus+",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/13/avviso-manifestazione-di-interesse-elenco-di-esperti-in-progettazione-erasmus/",
-      "date": "2026-01-14T06:31:42.810099",
+      "date": "2026-01-14T12:41:42.950739",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
