@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-14T12:41:55.816034",
+  "last_fetch": "2026-01-14T18:31:47.144691",
   "stats": {
-    "total": 53,
-    "fetched": 5,
-    "skipped": 48,
+    "total": 28,
+    "fetched": 2,
+    "skipped": 26,
     "failed": 0,
     "pdfs": 0,
-    "html": 5
+    "html": 2
   },
-  "total_documents": 651,
+  "total_documents": 653,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -9606,6 +9606,35 @@
       "size_chars": 6392,
       "success": true,
       "fetched_at": "2026-01-14T12:41:54.425446",
+      "document_type": "html"
+    },
+    {
+      "title": "Secondo ciclo TFA Indire, 60.000 posti disponibili: chi può presentare domanda, si frequenta? Quanto costa? Lalla vi anticiperà tutto nella newsletter “Diventare insegnanti”",
+      "url": "https://www.orizzontescuola.it/secondo-ciclo-indire-60-000-posti-disponibili-chi-puo-presentare-domanda-si-frequenta-quanto-costa-lalla-vi-anticipera-tutto-nella-newsletter-diventare-insegnanti/",
+      "date": "Wed, 14 Jan 2026 14:10:59 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Sarà attivato nelle prossime settimane il secondo ciclo Indire/Università. Chi può presentare domanda, quando si frequenta, costi. Il nuovo profilo del docente specializzato. Lalla vi spiegherà tutto. Iscriviti entro venerdì ore 18. All’interno troverai le istruzioni per il download. Cosa riceverò iscrivendomi alla newsletter? Chi si iscrive riceverà: notizie filtrate e commentate, non semplici link; […]\nL'articolo\nSecondo ciclo TFA Indire, 60.000 posti disponibili: chi può presentare domanda, s",
+      "full_content": "Sarà attivato nelle prossime settimane il secondo ciclo Indire/Università. Chi può presentare domanda, quando si frequenta, costi. Il nuovo profilo del docente specializzato. Lalla vi spiegherà tutto. Iscriviti entro venerdì ore 18. All’interno troverai le istruzioni per il download. Cosa riceverò iscrivendomi alla newsletter? Chi si iscrive riceverà: notizie filtrate e commentate, non semplici link; […]\nL'articolo\nSecondo ciclo TFA Indire, 60.000 posti disponibili: chi può presentare domanda, si frequenta? Quanto costa? Lalla vi anticiperà tutto nella newsletter “Diventare insegnanti”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "04c2c4aa5dc40d4a",
+      "text": "Sarà attivato nelle prossime settimane il secondo ciclo Indire/Università. Chi può presentare domanda, quando si frequenta, costi. Il nuovo profilo del docente specializzato. Lalla vi spiegherà tutto. Iscriviti entro venerdì ore 18. All’interno troverai le istruzioni per il download. Cosa riceverò iscrivendomi alla newsletter? Chi si iscrive riceverà: notizie filtrate e commentate, non semplici link; […]\nL'articolo\nSecondo ciclo TFA Indire, 60.000 posti disponibili: chi può presentare domanda, si frequenta? Quanto costa? Lalla vi anticiperà tutto nella newsletter “Diventare insegnanti”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-14T18:31:41.249928",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Avviso pubblico per l’individuazione di Buone Pratiche attuate dalle istituzioni scolastiche nel campo della formazione del personale scolastico – Ufficio Scolastico Regionale",
+      "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/14/avviso-pubblico-per-lindividuazione-di-buone-pratiche-attuate-dalle-istituzioni-scolastiche-nel-campo-della-formazione-del-personale-scolastico/",
+      "date": "2026-01-14T18:31:39.932047",
+      "source": "USR Lazio",
+      "type": "comunicazione",
+      "description": "",
+      "id": "8133f115ca262a37",
+      "text": "m_pi.AOODRLA.REGISTRO UFFICIALE(U).0003764.14-01-2026 [211 KB]",
+      "size_chars": 62,
+      "success": true,
+      "fetched_at": "2026-01-14T18:31:45.251922",
       "document_type": "html"
     }
   ]
