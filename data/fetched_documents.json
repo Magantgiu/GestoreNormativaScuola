@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-15T12:42:00.691101",
+  "last_fetch": "2026-01-15T18:35:07.558990",
   "stats": {
-    "total": 53,
-    "fetched": 8,
-    "skipped": 45,
+    "total": 29,
+    "fetched": 5,
+    "skipped": 24,
     "failed": 0,
     "pdfs": 0,
-    "html": 8
+    "html": 5
   },
-  "total_documents": 663,
+  "total_documents": 668,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -9792,6 +9792,77 @@
       "fetched_at": "2026-01-15T12:42:00.182046",
       "document_type": "rss_full",
       "success": true
+    },
+    {
+      "title": "Riserva per il servizio civile e universale: ci sarà anche negli elenchi regionali? Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/riserva-per-il-servizio-civile-e-universale-ci-sara-anche-negli-elenchi-regionali-pillole-di-question-time/",
+      "date": "Thu, 15 Jan 2026 11:09:45 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 16 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stata analizzata una questione rilevante per gli aspiranti docenti. L’attenzione si è concentrata sull'applicabilità della riserva per il servizio civile universale nell’ambito delle assunzioni da elenchi regionali.\nL'articolo\nRiserva per il servizio civile e universale: ci sarà anche negli elenchi regionali? Pillole di Question Time\nsembra e",
+      "full_content": "Nel question time del 16 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stata analizzata una questione rilevante per gli aspiranti docenti. L’attenzione si è concentrata sull'applicabilità della riserva per il servizio civile universale nell’ambito delle assunzioni da elenchi regionali.\nL'articolo\nRiserva per il servizio civile e universale: ci sarà anche negli elenchi regionali? Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "d53386c47acecabf",
+      "text": "Nel question time del 16 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stata analizzata una questione rilevante per gli aspiranti docenti. L’attenzione si è concentrata sull'applicabilità della riserva per il servizio civile universale nell’ambito delle assunzioni da elenchi regionali.\nL'articolo\nRiserva per il servizio civile e universale: ci sarà anche negli elenchi regionali? Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-15T18:34:49.903111",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Avviso convocazione prova pratica e orale B016 – DDG 2939/2025 – Ufficio Scolastico Regionale",
+      "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/15/avviso-convocazione-prova-pratica-e-orale-b016-ddg-2939-2025/",
+      "date": "2026-01-15T18:34:48.548379",
+      "source": "USR Lazio",
+      "type": "comunicazione",
+      "description": "",
+      "id": "9b2aae29ebce4969",
+      "text": "AOODRLA.REGISTRO UFFICIALE.2026.0004372 [274 KB]",
+      "size_chars": 48,
+      "success": true,
+      "fetched_at": "2026-01-15T18:34:52.760235",
+      "document_type": "html"
+    },
+    {
+      "title": "Esami di maturità, informativa al Ministero sul primo dei decreti che ne disciplineranno lo svolgimento",
+      "url": "https://www.cislscuolaromarieti.it/esami-di-maturita-informativa-al-ministero-sul-primo-dei-decreti-che-ne-disciplineranno-lo-svolgimento/",
+      "date": "15 Gennaio 2026",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "17d1798a75121cd2",
+      "text": "Oggi, giovedì 15 gennaio, si è tenuto al MIM un incontro di informativa riguardante le modalità di svolgimento dell’esame di maturità alla luce delle novità introdotte dal decreto-legge 127/2025, che ha fra l’altro previsto la riduzione da sei a quattro (più il presidente) dei componenti di ogni commissione.\nIn particolare, è stato oggetto di una prima informativa il decreto Ministeriale che deve provvedere alla ripartizione delle discipline/insegnamenti in aree disciplinari, da definire preliminarmente alla correzione delle prove scritte.\nL’amministrazione ha informato che il nuovo decreto Ministeriale riprende il precedente decreto (n. 319 del 2015) per i corsi di studio già esistenti all’epoca, con alcune limitate correzioni. Alcune novità introdotte riguardano i nuovi istituti professionali e il liceo del made in Italy.\nSi tratta del primo dei provvedimenti attuativi, in attesa del decreto che stabilirà le materie d’esame.\nShare\nArticoli correlati\n15 Gennaio 2026\nApplicazione CCNI sulle economie MOF, il verbale sottoscritto da Amministrazione e sindacati\nLeggi di più\n15 Gennaio 2026\nDocenti con funzioni di tutor per la formazione iniziale, pubblicato il decreto con la ripartizione degli esoneri fra le diverse regioni\nLeggi di più",
+      "size_chars": 1253,
+      "success": true,
+      "fetched_at": "2026-01-15T18:34:56.472055",
+      "document_type": "html"
+    },
+    {
+      "title": "Applicazione CCNI sulle economie MOF, il verbale sottoscritto da Amministrazione e sindacati",
+      "url": "https://www.cislscuolaromarieti.it/applicazione-ccni-sulle-economie-mof-il-verbale-sottoscritto-da-amministrazione-e-sindacati/",
+      "date": "15 Gennaio 2026",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "052dada907b1c518",
+      "text": "In allegato il verbale sottoscritto da Amministrazione e organizzazioni sindacali a conclusione dell’incontro del 14 gennaio nel quale sono state definite in modo condiviso le modalità applicative del CCNI 23 ottobre 2025 sull’utilizzo delle economie residuate per il fondo MOF relativamente agli anni scolastici 2022/23 e 2023/24.\nVerbale_CCNI-economie-MOF-2025\nShare\nArticoli correlati\n15 Gennaio 2026\nEsami di maturità, informativa al Ministero sul primo dei decreti che ne disciplineranno lo svolgimento\nLeggi di più\n15 Gennaio 2026\nDocenti con funzioni di tutor per la formazione iniziale, pubblicato il decreto con la ripartizione degli esoneri fra le diverse regioni\nLeggi di più",
+      "size_chars": 686,
+      "success": true,
+      "fetched_at": "2026-01-15T18:35:01.062486",
+      "document_type": "html"
+    },
+    {
+      "title": "Docenti con funzioni di tutor per la formazione iniziale, pubblicato il decreto con la ripartizione degli esoneri fra le diverse regioni",
+      "url": "https://www.cislscuolaromarieti.it/docenti-con-funzioni-di-tutor-per-la-formazione-iniziale-pubblicato-il-decreto-con-la-ripartizione-degli-esoneri-fra-le-diverse-regioni/",
+      "date": "15 Gennaio 2026",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "c01b31f7ada49791",
+      "text": "Il Ministero dell’istruzione e del merito ha pubblicato il Decreto Interministeriale n. 241 del 2 dicembre 2025 (di concerto con i ministeri dell’Università e dell’Economia) relativo alla ripartizione del contingente regionale del personale docente della scuola secondaria di I e di II grado da impegnare, con esonero o semi esonero, in compiti di tutoraggio presso i centri multidisciplinari per l’anno scolastico 2025/26.\nIl contingente prevede fino a 1.466 unità con esonero totale dall’insegnamento ovvero fino a 2.932 unità con semiesonero al 50%.\nLa ripartizione del contingente tra le Regioni è contenuta nell’Allegato A e la distribuzione tra le diverse sedi universitarie e le varie classi di concorso prevede anche il coinvolgimento dei Centri che hanno attivato i percorsi formativi.\nDecreto_241-2026-Tutor\nShare\nArticoli correlati\n15 Gennaio 2026\nEsami di maturità, informativa al Ministero sul primo dei decreti che ne disciplineranno lo svolgimento\nLeggi di più\n15 Gennaio 2026\nApplicazione CCNI sulle economie MOF, il verbale sottoscritto da Amministrazione e sindacati\nLeggi di più",
+      "size_chars": 1097,
+      "success": true,
+      "fetched_at": "2026-01-15T18:35:05.805463",
+      "document_type": "html"
     }
   ]
 }
