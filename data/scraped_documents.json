@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-15T01:24:46.049078",
+  "scraped_at": "2026-01-15T06:31:12.860778",
   "stats": {
     "total_sources": 7,
     "successful": 7,
     "failed": 0,
-    "total_docs": 28,
-    "unique_documents": 28
+    "total_docs": 47,
+    "unique_documents": 47
   },
   "documents": [
     {
@@ -20,6 +20,17 @@
       "id": "1941d4d5e3580af2"
     },
     {
+      "title": "Scuola, le Regioni non tagliano? Arriva il commissario",
+      "url": "https://www.flcgil.it/rassegna-stampa/scuola-le-regioni-non-tagliano-arriva-il-commissario.flc",
+      "date": "Wed, 14 Jan 2026 17:53:15 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Se non tagli ti punisco. O meglio, ti commissario. È questa la ratio estrema dell’intervento del governo che nei giorni scorsi ha adottato il provvedimento contro quattro Regioni – Umbria, Toscana, Emilia Romagna e Sardegna &ndash...",
+      "full_content": "Se non tagli ti punisco. O meglio, ti commissario. È questa la ratio estrema dell’intervento del governo che nei giorni scorsi ha adottato il provvedimento contro quattro Regioni – Umbria, Toscana, Emilia Romagna e Sardegna &ndash...",
+      "has_full_content": true,
+      "id": "3add36c5e3c27625"
+    },
+    {
       "title": "Concorso docenti PNRR3 scuola secondaria, online le ammissioni alla prova orale e il voto minimo [AGGIORNATO]",
       "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-scuola-secondaria-ecco-il-voto-minimo-per-laccesso-alla-prova-orale-in-aggiornamento/",
       "date": "Wed, 14 Jan 2026 17:33:07 +0000",
@@ -29,6 +40,17 @@
       "full_content": "Gli USR cominciano a pubblicare il voto minimo di accesso alla prova orale per il concorso PNRR3 per la scuola secondaria bandito con DDG. 2939/2025.\nL'articolo\nConcorso docenti PNRR3 scuola secondaria, online le ammissioni alla prova orale e il voto minimo [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "7e70a9a2e1562898"
+    },
+    {
+      "title": "Pubblicati gli arretrati del CCNL “Istruzione e Ricerca” 2022-2024: un terzo del dovuto",
+      "url": "https://www.flcgil.it/scuola/pubblicati-gli-arretrati-del-ccnl-istruzione-e-ricerca-2022-24-un-terzo-del-dovuto.flc",
+      "date": "Wed, 14 Jan 2026 16:34:06 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Sul sito di NoiPa\nvengono pubblicati\ngli arretrati netti...",
+      "full_content": "Sul sito di NoiPa\nvengono pubblicati\ngli arretrati netti...",
+      "has_full_content": false,
+      "id": "fec89a838c613868"
     },
     {
       "title": "Secondo ciclo TFA Indire, 60.000 posti disponibili: chi può presentare domanda, si frequenta? Quanto costa? Lalla vi anticiperà tutto nella newsletter “Diventare insegnanti”",
@@ -62,6 +84,61 @@
       "full_content": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: ecco le lettere estratte per l'avvio delle prove orali. Avvisi USR in aggiornamento.\nL'articolo\nConcorso docenti PNRR3, quando cominciano le prove orali? Data estrazione lettera dà una prima indicazione [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "127c324e5e921663"
+    },
+    {
+      "title": "La FLC CGIL esprime la propria solidarietà al personale scolastico e al popolo iraniano",
+      "url": "https://www.flcgil.it/attualita/estero/la-flc-cgil-esprime-la-propria-solidarieta-al-personale-scolastico-e-al-popolo-iraniano.flc",
+      "date": "Wed, 14 Jan 2026 10:28:15 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Giungono dall’Iran, ormai da giorni, gravi notizie di repressioni di massa e di uccisioni, anche di studenti e bambini, da parte delle forze di sicurezza che, secondo quanto riferito, sparano ad altezza d’uomo. Le proteste sono ormai...",
+      "full_content": "Giungono dall’Iran, ormai da giorni, gravi notizie di repressioni di massa e di uccisioni, anche di studenti e bambini, da parte delle forze di sicurezza che, secondo quanto riferito, sparano ad altezza d’uomo. Le proteste sono ormai...",
+      "has_full_content": true,
+      "id": "196f4d45bdbf4bb8"
+    },
+    {
+      "title": "È morta Valeria Fedeli, sempre impegnata per la giustizia sociale e i diritti dei lavoratori",
+      "url": "https://www.flcgil.it/attualita/morta-valeria-fedeli-sempre-impegnata-per-giustizia-sociale-e-diritti-lavoratori.flc",
+      "date": "Wed, 14 Jan 2026 10:23:26 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "",
+      "full_content": "",
+      "has_full_content": false,
+      "id": "5209af7fdbe4c369"
+    },
+    {
+      "title": "Concorsi Università al 13 gennaio 2026",
+      "url": "https://www.flcgil.it/universita/concorsi-universita-al-13-gennaio-2026.flc",
+      "date": "Wed, 14 Jan 2026 09:34:55 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Gazzetta Ufficiale n°2 del 9 gennaio 2026\nLIBERA UNIVERSITÀ DI BOLZANO\nProcedura selettiva aperta per la copertura di un posto di professoressa / professore...",
+      "full_content": "Gazzetta Ufficiale n°2 del 9 gennaio 2026\nLIBERA UNIVERSITÀ DI BOLZANO\nProcedura selettiva aperta per la copertura di un posto di professoressa / professore...",
+      "has_full_content": false,
+      "id": "4c8d8cebe197f1b8"
+    },
+    {
+      "title": "CCNL Istruzione e Ricerca 2022/2024: aggiornati gli stipendi del personale dell’Alta Formazione Artistico Nazionale con la rata di gennaio",
+      "url": "https://www.flcgil.it/universita/afam/ccnl-istruzione-e-ricerca-2022-2024-aggiornati-gli-stipendi-del-personale-dell-alta-formazione-artistico-nazionale-con-la-rata-di-gennaio.flc",
+      "date": "Wed, 14 Jan 2026 09:20:34 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Con lo stipendio di gennaio 2026, in pagamento dal 23 gennaio, saranno erogati gli aumenti stipendiali previsti dal rinnovo contrattuale del CCNL Istruzione e Ricerca per il triennio 2022/2024.\nArretrati 2024 e...",
+      "full_content": "Con lo stipendio di gennaio 2026, in pagamento dal 23 gennaio, saranno erogati gli aumenti stipendiali previsti dal rinnovo contrattuale del CCNL Istruzione e Ricerca per il triennio 2022/2024.\nArretrati 2024 e...",
+      "has_full_content": true,
+      "id": "d6a218d9f0fb4591"
+    },
+    {
+      "title": "Gravissimo il commissariamento della regione Emilia Romagna su dimensionamento della rete scolastica",
+      "url": "https://www.flcgil.it/regioni/emilia-romagna/gravissimo-il-commissariamento-della-regione-emilia-romagna-su-dimensionamento-della-rete-scolastica.flc",
+      "date": "Wed, 14 Jan 2026 09:14:28 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Comunicato stampa FLC CGIL – CISL Scuola – Gilda UNAMS – SNALS CONFSAL Emilia Romagna\nFLC CGIL, CISL Scuola, Gilda UNAMS e SNALS CONFSAL dell’Emilia-Romagna oggi...",
+      "full_content": "Comunicato stampa FLC CGIL – CISL Scuola – Gilda UNAMS – SNALS CONFSAL Emilia Romagna\nFLC CGIL, CISL Scuola, Gilda UNAMS e SNALS CONFSAL dell’Emilia-Romagna oggi...",
+      "has_full_content": false,
+      "id": "952bf1c329c66b3d"
     },
     {
       "title": "Concorso docenti PNRR3: tutto pronto per la prova orale. Dal voto minimo alla convocazione, cosa sapere [LO SPECIALE]",
@@ -119,6 +196,39 @@
       "id": "06b12ef29a7ab510"
     },
     {
+      "title": "Scuola, dimensionamento: con l'alibi del PNRR il Governo colpisce diritto all’istruzione",
+      "url": "https://www.flcgil.it/comunicati-stampa/flc/scuola-dimensionamento-con-l-alibi-del-pnrr-il-governo-colpisce-diritto-all-istruzione.flc",
+      "date": "Tue, 13 Jan 2026 14:05:06 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Roma, 13 gennaio- “La decisione del Governo di commissariare quattro Regioni (Umbria, Toscana, Emilia Romagna e Sardegna) sul dimensionamento scolastico è un atto gravissimo che colpisce la scuola pubblica e calpesta il ruolo delle...",
+      "full_content": "Roma, 13 gennaio- “La decisione del Governo di commissariare quattro Regioni (Umbria, Toscana, Emilia Romagna e Sardegna) sul dimensionamento scolastico è un atto gravissimo che colpisce la scuola pubblica e calpesta il ruolo delle...",
+      "has_full_content": true,
+      "id": "56cde2e28823c52c"
+    },
+    {
+      "title": "CCNL Istruzione e Ricerca 2022/2024: aggiornati gli stipendi del personale della scuola con la rata di gennaio",
+      "url": "https://www.flcgil.it/scuola/ccnl-istruzione-e-ricerca-2022-2024-aggiornati-gli-stipendi-del-personale-della-scuola-con-la-rata-di-gennaio.flc",
+      "date": "Tue, 13 Jan 2026 14:03:52 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Con lo stipendio di gennaio 2026, in pagamento dal 23 gennaio, saranno erogati gli aumenti stipendiali previsti dal rinnovo contrattuale del CCNL Istruzione e Ricerca per il triennio 2022/2024.\nArretrati 2024 e 2025: emissione...",
+      "full_content": "Con lo stipendio di gennaio 2026, in pagamento dal 23 gennaio, saranno erogati gli aumenti stipendiali previsti dal rinnovo contrattuale del CCNL Istruzione e Ricerca per il triennio 2022/2024.\nArretrati 2024 e 2025: emissione...",
+      "has_full_content": true,
+      "id": "a0056e54b1825947"
+    },
+    {
+      "title": "Toscana: possibile commissariamento del Governo sul dimensionamento delle scuole della regione",
+      "url": "https://www.flcgil.it/regioni/toscana/toscana-possibile-commissariamento-governo-dimensionamento-scuole-regione.flc",
+      "date": "Tue, 13 Jan 2026 12:10:19 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "A cura della FLC CGIL Toscana\nLa FLC CGIL Toscana denuncia la convocazione da parte del governo Meloni dei presidenti di quattro regioni amministrate dal centrosinistra: Emilia...",
+      "full_content": "A cura della FLC CGIL Toscana\nLa FLC CGIL Toscana denuncia la convocazione da parte del governo Meloni dei presidenti di quattro regioni amministrate dal centrosinistra: Emilia...",
+      "has_full_content": false,
+      "id": "d616bfc425c3087e"
+    },
+    {
       "title": "Supplenze docenti 2025/26: bollettini da GPS anche a gennaio [AGGIORNATO]",
       "url": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
       "date": "Tue, 13 Jan 2026 12:00:08 +0000",
@@ -130,6 +240,28 @@
       "id": "8d040bb18dd472bf"
     },
     {
+      "title": "GPS 2026-2028: le conquiste della FLC CGIL e quello che ancora bisogna ottenere [SCHEDA]",
+      "url": "https://www.flcgil.it/scuola/precari/gps-2026-2028-le-conquiste-della-flc-cgil-e-quello-che-ancora-bisogna-ottenere-scheda.flc",
+      "date": "Tue, 13 Jan 2026 11:50:22 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Sebbene non sia stato possibile effettuare una vera contrattazione sindacale con il Ministero, dato che il reclutamento docenti è materia di sola informativa e confronto, sono comunque state finalmente accolte alcune",
+      "full_content": "Sebbene non sia stato possibile effettuare una vera contrattazione sindacale con il Ministero, dato che il reclutamento docenti è materia di sola informativa e confronto, sono comunque state finalmente accolte alcune",
+      "has_full_content": true,
+      "id": "446b1e33e61b1248"
+    },
+    {
+      "title": "Grave l’imposizione del dimensionamento della rete scolastica con la nomina del commissario ad acta",
+      "url": "https://www.flcgil.it/regioni/emilia-romagna/grave-l-imposizione-del-dimensionamento-della-rete-scolastica-con-la-nomina-del-commissario-ad-acta.flc",
+      "date": "Tue, 13 Jan 2026 09:07:14 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "A cura della FLC CGIL Emilia Romagna\nIl Governo impone all'Emilia Romagna il dimensionamento della rete scolastica con la nomina del commissario ad acta.\nLa decisione assunta poco fa dal Consiglio dei...",
+      "full_content": "A cura della FLC CGIL Emilia Romagna\nIl Governo impone all'Emilia Romagna il dimensionamento della rete scolastica con la nomina del commissario ad acta.\nLa decisione assunta poco fa dal Consiglio dei...",
+      "has_full_content": true,
+      "id": "be1586593c32e139"
+    },
+    {
       "title": "Arretrati del personale scolastico: quando arrivano i pagamenti. Le date da tenere sott’occhio",
       "url": "https://www.orizzontescuola.it/arretrati-del-personale-scolastico-quando-arrivano-i-pagamenti-le-date-da-tenere-sottocchio/",
       "date": "Tue, 06 Jan 2026 08:36:49 +0000",
@@ -139,6 +271,61 @@
       "full_content": "Dopo la firma definitiva del\ncontratto scuola 2022-2024\n, avvenuta a fine dicembre 2025, la questione degli arretrati economici è diventata prioritaria per docenti e personale ATA. Le cifre sono state definite, le tempistiche quasi interamente delineate. Restano da monitorare alcune date chiave, che scandiranno le operazioni di accredito e gestione dei conguagli previsti per gennaio 2026.\nL'articolo\nArretrati del personale scolastico: quando arrivano i pagamenti. Le date da tenere sott’occhio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "d110ca6c29ea1749"
+    },
+    {
+      "title": "Messina: contrattazione di scuola, censurata la condotta antisindacale di una dirigente scolastica",
+      "url": "https://www.flcgil.it/regioni/sicilia/messina/messina-contrattazione-di-scuola-censurata-la-condotta-antisindacale-di-una-dirigente-scolastica.flc",
+      "date": "Thu, 08 Jan 2026 14:58:48 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "A cura della FLC CGIL Messina\nCon provvedimento del 2 gennaio 2026 il Tribunale del Lavoro di Messina, decidendo un ricorso ex articolo 28 legge 300/1970 proposto dalla FLC CGIL di...",
+      "full_content": "A cura della FLC CGIL Messina\nCon provvedimento del 2 gennaio 2026 il Tribunale del Lavoro di Messina, decidendo un ricorso ex articolo 28 legge 300/1970 proposto dalla FLC CGIL di...",
+      "has_full_content": false,
+      "id": "bee29077eac96982"
+    },
+    {
+      "title": "IOS dell'Istat: subito gli aumenti in busta paga!",
+      "url": "https://www.flcgil.it/enti/istat/notizie/ios-dell-istat-subito-gli-aumenti-in-busta-paga.flc",
+      "date": "Thu, 08 Jan 2026 14:56:09 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Approvata la legge di bilancio, è rimasta intatta",
+      "full_content": "Approvata la legge di bilancio, è rimasta intatta",
+      "has_full_content": false,
+      "id": "7879f0ef45c3fa26"
+    },
+    {
+      "title": "ISTAT: usciti i bandi di concorso per oltre 200 posti, la FLC CGIL chiede di correggere alcune anomalie",
+      "url": "https://www.flcgil.it/enti/istat/notizie/istat-usciti-i-bandi-di-concorso-per-oltre-200-posti-la-flc-cgil-chiede-di-correggere-alcune-anomalie.flc",
+      "date": "Thu, 08 Jan 2026 14:43:51 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Il 23 e il 24 dicembre sono stati pubblicati gli annunciati bandi di concorso al III e al VI livello. Il 31 dicembre è stato inoltre pubblicato il bando per 18 collaboratori di amministrazione al VII livello...",
+      "full_content": "Il 23 e il 24 dicembre sono stati pubblicati gli annunciati bandi di concorso al III e al VI livello. Il 31 dicembre è stato inoltre pubblicato il bando per 18 collaboratori di amministrazione al VII livello...",
+      "has_full_content": true,
+      "id": "17d231b0b774973b"
+    },
+    {
+      "title": "nota flc cgil istat concorsi del 7 gennaio 2026",
+      "url": "https://www.flcgil.it/enti/istat/documenti/nota-flc-cgil-istat-concorsi-del-7-gennaio-2026.flc",
+      "date": "Thu, 08 Jan 2026 12:54:26 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "nota flc cgil istat concorsi del 7 gennaio 2026",
+      "full_content": "nota flc cgil istat concorsi del 7 gennaio 2026",
+      "has_full_content": false,
+      "id": "51579779ac1562c4"
+    },
+    {
+      "title": "nota flc cgil istat concorsi 29 dicembre 2025",
+      "url": "https://www.flcgil.it/enti/istat/documenti/nota-flc-cgil-istat-concorsi-29-dicembre-2025.flc",
+      "date": "Thu, 08 Jan 2026 12:48:16 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "nota flc cgil istat concorsi 29 dicembre 2025",
+      "full_content": "nota flc cgil istat concorsi 29 dicembre 2025",
+      "has_full_content": false,
+      "id": "6ea5fd8bdb02d476"
     },
     {
       "title": "Posizioni economiche ATA: il simulatore per esercitarti a superare l’esame",
@@ -172,6 +359,50 @@
       "full_content": "Il personale dirigente, docente, educativo e ATA della scuola cessato dal servizio può presentare domanda di riammissione in servizio entro il 15 gennaio di ogni anno, secondo quanto previsto dall’articolo 516 del decreto legislativo 16 aprile 1994, n. 297 e dall’articolo 132 del DPR 10 gennaio 1957, n. 3.\nL'articolo\nRiammissione in servizio del personale scolastico cessato: domanda entro il 15 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "2b586465509d74dd"
+    },
+    {
+      "title": "Aggiornamento GAE 2026-2028: pubblicato l’avviso e il decreto sul portale INPA [SCHEDA]",
+      "url": "https://www.flcgil.it/scuola/precari/aggiornamento-gae-2026-2028-pubblicato-avviso-e-decreto-portale-inpa.flc",
+      "date": "Mon, 12 Jan 2026 18:22:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Il Ministero del’Istruzione ha\npubblicato sul portale INPA\nl’avviso con il Decreto...",
+      "full_content": "Il Ministero del’Istruzione ha\npubblicato sul portale INPA\nl’avviso con il Decreto...",
+      "has_full_content": false,
+      "id": "5b1053e0bebccfc3"
+    },
+    {
+      "title": "Scheda FLC CGIL aggiornamento domande GAE 2026-2028",
+      "url": "https://www.flcgil.it/sindacato/documenti/approfondimenti/scheda-flc-cgil-aggiornamento-domande-gae-2026-2028.flc",
+      "date": "Mon, 12 Jan 2026 17:35:31 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Le domande relative alle GAE (Graduatorie ad esaurimento) per il personale docente ed educativo, potranno essere presentate dalle ore 12:00 dell’8 gennaio alle 23:59 del 22 gennaio 2026.",
+      "full_content": "Le domande relative alle GAE (Graduatorie ad esaurimento) per il personale docente ed educativo, potranno essere presentate dalle ore 12:00 dell’8 gennaio alle 23:59 del 22 gennaio 2026.",
+      "has_full_content": false,
+      "id": "240f2518fcc3f3b1"
+    },
+    {
+      "title": "Comunicato del Movimento della pedagogia laica",
+      "url": "https://www.flcgil.it/attualita/comunicato-del-movimento-della-pedagogia-laica.flc",
+      "date": "Mon, 12 Jan 2026 16:43:13 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Il movimento della pedagogia laica si riconosce nella Costituzione italiana e si colloca nel quadro pluralista della comunità pedagogica, di cui la Società italiana di pedagogia rappresenta lo spazio comune di incontro e...",
+      "full_content": "Il movimento della pedagogia laica si riconosce nella Costituzione italiana e si colloca nel quadro pluralista della comunità pedagogica, di cui la Società italiana di pedagogia rappresenta lo spazio comune di incontro e...",
+      "has_full_content": true,
+      "id": "b9f9ce3c9db2215f"
+    },
+    {
+      "title": "CNR: ciao Presidente Nicolais",
+      "url": "https://www.flcgil.it/ricerca/cnr-ciao-presidente-nicolais.flc",
+      "date": "Mon, 12 Jan 2026 16:22:50 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "La FLC CGIL del CNR esprime profondo cordoglio per la scomparsa del Prof. Luigi Nicolais, già Presidente del Consiglio Nazionale delle Ricerche dal 2012 al 2016 e Ministro per le Riforme e le Innovazioni nella Pubblica...",
+      "full_content": "La FLC CGIL del CNR esprime profondo cordoglio per la scomparsa del Prof. Luigi Nicolais, già Presidente del Consiglio Nazionale delle Ricerche dal 2012 al 2016 e Ministro per le Riforme e le Innovazioni nella Pubblica...",
+      "has_full_content": true,
+      "id": "687143108af47b2c"
     },
     {
       "title": "Mutui INPS: domande al via dal 15 gennaio. Guida ai requisiti e alle regole per Docenti e ATA",
@@ -229,9 +460,53 @@
       "id": "62b325d3e9d0cad7"
     },
     {
+      "title": "Nota FLC CGIL ISTAT concorsi del 9 gennaio 2026",
+      "url": "https://www.flcgil.it/enti/istat/documenti/nota-flc-cgil-istat-concorsi-del-9-gennaio-2026.flc",
+      "date": "Fri, 09 Jan 2026 13:57:01 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Nota FLC CGIL ISTAT concorsi del 9 gennaio 2026",
+      "full_content": "Nota FLC CGIL ISTAT concorsi del 9 gennaio 2026",
+      "has_full_content": false,
+      "id": "9dccc11be9eff733"
+    },
+    {
+      "title": "Arrivano i bonus per le paritarie, ma per la scuola pubblica solo tagli",
+      "url": "https://www.flcgil.it/rassegna-stampa/arrivano-i-bonus-per-le-paritarie-ma-per-la-scuola-pubblica-solo-tagli.flc",
+      "date": "Fri, 09 Jan 2026 11:15:41 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Con la scuola, il governo fa lo stesso giochetto fatto con la sanità: si sbandiera un aumento di risorse che però viene azzerato - e anzi diventa di segno negativo - considerando l&rsquo...",
+      "full_content": "Con la scuola, il governo fa lo stesso giochetto fatto con la sanità: si sbandiera un aumento di risorse che però viene azzerato - e anzi diventa di segno negativo - considerando l&rsquo...",
+      "has_full_content": false,
+      "id": "74e15970c0f3e42e"
+    },
+    {
+      "title": "Guida FLC CGIL alla fruizione dei congedi parentali nella scuola",
+      "url": "https://www.flcgil.it/sindacato/documenti/approfondimenti/guida-flc-cgil-fruizione-congedi-parentali-scuola.flc",
+      "date": "Fri, 09 Jan 2026 10:13:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Uno strumento utile al personale (docenti, ATA ed educatori) e alle segreterie scolastiche per applicare le novità introdotte dalla Legge di Bilancio 2026",
+      "full_content": "Uno strumento utile al personale (docenti, ATA ed educatori) e alle segreterie scolastiche per applicare le novità introdotte dalla Legge di Bilancio 2026",
+      "has_full_content": false,
+      "id": "76c4ac70598244d6"
+    },
+    {
+      "title": "PNRR: notizie e provvedimenti",
+      "url": "https://www.flcgil.it/attualita/piano-nazionale-ripresa-resilienza/emergenza-coronavirus-covid-19-pnrr-notizie-provvedimenti.flc",
+      "date": "Fri, 09 Jan 2026 10:00:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "L’emergenza Coronavirus che ha investito il nostro Paese vede i sindacati in prima linea nell’affrontare la situazione e cercare di tutelare il lavoro. Diversi anche gli interventi...",
+      "full_content": "L’emergenza Coronavirus che ha investito il nostro Paese vede i sindacati in prima linea nell’affrontare la situazione e cercare di tutelare il lavoro. Diversi anche gli interventi...",
+      "has_full_content": false,
+      "id": "46ed521011b8a9ce"
+    },
+    {
       "title": "Avviso – Manifestazione di interesse – elenco di esperti in progettazione Erasmus+",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/13/avviso-manifestazione-di-interesse-elenco-di-esperti-in-progettazione-erasmus/",
-      "date": "2026-01-15T01:24:45.047327",
+      "date": "2026-01-15T06:31:11.859161",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -240,65 +515,11 @@
     {
       "title": "Avviso pubblico per l’individuazione di Buone Pratiche attuate dalle istituzioni scolastiche nel campo della formazione del personale scolastico",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/14/avviso-pubblico-per-lindividuazione-di-buone-pratiche-attuate-dalle-istituzioni-scolastiche-nel-campo-della-formazione-del-personale-scolastico/",
-      "date": "2026-01-15T01:24:45.047295",
+      "date": "2026-01-15T06:31:11.859129",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
       "id": "a345bf0d8fab25fb"
-    },
-    {
-      "title": "Ivana Barbacci: “Il commissariamento è una sconfitta per le istituzioni a tutti i livelli, dialogo costruttivo per trovare soluzioni”",
-      "url": "https://www.cislscuolaromarieti.it/ivana-barbacci-il-commissariamento-e-una-sconfitta-per-le-istituzioni-a-tutti-i-livelli-dialogo-costruttivo-per-trovare-soluzioni/",
-      "date": "13 Gennaio 2026",
-      "source": "CISL Scuola Roma e Rieti",
-      "type": "news",
-      "description": "",
-      "id": "b9a635e4d491a131"
-    },
-    {
-      "title": "ATP ROMA. Specchietto riassuntivo XV turno di nomina a T.D. a.s. 2025/2026",
-      "url": "https://www.cislscuolaromarieti.it/atp-roma-specchietto-riassuntivo-xv-turno-di-nomina-a-t-d-a-s-2025-2026/",
-      "date": "13 Gennaio 2026",
-      "source": "CISL Scuola Roma e Rieti",
-      "type": "news",
-      "description": "",
-      "id": "51b72f9d24fd0c8c"
-    },
-    {
-      "title": "Scuola, aperte le iscrizioni alle prime classi per l’anno scolastico 2026/2027",
-      "url": "https://www.cislscuolaromarieti.it/scuola-aperte-le-iscrizioni-alle-prime-classi-per-lanno-scolastico-2026-2027/",
-      "date": "13 Gennaio 2026",
-      "source": "CISL Scuola Roma e Rieti",
-      "type": "news",
-      "description": "",
-      "id": "64434d85a0f80ef0"
-    },
-    {
-      "title": "Orale concorso docenti PNRR3, webinar per progettare e realizzare una lezione simulata",
-      "url": "https://www.cislscuolaromarieti.it/orale-concorso-docenti-pnrr3-webinar-per-progettare-e-realizzare-una-lezione-simulata/",
-      "date": "12 Gennaio 2026",
-      "source": "CISL Scuola Roma e Rieti",
-      "type": "news",
-      "description": "",
-      "id": "96f8c210f19811a3"
-    },
-    {
-      "title": "Elenco docenti che hanno conseguito l’abilitazione all’insegnamento entro il 31 dicembre 2025 tenuti a sostenere l’anno di formazione e prova nell’a.s. 2025/26",
-      "url": "https://www.cislscuolaromarieti.it/elenco-docenti-che-hanno-conseguito-labilitazione-allinsegnamento-entro-il-31-dicembre-2025-tenuti-a-sostenere-lanno-di-formazione-e-prova-nella-s-2025-26/",
-      "date": "12 Gennaio 2026",
-      "source": "CISL Scuola Roma e Rieti",
-      "type": "news",
-      "description": "",
-      "id": "a0d40dec1fd9f6d8"
-    },
-    {
-      "title": "Novità nel programma che gestisce le istanze per aggiornamento GAE riguardo all’inserimento dei titoli di specializzazione e alle riserve",
-      "url": "https://www.cislscuolaromarieti.it/novita-nel-programma-che-gestisce-le-istanze-per-aggiornamento-gae-riguardo-allinserimento-dei-titoli-di-specializzazione-e-alle-riserve/",
-      "date": "12 Gennaio 2026",
-      "source": "CISL Scuola Roma e Rieti",
-      "type": "news",
-      "description": "",
-      "id": "f3656b0b7486a2a4"
     }
   ]
 }
