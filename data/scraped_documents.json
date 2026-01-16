@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-16T12:40:39.913094",
+  "scraped_at": "2026-01-16T18:30:28.274368",
   "stats": {
     "total_sources": 7,
     "successful": 7,
     "failed": 0,
-    "total_docs": 54,
-    "unique_documents": 53
+    "total_docs": 55,
+    "unique_documents": 54
   },
   "documents": [
     {
@@ -196,17 +196,6 @@
       "id": "8b98b125f0a8d2b0"
     },
     {
-      "title": "Secondo ciclo TFA Indire, 60.000 posti disponibili: chi può presentare domanda, si frequenta? Quanto costa? Lalla vi anticiperà tutto nella newsletter “Diventare insegnanti”",
-      "url": "https://www.orizzontescuola.it/secondo-ciclo-indire-60-000-posti-disponibili-chi-puo-presentare-domanda-si-frequenta-quanto-costa-lalla-vi-anticipera-tutto-nella-newsletter-diventare-insegnanti/",
-      "date": "Thu, 15 Jan 2026 17:50:59 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Sarà attivato nelle prossime settimane il secondo ciclo Indire/Università. Chi può presentare domanda, quando si frequenta, costi. Il nuovo profilo del docente specializzato. Lalla vi spiegherà tutto. Iscriviti entro venerdì ore 18. All’interno troverai le istruzioni per il download. Cosa riceverò iscrivendomi alla newsletter? Chi si iscrive riceverà: notizie filtrate e commentate, non semplici link; […]\nL'articolo\nSecondo ciclo TFA Indire, 60.000 posti disponibili: chi può presentare domanda, s",
-      "full_content": "Sarà attivato nelle prossime settimane il secondo ciclo Indire/Università. Chi può presentare domanda, quando si frequenta, costi. Il nuovo profilo del docente specializzato. Lalla vi spiegherà tutto. Iscriviti entro venerdì ore 18. All’interno troverai le istruzioni per il download. Cosa riceverò iscrivendomi alla newsletter? Chi si iscrive riceverà: notizie filtrate e commentate, non semplici link; […]\nL'articolo\nSecondo ciclo TFA Indire, 60.000 posti disponibili: chi può presentare domanda, si frequenta? Quanto costa? Lalla vi anticiperà tutto nella newsletter “Diventare insegnanti”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "68769615349b5a62"
-    },
-    {
       "title": "Esame di maturità. Informativa al MIM sulle aree disciplinari per la correzione delle prove scritte",
       "url": "https://www.flcgil.it/scuola/esame-di-maturita-informativa-al-mim-sulle-aree-disciplinari-per-la-correzione-delle-prove-scritte.flc",
       "date": "Thu, 15 Jan 2026 15:33:52 +0100",
@@ -216,28 +205,6 @@
       "full_content": "Si è svolto al MIM nella giornata di oggi 15 gennaio 2026 l’incontro di informativa sulla bozza di decreto relativo all’individuazione delle aree disciplinari finalizzate alla correzione delle prove...",
       "has_full_content": true,
       "id": "4d7b8ce42414f4e9"
-    },
-    {
-      "title": "Censimento alunni palestinesi. Il MIM richiede una discutibile e immotivata rilevazione degli iscritti per l’a.s. 2025/2026",
-      "url": "https://www.flcgil.it/scuola/censimento-alunni-palestinesi-il-mim-richiede-una-discutibile-e-immotivata-rilevazione-degli-alunni-iscritti-per-l-a-s-2025-2026.flc",
-      "date": "Thu, 15 Jan 2026 15:19:04 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "La Direzione Generale per gli Affari Internazionali del MIM con una nota rivolta agli USR ha avviato una rilevazione degli alunni palestinesi presso le istituzioni scolastiche statali e paritarie per l’anno 2025/2026. L&rsquo...",
-      "full_content": "La Direzione Generale per gli Affari Internazionali del MIM con una nota rivolta agli USR ha avviato una rilevazione degli alunni palestinesi presso le istituzioni scolastiche statali e paritarie per l’anno 2025/2026. L&rsquo...",
-      "has_full_content": true,
-      "id": "98fce39250016afd"
-    },
-    {
-      "title": "Concorso infanzia e primaria PNRR3, arrivano le convocazioni prova orale. [AGGIORNATO con Piemonte e Sardegna]",
-      "url": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-pnrr3-arrivano-le-convocazioni-prova-orale-dal-19-gennaio-in-aggiornamento/",
-      "date": "Thu, 15 Jan 2026 15:06:57 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Convocazioni concorso DDG n. 2398/2025: arrivate le prime convocazioni per la prova orale. La convocazione viene inviata a coloro che hanno raggiunto il voto minimo rientrando nel gruppo degli ammessi alla prova orale.\nL'articolo\nConcorso infanzia e primaria PNRR3, arrivano le convocazioni prova orale. [AGGIORNATO con Piemonte e Sardegna]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Convocazioni concorso DDG n. 2398/2025: arrivate le prime convocazioni per la prova orale. La convocazione viene inviata a coloro che hanno raggiunto il voto minimo rientrando nel gruppo degli ammessi alla prova orale.\nL'articolo\nConcorso infanzia e primaria PNRR3, arrivano le convocazioni prova orale. [AGGIORNATO con Piemonte e Sardegna]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "78093422f495ad95"
     },
     {
       "title": "Pensionamenti AFAM: entro il 3 febbraio le domande di cessazione per l’a.a. 2026/2027",
@@ -339,17 +306,6 @@
       "id": "5b1053e0bebccfc3"
     },
     {
-      "title": "Scheda FLC CGIL aggiornamento domande GAE 2026-2028",
-      "url": "https://www.flcgil.it/sindacato/documenti/approfondimenti/scheda-flc-cgil-aggiornamento-domande-gae-2026-2028.flc",
-      "date": "Mon, 12 Jan 2026 17:35:31 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Le domande relative alle GAE (Graduatorie ad esaurimento) per il personale docente ed educativo, potranno essere presentate dalle ore 12:00 dell’8 gennaio alle 23:59 del 22 gennaio 2026.",
-      "full_content": "Le domande relative alle GAE (Graduatorie ad esaurimento) per il personale docente ed educativo, potranno essere presentate dalle ore 12:00 dell’8 gennaio alle 23:59 del 22 gennaio 2026.",
-      "has_full_content": false,
-      "id": "240f2518fcc3f3b1"
-    },
-    {
       "title": "Mutui INPS: domande al via dal 15 gennaio. Guida ai requisiti e alle regole per Docenti e ATA",
       "url": "https://www.orizzontescuola.it/mutui-inps-domande-al-via-dal-15-gennaio-guida-ai-requisiti-e-alle-regole-per-docenti-e-ata/",
       "date": "Mon, 12 Jan 2026 11:48:22 +0000",
@@ -392,6 +348,61 @@
       "full_content": "Atteso in primavera l'aggiornamento delle graduatorie ATA 24 mesi, dette anche di prima fascia, utilizzate per l'attribuzione dei ruoli e delle supplenze al 30 giugno o 31 agosto. Resta il dubbio sulla possibilità di far valutare il servizio svolto come assistente per il profilo del collaboratore scolastico.\nL'articolo\nGraduatorie ATA 24 mesi, aggiornamento 2026: il servizio da assistente vale ancora per il collaboratore scolastico?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "c6a98b07ea447f0f"
+    },
+    {
+      "title": "Censimento alunni palestinesi. Il MIM richiede una discutibile e immotivata rilevazione degli iscritti per l’a.s. 2025/2026",
+      "url": "https://www.flcgil.it/scuola/censimento-alunni-palestinesi-il-mim-richiede-una-discutibile-e-immotivata-rilevazione-degli-alunni-iscritti-per-l-a-s-2025-2026.flc",
+      "date": "Fri, 16 Jan 2026 16:19:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "La Direzione Generale per gli Affari Internazionali del MIM con una nota rivolta agli USR ha avviato una rilevazione degli alunni palestinesi presso le istituzioni scolastiche statali e paritarie per l’anno 2025/2026. L&rsquo...",
+      "full_content": "La Direzione Generale per gli Affari Internazionali del MIM con una nota rivolta agli USR ha avviato una rilevazione degli alunni palestinesi presso le istituzioni scolastiche statali e paritarie per l’anno 2025/2026. L&rsquo...",
+      "has_full_content": true,
+      "id": "98fce39250016afd"
+    },
+    {
+      "title": "Concorso PNRR3 docenti secondaria, al via la PROVA ORALE per le classi A026, A028, B015, B016, AM30. Ecco dove [AGGIORNATO]",
+      "url": "https://www.orizzontescuola.it/concorso-pnrr3-docenti-secondaria-al-via-la-prova-orale-ecco-le-convocazioni-in-aggiornamento/",
+      "date": "Fri, 16 Jan 2026 15:54:23 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Concorso docenti secondaria bandito con DDG n. 2939/2025: al via le prove orali. Laddove sono state formate le commissioni e proceduto all'estrazione della lettera di avvio, si può formalmente dare avvio alle prove orali (e pratiche per le classi di concorso che le prevedono).\nL'articolo\nConcorso PNRR3 docenti secondaria, al via la PROVA ORALE per le classi A026, A028, B015, B016, AM30. Ecco dove [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Concorso docenti secondaria bandito con DDG n. 2939/2025: al via le prove orali. Laddove sono state formate le commissioni e proceduto all'estrazione della lettera di avvio, si può formalmente dare avvio alle prove orali (e pratiche per le classi di concorso che le prevedono).\nL'articolo\nConcorso PNRR3 docenti secondaria, al via la PROVA ORALE per le classi A026, A028, B015, B016, AM30. Ecco dove [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "963faf241b3435d7"
+    },
+    {
+      "title": "Le istituzioni AFAM possono richiedere l’approvazione di nuovi corsi di diploma accademico entro il 6 Febbraio 2026",
+      "url": "https://www.flcgil.it/universita/afam/le-istituzioni-afam-possono-richiedere-l-approvazione-di-nuovi-corsi-di-diploma-accademico-entro-il-6-febbraio-2026.flc",
+      "date": "Fri, 16 Jan 2026 14:53:19 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "L’Ufficio IV del Ministero dell’Università e della Ricerca ha pubblicato la",
+      "full_content": "L’Ufficio IV del Ministero dell’Università e della Ricerca ha pubblicato la",
+      "has_full_content": false,
+      "id": "6c31e20b3356da0a"
+    },
+    {
+      "title": "Concorso infanzia e primaria PNRR3, arrivano le convocazioni prova orale. [AGGIORNATO con Calabria]",
+      "url": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-pnrr3-arrivano-le-convocazioni-prova-orale-dal-19-gennaio-in-aggiornamento/",
+      "date": "Fri, 16 Jan 2026 13:11:57 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Convocazioni concorso DDG n. 2398/2025: arrivate le prime convocazioni per la prova orale. La convocazione viene inviata a coloro che hanno raggiunto il voto minimo rientrando nel gruppo degli ammessi alla prova orale.\nL'articolo\nConcorso infanzia e primaria PNRR3, arrivano le convocazioni prova orale. [AGGIORNATO con Calabria]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Convocazioni concorso DDG n. 2398/2025: arrivate le prime convocazioni per la prova orale. La convocazione viene inviata a coloro che hanno raggiunto il voto minimo rientrando nel gruppo degli ammessi alla prova orale.\nL'articolo\nConcorso infanzia e primaria PNRR3, arrivano le convocazioni prova orale. [AGGIORNATO con Calabria]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "937b0d64cd91cdf7"
+    },
+    {
+      "title": "Elenchi regionali per il ruolo: validi solo i punteggi prova scritta e orale del concorso, no titoli. La modifica nel prossimo decreto PNRR",
+      "url": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-validi-solo-i-punteggi-prova-scritta-e-orale-del-concorso-no-titoli-la-modifica-nel-prossimo-decreto-pnrr/",
+      "date": "Fri, 16 Jan 2026 12:55:36 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Elenchi regionali per il ruolo: il prossimo Decreto PNRR che potrebbe essere approvato presto in Consiglio dei Ministri potrebbe introdurre una norma già anticipata dal Ministero ai sindacati, in attuazione del decreto-legge 7 aprile 2025, n. 45, convertito, con modificazioni, dalla legge 5 giugno 2025, n. 79, ossia gli elenchi regionali per il ruolo, attivi dal 2026/27 e utilizzabili per coprire i posti ancora vacanti dopo le immissioni in ruolo dai concorsi.\nL'articolo\nElenchi regionali per il",
+      "full_content": "Elenchi regionali per il ruolo: il prossimo Decreto PNRR che potrebbe essere approvato presto in Consiglio dei Ministri potrebbe introdurre una norma già anticipata dal Ministero ai sindacati, in attuazione del decreto-legge 7 aprile 2025, n. 45, convertito, con modificazioni, dalla legge 5 giugno 2025, n. 79, ossia gli elenchi regionali per il ruolo, attivi dal 2026/27 e utilizzabili per coprire i posti ancora vacanti dopo le immissioni in ruolo dai concorsi.\nL'articolo\nElenchi regionali per il ruolo: validi solo i punteggi prova scritta e orale del concorso, no titoli. La modifica nel prossimo decreto PNRR\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "1b84d05f0aaa9857"
     },
     {
       "title": "Assemblea dei lavoratori Istat martedì 20 gennaio",
@@ -449,17 +460,6 @@
       "id": "e73216cfede97bb8"
     },
     {
-      "title": "Concorso PNRR3 docenti secondaria, al via la PROVA ORALE. Arrivano le convocazioni [AGGIORNATO]",
-      "url": "https://www.orizzontescuola.it/concorso-pnrr3-docenti-secondaria-al-via-la-prova-orale-ecco-le-convocazioni-in-aggiornamento/",
-      "date": "Fri, 16 Jan 2026 09:05:23 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Concorso docenti secondaria bandito con DDG n. 2939/2025: al via le prove orali. Laddove sono state formate le commissioni e proceduto all'estrazione della lettera di avvio, si può formalmente dare avvio alle prove orali (e pratiche per le classi di concorso che le prevedono).\nL'articolo\nConcorso PNRR3 docenti secondaria, al via la PROVA ORALE. Arrivano le convocazioni [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Concorso docenti secondaria bandito con DDG n. 2939/2025: al via le prove orali. Laddove sono state formate le commissioni e proceduto all'estrazione della lettera di avvio, si può formalmente dare avvio alle prove orali (e pratiche per le classi di concorso che le prevedono).\nL'articolo\nConcorso PNRR3 docenti secondaria, al via la PROVA ORALE. Arrivano le convocazioni [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "c8b1f7bbcf97cf22"
-    },
-    {
       "title": "Concorso docenti PNRR3 scuola secondaria, online le ammissioni alla prova orale e il voto minimo [AGGIORNATO con Marche]",
       "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-scuola-secondaria-ecco-il-voto-minimo-per-laccesso-alla-prova-orale-in-aggiornamento/",
       "date": "Fri, 16 Jan 2026 08:36:07 +0000",
@@ -471,15 +471,15 @@
       "id": "ed47f078826d260f"
     },
     {
-      "title": "Supplenze docenti, algoritmo GPS definitivamente sconfitto: 19mila euro di risarcimento e punteggio pieno per il 2024/25. Scarica sentenza [PDF]!",
+      "title": "Supplenze docenti, algoritmo GPS definitivamente sconfitto: 19mila euro di risarcimento e punteggio pieno per il 2024/25. Scarica sentenza [PDF]",
       "url": "https://www.orizzontescuola.it/supplenze-docenti-algoritmo-gps-definitivamente-sconfitto-19mila-euro-di-risarcimento-e-punteggio-pieno-per-il-2024-25-sentenza-anief/",
       "date": "Fri, 16 Jan 2026 06:30:58 +0000",
       "source": "Orizzonte Scuola - Diventare Insegnanti",
       "type": "rss_article",
-      "description": "Il Tribunale di Torino ha pronunciato una nuova e significativa condanna nei confronti del Ministero dell’Istruzione e del Merito, accertando l’illegittimità del sistema informatizzato utilizzato per l’assegnazione delle supplenze da GPS e riconoscendo il diritto di una docente precaria all’attribuzione dell’incarico illegittimamente negato.\nL'articolo\nSupplenze docenti, algoritmo GPS definitivamente sconfitto: 19mila euro di risarcimento e punteggio pieno per il 2024/25. Scarica sentenza [PDF]!",
-      "full_content": "Il Tribunale di Torino ha pronunciato una nuova e significativa condanna nei confronti del Ministero dell’Istruzione e del Merito, accertando l’illegittimità del sistema informatizzato utilizzato per l’assegnazione delle supplenze da GPS e riconoscendo il diritto di una docente precaria all’attribuzione dell’incarico illegittimamente negato.\nL'articolo\nSupplenze docenti, algoritmo GPS definitivamente sconfitto: 19mila euro di risarcimento e punteggio pieno per il 2024/25. Scarica sentenza [PDF]!\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "description": "Il Tribunale di Torino ha pronunciato una nuova e significativa condanna nei confronti del Ministero dell’Istruzione e del Merito, accertando l’illegittimità del sistema informatizzato utilizzato per l’assegnazione delle supplenze da GPS e riconoscendo il diritto di una docente precaria all’attribuzione dell’incarico illegittimamente negato.\nL'articolo\nSupplenze docenti, algoritmo GPS definitivamente sconfitto: 19mila euro di risarcimento e punteggio pieno per il 2024/25. Scarica sentenza [PDF]\n",
+      "full_content": "Il Tribunale di Torino ha pronunciato una nuova e significativa condanna nei confronti del Ministero dell’Istruzione e del Merito, accertando l’illegittimità del sistema informatizzato utilizzato per l’assegnazione delle supplenze da GPS e riconoscendo il diritto di una docente precaria all’attribuzione dell’incarico illegittimamente negato.\nL'articolo\nSupplenze docenti, algoritmo GPS definitivamente sconfitto: 19mila euro di risarcimento e punteggio pieno per il 2024/25. Scarica sentenza [PDF]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
-      "id": "257bfd62c982a01d"
+      "id": "0cdfe5079355e295"
     },
     {
       "title": "Supplenza da interpello per Assistente Tecnico Area Odontotecnica",
@@ -495,7 +495,7 @@
     {
       "title": "Avviso – Manifestazione di interesse – elenco di esperti in progettazione Erasmus+",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/13/avviso-manifestazione-di-interesse-elenco-di-esperti-in-progettazione-erasmus/",
-      "date": "2026-01-16T12:40:38.911450",
+      "date": "2026-01-16T18:30:27.272908",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -504,7 +504,7 @@
     {
       "title": "Avviso pubblico per l’individuazione di Buone Pratiche attuate dalle istituzioni scolastiche nel campo della formazione del personale scolastico",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/14/avviso-pubblico-per-lindividuazione-di-buone-pratiche-attuate-dalle-istituzioni-scolastiche-nel-campo-della-formazione-del-personale-scolastico/",
-      "date": "2026-01-16T12:40:38.911428",
+      "date": "2026-01-16T18:30:27.272888",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -513,11 +513,29 @@
     {
       "title": "Avviso convocazione prova pratica e orale B016 – DDG 2939/2025",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/15/avviso-convocazione-prova-pratica-e-orale-b016-ddg-2939-2025/",
-      "date": "2026-01-16T12:40:38.911389",
+      "date": "2026-01-16T18:30:27.272876",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
       "id": "990e8f4cc099aeba"
+    },
+    {
+      "title": "Avviso Pubblico per la manifestazione di interesse ai fini dell’individuazione di enti, associazioni e enti del Terzo settore idonei ad accogliere studenti e studentesse sottoposti alla sanzione di allontanamento dalle lezioni",
+      "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/16/avviso-pubblico-per-la-manifestazione-di-interesse-ai-fini-dellindividuazione-di-enti-associazioni-e-enti-del-terzo-settore-idonei-ad-accogliere-studenti-e-studentesse-sottoposti-alla-sanzio-3/",
+      "date": "2026-01-16T18:30:27.272847",
+      "source": "USR Lazio",
+      "type": "comunicazione",
+      "description": "",
+      "id": "58ca64f485627083"
+    },
+    {
+      "title": "Fascicolo digitale: tavolo al MIM",
+      "url": "https://www.cislscuolaromarieti.it/fascicolo-digitale-tavolo-al-mim/",
+      "date": "16 Gennaio 2026",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "409b2bdd0315e0c1"
     },
     {
       "title": "Esami di maturità, informativa al Ministero sul primo dei decreti che ne disciplineranno lo svolgimento",
@@ -563,15 +581,6 @@
       "type": "news",
       "description": "",
       "id": "51b72f9d24fd0c8c"
-    },
-    {
-      "title": "Scuola, aperte le iscrizioni alle prime classi per l’anno scolastico 2026/2027",
-      "url": "https://www.cislscuolaromarieti.it/scuola-aperte-le-iscrizioni-alle-prime-classi-per-lanno-scolastico-2026-2027/",
-      "date": "13 Gennaio 2026",
-      "source": "CISL Scuola Roma e Rieti",
-      "type": "news",
-      "description": "",
-      "id": "64434d85a0f80ef0"
     }
   ]
 }
