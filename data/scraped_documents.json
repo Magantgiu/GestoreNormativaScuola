@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-17T06:28:49.509544",
+  "scraped_at": "2026-01-17T12:36:01.227007",
   "stats": {
     "total_sources": 7,
     "successful": 7,
     "failed": 0,
     "total_docs": 54,
-    "unique_documents": 53
+    "unique_documents": 54
   },
   "documents": [
     {
@@ -163,17 +163,6 @@
       "id": "446b1e33e61b1248"
     },
     {
-      "title": "Grave l’imposizione del dimensionamento della rete scolastica con la nomina del commissario ad acta",
-      "url": "https://www.flcgil.it/regioni/emilia-romagna/grave-l-imposizione-del-dimensionamento-della-rete-scolastica-con-la-nomina-del-commissario-ad-acta.flc",
-      "date": "Tue, 13 Jan 2026 09:07:14 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "A cura della FLC CGIL Emilia Romagna\nIl Governo impone all'Emilia Romagna il dimensionamento della rete scolastica con la nomina del commissario ad acta.\nLa decisione assunta poco fa dal Consiglio dei...",
-      "full_content": "A cura della FLC CGIL Emilia Romagna\nIl Governo impone all'Emilia Romagna il dimensionamento della rete scolastica con la nomina del commissario ad acta.\nLa decisione assunta poco fa dal Consiglio dei...",
-      "has_full_content": true,
-      "id": "be1586593c32e139"
-    },
-    {
       "title": "Arretrati del personale scolastico: quando arrivano i pagamenti. Le date da tenere sott’occhio",
       "url": "https://www.orizzontescuola.it/arretrati-del-personale-scolastico-quando-arrivano-i-pagamenti-le-date-da-tenere-sottocchio/",
       "date": "Tue, 06 Jan 2026 08:36:49 +0000",
@@ -273,6 +262,39 @@
       "id": "bb8ba0d6767cb760"
     },
     {
+      "title": "Percorsi abilitanti: gli idonei con “contratto finalizzato al ruolo” sono vincitori e partecipano in sovrannumero ai 30 o 36 CFU, no 60 CFU",
+      "url": "https://www.orizzontescuola.it/percorsi-abilitanti-gli-idonei-con-contratto-finalizzato-al-ruolo-sono-vincitori-e-partecipano-in-sovrannumero-ai-30-o-36-cfu-no-60-cfu/",
+      "date": "Sat, 17 Jan 2026 10:25:33 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 12 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata discussa una questione importante relativa all’accesso ai percorsi abilitanti per gli idonei di concorso. Un focus particolare è stato posto sulla possibilità per chi ha un contratto finalizzato al ruolo di seguire il percorso da 36 CFU.\nL'articolo\nPercorsi abilitanti: gli idonei con “contratto finalizzato al ruolo” sono vincitori e partecipano in sovrannume",
+      "full_content": "Nel question time del 12 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata discussa una questione importante relativa all’accesso ai percorsi abilitanti per gli idonei di concorso. Un focus particolare è stato posto sulla possibilità per chi ha un contratto finalizzato al ruolo di seguire il percorso da 36 CFU.\nL'articolo\nPercorsi abilitanti: gli idonei con “contratto finalizzato al ruolo” sono vincitori e partecipano in sovrannumero ai 30 o 36 CFU, no 60 CFU\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "65959019f9a6a5c4"
+    },
+    {
+      "title": "Trasferimento di provincia per le GAE: come capire possibilità concreta per il ruolo. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/trasferimento-di-provincia-per-le-gae-come-capire-possibilita-concreta-per-il-ruolo-pillole-di-question-time/",
+      "date": "Sat, 17 Jan 2026 09:00:06 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time dell’8 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Roberta Vannini, sindacalista della Uil Scuola Rua, è stata discussa una questione importante relativa alla gestione delle Graduatorie ad Esaurimento (GAE). Un focus particolare è stato posto sulla possibilità di trasferire la propria posizione GAE in un’altra provincia.\nL'articolo\nTrasferimento di provincia per le GAE: come capire possibilità concreta per il ruolo. Pillole di Question Time\nsembr",
+      "full_content": "Nel question time dell’8 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Roberta Vannini, sindacalista della Uil Scuola Rua, è stata discussa una questione importante relativa alla gestione delle Graduatorie ad Esaurimento (GAE). Un focus particolare è stato posto sulla possibilità di trasferire la propria posizione GAE in un’altra provincia.\nL'articolo\nTrasferimento di provincia per le GAE: come capire possibilità concreta per il ruolo. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "ffc862a2760ad44d"
+    },
+    {
+      "title": "Posizioni economiche ATA, martedì sapremo dove si svolgeranno le prove. Poi la data del test. Le anticipazioni",
+      "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-martedi-sapremo-dove-si-svolgeranno-le-prove-poi-la-data-del-test-le-anticipazioni/",
+      "date": "Sat, 17 Jan 2026 07:43:21 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Lo scorso 28 novembre, il Ministero dell’Istruzione e del Merito ha riunito le sigle sindacali per discutere i prossimi passaggi della procedura che porterà all’assegnazione delle posizioni economiche previste per il personale ATA. Al centro dell’incontro, la necessità di rivedere i criteri di scelta delle sedi in cui si svolgeranno le prove, con l’obiettivo di rendere più fluida l’organizzazione del concorso interno.\nL'articolo\nPosizioni economiche ATA, martedì sapremo dove si svolgeranno le pr",
+      "full_content": "Lo scorso 28 novembre, il Ministero dell’Istruzione e del Merito ha riunito le sigle sindacali per discutere i prossimi passaggi della procedura che porterà all’assegnazione delle posizioni economiche previste per il personale ATA. Al centro dell’incontro, la necessità di rivedere i criteri di scelta delle sedi in cui si svolgeranno le prove, con l’obiettivo di rendere più fluida l’organizzazione del concorso interno.\nL'articolo\nPosizioni economiche ATA, martedì sapremo dove si svolgeranno le prove. Poi la data del test. Le anticipazioni\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "799971fc178e2c0c"
+    },
+    {
       "title": "Posizioni economiche ATA: il simulatore per esercitarti a superare l’esame",
       "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-simulatore-e-video-lezioni-per-superare-la-prova-finale/",
       "date": "Sat, 10 Jan 2026 05:52:17 +0000",
@@ -328,17 +350,6 @@
       "id": "86573c3c75a17006"
     },
     {
-      "title": "Graduatorie ATA 24 mesi, aggiornamento 2026: il servizio da assistente vale ancora per il collaboratore scolastico?",
-      "url": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-aggiornamento-2026-il-servizio-da-assistente-vale-ancora-per-il-collaboratore-scolastico/",
-      "date": "Mon, 05 Jan 2026 09:56:05 +0000",
-      "source": "Orizzonte Scuola - ATA",
-      "type": "rss_article",
-      "description": "Atteso in primavera l'aggiornamento delle graduatorie ATA 24 mesi, dette anche di prima fascia, utilizzate per l'attribuzione dei ruoli e delle supplenze al 30 giugno o 31 agosto. Resta il dubbio sulla possibilità di far valutare il servizio svolto come assistente per il profilo del collaboratore scolastico.\nL'articolo\nGraduatorie ATA 24 mesi, aggiornamento 2026: il servizio da assistente vale ancora per il collaboratore scolastico?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Atteso in primavera l'aggiornamento delle graduatorie ATA 24 mesi, dette anche di prima fascia, utilizzate per l'attribuzione dei ruoli e delle supplenze al 30 giugno o 31 agosto. Resta il dubbio sulla possibilità di far valutare il servizio svolto come assistente per il profilo del collaboratore scolastico.\nL'articolo\nGraduatorie ATA 24 mesi, aggiornamento 2026: il servizio da assistente vale ancora per il collaboratore scolastico?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "c6a98b07ea447f0f"
-    },
-    {
       "title": "Filiera tecnologico-professionale: ma quale nuova scuola 4+2! È 5-1! [INFOGRAFICA]",
       "url": "https://www.flcgil.it/scuola/filiera-tecnologico-professionale-ma-quale-nuova-scuola-4-2-e-5-1-infografica.flc",
       "date": "Fri, 16 Jan 2026 19:54:00 +0100",
@@ -348,6 +359,17 @@
       "full_content": "Le\niscrizioni al prossimo anno scolastico 2026/2027\nsono in corso e termineranno il 14 febbraio.\nPer la...",
       "has_full_content": false,
       "id": "b4cabaa6e5c6909f"
+    },
+    {
+      "title": "Scuola, accoltellamento al “Domenico Chiodo”: Scotti, FLC CGIL “scuole sicure con educazione e prevenzione, non con la repressione”",
+      "url": "https://www.flcgil.it/regioni/liguria/la-spezia/scuola-accoltellamento-al-domenico-chiodo-scotti-flc-cgil-scuole-sicure-con-educazione-e-prevenzione-non-con-la-repressione.flc",
+      "date": "Fri, 16 Jan 2026 18:09:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "A cura della FLC CGIL La Spezia\nUn gravissimo episodio di violenza si è verificato questa mattina (16 gennaio, ndr) all’interno dell’Istituto “Domenico Chiodo” della Spezia, dove uno...",
+      "full_content": "A cura della FLC CGIL La Spezia\nUn gravissimo episodio di violenza si è verificato questa mattina (16 gennaio, ndr) all’interno dell’Istituto “Domenico Chiodo” della Spezia, dove uno...",
+      "has_full_content": false,
+      "id": "4add1fefb6912e29"
     },
     {
       "title": "Censimento alunni palestinesi. Il MIM richiede una discutibile e immotivata rilevazione degli iscritti per l’a.s. 2025/2026",
@@ -372,7 +394,7 @@
       "id": "963faf241b3435d7"
     },
     {
-      "title": "Le istituzioni AFAM possono richiedere l’approvazione di nuovi corsi di diploma accademico entro il 6 Febbraio 2026",
+      "title": "Le istituzioni AFAM possono richiedere l’approvazione di nuovi corsi di diploma accademico entro il 6 febbraio 2026",
       "url": "https://www.flcgil.it/universita/afam/le-istituzioni-afam-possono-richiedere-l-approvazione-di-nuovi-corsi-di-diploma-accademico-entro-il-6-febbraio-2026.flc",
       "date": "Fri, 16 Jan 2026 14:53:19 +0100",
       "source": "FLC CGIL",
@@ -380,7 +402,7 @@
       "description": "L’Ufficio IV del Ministero dell’Università e della Ricerca ha pubblicato la",
       "full_content": "L’Ufficio IV del Ministero dell’Università e della Ricerca ha pubblicato la",
       "has_full_content": false,
-      "id": "6c31e20b3356da0a"
+      "id": "e0b8a78fceec83d6"
     },
     {
       "title": "Concorso infanzia e primaria PNRR3, arrivano le convocazioni prova orale. [AGGIORNATO con Calabria]",
@@ -471,17 +493,6 @@
       "id": "ed47f078826d260f"
     },
     {
-      "title": "Supplenze docenti, algoritmo GPS definitivamente sconfitto: 19mila euro di risarcimento e punteggio pieno per il 2024/25. Scarica sentenza [PDF]",
-      "url": "https://www.orizzontescuola.it/supplenze-docenti-algoritmo-gps-definitivamente-sconfitto-19mila-euro-di-risarcimento-e-punteggio-pieno-per-il-2024-25-sentenza-anief/",
-      "date": "Fri, 16 Jan 2026 06:30:58 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Il Tribunale di Torino ha pronunciato una nuova e significativa condanna nei confronti del Ministero dell’Istruzione e del Merito, accertando l’illegittimità del sistema informatizzato utilizzato per l’assegnazione delle supplenze da GPS e riconoscendo il diritto di una docente precaria all’attribuzione dell’incarico illegittimamente negato.\nL'articolo\nSupplenze docenti, algoritmo GPS definitivamente sconfitto: 19mila euro di risarcimento e punteggio pieno per il 2024/25. Scarica sentenza [PDF]\n",
-      "full_content": "Il Tribunale di Torino ha pronunciato una nuova e significativa condanna nei confronti del Ministero dell’Istruzione e del Merito, accertando l’illegittimità del sistema informatizzato utilizzato per l’assegnazione delle supplenze da GPS e riconoscendo il diritto di una docente precaria all’attribuzione dell’incarico illegittimamente negato.\nL'articolo\nSupplenze docenti, algoritmo GPS definitivamente sconfitto: 19mila euro di risarcimento e punteggio pieno per il 2024/25. Scarica sentenza [PDF]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "0cdfe5079355e295"
-    },
-    {
       "title": "Supplenza da interpello per Assistente Tecnico Area Odontotecnica",
       "url": "https://www.orizzontescuola.it/supplenza-da-interpello-per-assistente-tecnico-area-odontotecnica/",
       "date": "Fri, 09 Jan 2026 20:47:09 +0000",
@@ -495,7 +506,7 @@
     {
       "title": "Avviso pubblico per l’individuazione di Buone Pratiche attuate dalle istituzioni scolastiche nel campo della formazione del personale scolastico",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/14/avviso-pubblico-per-lindividuazione-di-buone-pratiche-attuate-dalle-istituzioni-scolastiche-nel-campo-della-formazione-del-personale-scolastico/",
-      "date": "2026-01-17T06:28:48.508145",
+      "date": "2026-01-17T12:36:00.225458",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -504,7 +515,7 @@
     {
       "title": "Avviso convocazione prova pratica e orale B016 – DDG 2939/2025",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/15/avviso-convocazione-prova-pratica-e-orale-b016-ddg-2939-2025/",
-      "date": "2026-01-17T06:28:48.508134",
+      "date": "2026-01-17T12:36:00.225447",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -513,7 +524,7 @@
     {
       "title": "Avviso Pubblico per la manifestazione di interesse ai fini dell’individuazione di enti, associazioni e enti del Terzo settore idonei ad accogliere studenti e studentesse sottoposti alla sanzione di allontanamento dalle lezioni",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/16/avviso-pubblico-per-la-manifestazione-di-interesse-ai-fini-dellindividuazione-di-enti-associazioni-e-enti-del-terzo-settore-idonei-ad-accogliere-studenti-e-studentesse-sottoposti-alla-sanzio-3/",
-      "date": "2026-01-17T06:28:48.508107",
+      "date": "2026-01-17T12:36:00.225417",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",

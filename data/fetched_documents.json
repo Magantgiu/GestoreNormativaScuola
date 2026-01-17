@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-17T06:28:49.907937",
+  "last_fetch": "2026-01-17T12:36:06.914004",
   "stats": {
-    "total": 53,
-    "fetched": 0,
-    "skipped": 53,
+    "total": 54,
+    "fetched": 4,
+    "skipped": 50,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 4
   },
-  "total_documents": 684,
+  "total_documents": 688,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -10105,6 +10105,67 @@
       "size_chars": 4543,
       "success": true,
       "fetched_at": "2026-01-17T01:23:07.308554",
+      "document_type": "html"
+    },
+    {
+      "title": "Percorsi abilitanti: gli idonei con “contratto finalizzato al ruolo” sono vincitori e partecipano in sovrannumero ai 30 o 36 CFU, no 60 CFU",
+      "url": "https://www.orizzontescuola.it/percorsi-abilitanti-gli-idonei-con-contratto-finalizzato-al-ruolo-sono-vincitori-e-partecipano-in-sovrannumero-ai-30-o-36-cfu-no-60-cfu/",
+      "date": "Sat, 17 Jan 2026 10:25:33 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 12 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata discussa una questione importante relativa all’accesso ai percorsi abilitanti per gli idonei di concorso. Un focus particolare è stato posto sulla possibilità per chi ha un contratto finalizzato al ruolo di seguire il percorso da 36 CFU.\nL'articolo\nPercorsi abilitanti: gli idonei con “contratto finalizzato al ruolo” sono vincitori e partecipano in sovrannume",
+      "full_content": "Nel question time del 12 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata discussa una questione importante relativa all’accesso ai percorsi abilitanti per gli idonei di concorso. Un focus particolare è stato posto sulla possibilità per chi ha un contratto finalizzato al ruolo di seguire il percorso da 36 CFU.\nL'articolo\nPercorsi abilitanti: gli idonei con “contratto finalizzato al ruolo” sono vincitori e partecipano in sovrannumero ai 30 o 36 CFU, no 60 CFU\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "43caaa7a26f20be4",
+      "text": "Nel question time del 12 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata discussa una questione importante relativa all’accesso ai percorsi abilitanti per gli idonei di concorso. Un focus particolare è stato posto sulla possibilità per chi ha un contratto finalizzato al ruolo di seguire il percorso da 36 CFU.\nL'articolo\nPercorsi abilitanti: gli idonei con “contratto finalizzato al ruolo” sono vincitori e partecipano in sovrannumero ai 30 o 36 CFU, no 60 CFU\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-17T12:36:01.661519",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Trasferimento di provincia per le GAE: come capire possibilità concreta per il ruolo. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/trasferimento-di-provincia-per-le-gae-come-capire-possibilita-concreta-per-il-ruolo-pillole-di-question-time/",
+      "date": "Sat, 17 Jan 2026 09:00:06 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time dell’8 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Roberta Vannini, sindacalista della Uil Scuola Rua, è stata discussa una questione importante relativa alla gestione delle Graduatorie ad Esaurimento (GAE). Un focus particolare è stato posto sulla possibilità di trasferire la propria posizione GAE in un’altra provincia.\nL'articolo\nTrasferimento di provincia per le GAE: come capire possibilità concreta per il ruolo. Pillole di Question Time\nsembr",
+      "full_content": "Nel question time dell’8 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Roberta Vannini, sindacalista della Uil Scuola Rua, è stata discussa una questione importante relativa alla gestione delle Graduatorie ad Esaurimento (GAE). Un focus particolare è stato posto sulla possibilità di trasferire la propria posizione GAE in un’altra provincia.\nL'articolo\nTrasferimento di provincia per le GAE: come capire possibilità concreta per il ruolo. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "403a9b7287c90ed1",
+      "text": "Nel question time dell’8 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Roberta Vannini, sindacalista della Uil Scuola Rua, è stata discussa una questione importante relativa alla gestione delle Graduatorie ad Esaurimento (GAE). Un focus particolare è stato posto sulla possibilità di trasferire la propria posizione GAE in un’altra provincia.\nL'articolo\nTrasferimento di provincia per le GAE: come capire possibilità concreta per il ruolo. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-17T12:36:02.161693",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Posizioni economiche ATA, martedì sapremo dove si svolgeranno le prove. Poi la data del test. Le anticipazioni",
+      "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-martedi-sapremo-dove-si-svolgeranno-le-prove-poi-la-data-del-test-le-anticipazioni/",
+      "date": "Sat, 17 Jan 2026 07:43:21 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Lo scorso 28 novembre, il Ministero dell’Istruzione e del Merito ha riunito le sigle sindacali per discutere i prossimi passaggi della procedura che porterà all’assegnazione delle posizioni economiche previste per il personale ATA. Al centro dell’incontro, la necessità di rivedere i criteri di scelta delle sedi in cui si svolgeranno le prove, con l’obiettivo di rendere più fluida l’organizzazione del concorso interno.\nL'articolo\nPosizioni economiche ATA, martedì sapremo dove si svolgeranno le pr",
+      "full_content": "Lo scorso 28 novembre, il Ministero dell’Istruzione e del Merito ha riunito le sigle sindacali per discutere i prossimi passaggi della procedura che porterà all’assegnazione delle posizioni economiche previste per il personale ATA. Al centro dell’incontro, la necessità di rivedere i criteri di scelta delle sedi in cui si svolgeranno le prove, con l’obiettivo di rendere più fluida l’organizzazione del concorso interno.\nL'articolo\nPosizioni economiche ATA, martedì sapremo dove si svolgeranno le prove. Poi la data del test. Le anticipazioni\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "3695881c8a47840b",
+      "text": "Lo scorso 28 novembre, il Ministero dell’Istruzione e del Merito ha riunito le sigle sindacali per discutere i prossimi passaggi della procedura che porterà all’assegnazione delle posizioni economiche previste per il personale ATA. Al centro dell’incontro, la necessità di rivedere i criteri di scelta delle sedi in cui si svolgeranno le prove, con l’obiettivo di rendere più fluida l’organizzazione del concorso interno.\nL'articolo\nPosizioni economiche ATA, martedì sapremo dove si svolgeranno le prove. Poi la data del test. Le anticipazioni\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-17T12:36:02.661872",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Scuola, accoltellamento al “Domenico Chiodo”: Scotti, FLC CGIL “scuole sicure con educazione e prevenzione, non con la repressione”",
+      "url": "https://www.flcgil.it/regioni/liguria/la-spezia/scuola-accoltellamento-al-domenico-chiodo-scotti-flc-cgil-scuole-sicure-con-educazione-e-prevenzione-non-con-la-repressione.flc",
+      "date": "Fri, 16 Jan 2026 18:09:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "A cura della FLC CGIL La Spezia\nUn gravissimo episodio di violenza si è verificato questa mattina (16 gennaio, ndr) all’interno dell’Istituto “Domenico Chiodo” della Spezia, dove uno...",
+      "full_content": "A cura della FLC CGIL La Spezia\nUn gravissimo episodio di violenza si è verificato questa mattina (16 gennaio, ndr) all’interno dell’Istituto “Domenico Chiodo” della Spezia, dove uno...",
+      "has_full_content": false,
+      "id": "6bb54fe7dd8cd9b4",
+      "text": "FLC\nChi siamo\nDove siamo\nContattaci\nScuola\nUniversità e AFAM\nRicerca\nRisorse\nApprofondimenti\nArgomenti\nContratti\nNormativa\nRSU\nRubrica giuridica\nSpeciali\nhttps://www.flcgil.it/@3973153\nHome\n»\nNotizie dalle Regioni\n»\nLiguria\n»\nLa Spezia\n»\nScuola, accoltellamento al “Domenico Chiodo”: Scotti, FLC CGIL “scuole sicure con educazione e prevenzione, non con la repressione”\nScuola, accoltellamento al “Domenico Chiodo”: Scotti, FLC CGIL “scuole sicure con educazione e prevenzione, non con la repressione”\nPiena e sentita vicinanza alla famiglia dello studente morto, ai compagni di scuola, agli insegnanti e al dirigente scolastico dell’Istituto Chiodo\n16/01/2026\nTweet\nInvia ad un amico\nStampa\nA cura della FLC CGIL La Spezia\nUn gravissimo episodio di violenza si è verificato questa mattina (16 gennaio,\nndr\n) all’interno dell’Istituto “Domenico Chiodo” della Spezia, dove uno studente è stato accoltellato da un coetaneo. Il ragazzo è attualmente ricoverato in gravi condizioni all’ospedale Sant’Andrea (lo studente è poi deceduto,\nndr\n).\nUn fatto che scuote profondamente l’intera comunità spezzina e che ripropone con forza il tema della sicurezza nelle scuole, troppo spesso affrontato con slogan e risposte emergenziali, anziché con politiche educative strutturate e preventive.\nSul tema interviene la FLC CGIL della Spezia, a nome della segretaria Laura Scotti, esprimendo innanzitutto piena e sentita vicinanza allo studente ferito e alla sua famiglia, ai compagni di scuola, agli insegnanti e al dirigente scolastico dell’Istituto Chiodo.\n“Quanto accaduto – dichiara la FLC CGIL – è un evento drammatico che non può e non deve essere derubricato a fatto isolato. La violenza non nasce nel vuoto, ma si alimenta in un contesto sociale che troppo spesso rinuncia al ruolo educativo delle istituzioni, a partire dalla scuola”.\n“Ribadiamo con forza – prosegue Scotti – che la violenza non si sconfigge con la repressione, con l’inasprimento delle sanzioni o con misure esclusivamente punitive, che non risolvono le cause profonde del disagio. Si sconfigge invece con l’educazione e la formazione, con l’ascolto, la condivisione, la prevenzione, con il rafforzamento del ruolo della scuola come luogo di cura, di civismo e di democrazia; e servono per tutto questo risorse e personale.”\nLa FLC CGIL chiede alle istituzioni scolastiche, locali e nazionali, di aprire immediatamente un confronto serio con la comunità educante – studenti, famiglie, lavoratrici e lavoratori della scuola – per costruire percorsi strutturati di educazione al rispetto, alla gestione dei conflitti e al dialogo.\n“La scuola deve continuare ad essere uno spazio sicuro, inclusivo e accogliente – conclude la FLC CGIL – in cui nessuno debba entrare con la paura di non tornare a casa. Investire in educazione è l’unica strada possibile per prevenire tragedie come quella di oggi”.\nTweet\nInvia ad un amico\nStampa\nServizi e comunicazioni\nDove siamo\nSedi FLC CGIL\nSedi CGIL\nINCA CGIL\nCAAF CGIL\nAltri servizi CGIL\nServizi assicurativi per iscritti e RSU\nOra e sempre esperienza!\nAttività formative\nEventi\nFirenze, VII Convegno “Didattica della matematica”\nLazio\nRiforme scolastiche tutor e orientamento, filiera tecnico-professionale, ITS, carriera docenti: il 6 febbraio seminario a Roma\nEventi\nRitorno a Barbiana: il coraggio pedagogico tra testimonianze e proposte\nEventi\nDon Lorenzo Milani tra storicità e attualità\nEventi\nRoma, Insegnare comunità a scuola. Desiderio, differenze, relazioni: uno sguardo femminista che attraversa i saperi\nI più letti\nGravissimo il commissariamento della regione Emilia Romagna su dimensionamento della rete scolastica\nToscana: possibile commissariamento del Governo sul dimensionamento delle scuole della regione\nDimensionamento scolastico in Emilia Romagna: i dirigenti scolastici preoccupati chiedono equilibrio e sostenibilità del sistema scolastico regionale\nMessina: contrattazione di scuola, censurata la condotta antisindacale di una dirigente scolastica\nGrave l’imposizione del dimensionamento della rete scolastica con la nomina del commissario ad acta\nLink utili\nConferenza Regioni e Province autonome\nConferenze Stato Regioni ed Unificata\nUnione Province italiane\nAssociazione nazionale Comuni italiani\nLink consigliati\nCGIL\nEdizioni Conoscenza\nCollettiva\nProteo Fare Sapere\nEdiesse\nFondazione Di Vittorio\nFLC CGIL\nChi siamo\nDove siamo\nQuanti siamo\nStatuto\nBilancio sociale\nServizi\nIscriviti\nContattaci\nCasa editrice\nArchivio storico\nGiornale\nNewsletter\nFeed RSS\nLink utili\nPrivacy policy\nFLC CGIL\nNOTIZIE\nCGIL\nNOTIZIE\nFiliera tecnologico-professionale: ma quale nuova scuola 4+2! È 5-1! [INFOGRAFICA]\nCensimento alunni palestinesi. Il MIM richiede una discutibile e immotivata rilevazione degli iscritti per l’a.s. 2025/2026\nLe istituzioni AFAM possono richiedere l’approvazione di nuovi corsi di diploma accademico entro il 6 febbraio 2026\nWebmail\nGmail\nIntranet\nQuesto sito utilizza dei cookie che ci aiutano ad offrirti un servizio migliore.\nPuoi prendere visione dell'informativa estesa sull'uso dei cookie\no negare il consenso cliccando su \"Maggiori informazioni\".\nProseguendo la navigazione o cliccando su \"Accetto\" acconsenti all'uso dei cookie.\nAccetto\nMaggiori informazioni\nRimani sempre aggiornato, Diventa Fan di\nFLC CGIL\nsu Facebook!\nCondividi",
+      "size_chars": 5279,
+      "success": true,
+      "fetched_at": "2026-01-17T12:36:05.480606",
       "document_type": "html"
     }
   ]
