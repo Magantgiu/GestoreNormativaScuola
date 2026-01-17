@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-16T18:30:28.274368",
+  "scraped_at": "2026-01-17T01:23:04.366865",
   "stats": {
     "total_sources": 7,
     "successful": 7,
     "failed": 0,
-    "total_docs": 55,
-    "unique_documents": 54
+    "total_docs": 54,
+    "unique_documents": 53
   },
   "documents": [
     {
@@ -295,17 +295,6 @@
       "id": "2b586465509d74dd"
     },
     {
-      "title": "Aggiornamento GAE 2026-2028: pubblicato l’avviso e il decreto sul portale INPA [SCHEDA]",
-      "url": "https://www.flcgil.it/scuola/precari/aggiornamento-gae-2026-2028-pubblicato-avviso-e-decreto-portale-inpa.flc",
-      "date": "Mon, 12 Jan 2026 18:22:00 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Il Ministero del’Istruzione ha\npubblicato sul portale INPA\nl’avviso con il Decreto...",
-      "full_content": "Il Ministero del’Istruzione ha\npubblicato sul portale INPA\nl’avviso con il Decreto...",
-      "has_full_content": false,
-      "id": "5b1053e0bebccfc3"
-    },
-    {
       "title": "Mutui INPS: domande al via dal 15 gennaio. Guida ai requisiti e alle regole per Docenti e ATA",
       "url": "https://www.orizzontescuola.it/mutui-inps-domande-al-via-dal-15-gennaio-guida-ai-requisiti-e-alle-regole-per-docenti-e-ata/",
       "date": "Mon, 12 Jan 2026 11:48:22 +0000",
@@ -348,6 +337,17 @@
       "full_content": "Atteso in primavera l'aggiornamento delle graduatorie ATA 24 mesi, dette anche di prima fascia, utilizzate per l'attribuzione dei ruoli e delle supplenze al 30 giugno o 31 agosto. Resta il dubbio sulla possibilità di far valutare il servizio svolto come assistente per il profilo del collaboratore scolastico.\nL'articolo\nGraduatorie ATA 24 mesi, aggiornamento 2026: il servizio da assistente vale ancora per il collaboratore scolastico?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "c6a98b07ea447f0f"
+    },
+    {
+      "title": "Filiera tecnologico-professionale: ma quale nuova scuola 4+2! È 5-1! [INFOGRAFICA]",
+      "url": "https://www.flcgil.it/scuola/filiera-tecnologico-professionale-ma-quale-nuova-scuola-4-2-e-5-1-infografica.flc",
+      "date": "Fri, 16 Jan 2026 19:54:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Le\niscrizioni al prossimo anno scolastico 2026/2027\nsono in corso e termineranno il 14 febbraio.\nPer la...",
+      "full_content": "Le\niscrizioni al prossimo anno scolastico 2026/2027\nsono in corso e termineranno il 14 febbraio.\nPer la...",
+      "has_full_content": false,
+      "id": "b4cabaa6e5c6909f"
     },
     {
       "title": "Censimento alunni palestinesi. Il MIM richiede una discutibile e immotivata rilevazione degli iscritti per l’a.s. 2025/2026",
@@ -493,18 +493,9 @@
       "id": "62b325d3e9d0cad7"
     },
     {
-      "title": "Avviso – Manifestazione di interesse – elenco di esperti in progettazione Erasmus+",
-      "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/13/avviso-manifestazione-di-interesse-elenco-di-esperti-in-progettazione-erasmus/",
-      "date": "2026-01-16T18:30:27.272908",
-      "source": "USR Lazio",
-      "type": "comunicazione",
-      "description": "",
-      "id": "7ac96713d0a82a32"
-    },
-    {
       "title": "Avviso pubblico per l’individuazione di Buone Pratiche attuate dalle istituzioni scolastiche nel campo della formazione del personale scolastico",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/14/avviso-pubblico-per-lindividuazione-di-buone-pratiche-attuate-dalle-istituzioni-scolastiche-nel-campo-della-formazione-del-personale-scolastico/",
-      "date": "2026-01-16T18:30:27.272888",
+      "date": "2026-01-17T01:23:03.365405",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -513,7 +504,7 @@
     {
       "title": "Avviso convocazione prova pratica e orale B016 – DDG 2939/2025",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/15/avviso-convocazione-prova-pratica-e-orale-b016-ddg-2939-2025/",
-      "date": "2026-01-16T18:30:27.272876",
+      "date": "2026-01-17T01:23:03.365394",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -522,7 +513,7 @@
     {
       "title": "Avviso Pubblico per la manifestazione di interesse ai fini dell’individuazione di enti, associazioni e enti del Terzo settore idonei ad accogliere studenti e studentesse sottoposti alla sanzione di allontanamento dalle lezioni",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/16/avviso-pubblico-per-la-manifestazione-di-interesse-ai-fini-dellindividuazione-di-enti-associazioni-e-enti-del-terzo-settore-idonei-ad-accogliere-studenti-e-studentesse-sottoposti-alla-sanzio-3/",
-      "date": "2026-01-16T18:30:27.272847",
+      "date": "2026-01-17T01:23:03.365367",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
