@@ -1,5 +1,5 @@
 {
-  "last_fetch": "2026-01-18T12:36:36.599753",
+  "last_fetch": "2026-01-18T18:26:31.539994",
   "stats": {
     "total": 54,
     "fetched": 1,
@@ -8,7 +8,7 @@
     "pdfs": 0,
     "html": 1
   },
-  "total_documents": 689,
+  "total_documents": 690,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -10180,6 +10180,21 @@
       "id": "41dbe225ee01f9bd",
       "text": "Nel question time del 12 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata affrontata una questione significativa riguardante i nuovi percorsi formativi gestiti da INDIRE. Un focus particolare è stato posto sul tema delle iscrizioni al secondo ciclo dei corsi.\nL'articolo\nCorsi INDIRE del secondo ciclo triennalisti: chi non potrà iscriversi. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2026-01-18T12:36:36.088662",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Scuola, accoltellamento La Spezia. Fracassi (FLC CGIL): servono investimenti per affrontare il disagio giovanile",
+      "url": "https://www.flcgil.it/comunicati-stampa/flc/scuola-accoltellamento-la-spezia-fracassi-flc-cgil-servono-investimenti-per-affrontare-il-disagio-giovanile.flc",
+      "date": "Sun, 18 Jan 2026 17:10:12 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Roma, 18 gennaio - \"Il grave fatto avvenuto nella scuola di La Spezia, dove un ragazzo di 18 anni ha perso la vita a seguito di un accoltellamento da parte di un diciannovenne, scuote profondamente l’intera comunità scolastica e il...",
+      "full_content": "Roma, 18 gennaio - \"Il grave fatto avvenuto nella scuola di La Spezia, dove un ragazzo di 18 anni ha perso la vita a seguito di un accoltellamento da parte di un diciannovenne, scuote profondamente l’intera comunità scolastica e il...",
+      "has_full_content": true,
+      "id": "2d978c6d069481b2",
+      "text": "Roma, 18 gennaio - \"Il grave fatto avvenuto nella scuola di La Spezia, dove un ragazzo di 18 anni ha perso la vita a seguito di un accoltellamento da parte di un diciannovenne, scuote profondamente l’intera comunità scolastica e il...",
+      "fetched_at": "2026-01-18T18:26:31.029783",
       "document_type": "rss_full",
       "success": true
     }
