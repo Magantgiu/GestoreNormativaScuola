@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-18T06:29:51.100539",
+  "last_fetch": "2026-01-18T12:36:36.599753",
   "stats": {
-    "total": 29,
-    "fetched": 0,
-    "skipped": 29,
+    "total": 54,
+    "fetched": 1,
+    "skipped": 53,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 1
   },
-  "total_documents": 688,
+  "total_documents": 689,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -10167,6 +10167,21 @@
       "success": true,
       "fetched_at": "2026-01-17T12:36:05.480606",
       "document_type": "html"
+    },
+    {
+      "title": "Corsi INDIRE del secondo ciclo triennalisti: chi non potrà iscriversi. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/corsi-indire-del-secondo-ciclo-triennalisti-chi-non-potra-iscriversi-pillole-di-question-time/",
+      "date": "Sun, 18 Jan 2026 09:25:48 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 12 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata affrontata una questione significativa riguardante i nuovi percorsi formativi gestiti da INDIRE. Un focus particolare è stato posto sul tema delle iscrizioni al secondo ciclo dei corsi.\nL'articolo\nCorsi INDIRE del secondo ciclo triennalisti: chi non potrà iscriversi. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Nel question time del 12 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata affrontata una questione significativa riguardante i nuovi percorsi formativi gestiti da INDIRE. Un focus particolare è stato posto sul tema delle iscrizioni al secondo ciclo dei corsi.\nL'articolo\nCorsi INDIRE del secondo ciclo triennalisti: chi non potrà iscriversi. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "41dbe225ee01f9bd",
+      "text": "Nel question time del 12 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata affrontata una questione significativa riguardante i nuovi percorsi formativi gestiti da INDIRE. Un focus particolare è stato posto sul tema delle iscrizioni al secondo ciclo dei corsi.\nL'articolo\nCorsi INDIRE del secondo ciclo triennalisti: chi non potrà iscriversi. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-18T12:36:36.088662",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
