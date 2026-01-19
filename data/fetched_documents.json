@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-19T12:44:44.948673",
+  "last_fetch": "2026-01-19T18:31:07.095581",
   "stats": {
-    "total": 54,
-    "fetched": 7,
-    "skipped": 47,
+    "total": 28,
+    "fetched": 3,
+    "skipped": 25,
     "failed": 0,
     "pdfs": 0,
-    "html": 7
+    "html": 3
   },
-  "total_documents": 697,
+  "total_documents": 700,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -10305,6 +10305,49 @@
       "fetched_at": "2026-01-19T12:44:44.438535",
       "document_type": "rss_full",
       "success": true
+    },
+    {
+      "title": "Elenchi per il ruolo, iscrizione anche nella propria regione: quando è una scelta mirata e quando invece inutile",
+      "url": "https://www.orizzontescuola.it/elenchi-per-il-ruolo-iscrizione-anche-nella-propria-regione-quando-e-una-scelta-mirata-e-quando-invece-inutile/",
+      "date": "Mon, 19 Jan 2026 14:06:00 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 15 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente esperta Sonia Cannas, è stata discussa una questione importante relativa all’inserimento negli elenchi regionali dopo il concorso. Un focus particolare è stato posto sul rischio di disparità o \"scavalcamento\" nei confronti degli idonei non vincitori della stessa regione.\nL'articolo\nElenchi per il ruolo, iscrizione anche nella propria regione: quando è una scelta mirata e quando invece",
+      "full_content": "Nel question time del 15 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente esperta Sonia Cannas, è stata discussa una questione importante relativa all’inserimento negli elenchi regionali dopo il concorso. Un focus particolare è stato posto sul rischio di disparità o \"scavalcamento\" nei confronti degli idonei non vincitori della stessa regione.\nL'articolo\nElenchi per il ruolo, iscrizione anche nella propria regione: quando è una scelta mirata e quando invece inutile\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "dfde3707d6205cb2",
+      "text": "Nel question time del 15 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente esperta Sonia Cannas, è stata discussa una questione importante relativa all’inserimento negli elenchi regionali dopo il concorso. Un focus particolare è stato posto sul rischio di disparità o \"scavalcamento\" nei confronti degli idonei non vincitori della stessa regione.\nL'articolo\nElenchi per il ruolo, iscrizione anche nella propria regione: quando è una scelta mirata e quando invece inutile\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-19T18:30:57.017424",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Permessi per motivi di studio per l'anno 2026, inviati agli Uffici Scolastici Regionali i contingenti delle disponibilità",
+      "url": "https://www.cislscuolaromarieti.it/permessi-per-motivi-di-studio-per-lanno-2026-inviati-agli-uffici-scolastici-regionali-i-contingenti-delle-disponibilita/",
+      "date": "19 Gennaio 2026",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "48a024c5c1cae6e7",
+      "text": "Il Ministero ha trasmesso nei giorni scorsi agli Uffici Scolastici Regionali il quadro delle disponibilità riguardanti i permessi per il diritto allo studio relativi all’\nanno 2026\n. Ciò consente di poter dar corso alle contrattazioni per definire in ciascuna regione il\ncontratto integrativo\nche disciplina le modalità di accesso e di utilizzo dei permessi.\nSi ricorda che gli stessi si riferiscono all’\nanno solare 2026\ne che le richieste da parte del personale interessato dovevano essere presentate entro la scadenza del\n15 novembre 2025\n.\nShare\nArticoli correlati\n19 Gennaio 2026\nAbbinamenti Tutor – Scuole infanzia provincia di Rieti\nLeggi di più\n16 Gennaio 2026\nFascicolo digitale: tavolo al MIM\nLeggi di più",
+      "size_chars": 715,
+      "success": true,
+      "fetched_at": "2026-01-19T18:31:00.580075",
+      "document_type": "html"
+    },
+    {
+      "title": "Abbinamenti Tutor – Scuole infanzia provincia di Rieti",
+      "url": "https://www.cislscuolaromarieti.it/abbinamenti-tutor-scuole-infanzia-provincia-di-rieti/",
+      "date": "19 Gennaio 2026",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "6e96b165cb477c55",
+      "text": "Riportiamo dal sito ufficiale dell’ATP di Rieti:\nAbbinamenti Tutor – Scuole infanzia provincia di Rieti\nAbbinamenti Plessi Lazio Scuola Infanzia – RIETI\nm_pi.AOOUSPRI.REGISTRO UFFICIALE(U).0000234.19-01-2026 nota prog infanzia\nFonte:\nhttps://www.usp-rieti.it/2026/01/19/abbinamenti-tutor-scuole-infanzia-provincia-di-rieti/\nShare\nArticoli correlati\n19 Gennaio 2026\nPermessi per motivi di studio per l’anno 2026, inviati agli Uffici Scolastici Regionali i contingenti delle disponibilità\nLeggi di più\n16 Gennaio 2026\nFascicolo digitale: tavolo al MIM\nLeggi di più",
+      "size_chars": 562,
+      "success": true,
+      "fetched_at": "2026-01-19T18:31:05.839766",
+      "document_type": "html"
     }
   ]
 }
