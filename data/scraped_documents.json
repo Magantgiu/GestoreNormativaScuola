@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-20T06:33:47.674973",
+  "scraped_at": "2026-01-20T12:44:44.464681",
   "stats": {
     "total_sources": 7,
     "successful": 7,
     "failed": 0,
-    "total_docs": 53,
-    "unique_documents": 53
+    "total_docs": 52,
+    "unique_documents": 52
   },
   "documents": [
     {
@@ -53,26 +53,70 @@
       "id": "196f4d45bdbf4bb8"
     },
     {
-      "title": "È morta Valeria Fedeli, sempre impegnata per la giustizia sociale e i diritti dei lavoratori",
-      "url": "https://www.flcgil.it/attualita/morta-valeria-fedeli-sempre-impegnata-per-giustizia-sociale-e-diritti-lavoratori.flc",
-      "date": "Wed, 14 Jan 2026 10:23:26 +0100",
+      "title": "L’Alta Formazione Artistica e Musicale e la riorganizzazione del Ministero dell’Università e della Ricerca: le novità della legge di bilancio",
+      "url": "https://www.flcgil.it/universita/afam/l-alta-formazione-artistica-e-musicale-e-la-riorganizzazione-del-ministero-dell-universita-e-della-ricerca-le-novita-della-legge-di-bilancio.flc",
+      "date": "Tue, 20 Jan 2026 12:46:27 +0100",
       "source": "FLC CGIL",
       "type": "rss_article",
-      "description": "",
-      "full_content": "",
+      "description": "La legge di bilancio nelle sue previsioni di spesa si adegua al nuovo regolamento di organizzazione del Ministero dell’Università e della Ricerca adottato con il",
+      "full_content": "La legge di bilancio nelle sue previsioni di spesa si adegua al nuovo regolamento di organizzazione del Ministero dell’Università e della Ricerca adottato con il",
       "has_full_content": false,
-      "id": "5209af7fdbe4c369"
+      "id": "0b5a660cb724e6de"
     },
     {
-      "title": "Verbale MIM-sindacati del 14 gennaio 2026 - Scuola, riutilizzo economie FMOF anni precedenti",
-      "url": "https://www.flcgil.it/sindacato/documenti/scuola/verbale-mim-sindacati-del-14-gennaio-2026-scuola-riutilizzo-economie-fmof-anni-precedenti.flc",
-      "date": "Wed, 14 Jan 2026 10:14:00 +0100",
+      "title": "Altro che metal detector!",
+      "url": "https://www.flcgil.it/attualita/con-cittadinanze/scuola-cittadinanza-intercultura/inclusione/altro-che-metal-detector.flc",
+      "date": "Tue, 20 Jan 2026 12:31:00 +0100",
       "source": "FLC CGIL",
       "type": "rss_article",
-      "description": "Verbale MIM-sindacati del 14 gennaio 2026 - Scuola, riutilizzo economie FMOF anni precedenti",
-      "full_content": "Verbale MIM-sindacati del 14 gennaio 2026 - Scuola, riutilizzo economie FMOF anni precedenti",
-      "has_full_content": false,
-      "id": "8879a93061d40c08"
+      "description": "Abbiamo intervistato Cristina Contri, docente dell’Istituto Professionale Statale Cattaneo Deledda di Modena. Un colpo di sonda su una realtà scolastica che accoglie giovani con back ground migratorio. A intervista quasi pronta per...",
+      "full_content": "Abbiamo intervistato Cristina Contri, docente dell’Istituto Professionale Statale Cattaneo Deledda di Modena. Un colpo di sonda su una realtà scolastica che accoglie giovani con back ground migratorio. A intervista quasi pronta per...",
+      "has_full_content": true,
+      "id": "e219b07e01fc9ca2"
+    },
+    {
+      "title": "Elenchi regionali per il ruolo: per partecipare bisogna aver superato sia prova scritta che orale di un concorso dal 2020. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-per-partecipare-bisogna-aver-superato-sia-prova-scritta-che-orale-di-un-concorso-dal-2020-pillole-di-question-time/",
+      "date": "Tue, 20 Jan 2026 10:10:16 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 16 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stato chiarito un aspetto rilevante in merito all’accesso agli elenchi regionali per i docenti che hanno partecipato al concorso PNRR 2. Il focus si è concentrato sulla posizione di coloro che hanno superato soltanto la prova scritta.\nL'articolo\nElenchi regionali per il ruolo: per partecipare bisogna aver superato sia prova scritta che orale ",
+      "full_content": "Nel question time del 16 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stato chiarito un aspetto rilevante in merito all’accesso agli elenchi regionali per i docenti che hanno partecipato al concorso PNRR 2. Il focus si è concentrato sulla posizione di coloro che hanno superato soltanto la prova scritta.\nL'articolo\nElenchi regionali per il ruolo: per partecipare bisogna aver superato sia prova scritta che orale di un concorso dal 2020. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "6de31a01b027f585"
+    },
+    {
+      "title": "Concorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]",
+      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-lettera-estratta-per-avvio-delle-prove-orali-in-aggiornamento/",
+      "date": "Tue, 20 Jan 2026 10:02:44 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: ecco le lettere estratte per l'avvio delle prove orali. Avvisi USR in aggiornamento.\nL'articolo\nConcorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: ecco le lettere estratte per l'avvio delle prove orali. Avvisi USR in aggiornamento.\nL'articolo\nConcorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "1e87894b022f4662"
+    },
+    {
+      "title": "GAE 2026: la valutazione del servizio si ferma per tutti al 22 gennaio, nessuno avrà i 12 punti. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/gae-2026-la-valutazione-del-servizio-si-ferma-per-tutti-al-22-gennaio-nessuno-avra-i-12-punti-pillole-di-question-time/",
+      "date": "Tue, 20 Jan 2026 09:25:50 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 9 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Simone Craparo (Gilda Unams), è stato affrontato un tema molto sentito da parte dei docenti precari: la la valutazione del servizio nelle Graduatorie ad Esaurimento (GAE), con particolare attenzione alle differenze rispetto alle Graduatorie Provinciali per le Supplenze (GPS) e alle tempistiche per la dichiarazione del servizio svolto.\nL'articolo\nGAE 2026: la valutazione del servizio si ferma per t",
+      "full_content": "Nel question time del 9 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Simone Craparo (Gilda Unams), è stato affrontato un tema molto sentito da parte dei docenti precari: la la valutazione del servizio nelle Graduatorie ad Esaurimento (GAE), con particolare attenzione alle differenze rispetto alle Graduatorie Provinciali per le Supplenze (GPS) e alle tempistiche per la dichiarazione del servizio svolto.\nL'articolo\nGAE 2026: la valutazione del servizio si ferma per tutti al 22 gennaio, nessuno avrà i 12 punti. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "7564d07919ad31a6"
+    },
+    {
+      "title": "Nuovi corsi sostegno Indire/Università, Frassinetti: “Aumenta il numero di docenti specializzati, secondo ciclo per 60mila posti”. [VIDEO]",
+      "url": "https://www.orizzontescuola.it/nuovi-corsi-sostegno-indire-frassinetti-aumenta-il-numero-di-docenti-specializzati-secondo-ciclo-per-60mila-posti-video/",
+      "date": "Tue, 20 Jan 2026 09:00:25 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel panorama della scuola inclusiva, la formazione degli insegnanti di sostegno resta uno dei punti più delicati e strategici. A confermarlo è stata Paola Frassinetti, sottosegretario all’Istruzione con delega alla disabilità, intervenuta in un’intervista a\nOrizzonte Scuola\nper fare il punto su alcuni interventi in corso.\nL'articolo\nNuovi corsi sostegno Indire/Università, Frassinetti: “Aumenta il numero di docenti specializzati, secondo ciclo per 60mila posti”. [VIDEO]\nsembra essere il primo su\n",
+      "full_content": "Nel panorama della scuola inclusiva, la formazione degli insegnanti di sostegno resta uno dei punti più delicati e strategici. A confermarlo è stata Paola Frassinetti, sottosegretario all’Istruzione con delega alla disabilità, intervenuta in un’intervista a\nOrizzonte Scuola\nper fare il punto su alcuni interventi in corso.\nL'articolo\nNuovi corsi sostegno Indire/Università, Frassinetti: “Aumenta il numero di docenti specializzati, secondo ciclo per 60mila posti”. [VIDEO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "07d4602cf4e1570a"
     },
     {
       "title": "Selezione per un collaboratore scolastico in comando presso l’USR Friuli Venezia Giulia. Domande entro il 20 gennaio",
@@ -196,17 +240,6 @@
       "id": "b3d913760ba0dd04"
     },
     {
-      "title": "Corsi INDIRE del secondo ciclo triennalisti: chi non potrà iscriversi. Pillole di Question Time",
-      "url": "https://www.orizzontescuola.it/corsi-indire-del-secondo-ciclo-triennalisti-chi-non-potra-iscriversi-pillole-di-question-time/",
-      "date": "Sun, 18 Jan 2026 09:25:48 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Nel question time del 12 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata affrontata una questione significativa riguardante i nuovi percorsi formativi gestiti da INDIRE. Un focus particolare è stato posto sul tema delle iscrizioni al secondo ciclo dei corsi.\nL'articolo\nCorsi INDIRE del secondo ciclo triennalisti: chi non potrà iscriversi. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Nel question time del 12 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata affrontata una questione significativa riguardante i nuovi percorsi formativi gestiti da INDIRE. Un focus particolare è stato posto sul tema delle iscrizioni al secondo ciclo dei corsi.\nL'articolo\nCorsi INDIRE del secondo ciclo triennalisti: chi non potrà iscriversi. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "d5f07d24d0aec649"
-    },
-    {
       "title": "Posizioni economiche ATA, martedì sapremo dove si svolgeranno le prove. Poi la data del test. Le anticipazioni",
       "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-martedi-sapremo-dove-si-svolgeranno-le-prove-poi-la-data-del-test-le-anticipazioni/",
       "date": "Sat, 17 Jan 2026 07:43:21 +0000",
@@ -317,17 +350,6 @@
       "id": "db2c4730358ffb3f"
     },
     {
-      "title": "Elenchi per il ruolo, iscrizione anche nella propria regione: quando è una scelta mirata e quando invece inutile",
-      "url": "https://www.orizzontescuola.it/elenchi-per-il-ruolo-iscrizione-anche-nella-propria-regione-quando-e-una-scelta-mirata-e-quando-invece-inutile/",
-      "date": "Mon, 19 Jan 2026 14:06:00 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Nel question time del 15 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente esperta Sonia Cannas, è stata discussa una questione importante relativa all’inserimento negli elenchi regionali dopo il concorso. Un focus particolare è stato posto sul rischio di disparità o \"scavalcamento\" nei confronti degli idonei non vincitori della stessa regione.\nL'articolo\nElenchi per il ruolo, iscrizione anche nella propria regione: quando è una scelta mirata e quando invece",
-      "full_content": "Nel question time del 15 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente esperta Sonia Cannas, è stata discussa una questione importante relativa all’inserimento negli elenchi regionali dopo il concorso. Un focus particolare è stato posto sul rischio di disparità o \"scavalcamento\" nei confronti degli idonei non vincitori della stessa regione.\nL'articolo\nElenchi per il ruolo, iscrizione anche nella propria regione: quando è una scelta mirata e quando invece inutile\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "df008b13d3374515"
-    },
-    {
       "title": "INAIL, chiuso il CIE 2025: qualcuno cambia idea, meglio tardi che mai! A rimetterci però sono i lavoratori del Settore Ricerca",
       "url": "https://www.flcgil.it/ricerca/inail-chiuso-il-cie-2025-qualcuno-cambia-idea-meglio-tardi-che-mai-a-rimetterci-pero-sono-i-lavoratori-del-settore-ricerca.flc",
       "date": "Mon, 19 Jan 2026 12:30:32 +0100",
@@ -361,17 +383,6 @@
       "id": "625d4e5de57dbe99"
     },
     {
-      "title": "Concorso docenti PNRR3, Sì o No alla prova orale: l’esito è definitivo? Scioglimento riserva potrebbe cambiare i voti minimi?",
-      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-si-o-no-alla-prova-orale-lesito-e-definitivo-scioglimento-riserva-potrebbe-cambiare-i-voti-minimi/",
-      "date": "Mon, 19 Jan 2026 10:05:32 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDD n. 2939/2025 per la scuola secondaria: in questi giorni i candidati che hanno conseguito almeno 70/100 alla prova scritta ricevono comunicazione attraverso l'USR di riferimento del voto minimo di ammissione alla prova orale e di conseguenza nell'area\nriservata di Concorsi e procedure selettive la risposta SI o NO.\nL'articolo\nConcorso docenti PNRR3, Sì o No alla prova orale: l’esito è definitivo? Scioglimento riserv",
-      "full_content": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDD n. 2939/2025 per la scuola secondaria: in questi giorni i candidati che hanno conseguito almeno 70/100 alla prova scritta ricevono comunicazione attraverso l'USR di riferimento del voto minimo di ammissione alla prova orale e di conseguenza nell'area\nriservata di Concorsi e procedure selettive la risposta SI o NO.\nL'articolo\nConcorso docenti PNRR3, Sì o No alla prova orale: l’esito è definitivo? Scioglimento riserva potrebbe cambiare i voti minimi?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "c0234fa6ce726202"
-    },
-    {
       "title": "AFAM: ripartite ulteriori risorse 2025 per il funzionamento ordinario. Si tratta di circa 1,7 milioni di euro",
       "url": "https://www.flcgil.it/universita/afam/afam-ripartite-ulteriori-risorse-2025-per-il-funzionamento-ordinario-si-tratta-di-circa-1-7-milioni-di-euro.flc",
       "date": "Mon, 19 Jan 2026 09:55:48 +0100",
@@ -392,17 +403,6 @@
       "full_content": "Comunica stampa FLC CGIL, Cisl Scuola, Confsal Snals\nLe Organizzazioni Sindacali FLC CGIL, CISL Scuola, GILDA UNAMS e CONFSAL SNALS dell&rsquo...",
       "has_full_content": false,
       "id": "fb5ee437ebaa1045"
-    },
-    {
-      "title": "Concorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]",
-      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-lettera-estratta-per-avvio-delle-prove-orali-in-aggiornamento/",
-      "date": "Mon, 19 Jan 2026 08:51:44 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: ecco le lettere estratte per l'avvio delle prove orali. Avvisi USR in aggiornamento.\nL'articolo\nConcorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: ecco le lettere estratte per l'avvio delle prove orali. Avvisi USR in aggiornamento.\nL'articolo\nConcorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "1e87894b022f4662"
     },
     {
       "title": "Fascicolo digitale docenti e ATA, già 90.000 accessi ma dati non ancora completi. Il cronoprogramma",
@@ -504,22 +504,13 @@
       "id": "62b325d3e9d0cad7"
     },
     {
-      "title": "Avviso convocazione prova pratica e orale B016 – DDG 2939/2025",
-      "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/15/avviso-convocazione-prova-pratica-e-orale-b016-ddg-2939-2025/",
-      "date": "2026-01-20T06:33:46.673425",
+      "title": "Bando di Concorso USR Lazio – AICA “Il digitale per una innovazione consapevole”",
+      "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/20/bando-di-concorso-aica-usr-lazio-il-digitale-per-una-innovazione-consapevole/",
+      "date": "2026-01-20T12:44:43.462985",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
-      "id": "990e8f4cc099aeba"
-    },
-    {
-      "title": "Avviso Pubblico per la manifestazione di interesse ai fini dell’individuazione di enti, associazioni e enti del Terzo settore idonei ad accogliere studenti e studentesse sottoposti alla sanzione di allontanamento dalle lezioni",
-      "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/16/avviso-pubblico-per-la-manifestazione-di-interesse-ai-fini-dellindividuazione-di-enti-associazioni-e-enti-del-terzo-settore-idonei-ad-accogliere-studenti-e-studentesse-sottoposti-alla-sanzio-3/",
-      "date": "2026-01-20T06:33:46.673396",
-      "source": "USR Lazio",
-      "type": "comunicazione",
-      "description": "",
-      "id": "58ca64f485627083"
+      "id": "e128d74f09f9dd3a"
     },
     {
       "title": "Permessi per motivi di studio per l’anno 2026, inviati agli Uffici Scolastici Regionali i contingenti delle disponibilità",
