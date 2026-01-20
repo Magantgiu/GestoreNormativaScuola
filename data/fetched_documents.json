@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-19T18:31:07.095581",
+  "last_fetch": "2026-01-20T01:26:14.677909",
   "stats": {
-    "total": 28,
+    "total": 53,
     "fetched": 3,
-    "skipped": 25,
+    "skipped": 50,
     "failed": 0,
     "pdfs": 0,
     "html": 3
   },
-  "total_documents": 700,
+  "total_documents": 703,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -10348,6 +10348,51 @@
       "success": true,
       "fetched_at": "2026-01-19T18:31:05.839766",
       "document_type": "html"
+    },
+    {
+      "title": "Bologna, “Fuori la guerra dalla conoscenza!”. Un ordine del giorno in ogni scuola",
+      "url": "https://www.flcgil.it/regioni/emilia-romagna/bologna/bologna-fuori-guerra-conoscenza-ordine-del-giorno-in-ogni-scuola.flc",
+      "date": "Mon, 19 Jan 2026 19:51:31 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "A cura della FLC CGIL Bologna\nNei giorni scorsi, la riunione delle RSU scuola della FLC CGIL Bologna ha approvato all’unanimità un ordine del giorno da portare in discussione e delibera negli organismi collegiali...",
+      "full_content": "A cura della FLC CGIL Bologna\nNei giorni scorsi, la riunione delle RSU scuola della FLC CGIL Bologna ha approvato all’unanimità un ordine del giorno da portare in discussione e delibera negli organismi collegiali...",
+      "has_full_content": true,
+      "id": "e4222c56e73fdbb3",
+      "text": "A cura della FLC CGIL Bologna\nNei giorni scorsi, la riunione delle RSU scuola della FLC CGIL Bologna ha approvato all’unanimità un ordine del giorno da portare in discussione e delibera negli organismi collegiali...",
+      "fetched_at": "2026-01-20T01:26:13.167345",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Aggiornamento Graduatorie ATA 24 mesi 2026: obbligo CIAD anche per chi è già in graduatoria?",
+      "url": "https://www.orizzontescuola.it/aggiornamento-graduatorie-ata-24-mesi-2026-obbligo-ciad-anche-per-chi-e-gia-in-graduatoria/",
+      "date": "Mon, 19 Jan 2026 18:27:16 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Con l’arrivo della primavera 2026 si aprirà la procedura di aggiornamento delle graduatorie ATA 24 mesi, riservata al personale ATA che ha già maturato almeno 24 mesi di servizio. Si tratta di un concorso per soli titoli, utile per l’accesso a supplenze annuali, incarichi fino al termine delle attività didattiche e immissioni in ruolo.\nL'articolo\nAggiornamento Graduatorie ATA 24 mesi 2026: obbligo CIAD anche per chi è già in graduatoria?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Con l’arrivo della primavera 2026 si aprirà la procedura di aggiornamento delle graduatorie ATA 24 mesi, riservata al personale ATA che ha già maturato almeno 24 mesi di servizio. Si tratta di un concorso per soli titoli, utile per l’accesso a supplenze annuali, incarichi fino al termine delle attività didattiche e immissioni in ruolo.\nL'articolo\nAggiornamento Graduatorie ATA 24 mesi 2026: obbligo CIAD anche per chi è già in graduatoria?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "d022a0750756f433",
+      "text": "Con l’arrivo della primavera 2026 si aprirà la procedura di aggiornamento delle graduatorie ATA 24 mesi, riservata al personale ATA che ha già maturato almeno 24 mesi di servizio. Si tratta di un concorso per soli titoli, utile per l’accesso a supplenze annuali, incarichi fino al termine delle attività didattiche e immissioni in ruolo.\nL'articolo\nAggiornamento Graduatorie ATA 24 mesi 2026: obbligo CIAD anche per chi è già in graduatoria?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-20T01:26:13.667525",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "GPS 2026: ci si può inserire con riserva per abilitazione in corso, ma nessun punteggio su sostegno. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/gps-2026-ci-si-puo-inserire-con-riserva-per-abilitazione-in-corso-ma-nessun-punteggio-su-sostegno-pillole-di-question-time/",
+      "date": "Mon, 19 Jan 2026 17:15:04 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 3 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto (Anief), è stata esaminata una questione tecnica riguardante la valutazione dell’abilitazione inserita con riserva. Un focus particolare è stato posto sulla possibilità di ottenere un punteggio aggiuntivo per altre classi di concorso, grazie al possesso del titolo abilitante, seppur non ancora definitivamente riconosciuto.\nL'articolo\nGPS 2026: ci si può inserire con riserva per ab",
+      "full_content": "Nel question time del 3 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto (Anief), è stata esaminata una questione tecnica riguardante la valutazione dell’abilitazione inserita con riserva. Un focus particolare è stato posto sulla possibilità di ottenere un punteggio aggiuntivo per altre classi di concorso, grazie al possesso del titolo abilitante, seppur non ancora definitivamente riconosciuto.\nL'articolo\nGPS 2026: ci si può inserire con riserva per abilitazione in corso, ma nessun punteggio su sostegno. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "e9b14587dea27edb",
+      "text": "Nel question time del 3 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto (Anief), è stata esaminata una questione tecnica riguardante la valutazione dell’abilitazione inserita con riserva. Un focus particolare è stato posto sulla possibilità di ottenere un punteggio aggiuntivo per altre classi di concorso, grazie al possesso del titolo abilitante, seppur non ancora definitivamente riconosciuto.\nL'articolo\nGPS 2026: ci si può inserire con riserva per abilitazione in corso, ma nessun punteggio su sostegno. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-20T01:26:14.167708",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
