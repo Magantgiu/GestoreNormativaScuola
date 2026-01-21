@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-20T18:33:58.501469",
+  "last_fetch": "2026-01-21T01:28:51.865404",
   "stats": {
-    "total": 52,
-    "fetched": 6,
-    "skipped": 46,
+    "total": 27,
+    "fetched": 2,
+    "skipped": 25,
     "failed": 0,
     "pdfs": 0,
-    "html": 6
+    "html": 2
   },
-  "total_documents": 715,
+  "total_documents": 717,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -10572,6 +10572,35 @@
       "size_chars": 1426,
       "success": true,
       "fetched_at": "2026-01-20T18:33:56.894834",
+      "document_type": "html"
+    },
+    {
+      "title": "Graduatorie GPS 2026: le novità della seconda fascia riguardano sostegno e motoria alla primaria. Titolo completo entro la scadenza, no riserva",
+      "url": "https://www.orizzontescuola.it/graduatorie-gps-2026-le-novita-della-seconda-fascia-riguardano-sostegno-e-motoria-alla-primaria-titolo-completo-entro-la-scadenza-no-riserva/",
+      "date": "Tue, 20 Jan 2026 17:58:20 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Requisiti di accesso alla seconda fascia delle GPS graduatorie provinciali e di istituto per gli anni scolastici 2026/27 e 2027/28. Il titolo di accesso però deve essere in possesso entro la data di scadenza per la presentazione della domanda. Vi sono inoltre novità (da confermare nel testo definitivo) per\nL'articolo\nGraduatorie GPS 2026: le novità della seconda fascia riguardano sostegno e motoria alla primaria. Titolo completo entro la scadenza, no riserva\nsembra essere il primo su\nOrizzonte S",
+      "full_content": "Requisiti di accesso alla seconda fascia delle GPS graduatorie provinciali e di istituto per gli anni scolastici 2026/27 e 2027/28. Il titolo di accesso però deve essere in possesso entro la data di scadenza per la presentazione della domanda. Vi sono inoltre novità (da confermare nel testo definitivo) per\nL'articolo\nGraduatorie GPS 2026: le novità della seconda fascia riguardano sostegno e motoria alla primaria. Titolo completo entro la scadenza, no riserva\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "dc5cc6f30e6ac5ae",
+      "text": "Requisiti di accesso alla seconda fascia delle GPS graduatorie provinciali e di istituto per gli anni scolastici 2026/27 e 2027/28. Il titolo di accesso però deve essere in possesso entro la data di scadenza per la presentazione della domanda. Vi sono inoltre novità (da confermare nel testo definitivo) per\nL'articolo\nGraduatorie GPS 2026: le novità della seconda fascia riguardano sostegno e motoria alla primaria. Titolo completo entro la scadenza, no riserva\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-21T01:28:48.065233",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Posizioni economiche personale ATA, illustrate ai sindacati le nuove decisioni sugli abbinamenti dei candidati alle sedi di svolgimento dei test",
+      "url": "https://www.cislscuolaromarieti.it/posizioni-economiche-personale-ata-illustrate-ai-sindacati-le-nuove-decisioni-sugli-abbinamenti-dei-candidati-alle-sedi-di-svolgimento-dei-test/",
+      "date": "20 Gennaio 2026",
+      "source": "CISL Scuola Roma e Rieti",
+      "type": "news",
+      "description": "",
+      "id": "bef4f5344c1e8ee5",
+      "text": "Si è svolto oggi, martedì 20 gennaio, un incontro tecnico nel quale l’Amministrazione ha illustrato alle organizzazioni sindacali le modalità con cui sono stati disposti gli abbinamenti dei candidati alle sedi in cui si terranno i test conclusivi per l’attribuzione delle posizioni economiche al personale ATA.\nL’abbinamento avverrà in base alla provincia di servizio e non più a quella di titolarità. È stato così corretto, anche a seguito delle rimostranze della CISL Scuola e delle altre sigle sindacali, un precedente abbinamento fatto nel mese di dicembre dall’Amministrazione, che avrebbe però comportato in qualche caso, per i candidati, spostamenti molto lunghi, addirittura di centinaia di chilometri.\nLa nuova formulazione tiene conto di due criteri base:\nutilizzare il minor numero possibile di aule\nagevolare quanto più possibile l’accessibilità delle sedi da parte dei candidati, pur considerando che un aspirante non può svolgere il test nella propria sede di servizio.\nSecondo quanto riferito dall’Amministrazione, solo\n124 candidati\n, sul totale delle persone coinvolte a livello nazionale, dovranno percorrere\npiù di 50 Km\nper raggiungere la sede del test.\nI\n47.328\ncandidati\nsaranno distribuiti su\n3.162 aule\n; la distanza che ciascun candidato dovrà percorrere per raggiungere la sede del test è stimabile mediamente in\n8,7 Km\n.\nGli Uffici Scolastici Regionali hanno ricevuto gli elenchi e potranno intervenire con\ncorrettivi per limitati casi\n(esempio: rispetto della Legge 104/92, aule nel frattempo non più disponibili, ecc.).\nTenuto conto dei tempi necessari a completare la procedura, si può ipotizzare che i test si terranno attorno alla\nmetà di febbraio\n.\nShare\nArticoli correlati\n20 Gennaio 2026\nGPS 2026/2027: SPORTELLO DI CONSULENZA DELLA CISL SCUOLA DI ROMA E RIETI\nLeggi di più\n19 Gennaio 2026\nPermessi per motivi di studio per l’anno 2026, inviati agli Uffici Scolastici Regionali i contingenti delle disponibilità\nLeggi di più",
+      "size_chars": 1959,
+      "success": true,
+      "fetched_at": "2026-01-21T01:28:50.850868",
       "document_type": "html"
     }
   ]
