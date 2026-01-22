@@ -1,78 +1,45 @@
 {
-  "scraped_at": "2026-01-22T12:44:43.517380",
+  "scraped_at": "2026-01-22T18:30:27.249765",
   "stats": {
     "total_sources": 7,
     "successful": 7,
     "failed": 0,
-    "total_docs": 29,
-    "unique_documents": 29
+    "total_docs": 52,
+    "unique_documents": 52
   },
   "documents": [
     {
-      "title": "Supplenze 2026 da interpello: a chiusura del primo quadrimestre tanti docenti da sostituire con tempestività",
-      "url": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-      "date": "Wed, 21 Jan 2026 21:26:03 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "title": "Slide assemblea FLC CGIL Istat 20 gennaio 2026",
+      "url": "https://www.flcgil.it/enti/istat/documenti/slide-assemblea-flc-cgil-istat-20-gennaio-2026.flc",
+      "date": "Wed, 21 Jan 2026 18:52:07 +0100",
+      "source": "FLC CGIL",
       "type": "rss_article",
-      "description": "Supplenze docenti 2025/26: è confermata la procedura di interpello prevista dall'OM n. 88/2024. Gli interpelli saranno proposti quando le graduatorie risulteranno esaurite, ossia non ci saranno più aspiranti che potranno accettare l'incarico proposto. L'interpello è diramato a livello nazionale tramite gli Uffici Scolastici.\nL'articolo\nSupplenze 2026 da interpello: a chiusura del primo quadrimestre tanti docenti da sostituire con tempestività\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Supplenze docenti 2025/26: è confermata la procedura di interpello prevista dall'OM n. 88/2024. Gli interpelli saranno proposti quando le graduatorie risulteranno esaurite, ossia non ci saranno più aspiranti che potranno accettare l'incarico proposto. L'interpello è diramato a livello nazionale tramite gli Uffici Scolastici.\nL'articolo\nSupplenze 2026 da interpello: a chiusura del primo quadrimestre tanti docenti da sostituire con tempestività\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "75fb4948c56d7424"
+      "description": "Slide assemblea FLC CGIL Istat 20 gennaio 2026",
+      "full_content": "Slide assemblea FLC CGIL Istat 20 gennaio 2026",
+      "has_full_content": false,
+      "id": "0dcfe5332903248a"
     },
     {
-      "title": "Concorso PNRR3 docenti secondaria, al via la PROVA ORALE. Ecco le convocazioni [AGGIORNATO]",
-      "url": "https://www.orizzontescuola.it/concorso-pnrr3-docenti-secondaria-al-via-la-prova-orale-ecco-le-convocazioni-in-aggiornamento/",
-      "date": "Wed, 21 Jan 2026 17:11:23 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "title": "Istat: incontro su PIAO 2026-2028, lavoro a distanza 2026 e SMVP della dirigenza",
+      "url": "https://www.flcgil.it/enti/istat/notizie/istat-incontro-su-piao-2026-2028-lavoro-a-distanza-2026-e-smvp-della-dirigenza.flc",
+      "date": "Wed, 21 Jan 2026 18:10:58 +0100",
+      "source": "FLC CGIL",
       "type": "rss_article",
-      "description": "Concorso docenti secondaria bandito con DDG n. 2939/2025: al via le prove orali. Laddove sono state formate le commissioni e proceduto all'estrazione della lettera di avvio, si può formalmente dare avvio alle prove orali (e pratiche per le classi di concorso che le prevedono).\nL'articolo\nConcorso PNRR3 docenti secondaria, al via la PROVA ORALE. Ecco le convocazioni [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Concorso docenti secondaria bandito con DDG n. 2939/2025: al via le prove orali. Laddove sono state formate le commissioni e proceduto all'estrazione della lettera di avvio, si può formalmente dare avvio alle prove orali (e pratiche per le classi di concorso che le prevedono).\nL'articolo\nConcorso PNRR3 docenti secondaria, al via la PROVA ORALE. Ecco le convocazioni [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "ff702417a28fdf4e"
+      "description": "Martedì 20 gennaio si è svolto l’incontro sindacale con l’amministrazione riguardante l’area della dirigenza amministrativa (la FLC CGIL fa...",
+      "full_content": "Martedì 20 gennaio si è svolto l’incontro sindacale con l’amministrazione riguardante l’area della dirigenza amministrativa (la FLC CGIL fa...",
+      "has_full_content": false,
+      "id": "60928881b41dcc34"
     },
     {
-      "title": "Graduatorie GPS 2026/28: requisiti di accesso, riserva, titoli e servizi, nuovo algoritmo [LO SPECIALE]",
-      "url": "https://www.orizzontescuola.it/graduatorie-gps-2026-28-requisiti-di-accesso-riserva-titoli-e-servizi-nuovo-algoritmo-lo-speciale/",
-      "date": "Wed, 21 Jan 2026 12:50:05 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "title": "Nuovo anno, vecchi problemi in INDIRE",
+      "url": "https://www.flcgil.it/ricerca/nuovo-anno-vecchi-problemi-in-indire.flc",
+      "date": "Wed, 21 Jan 2026 15:50:19 +0100",
+      "source": "FLC CGIL",
       "type": "rss_article",
-      "description": "Graduatorie GPS 2026/28: la guida passo passo al testo normativo che per gli anni scolastici 2026/27 e 2027/28 guiderà l'assegnazione delle supplenze, della riconferma dell'insegnante di sostegno su richiesta della famiglia, gli interpelli. Non ancora diffuse le date di presentazione della domanda.\nL'articolo\nGraduatorie GPS 2026/28: requisiti di accesso, riserva, titoli e servizi, nuovo algoritmo [LO SPECIALE]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Graduatorie GPS 2026/28: la guida passo passo al testo normativo che per gli anni scolastici 2026/27 e 2027/28 guiderà l'assegnazione delle supplenze, della riconferma dell'insegnante di sostegno su richiesta della famiglia, gli interpelli. Non ancora diffuse le date di presentazione della domanda.\nL'articolo\nGraduatorie GPS 2026/28: requisiti di accesso, riserva, titoli e servizi, nuovo algoritmo [LO SPECIALE]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "798d8e87712dd1cd"
-    },
-    {
-      "title": "Elenchi di sostegno delle GAE: titoli TFA e Indire utili per il ruolo e le supplenze. Domanda scade il 22 gennaio",
-      "url": "https://www.orizzontescuola.it/elenchi-di-sostegno-delle-gae-titoli-tfa-e-indire-utili-per-il-ruolo-e-le-supplenze-domanda-scade-il-22-gennaio/",
-      "date": "Wed, 21 Jan 2026 12:30:03 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Nel question time del 9 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Simone Craparo (Gilda Unams), è stato affrontato un importante quesito relativo all’inserimento negli elenchi di sostegno delle Graduatorie ad Esaurimento (GAE) da parte dei docenti già presenti su posto comune. Il focus si è concentrato sui requisiti necessari e sui criteri per la determinazione del punteggio.\nL'articolo\nElenchi di sostegno delle GAE: titoli TFA e Indire utili per il ruolo e le s",
-      "full_content": "Nel question time del 9 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Simone Craparo (Gilda Unams), è stato affrontato un importante quesito relativo all’inserimento negli elenchi di sostegno delle Graduatorie ad Esaurimento (GAE) da parte dei docenti già presenti su posto comune. Il focus si è concentrato sui requisiti necessari e sui criteri per la determinazione del punteggio.\nL'articolo\nElenchi di sostegno delle GAE: titoli TFA e Indire utili per il ruolo e le supplenze. Domanda scade il 22 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "bc71c56f74b7d6d4"
-    },
-    {
-      "title": "Concorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]",
-      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-lettera-estratta-per-avvio-delle-prove-orali-in-aggiornamento/",
-      "date": "Wed, 21 Jan 2026 12:00:44 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: ecco le lettere estratte per l'avvio delle prove orali. Avvisi USR in aggiornamento.\nL'articolo\nConcorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: ecco le lettere estratte per l'avvio delle prove orali. Avvisi USR in aggiornamento.\nL'articolo\nConcorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "1e87894b022f4662"
-    },
-    {
-      "title": "Graduatorie GPS 2026: riserva sì ma il percorso abilitante dovrà concludersi entro il 30 giugno. Pillole di Question Time",
-      "url": "https://www.orizzontescuola.it/graduatorie-gps-2026-riserva-si-ma-il-percorso-abilitante-dovra-concludersi-entro-il-30-giugno-pillole-di-question-time/",
-      "date": "Wed, 21 Jan 2026 10:49:06 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Nel question time del 9 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata affrontata una tematica rilevante per molti docenti impegnati nei percorsi abilitanti. L’attenzione si è concentrata sulla possibilità di inserimento in prima fascia delle GPS per coloro che non avranno ancora concluso il percorso abilitante al momento dell’aggiornamento.\nL'articolo\nGraduatorie GPS 2026: riserva sì ma il percorso abilitante dovrà concludersi",
-      "full_content": "Nel question time del 9 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata affrontata una tematica rilevante per molti docenti impegnati nei percorsi abilitanti. L’attenzione si è concentrata sulla possibilità di inserimento in prima fascia delle GPS per coloro che non avranno ancora concluso il percorso abilitante al momento dell’aggiornamento.\nL'articolo\nGraduatorie GPS 2026: riserva sì ma il percorso abilitante dovrà concludersi entro il 30 giugno. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "aa039cfb1aea766c"
+      "description": "Siamo arrivati alla fine di questo primo mese del 2026. Anche il 2025 è trascorso senza che il personale tecnico-amministrativo (IV-VIII livello) di INDIRE abbia potuto...",
+      "full_content": "Siamo arrivati alla fine di questo primo mese del 2026. Anche il 2025 è trascorso senza che il personale tecnico-amministrativo (IV-VIII livello) di INDIRE abbia potuto...",
+      "has_full_content": false,
+      "id": "c613df813efb734c"
     },
     {
       "title": "Posizioni economiche ATA: il simulatore per esercitarti a superare l’esame",
@@ -86,15 +53,26 @@
       "id": "aa80df70eae4eba0"
     },
     {
-      "title": "Elenchi regionali per il ruolo, sono aggiuntivi alle assunzioni ordinarie. Doppia possibilità.  Pillole di Question Time",
-      "url": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-sono-aggiuntivi-alle-assunzioni-ordinarie-doppia-possibilita-pillole-di-question-time/",
-      "date": "Wed, 21 Jan 2026 09:39:19 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "title": "Scuola: nuove tutele per conciliare salute e lavoro [SCHEDA]",
+      "url": "https://www.flcgil.it/scuola/scuola-nuove-tutele-per-conciliare-salute-lavoro-scheda.flc",
+      "date": "Wed, 21 Jan 2026 10:30:00 +0100",
+      "source": "FLC CGIL",
       "type": "rss_article",
-      "description": "Nel question time del 15 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente esperta Sonia Cannas, è stato approfondito un tema centrale nel sistema di reclutamento legato ai concorsi PNRR. L’argomento trattato ha riguardato la posizione degli idonei del 30% rispetto all’attivazione degli elenchi regionali.\nL'articolo\nElenchi regionali per il ruolo, sono aggiuntivi alle assunzioni ordinarie. Doppia possibilità.  Pillole di Question Time\nsembra essere il primo ",
-      "full_content": "Nel question time del 15 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente esperta Sonia Cannas, è stato approfondito un tema centrale nel sistema di reclutamento legato ai concorsi PNRR. L’argomento trattato ha riguardato la posizione degli idonei del 30% rispetto all’attivazione degli elenchi regionali.\nL'articolo\nElenchi regionali per il ruolo, sono aggiuntivi alle assunzioni ordinarie. Doppia possibilità.  Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "87f94b7624dc0012"
+      "description": "La\nlegge 18 luglio 2025, n. 106\nintroduce nuove misure di tutela per il...",
+      "full_content": "La\nlegge 18 luglio 2025, n. 106\nintroduce nuove misure di tutela per il...",
+      "has_full_content": false,
+      "id": "8812274ca729d329"
+    },
+    {
+      "title": "Concorsi Università al 20 gennaio 2026",
+      "url": "https://www.flcgil.it/universita/concorsi-universita-al-20-gennaio-2026.flc",
+      "date": "Wed, 21 Jan 2026 09:21:05 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Gazzetta Ufficiale n°4 del 16 gennaio 2026\nUNIVERSITÀ DI BOLOGNA «ALMA MATER STUDIORUM»\nProcedura di selezione per la copertura di un posto di ricercatore a tempo...",
+      "full_content": "Gazzetta Ufficiale n°4 del 16 gennaio 2026\nUNIVERSITÀ DI BOLOGNA «ALMA MATER STUDIORUM»\nProcedura di selezione per la copertura di un posto di ricercatore a tempo...",
+      "has_full_content": false,
+      "id": "7030c0b670520502"
     },
     {
       "title": "Nuove posizioni economiche ATA: dove si svolge la prova finale. La distanza media da percorrere è di 8,7 km. I criteri",
@@ -106,6 +84,17 @@
       "full_content": "Si è svolto nel pomeriggio del 20 gennaio l'incontro tra Ministero dell'istruzione e del merito e i Sindacati sulle prove finali per il personale ATA che ha partecipato ai corsi di formazione per le nuove posizioni economiche ATA.\nL'articolo\nNuove posizioni economiche ATA: dove si svolge la prova finale. La distanza media da percorrere è di 8,7 km. I criteri\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "353e7c47817e5aa4"
+    },
+    {
+      "title": "Posizioni economiche ATA: abbinamenti candidati/sedi d’esame prove finali, incontro MIM/Sindacati",
+      "url": "https://www.flcgil.it/scuola/ata/posizioni-economiche-ata-abbinamenti-candidati-sedi-d-esame-prove-finali-incontro-mim-sindacati.flc",
+      "date": "Tue, 20 Jan 2026 18:00:59 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Si è svolto martedì 20 gennaio 2026, presso la Direzione generale per il personale scolastico, l’incontro con le Organizzazioni sindacali dedicato all’illustrazione dei criteri di...",
+      "full_content": "Si è svolto martedì 20 gennaio 2026, presso la Direzione generale per il personale scolastico, l’incontro con le Organizzazioni sindacali dedicato all’illustrazione dei criteri di...",
+      "has_full_content": false,
+      "id": "1421793fba9bc0f1"
     },
     {
       "title": "Posizioni economiche ATA, UIL Scuola: “Specificare chiaramente il percorso per l’accesso alla piattaforma”. Le novità su sedi e tempistiche",
@@ -130,15 +119,191 @@
       "id": "a64121775619e00c"
     },
     {
-      "title": "Selezione per un collaboratore scolastico in comando presso l’USR Friuli Venezia Giulia. Domande entro il 20 gennaio",
-      "url": "https://www.orizzontescuola.it/selezione-per-un-collaboratore-scolastico-in-comando-presso-lusr-friuli-venezia-giulia-domande-entro-il-20-gennaio/",
-      "date": "Tue, 13 Jan 2026 18:22:52 +0000",
+      "title": "L’Alta Formazione Artistica e Musicale e la riorganizzazione del Ministero dell’Università e della Ricerca: le novità della legge di bilancio",
+      "url": "https://www.flcgil.it/universita/afam/l-alta-formazione-artistica-e-musicale-e-la-riorganizzazione-del-ministero-dell-universita-e-della-ricerca-le-novita-della-legge-di-bilancio.flc",
+      "date": "Tue, 20 Jan 2026 12:46:27 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "La legge di bilancio nelle sue previsioni di spesa si adegua al nuovo regolamento di organizzazione del Ministero dell’Università e della Ricerca adottato con il",
+      "full_content": "La legge di bilancio nelle sue previsioni di spesa si adegua al nuovo regolamento di organizzazione del Ministero dell’Università e della Ricerca adottato con il",
+      "has_full_content": false,
+      "id": "0b5a660cb724e6de"
+    },
+    {
+      "title": "Altro che metal detector!",
+      "url": "https://www.flcgil.it/attualita/con-cittadinanze/scuola-cittadinanza-intercultura/inclusione/altro-che-metal-detector.flc",
+      "date": "Tue, 20 Jan 2026 12:31:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Abbiamo intervistato Cristina Contri, docente dell’Istituto Professionale Statale Cattaneo Deledda di Modena. Un colpo di sonda su una realtà scolastica che accoglie giovani con back ground migratorio. A intervista quasi pronta per...",
+      "full_content": "Abbiamo intervistato Cristina Contri, docente dell’Istituto Professionale Statale Cattaneo Deledda di Modena. Un colpo di sonda su una realtà scolastica che accoglie giovani con back ground migratorio. A intervista quasi pronta per...",
+      "has_full_content": true,
+      "id": "e219b07e01fc9ca2"
+    },
+    {
+      "title": "Tagli e precariato: le mani sull’università",
+      "url": "https://www.flcgil.it/rassegna-stampa/nazionale/tagli-e-precariato-le-mani-sull-universita.flc",
+      "date": "Tue, 20 Jan 2026 11:20:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Di Mattia Carpinelli e Stefano Iucci\n“Precarietà, risorse, autonomia: le mani sull’università”. Questa mattina (20 gennaio) a Napoli nell’aula De Sanctis del dipartimento di...",
+      "full_content": "Di Mattia Carpinelli e Stefano Iucci\n“Precarietà, risorse, autonomia: le mani sull’università”. Questa mattina (20 gennaio) a Napoli nell’aula De Sanctis del dipartimento di...",
+      "has_full_content": false,
+      "id": "27e5564f9b1a2002"
+    },
+    {
+      "title": "Scuola: guida aggiornata dei congedi parentali [GUIDA]",
+      "url": "https://www.flcgil.it/scuola/scuola-guida-congedi-parentali.flc",
+      "date": "Tue, 20 Jan 2026 10:54:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Riteniamo utile fornire uno strumento per applicare tutti gli aggiornamenti previsti dalla",
+      "full_content": "Riteniamo utile fornire uno strumento per applicare tutti gli aggiornamenti previsti dalla",
+      "has_full_content": false,
+      "id": "b720093142798b47"
+    },
+    {
+      "title": "Graduatorie concorso dirigenti scolastici. In arrivo l’ennesimo colpo di scena",
+      "url": "https://www.flcgil.it/scuola/dirigenti/graduatorie-concorso-dirigenti-scolastici-in-arrivo-l-ennesimo-colpo-di-scena.flc",
+      "date": "Thu, 22 Jan 2026 16:17:03 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Com’è noto, la norma che nel 2022 aveva ripristinato la validità  della graduatoria del concorso nazionale 2017, prevedendo l’inclusione di tutti i soggetti con contenziosi in atto con l’amministrazione per...",
+      "full_content": "Com’è noto, la norma che nel 2022 aveva ripristinato la validità  della graduatoria del concorso nazionale 2017, prevedendo l’inclusione di tutti i soggetti con contenziosi in atto con l’amministrazione per...",
+      "has_full_content": true,
+      "id": "abb7f08ca6ad0f10"
+    },
+    {
+      "title": "Interpello Supplenza personale Ata Assistente Tecnico a Modica (RG) fino al 9 giugno 2026",
+      "url": "https://www.orizzontescuola.it/interpello-supplenza-personale-ata-assistente-tecnico-a-modica-rg-fino-al-9-giugno-2026/",
+      "date": "Thu, 22 Jan 2026 15:16:57 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "L'Istituto Professionale di Stato Principi Grimaldi di Modica (RG) ricerca personale ATA assistente tecnico area AR01-I32 CON PATENTE D+CQC per il conferimento di supplenza.\nL'articolo\nInterpello Supplenza personale Ata Assistente Tecnico a Modica (RG) fino al 9 giugno 2026\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "L'Istituto Professionale di Stato Principi Grimaldi di Modica (RG) ricerca personale ATA assistente tecnico area AR01-I32 CON PATENTE D+CQC per il conferimento di supplenza.\nL'articolo\nInterpello Supplenza personale Ata Assistente Tecnico a Modica (RG) fino al 9 giugno 2026\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "0abd5e1cf02d8ef7"
+    },
+    {
+      "title": "Concorso PNRR3 docenti secondaria, al via la PROVA ORALE. Ecco le convocazioni [AGGIORNATO]",
+      "url": "https://www.orizzontescuola.it/concorso-pnrr3-docenti-secondaria-al-via-la-prova-orale-ecco-le-convocazioni-in-aggiornamento/",
+      "date": "Thu, 22 Jan 2026 15:05:23 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Concorso docenti secondaria bandito con DDG n. 2939/2025: al via le prove orali. Laddove sono state formate le commissioni e proceduto all'estrazione della lettera di avvio, si può formalmente dare avvio alle prove orali (e pratiche per le classi di concorso che le prevedono).\nL'articolo\nConcorso PNRR3 docenti secondaria, al via la PROVA ORALE. Ecco le convocazioni [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Concorso docenti secondaria bandito con DDG n. 2939/2025: al via le prove orali. Laddove sono state formate le commissioni e proceduto all'estrazione della lettera di avvio, si può formalmente dare avvio alle prove orali (e pratiche per le classi di concorso che le prevedono).\nL'articolo\nConcorso PNRR3 docenti secondaria, al via la PROVA ORALE. Ecco le convocazioni [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "ff702417a28fdf4e"
+    },
+    {
+      "title": "Elenchi regionali per il ruolo: unica riserva prevista è per legge 68/99. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-unica-riserva-prevista-e-per-legge-68-99-pillole-di-question-time/",
+      "date": "Thu, 22 Jan 2026 14:54:42 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 16 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stata discussa una questione importante relativa alle assunzioni nel settore scolastico. Un focus particolare è stato posto sulle riserve di legge applicabili nel caso delle assunzioni effettuate tramite gli elenchi regionali.\nL'articolo\nElenchi regionali per il ruolo: unica riserva prevista è per legge 68/99. Pillole di Question Time\nsembra ",
+      "full_content": "Nel question time del 16 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto, rappresentante sindacale di ANIEF, è stata discussa una questione importante relativa alle assunzioni nel settore scolastico. Un focus particolare è stato posto sulle riserve di legge applicabili nel caso delle assunzioni effettuate tramite gli elenchi regionali.\nL'articolo\nElenchi regionali per il ruolo: unica riserva prevista è per legge 68/99. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "6eca317aa475ecf9"
+    },
+    {
+      "title": "Concorso infanzia e primaria PNRR3, prova orale [Le convocazioni]",
+      "url": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-pnrr3-arrivano-le-convocazioni-prova-orale-dal-19-gennaio-in-aggiornamento/",
+      "date": "Thu, 22 Jan 2026 14:44:57 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Convocazioni concorso DDG n. 2398/2025: arrivate le prime convocazioni per la prova orale. La convocazione viene inviata a coloro che hanno raggiunto il voto minimo rientrando nel gruppo degli ammessi alla prova orale.\nL'articolo\nConcorso infanzia e primaria PNRR3, prova orale [Le convocazioni]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Convocazioni concorso DDG n. 2398/2025: arrivate le prime convocazioni per la prova orale. La convocazione viene inviata a coloro che hanno raggiunto il voto minimo rientrando nel gruppo degli ammessi alla prova orale.\nL'articolo\nConcorso infanzia e primaria PNRR3, prova orale [Le convocazioni]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "db2c4730358ffb3f"
+    },
+    {
+      "title": "Esami di maturità: importante pronunciamento del Garante per la protezione dei dati personali",
+      "url": "https://www.flcgil.it/scuola/docenti/secondo-ciclo/esami-di-maturita-importante-pronunciamento-del-garante-per-la-protezione-dei-dati-personali.flc",
+      "date": "Thu, 22 Jan 2026 14:32:14 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Per quanto riguarda il nuovo esame di Stato, ormai ridenominato\n“esame...",
+      "full_content": "Per quanto riguarda il nuovo esame di Stato, ormai ridenominato\n“esame...",
+      "has_full_content": false,
+      "id": "e9b4a8df2820b508"
+    },
+    {
+      "title": "Parere GPDP su schema decreto MIM attuativo DL 127/25 di implementazione modello “Curriculum della studentessa e dello studente” - 18 dicembre 2025",
+      "url": "https://www.flcgil.it/sindacato/documenti/scuola/parere-gpdp-su-schema-decreto-mim-attuativo-dl-127-25-di-implementazione-modello-curriculum-della-studentessa-e-dello-studente-18-dicembre-2025.flc",
+      "date": "Thu, 22 Jan 2026 14:21:25 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Parere GPDP su schema decreto MIM attuativo DL 127/25 di implementazione modello “Curriculum della studentessa e dello studente” - 18 dicembre 2025",
+      "full_content": "Parere GPDP su schema decreto MIM attuativo DL 127/25 di implementazione modello “Curriculum della studentessa e dello studente” - 18 dicembre 2025",
+      "has_full_content": false,
+      "id": "1ee8efe8fa590e6d"
+    },
+    {
+      "title": "Carta docente, devo spendere il residuo del bonus 2024/25 entro il 31 gennaio 2026? Posso acquistare pc e tablet? Chiarimenti",
+      "url": "https://www.orizzontescuola.it/carta-docente-devo-spendere-il-residuo-del-bonus-2024-25-entro-il-31-gennaio-2026-posso-acquistare-pc-e-tablet-chiarimenti/",
+      "date": "Thu, 22 Jan 2026 13:57:45 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Bonus 500 euro, il residuo va speso entro il 31 gennaio 2026? \"Ho letto su Facebook che…\", mi hanno detto di affrettarmi, perderò i soldi residui? Posso ancora comprare un pc? Sono questi i quesiti ricorrenti in questi giorni che precedono il nuovo accredito per l'a.s. 2025/26, previa pubblicazione del decreto del Ministero dell'istruzione e e del Merito che stabilirà importo e criteri, aggiornando i beni acquistabili con le novità introdotte dal Decreto Scuola n. 127/2025.\nL'articolo\nCarta doce",
+      "full_content": "Bonus 500 euro, il residuo va speso entro il 31 gennaio 2026? \"Ho letto su Facebook che…\", mi hanno detto di affrettarmi, perderò i soldi residui? Posso ancora comprare un pc? Sono questi i quesiti ricorrenti in questi giorni che precedono il nuovo accredito per l'a.s. 2025/26, previa pubblicazione del decreto del Ministero dell'istruzione e e del Merito che stabilirà importo e criteri, aggiornando i beni acquistabili con le novità introdotte dal Decreto Scuola n. 127/2025.\nL'articolo\nCarta docente, devo spendere il residuo del bonus 2024/25 entro il 31 gennaio 2026? Posso acquistare pc e tablet? Chiarimenti\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "8299a37a5dfbf9a8"
+    },
+    {
+      "title": "Assistenza igienico-personale alunni con disabilità, il Garante: “Problematica delicata, serve chiarezza normativa”",
+      "url": "https://www.orizzontescuola.it/assistenza-igienico-personale-alunni-con-disabilita-il-garante-problematica-delicata-serve-chiarezza-normativa/",
+      "date": "Thu, 22 Jan 2026 12:41:52 +0000",
       "source": "Orizzonte Scuola - ATA",
       "type": "rss_article",
-      "description": "L’Ufficio Scolastico Regionale per il Friuli Venezia Giulia ha pubblicato un avviso di selezione per il conferimento di un comando a 1 collaboratore scolastico, con decorrenza 1° febbraio 2026, presso la sede regionale di Trieste, in via Santi Martiri 3.\nL'articolo\nSelezione per un collaboratore scolastico in comando presso l’USR Friuli Venezia Giulia. Domande entro il 20 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "L’Ufficio Scolastico Regionale per il Friuli Venezia Giulia ha pubblicato un avviso di selezione per il conferimento di un comando a 1 collaboratore scolastico, con decorrenza 1° febbraio 2026, presso la sede regionale di Trieste, in via Santi Martiri 3.\nL'articolo\nSelezione per un collaboratore scolastico in comando presso l’USR Friuli Venezia Giulia. Domande entro il 20 gennaio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "description": "Nel corso dell’audizione del 20 gennaio alla Commissione parlamentare per l’Infanzia e l’Adolescenza, l’Autorità Garante nazionale dei diritti delle persone con disabilità ha portato all’attenzione dei parlamentari una questione tuttora aperta: l’assistenza igienico-personale rivolta agli alunni con disabilità, in particolare nei casi di disabilità intellettiva, disturbi psichici e condizioni dello spettro autistico.\nL'articolo\nAssistenza igienico-personale alunni con disabilità, il Garante: “Pr",
+      "full_content": "Nel corso dell’audizione del 20 gennaio alla Commissione parlamentare per l’Infanzia e l’Adolescenza, l’Autorità Garante nazionale dei diritti delle persone con disabilità ha portato all’attenzione dei parlamentari una questione tuttora aperta: l’assistenza igienico-personale rivolta agli alunni con disabilità, in particolare nei casi di disabilità intellettiva, disturbi psichici e condizioni dello spettro autistico.\nL'articolo\nAssistenza igienico-personale alunni con disabilità, il Garante: “Problematica delicata, serve chiarezza normativa”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
-      "id": "887f817998a81d40"
+      "id": "69797cb3660a71a1"
+    },
+    {
+      "title": "Concorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]",
+      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-lettera-estratta-per-avvio-delle-prove-orali-in-aggiornamento/",
+      "date": "Thu, 22 Jan 2026 12:00:44 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: ecco le lettere estratte per l'avvio delle prove orali. Avvisi USR in aggiornamento.\nL'articolo\nConcorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: ecco le lettere estratte per l'avvio delle prove orali. Avvisi USR in aggiornamento.\nL'articolo\nConcorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "1e87894b022f4662"
+    },
+    {
+      "title": "Supplenze 2026 da interpello: a chiusura del primo quadrimestre tanti docenti da sostituire con tempestività",
+      "url": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+      "date": "Thu, 22 Jan 2026 12:00:03 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Supplenze docenti 2025/26: è confermata la procedura di interpello prevista dall'OM n. 88/2024. Gli interpelli saranno proposti quando le graduatorie risulteranno esaurite, ossia non ci saranno più aspiranti che potranno accettare l'incarico proposto. L'interpello è diramato a livello nazionale tramite gli Uffici Scolastici.\nL'articolo\nSupplenze 2026 da interpello: a chiusura del primo quadrimestre tanti docenti da sostituire con tempestività\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Supplenze docenti 2025/26: è confermata la procedura di interpello prevista dall'OM n. 88/2024. Gli interpelli saranno proposti quando le graduatorie risulteranno esaurite, ossia non ci saranno più aspiranti che potranno accettare l'incarico proposto. L'interpello è diramato a livello nazionale tramite gli Uffici Scolastici.\nL'articolo\nSupplenze 2026 da interpello: a chiusura del primo quadrimestre tanti docenti da sostituire con tempestività\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "75fb4948c56d7424"
+    },
+    {
+      "title": "Decreto Milleproroghe: le proposte emendative presentate dalla FLC CGIL",
+      "url": "https://www.flcgil.it/attualita/decreto-milleproroghe-le-proposte-emendative-presentate-dalla-flc-cgil.flc",
+      "date": "Thu, 22 Jan 2026 11:04:53 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Con la pubblicazione del decreto-legge n. 200 del 31 dicembre 2025, il cosiddetto “Milleproroghe”, il Governo è intervenuto ancora una volta su numerosi ambiti dei settori della...",
+      "full_content": "Con la pubblicazione del decreto-legge n. 200 del 31 dicembre 2025, il cosiddetto “Milleproroghe”, il Governo è intervenuto ancora una volta su numerosi ambiti dei settori della...",
+      "has_full_content": false,
+      "id": "b6ef1e1de4badc30"
+    },
+    {
+      "title": "Scuola, concluso procedimento disciplinare a ds Pacinotti. FLC CGIL: MIM ha cercato a tutti i costi un colpevole",
+      "url": "https://www.flcgil.it/comunicati-stampa/scuola-concluso-procedimento-disciplinare-a-ds-pacinotti-flc-cgil-mim-ha-cercato-a-tutti-i-costi-un-colpevole.flc",
+      "date": "Thu, 22 Jan 2026 10:41:23 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Roma, 22 gennaio - La dirigente scolastica dell’Istituto Pacinotti di Fondi ha ricevuto la disciplinare di tre giorni di sospensione dal servizio a conclusione del procedimento avviato nei suoi confronti dopo il suicidio di un alunno della sua...",
+      "full_content": "Roma, 22 gennaio - La dirigente scolastica dell’Istituto Pacinotti di Fondi ha ricevuto la disciplinare di tre giorni di sospensione dal servizio a conclusione del procedimento avviato nei suoi confronti dopo il suicidio di un alunno della sua...",
+      "has_full_content": true,
+      "id": "87253a970c76fa2b"
     },
     {
       "title": "Graduatorie ad Esaurimento (GaE): domanda scade oggi 22 gennaio. Provincia da scegliere, FAQ e Video tutorial [LO SPECIALE]",
@@ -196,6 +361,17 @@
       "id": "8b98b125f0a8d2b0"
     },
     {
+      "title": "Scuola, accoltellamento La Spezia. Fracassi (FLC CGIL): servono investimenti per affrontare il disagio giovanile",
+      "url": "https://www.flcgil.it/comunicati-stampa/flc/scuola-accoltellamento-la-spezia-fracassi-flc-cgil-servono-investimenti-per-affrontare-il-disagio-giovanile.flc",
+      "date": "Sun, 18 Jan 2026 17:10:12 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Roma, 18 gennaio - \"Il grave fatto avvenuto nella scuola di La Spezia, dove un ragazzo di 18 anni ha perso la vita a seguito di un accoltellamento da parte di un diciannovenne, scuote profondamente l’intera comunità scolastica e il...",
+      "full_content": "Roma, 18 gennaio - \"Il grave fatto avvenuto nella scuola di La Spezia, dove un ragazzo di 18 anni ha perso la vita a seguito di un accoltellamento da parte di un diciannovenne, scuote profondamente l’intera comunità scolastica e il...",
+      "has_full_content": true,
+      "id": "b3d913760ba0dd04"
+    },
+    {
       "title": "Posizioni economiche ATA, martedì sapremo dove si svolgeranno le prove. Poi la data del test. Le anticipazioni",
       "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-martedi-sapremo-dove-si-svolgeranno-le-prove-poi-la-data-del-test-le-anticipazioni/",
       "date": "Sat, 17 Jan 2026 07:43:21 +0000",
@@ -205,6 +381,17 @@
       "full_content": "Lo scorso 28 novembre, il Ministero dell’Istruzione e del Merito ha riunito le sigle sindacali per discutere i prossimi passaggi della procedura che porterà all’assegnazione delle posizioni economiche previste per il personale ATA. Al centro dell’incontro, la necessità di rivedere i criteri di scelta delle sedi in cui si svolgeranno le prove, con l’obiettivo di rendere più fluida l’organizzazione del concorso interno.\nL'articolo\nPosizioni economiche ATA, martedì sapremo dove si svolgeranno le prove. Poi la data del test. Le anticipazioni\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "799971fc178e2c0c"
+    },
+    {
+      "title": "Bologna, “Fuori la guerra dalla conoscenza!”. Un ordine del giorno in ogni scuola",
+      "url": "https://www.flcgil.it/regioni/emilia-romagna/bologna/bologna-fuori-guerra-conoscenza-ordine-del-giorno-in-ogni-scuola.flc",
+      "date": "Mon, 19 Jan 2026 19:51:31 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "A cura della FLC CGIL Bologna\nNei giorni scorsi, la riunione delle RSU scuola della FLC CGIL Bologna ha approvato all’unanimità un ordine del giorno da portare in discussione e delibera negli organismi collegiali...",
+      "full_content": "A cura della FLC CGIL Bologna\nNei giorni scorsi, la riunione delle RSU scuola della FLC CGIL Bologna ha approvato all’unanimità un ordine del giorno da portare in discussione e delibera negli organismi collegiali...",
+      "has_full_content": true,
+      "id": "f0be831fdd89c5be"
     },
     {
       "title": "Aggiornamento Graduatorie ATA 24 mesi 2026: obbligo CIAD anche per chi è già in graduatoria?",
@@ -218,6 +405,61 @@
       "id": "e0e1c94e386404d6"
     },
     {
+      "title": "INAIL, chiuso il CIE 2025: qualcuno cambia idea, meglio tardi che mai! A rimetterci però sono i lavoratori del Settore Ricerca",
+      "url": "https://www.flcgil.it/ricerca/inail-chiuso-il-cie-2025-qualcuno-cambia-idea-meglio-tardi-che-mai-a-rimetterci-pero-sono-i-lavoratori-del-settore-ricerca.flc",
+      "date": "Mon, 19 Jan 2026 12:30:32 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Si chiude il lungo e tortuoso percorso sul Contratto integrativo di Ente 2025 dove FLC CGIL e FGU ANPRI hanno collaborato in modo propositivo sostenendo da subito la necessità e l’urgenza di chiudere l&rsquo...",
+      "full_content": "Si chiude il lungo e tortuoso percorso sul Contratto integrativo di Ente 2025 dove FLC CGIL e FGU ANPRI hanno collaborato in modo propositivo sostenendo da subito la necessità e l’urgenza di chiudere l&rsquo...",
+      "has_full_content": true,
+      "id": "8bd60281d21df39e"
+    },
+    {
+      "title": "L’uccisione di Youssef: i metal detector non servono. “Curare” il disagio giovanile",
+      "url": "https://www.flcgil.it/rassegna-stampa/l-uccisione-di-youssef-i-metal-detector-non-servono-curare-il-disagio-giovanile.flc",
+      "date": "Mon, 19 Jan 2026 11:20:14 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Non si può morire a scuola. La tragedia che ha portato all’uccisione di Abanoub Youssef – studente 18enne dell’istituto Chiodo di La Spezie – e di cui è accusato Zouhaur Atif sta...",
+      "full_content": "Non si può morire a scuola. La tragedia che ha portato all’uccisione di Abanoub Youssef – studente 18enne dell’istituto Chiodo di La Spezie – e di cui è accusato Zouhaur Atif sta...",
+      "has_full_content": false,
+      "id": "7a8d2d679da31d43"
+    },
+    {
+      "title": "“Genitori, attenzione! NO alla riforma 4+2 – Decidi consapevolmente”, incontro pubblico il 23 gennaio a Torino",
+      "url": "https://www.flcgil.it/regioni/piemonte/torino/genitori-attenzione-no-alla-riforma-4-2-decidi-consapevolmente-incontro-pubblico-il-23-gennaio-a-torino.flc",
+      "date": "Mon, 19 Jan 2026 10:48:31 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "La FLC CGIL Torino promuove un incontro pubblico rivolto ai genitori e alla cittadinanza dal titolo “Genitori, attenzione! NO alla riforma 4+2 – Decidi consapevolmente”, che si terrà venerdì 23 gennaio 2026...",
+      "full_content": "La FLC CGIL Torino promuove un incontro pubblico rivolto ai genitori e alla cittadinanza dal titolo “Genitori, attenzione! NO alla riforma 4+2 – Decidi consapevolmente”, che si terrà venerdì 23 gennaio 2026...",
+      "has_full_content": true,
+      "id": "625d4e5de57dbe99"
+    },
+    {
+      "title": "AFAM: ripartite ulteriori risorse 2025 per il funzionamento ordinario. Si tratta di circa 1,7 milioni di euro",
+      "url": "https://www.flcgil.it/universita/afam/afam-ripartite-ulteriori-risorse-2025-per-il-funzionamento-ordinario-si-tratta-di-circa-1-7-milioni-di-euro.flc",
+      "date": "Mon, 19 Jan 2026 09:55:48 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "In precedenti notizie abbiamo illustrato i contenuti del",
+      "full_content": "In precedenti notizie abbiamo illustrato i contenuti del",
+      "has_full_content": false,
+      "id": "6f6f8d756e0f414a"
+    },
+    {
+      "title": "No al commissariamento della rete scolastica dell’Emilia-Romagna: le iniziative delle Organizzazioni Sindacali regionali",
+      "url": "https://www.flcgil.it/regioni/emilia-romagna/no-al-commissariamento-della-rete-scolastica-dell-emilia-romagna-le-iniziative-delle-organizzazioni-sindacali-regionali.flc",
+      "date": "Mon, 19 Jan 2026 09:31:28 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Comunica stampa FLC CGIL, Cisl Scuola, Confsal Snals\nLe Organizzazioni Sindacali FLC CGIL, CISL Scuola, GILDA UNAMS e CONFSAL SNALS dell&rsquo...",
+      "full_content": "Comunica stampa FLC CGIL, Cisl Scuola, Confsal Snals\nLe Organizzazioni Sindacali FLC CGIL, CISL Scuola, GILDA UNAMS e CONFSAL SNALS dell&rsquo...",
+      "has_full_content": false,
+      "id": "fb5ee437ebaa1045"
+    },
+    {
       "title": "Fascicolo digitale docenti e ATA, già 90.000 accessi ma dati non ancora completi. Il cronoprogramma",
       "url": "https://www.orizzontescuola.it/fascicolo-digitale-docenti-e-ata-gia-90-000-accessi-ma-dati-non-ancora-completi-il-cronoprogramma/",
       "date": "Mon, 19 Jan 2026 08:00:59 +0000",
@@ -229,27 +471,42 @@
       "id": "b536f26c9e16388a"
     },
     {
-      "title": "Avviso convocazione prova pratica e orale (I parte) A050 – DDG 2939/2025",
-      "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/21/avviso-convocazione-prova-pratica-e-orale-i-parte-a050-ddg-2939-2025/",
-      "date": "2026-01-22T12:44:42.516238",
-      "source": "USR Lazio",
-      "type": "comunicazione",
-      "description": "",
-      "id": "e71f159fd99e7a9f"
+      "title": "Filiera tecnologico-professionale: ma quale nuova scuola 4+2! È 5-1! [INFOGRAFICA]",
+      "url": "https://www.flcgil.it/scuola/filiera-tecnologico-professionale-ma-quale-nuova-scuola-4-2-e-5-1-infografica.flc",
+      "date": "Fri, 16 Jan 2026 19:54:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Le\niscrizioni al prossimo anno scolastico 2026/2027\nsono in corso e termineranno il 14 febbraio.\nPer la...",
+      "full_content": "Le\niscrizioni al prossimo anno scolastico 2026/2027\nsono in corso e termineranno il 14 febbraio.\nPer la...",
+      "has_full_content": false,
+      "id": "b4cabaa6e5c6909f"
     },
     {
-      "title": "Avviso convocazione prova orale A013 – DDG 2939/2025",
-      "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/21/avviso-convocazione-prova-orale-a013-ddg-2939-2025/",
-      "date": "2026-01-22T12:44:42.516214",
-      "source": "USR Lazio",
-      "type": "comunicazione",
-      "description": "",
-      "id": "ca417fece4443924"
+      "title": "Scuola, accoltellamento al “Domenico Chiodo”: Scotti, FLC CGIL “scuole sicure con educazione e prevenzione, non con la repressione”",
+      "url": "https://www.flcgil.it/regioni/liguria/la-spezia/scuola-accoltellamento-al-domenico-chiodo-scotti-flc-cgil-scuole-sicure-con-educazione-e-prevenzione-non-con-la-repressione.flc",
+      "date": "Fri, 16 Jan 2026 18:09:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "A cura della FLC CGIL La Spezia\nUn gravissimo episodio di violenza si è verificato questa mattina (16 gennaio, ndr) all’interno dell’Istituto “Domenico Chiodo” della Spezia, dove uno...",
+      "full_content": "A cura della FLC CGIL La Spezia\nUn gravissimo episodio di violenza si è verificato questa mattina (16 gennaio, ndr) all’interno dell’Istituto “Domenico Chiodo” della Spezia, dove uno...",
+      "has_full_content": false,
+      "id": "4add1fefb6912e29"
+    },
+    {
+      "title": "Censimento alunni palestinesi. Il MIM richiede una discutibile e immotivata rilevazione degli iscritti per l’a.s. 2025/2026",
+      "url": "https://www.flcgil.it/scuola/censimento-alunni-palestinesi-il-mim-richiede-una-discutibile-e-immotivata-rilevazione-degli-alunni-iscritti-per-l-a-s-2025-2026.flc",
+      "date": "Fri, 16 Jan 2026 16:19:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "La Direzione Generale per gli Affari Internazionali del MIM con una nota rivolta agli USR ha avviato una rilevazione degli alunni palestinesi presso le istituzioni scolastiche statali e paritarie per l’anno 2025/2026. L&rsquo...",
+      "full_content": "La Direzione Generale per gli Affari Internazionali del MIM con una nota rivolta agli USR ha avviato una rilevazione degli alunni palestinesi presso le istituzioni scolastiche statali e paritarie per l’anno 2025/2026. L&rsquo...",
+      "has_full_content": true,
+      "id": "98fce39250016afd"
     },
     {
       "title": "Avviso convocazione prova pratica e orale B017 – DDG 2939/2025",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/21/avviso-convocazione-prova-pratica-e-orale-b017-ddg-2939-2025/",
-      "date": "2026-01-22T12:44:42.516187",
+      "date": "2026-01-22T18:30:26.248018",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
