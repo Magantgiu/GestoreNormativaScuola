@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-22T06:32:34.774529",
+  "last_fetch": "2026-01-22T12:44:44.830947",
   "stats": {
-    "total": 54,
-    "fetched": 0,
-    "skipped": 54,
+    "total": 29,
+    "fetched": 2,
+    "skipped": 27,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 2
   },
-  "total_documents": 731,
+  "total_documents": 733,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -10814,6 +10814,36 @@
       "success": true,
       "fetched_at": "2026-01-21T18:40:58.177747",
       "document_type": "html"
+    },
+    {
+      "title": "Graduatorie GPS 2026, come deve compilare la domanda il docente “depennato” e chi ha abbandonato il servizio",
+      "url": "https://www.orizzontescuola.it/graduatorie-gps-2026-come-deve-compilare-la-domanda-il-docente-depennato-e-chi-ha-abbandonato-il-servizio/",
+      "date": "Thu, 22 Jan 2026 10:26:47 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Graduatorie GPS 2026: attesa nelle prossime settimane la riapertura della piattaforma per la presentazione della domanda per le supplenze che saranno conferite ai docenti negli anni scolastici 2026/27 e 2027/28.\nL'articolo\nGraduatorie GPS 2026, come deve compilare la domanda il docente “depennato” e chi ha abbandonato il servizio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Graduatorie GPS 2026: attesa nelle prossime settimane la riapertura della piattaforma per la presentazione della domanda per le supplenze che saranno conferite ai docenti negli anni scolastici 2026/27 e 2027/28.\nL'articolo\nGraduatorie GPS 2026, come deve compilare la domanda il docente “depennato” e chi ha abbandonato il servizio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "2bcd730fc4f79d52",
+      "text": "Graduatorie GPS 2026: attesa nelle prossime settimane la riapertura della piattaforma per la presentazione della domanda per le supplenze che saranno conferite ai docenti negli anni scolastici 2026/27 e 2027/28.\nL'articolo\nGraduatorie GPS 2026, come deve compilare la domanda il docente “depennato” e chi ha abbandonato il servizio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-22T12:44:43.820129",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Graduatorie GPS 2026, fonti sindacali: al Ministero ultime interlocuzioni per decidere la data",
+      "url": "https://www.orizzontescuola.it/graduatorie-gps-2026-fonti-sindacali-al-ministero-ultime-interlocuzioni-per-decidere-la-data/",
+      "date": "Thu, 22 Jan 2026 08:16:21 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Secondo fonti sindacali al Ministero sono in corso le interlocuzioni per decidere la data per la presentazione della domanda per l'aggiornamento GPS graduatorie provinciali e di istituto per le supplenze docenti, valide per gli anni scolastici 2026/27 e 2027/28.\nL'articolo\nGraduatorie GPS 2026, fonti sindacali: al Ministero ultime interlocuzioni per decidere la data\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Secondo fonti sindacali al Ministero sono in corso le interlocuzioni per decidere la data per la presentazione della domanda per l'aggiornamento GPS graduatorie provinciali e di istituto per le supplenze docenti, valide per gli anni scolastici 2026/27 e 2027/28.\nL'articolo\nGraduatorie GPS 2026, fonti sindacali: al Ministero ultime interlocuzioni per decidere la data\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "7cf9bcad8bf6d8c4",
+      "text": "Secondo fonti sindacali al Ministero sono in corso le interlocuzioni per decidere la data per la presentazione della domanda per l'aggiornamento GPS graduatorie provinciali e di istituto per le supplenze docenti, valide per gli anni scolastici 2026/27 e 2027/28.\nL'articolo\nGraduatorie GPS 2026, fonti sindacali: al Ministero ultime interlocuzioni per decidere la data\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-22T12:44:44.320297",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
