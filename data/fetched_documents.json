@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-23T06:32:48.653076",
+  "last_fetch": "2026-01-23T12:42:34.401656",
   "stats": {
-    "total": 52,
-    "fetched": 0,
-    "skipped": 52,
+    "total": 51,
+    "fetched": 6,
+    "skipped": 45,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 6
   },
-  "total_documents": 745,
+  "total_documents": 751,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -11024,6 +11024,96 @@
       "success": true,
       "fetched_at": "2026-01-23T01:26:39.845903",
       "document_type": "html"
+    },
+    {
+      "title": "Posizioni economiche ATA, prove finali dal 23 al 27 febbraio: ecco il calendario. AVVISO Ministero",
+      "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-prove-finali-dal-23-al-27-febbraio-ecco-il-calendario-avviso-ministero/",
+      "date": "Fri, 23 Jan 2026 10:50:37 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Posizioni economiche ATA: 47.328, suddivisi in 3.162 aule. La prova finale si svolgerà nei giorni 23, 24, 25, 26 e 27 febbraio. Le operazioni di identificazione avranno inizio dalle ore 8.00 per il turno mattutino e dalle ore 13.30 per il turno pomeridiano. Lo svolgimento delle prove è previsto alle ore 9.00 per il turno mattutino e alle ore 14.30 per il turno pomeridiano.\nL'articolo\nPosizioni economiche ATA, prove finali dal 23 al 27 febbraio: ecco il calendario. AVVISO Ministero\nsembra essere ",
+      "full_content": "Posizioni economiche ATA: 47.328, suddivisi in 3.162 aule. La prova finale si svolgerà nei giorni 23, 24, 25, 26 e 27 febbraio. Le operazioni di identificazione avranno inizio dalle ore 8.00 per il turno mattutino e dalle ore 13.30 per il turno pomeridiano. Lo svolgimento delle prove è previsto alle ore 9.00 per il turno mattutino e alle ore 14.30 per il turno pomeridiano.\nL'articolo\nPosizioni economiche ATA, prove finali dal 23 al 27 febbraio: ecco il calendario. AVVISO Ministero\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "3ad43390b8c45a6b",
+      "text": "Posizioni economiche ATA: 47.328, suddivisi in 3.162 aule. La prova finale si svolgerà nei giorni 23, 24, 25, 26 e 27 febbraio. Le operazioni di identificazione avranno inizio dalle ore 8.00 per il turno mattutino e dalle ore 13.30 per il turno pomeridiano. Lo svolgimento delle prove è previsto alle ore 9.00 per il turno mattutino e alle ore 14.30 per il turno pomeridiano.\nL'articolo\nPosizioni economiche ATA, prove finali dal 23 al 27 febbraio: ecco il calendario. AVVISO Ministero\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-23T12:42:31.389842",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Immissioni in ruolo docenti 2026/27: elenchi regionali si utilizzeranno solo se graduatorie concorsi, compreso elenco 30%,  esaurite. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-27-elenchi-regionali-si-utilizzeranno-solo-se-graduatorie-concorsi-compreso-elenco-30-esaurite-pillole-di-question-time/",
+      "date": "Fri, 23 Jan 2026 10:03:21 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 15 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente esperta Sonia Cannas, è stata analizzata la procedura da seguire in caso di rinunce da parte dei vincitori del concorso PNRR 3. L’attenzione si è concentrata su quale graduatoria debba scorrere in questi casi: quella del concorso o gli elenchi regionali.\nL'articolo\nImmissioni in ruolo docenti 2026/27: elenchi regionali si utilizzeranno solo se graduatorie concorsi, compreso elenco 30%",
+      "full_content": "Nel question time del 15 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente esperta Sonia Cannas, è stata analizzata la procedura da seguire in caso di rinunce da parte dei vincitori del concorso PNRR 3. L’attenzione si è concentrata su quale graduatoria debba scorrere in questi casi: quella del concorso o gli elenchi regionali.\nL'articolo\nImmissioni in ruolo docenti 2026/27: elenchi regionali si utilizzeranno solo se graduatorie concorsi, compreso elenco 30%,  esaurite. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "ac1c6a030341b639",
+      "text": "Nel question time del 15 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente esperta Sonia Cannas, è stata analizzata la procedura da seguire in caso di rinunce da parte dei vincitori del concorso PNRR 3. L’attenzione si è concentrata su quale graduatoria debba scorrere in questi casi: quella del concorso o gli elenchi regionali.\nL'articolo\nImmissioni in ruolo docenti 2026/27: elenchi regionali si utilizzeranno solo se graduatorie concorsi, compreso elenco 30%,  esaurite. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-23T12:42:31.890034",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Docenti con supplenze brevi, come si valuta il servizio nelle GPS 2026. Scarica la BOZZA",
+      "url": "https://www.orizzontescuola.it/docenti-con-supplenze-brevi-come-si-valuta-il-servizio-nelle-gps-2026-scarica-la-bozza/",
+      "date": "Fri, 23 Jan 2026 09:00:08 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 26 novembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto dell’Anief, è stato affrontato un quesito pratico riguardante l’aggiornamento delle Graduatorie Provinciali per le Supplenze. Il focus è stato posto sulla gestione dei punteggi per le supplenze brevi ottenute dopo la chiusura delle GPS.\nL'articolo\nDocenti con supplenze brevi, come si valuta il servizio nelle GPS 2026. Scarica la BOZZA\nsembra essere il primo su\nOrizzonte Scuola No",
+      "full_content": "Nel question time del 26 novembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto dell’Anief, è stato affrontato un quesito pratico riguardante l’aggiornamento delle Graduatorie Provinciali per le Supplenze. Il focus è stato posto sulla gestione dei punteggi per le supplenze brevi ottenute dopo la chiusura delle GPS.\nL'articolo\nDocenti con supplenze brevi, come si valuta il servizio nelle GPS 2026. Scarica la BOZZA\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "01713f59ff3d097a",
+      "text": "Nel question time del 26 novembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto dell’Anief, è stato affrontato un quesito pratico riguardante l’aggiornamento delle Graduatorie Provinciali per le Supplenze. Il focus è stato posto sulla gestione dei punteggi per le supplenze brevi ottenute dopo la chiusura delle GPS.\nL'articolo\nDocenti con supplenze brevi, come si valuta il servizio nelle GPS 2026. Scarica la BOZZA\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-23T12:42:32.390216",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Docenti neoassunti, il 30 gennaio l’incontro in presenza. Si potrà recuperare assenza?",
+      "url": "https://www.orizzontescuola.it/docenti-neoassunti-il-30-gennaio-lincontro-in-presenza-si-potra-recuperare-assenza/",
+      "date": "Fri, 23 Jan 2026 08:44:43 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Con nota dell'11 dicembre 2025 n. 95371 il Ministero ha comunicato che il primo incontro formativo rivolto ai docenti neoassunti per l’anno scolastico 2025/2026 avrà la durata di 3 ore e si svolgerà in presenza in diretta streaming nazionale, a cura di Indire.\nL'articolo\nDocenti neoassunti, il 30 gennaio l’incontro in presenza. Si potrà recuperare assenza?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Con nota dell'11 dicembre 2025 n. 95371 il Ministero ha comunicato che il primo incontro formativo rivolto ai docenti neoassunti per l’anno scolastico 2025/2026 avrà la durata di 3 ore e si svolgerà in presenza in diretta streaming nazionale, a cura di Indire.\nL'articolo\nDocenti neoassunti, il 30 gennaio l’incontro in presenza. Si potrà recuperare assenza?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "59fdec9c12ac3665",
+      "text": "Con nota dell'11 dicembre 2025 n. 95371 il Ministero ha comunicato che il primo incontro formativo rivolto ai docenti neoassunti per l’anno scolastico 2025/2026 avrà la durata di 3 ore e si svolgerà in presenza in diretta streaming nazionale, a cura di Indire.\nL'articolo\nDocenti neoassunti, il 30 gennaio l’incontro in presenza. Si potrà recuperare assenza?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-23T12:42:32.890392",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "GPS, elenchi regionali, percorsi abilitanti 2026. Tutte le novità Lalla vi anticiperà tutto nella newsletter “Diventare insegnanti”",
+      "url": "https://www.orizzontescuola.it/gps-elenchi-regionali-percorsi-abilitanti-2026-tutte-le-novita-lalla-vi-anticipera-tutto-nella-newsletter-diventare-insegnanti/",
+      "date": "Fri, 23 Jan 2026 08:00:59 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Siamo in attesa degli aggiornamenti relativi a GPS, supplenze, elenchi regionali, secondo ciclo Indire, percorsi abilitanti. Lalla vi spiegherà tutto. Iscriviti entro venerdì ore 18. Cosa riceverò iscrivendomi alla newsletter? Chi si iscrive riceverà: notizie filtrate e commentate, non semplici link; anticipazioni su bandi e aggiornamenti relativi ai percorsi per diventare insegnanti; risposte ai dubbi […]\nL'articolo\nGPS, elenchi regionali, percorsi abilitanti 2026. Tutte le novità Lalla vi anti",
+      "full_content": "Siamo in attesa degli aggiornamenti relativi a GPS, supplenze, elenchi regionali, secondo ciclo Indire, percorsi abilitanti. Lalla vi spiegherà tutto. Iscriviti entro venerdì ore 18. Cosa riceverò iscrivendomi alla newsletter? Chi si iscrive riceverà: notizie filtrate e commentate, non semplici link; anticipazioni su bandi e aggiornamenti relativi ai percorsi per diventare insegnanti; risposte ai dubbi […]\nL'articolo\nGPS, elenchi regionali, percorsi abilitanti 2026. Tutte le novità Lalla vi anticiperà tutto nella newsletter “Diventare insegnanti”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "5dad345e4bf08a96",
+      "text": "Siamo in attesa degli aggiornamenti relativi a GPS, supplenze, elenchi regionali, secondo ciclo Indire, percorsi abilitanti. Lalla vi spiegherà tutto. Iscriviti entro venerdì ore 18. Cosa riceverò iscrivendomi alla newsletter? Chi si iscrive riceverà: notizie filtrate e commentate, non semplici link; anticipazioni su bandi e aggiornamenti relativi ai percorsi per diventare insegnanti; risposte ai dubbi […]\nL'articolo\nGPS, elenchi regionali, percorsi abilitanti 2026. Tutte le novità Lalla vi anticiperà tutto nella newsletter “Diventare insegnanti”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-23T12:42:33.390588",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Posizioni economiche ATA: quando e dove si svolge la prova finale, come si viene convocati. RISPOSTE AI QUESITI",
+      "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-quando-e-dove-si-svolge-la-prova-finale-come-si-viene-convocati-risposte-ai-quesiti/",
+      "date": "Fri, 23 Jan 2026 07:10:11 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Le posizioni economiche rappresentano un riconoscimento professionale ed economico legato all’assunzione di maggiori responsabilità rispetto alle mansioni ordinarie del profilo di appartenenza. Si tratta di un istituto contrattuale di particolare rilievo perché comporta un incremento stipendiale valido per tredici mensilità, pensionabile e stabile nel tempo.\nL'articolo\nPosizioni economiche ATA: quando e dove si svolge la prova finale, come si viene convocati. RISPOSTE AI QUESITI\nsembra essere il",
+      "full_content": "Le posizioni economiche rappresentano un riconoscimento professionale ed economico legato all’assunzione di maggiori responsabilità rispetto alle mansioni ordinarie del profilo di appartenenza. Si tratta di un istituto contrattuale di particolare rilievo perché comporta un incremento stipendiale valido per tredici mensilità, pensionabile e stabile nel tempo.\nL'articolo\nPosizioni economiche ATA: quando e dove si svolge la prova finale, come si viene convocati. RISPOSTE AI QUESITI\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "3f74543e4b004127",
+      "text": "Le posizioni economiche rappresentano un riconoscimento professionale ed economico legato all’assunzione di maggiori responsabilità rispetto alle mansioni ordinarie del profilo di appartenenza. Si tratta di un istituto contrattuale di particolare rilievo perché comporta un incremento stipendiale valido per tredici mensilità, pensionabile e stabile nel tempo.\nL'articolo\nPosizioni economiche ATA: quando e dove si svolge la prova finale, come si viene convocati. RISPOSTE AI QUESITI\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-23T12:42:33.890775",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }

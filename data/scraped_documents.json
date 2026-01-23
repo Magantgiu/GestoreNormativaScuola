@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-01-23T06:32:48.231871",
+  "scraped_at": "2026-01-23T12:42:31.041378",
   "stats": {
     "total_sources": 7,
     "successful": 7,
     "failed": 0,
-    "total_docs": 52,
-    "unique_documents": 52
+    "total_docs": 51,
+    "unique_documents": 51
   },
   "documents": [
     {
@@ -146,8 +146,8 @@
       "date": "Tue, 20 Jan 2026 11:20:00 +0100",
       "source": "FLC CGIL",
       "type": "rss_article",
-      "description": "Di Mattia Carpinelli e Stefano Iucci\n“Precarietà, risorse, autonomia: le mani sull’università”. Questa mattina (20 gennaio) a Napoli nell’aula De Sanctis del dipartimento di...",
-      "full_content": "Di Mattia Carpinelli e Stefano Iucci\n“Precarietà, risorse, autonomia: le mani sull’università”. Questa mattina (20 gennaio) a Napoli nell’aula De Sanctis del dipartimento di...",
+      "description": "Di Mattia Carpinelli e Stefano Iucci",
+      "full_content": "Di Mattia Carpinelli e Stefano Iucci",
       "has_full_content": false,
       "id": "27e5564f9b1a2002"
     },
@@ -179,8 +179,8 @@
       "date": "Thu, 22 Jan 2026 16:17:03 +0100",
       "source": "FLC CGIL",
       "type": "rss_article",
-      "description": "Com’è noto, la norma che nel 2022 aveva ripristinato la validità  della graduatoria del concorso nazionale 2017, prevedendo l’inclusione di tutti i soggetti con contenziosi in atto con l’amministrazione per...",
-      "full_content": "Com’è noto, la norma che nel 2022 aveva ripristinato la validità  della graduatoria del concorso nazionale 2017, prevedendo l’inclusione di tutti i soggetti con contenziosi in atto con l’amministrazione per...",
+      "description": "Com’è noto, la norma che nel 2022 aveva ripristinato la validità della graduatoria del concorso nazionale 2017, prevedendo l’inclusione di tutti i soggetti con contenziosi in atto con l’amministrazione per il mancato...",
+      "full_content": "Com’è noto, la norma che nel 2022 aveva ripristinato la validità della graduatoria del concorso nazionale 2017, prevedendo l’inclusione di tutti i soggetti con contenziosi in atto con l’amministrazione per il mancato...",
       "has_full_content": true,
       "id": "abb7f08ca6ad0f10"
     },
@@ -240,17 +240,6 @@
       "id": "1ee8efe8fa590e6d"
     },
     {
-      "title": "Carta docente, devo spendere il residuo del bonus 2024/25 entro il 31 gennaio 2026? Posso acquistare pc e tablet? Chiarimenti",
-      "url": "https://www.orizzontescuola.it/carta-docente-devo-spendere-il-residuo-del-bonus-2024-25-entro-il-31-gennaio-2026-posso-acquistare-pc-e-tablet-chiarimenti/",
-      "date": "Thu, 22 Jan 2026 13:57:45 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Bonus 500 euro, il residuo va speso entro il 31 gennaio 2026? \"Ho letto su Facebook che…\", mi hanno detto di affrettarmi, perderò i soldi residui? Posso ancora comprare un pc? Sono questi i quesiti ricorrenti in questi giorni che precedono il nuovo accredito per l'a.s. 2025/26, previa pubblicazione del decreto del Ministero dell'istruzione e e del Merito che stabilirà importo e criteri, aggiornando i beni acquistabili con le novità introdotte dal Decreto Scuola n. 127/2025.\nL'articolo\nCarta doce",
-      "full_content": "Bonus 500 euro, il residuo va speso entro il 31 gennaio 2026? \"Ho letto su Facebook che…\", mi hanno detto di affrettarmi, perderò i soldi residui? Posso ancora comprare un pc? Sono questi i quesiti ricorrenti in questi giorni che precedono il nuovo accredito per l'a.s. 2025/26, previa pubblicazione del decreto del Ministero dell'istruzione e e del Merito che stabilirà importo e criteri, aggiornando i beni acquistabili con le novità introdotte dal Decreto Scuola n. 127/2025.\nL'articolo\nCarta docente, devo spendere il residuo del bonus 2024/25 entro il 31 gennaio 2026? Posso acquistare pc e tablet? Chiarimenti\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "8299a37a5dfbf9a8"
-    },
-    {
       "title": "Assistenza igienico-personale alunni con disabilità, il Garante: “Problematica delicata, serve chiarezza normativa”",
       "url": "https://www.orizzontescuola.it/assistenza-igienico-personale-alunni-con-disabilita-il-garante-problematica-delicata-serve-chiarezza-normativa/",
       "date": "Thu, 22 Jan 2026 12:41:52 +0000",
@@ -260,28 +249,6 @@
       "full_content": "Nel corso dell’audizione del 20 gennaio alla Commissione parlamentare per l’Infanzia e l’Adolescenza, l’Autorità Garante nazionale dei diritti delle persone con disabilità ha portato all’attenzione dei parlamentari una questione tuttora aperta: l’assistenza igienico-personale rivolta agli alunni con disabilità, in particolare nei casi di disabilità intellettiva, disturbi psichici e condizioni dello spettro autistico.\nL'articolo\nAssistenza igienico-personale alunni con disabilità, il Garante: “Problematica delicata, serve chiarezza normativa”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "69797cb3660a71a1"
-    },
-    {
-      "title": "Concorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]",
-      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-lettera-estratta-per-avvio-delle-prove-orali-in-aggiornamento/",
-      "date": "Thu, 22 Jan 2026 12:00:44 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: ecco le lettere estratte per l'avvio delle prove orali. Avvisi USR in aggiornamento.\nL'articolo\nConcorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: ecco le lettere estratte per l'avvio delle prove orali. Avvisi USR in aggiornamento.\nL'articolo\nConcorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "1e87894b022f4662"
-    },
-    {
-      "title": "Supplenze 2026 da interpello: a chiusura del primo quadrimestre tanti docenti da sostituire con tempestività",
-      "url": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-      "date": "Thu, 22 Jan 2026 12:00:03 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Supplenze docenti 2025/26: è confermata la procedura di interpello prevista dall'OM n. 88/2024. Gli interpelli saranno proposti quando le graduatorie risulteranno esaurite, ossia non ci saranno più aspiranti che potranno accettare l'incarico proposto. L'interpello è diramato a livello nazionale tramite gli Uffici Scolastici.\nL'articolo\nSupplenze 2026 da interpello: a chiusura del primo quadrimestre tanti docenti da sostituire con tempestività\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Supplenze docenti 2025/26: è confermata la procedura di interpello prevista dall'OM n. 88/2024. Gli interpelli saranno proposti quando le graduatorie risulteranno esaurite, ossia non ci saranno più aspiranti che potranno accettare l'incarico proposto. L'interpello è diramato a livello nazionale tramite gli Uffici Scolastici.\nL'articolo\nSupplenze 2026 da interpello: a chiusura del primo quadrimestre tanti docenti da sostituire con tempestività\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "75fb4948c56d7424"
     },
     {
       "title": "Decreto Milleproroghe: le proposte emendative presentate dalla FLC CGIL",
@@ -295,26 +262,15 @@
       "id": "b6ef1e1de4badc30"
     },
     {
-      "title": "Graduatorie ad Esaurimento (GaE): domanda scade oggi 22 gennaio. Provincia da scegliere, FAQ e Video tutorial [LO SPECIALE]",
-      "url": "https://www.orizzontescuola.it/graduatorie-ad-esaurimento-gae-domanda-dall8-gennaio-ore-1200-al-22-gennaio-possibili-i-reinserimenti/",
-      "date": "Thu, 22 Jan 2026 10:27:47 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "title": "Scuola, concluso procedimento disciplinare a ds Pacinotti. FLC CGIL: MIM ha cercato a tutti i costi un colpevole",
+      "url": "https://www.flcgil.it/comunicati-stampa/scuola-concluso-procedimento-disciplinare-a-ds-pacinotti-flc-cgil-mim-ha-cercato-a-tutti-i-costi-un-colpevole.flc",
+      "date": "Thu, 22 Jan 2026 10:41:23 +0100",
+      "source": "FLC CGIL",
       "type": "rss_article",
-      "description": "GaE Graduatorie ad esaurimento: la domanda di aggiornamento, permanenza o reinserimento potrà essere presentata in modalità telematica alla sede territoriale dell’Ufficio Scolastico scelto dal 8 gennaio (dalle 12:00) al 22 gennaio (alle 23:59). Le graduatorie hanno validità per gli anni scolastici 2026/2027 e 2027/2028, e possono essere utilizzate per: assunzioni a tempo indeterminato; supplenze annuali (31 agosto); supplenze fino al termine delle attività didattiche (30 giugno).\nL'articolo\nGrad",
-      "full_content": "GaE Graduatorie ad esaurimento: la domanda di aggiornamento, permanenza o reinserimento potrà essere presentata in modalità telematica alla sede territoriale dell’Ufficio Scolastico scelto dal 8 gennaio (dalle 12:00) al 22 gennaio (alle 23:59). Le graduatorie hanno validità per gli anni scolastici 2026/2027 e 2027/2028, e possono essere utilizzate per: assunzioni a tempo indeterminato; supplenze annuali (31 agosto); supplenze fino al termine delle attività didattiche (30 giugno).\nL'articolo\nGraduatorie ad Esaurimento (GaE): domanda scade oggi 22 gennaio. Provincia da scegliere, FAQ e Video tutorial [LO SPECIALE]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "description": "Roma, 22 gennaio - La dirigente scolastica dell’Istituto Pacinotti di Fondi ha ricevuto la disciplinare di tre giorni di sospensione dal servizio a conclusione del procedimento avviato nei suoi confronti dopo il suicidio di un alunno della sua...",
+      "full_content": "Roma, 22 gennaio - La dirigente scolastica dell’Istituto Pacinotti di Fondi ha ricevuto la disciplinare di tre giorni di sospensione dal servizio a conclusione del procedimento avviato nei suoi confronti dopo il suicidio di un alunno della sua...",
       "has_full_content": true,
-      "id": "1d28295570e8ea63"
-    },
-    {
-      "title": "Graduatorie GPS 2026, come deve compilare la domanda il docente “depennato” e chi ha abbandonato il servizio",
-      "url": "https://www.orizzontescuola.it/graduatorie-gps-2026-come-deve-compilare-la-domanda-il-docente-depennato-e-chi-ha-abbandonato-il-servizio/",
-      "date": "Thu, 22 Jan 2026 10:26:47 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Graduatorie GPS 2026: attesa nelle prossime settimane la riapertura della piattaforma per la presentazione della domanda per le supplenze che saranno conferite ai docenti negli anni scolastici 2026/27 e 2027/28.\nL'articolo\nGraduatorie GPS 2026, come deve compilare la domanda il docente “depennato” e chi ha abbandonato il servizio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Graduatorie GPS 2026: attesa nelle prossime settimane la riapertura della piattaforma per la presentazione della domanda per le supplenze che saranno conferite ai docenti negli anni scolastici 2026/27 e 2027/28.\nL'articolo\nGraduatorie GPS 2026, come deve compilare la domanda il docente “depennato” e chi ha abbandonato il servizio\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "ecc7c6c8ea089fe1"
+      "id": "87253a970c76fa2b"
     },
     {
       "title": "Posizioni economiche ATA, attesa la nota del Ministero per prova finale a febbraio [LO SPECIALE]",
@@ -328,28 +284,6 @@
       "id": "d2cbb2e3055e3c84"
     },
     {
-      "title": "Graduatorie GPS 2026, fonti sindacali: al Ministero ultime interlocuzioni per decidere la data",
-      "url": "https://www.orizzontescuola.it/graduatorie-gps-2026-fonti-sindacali-al-ministero-ultime-interlocuzioni-per-decidere-la-data/",
-      "date": "Thu, 22 Jan 2026 08:16:21 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Secondo fonti sindacali al Ministero sono in corso le interlocuzioni per decidere la data per la presentazione della domanda per l'aggiornamento GPS graduatorie provinciali e di istituto per le supplenze docenti, valide per gli anni scolastici 2026/27 e 2027/28.\nL'articolo\nGraduatorie GPS 2026, fonti sindacali: al Ministero ultime interlocuzioni per decidere la data\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Secondo fonti sindacali al Ministero sono in corso le interlocuzioni per decidere la data per la presentazione della domanda per l'aggiornamento GPS graduatorie provinciali e di istituto per le supplenze docenti, valide per gli anni scolastici 2026/27 e 2027/28.\nL'articolo\nGraduatorie GPS 2026, fonti sindacali: al Ministero ultime interlocuzioni per decidere la data\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "5bc4ff84587a3d4f"
-    },
-    {
-      "title": "Nuovo Bonus Mamme 40 euro al mese, aggiornato il servizio per presentare le domande integrative entro il 31 gennaio. Messaggio INPS",
-      "url": "https://www.orizzontescuola.it/nuovo-bonus-mamme-40-euro-al-mese-aggiornato-il-servizio-per-presentare-le-domande-integrative-entro-il-31-gennaio-messaggio-inps/",
-      "date": "Thu, 15 Jan 2026 18:53:35 +0000",
-      "source": "Orizzonte Scuola - ATA",
-      "type": "rss_article",
-      "description": "L’INPS ha reso noto, con il messaggio n. 147 del 15 gennaio 2026, che è stato aggiornato il servizio per la presentazione delle domande relative al Nuovo Bonus Mamme. Le lavoratrici che hanno già inoltrato una richiesta possono ora integrarla per includere eventuali mensilità non richieste in precedenza.\nL'articolo\nNuovo Bonus Mamme 40 euro al mese, aggiornato il servizio per presentare le domande integrative entro il 31 gennaio. Messaggio INPS\nsembra essere il primo su\nOrizzonte Scuola Notizie\n",
-      "full_content": "L’INPS ha reso noto, con il messaggio n. 147 del 15 gennaio 2026, che è stato aggiornato il servizio per la presentazione delle domande relative al Nuovo Bonus Mamme. Le lavoratrici che hanno già inoltrato una richiesta possono ora integrarla per includere eventuali mensilità non richieste in precedenza.\nL'articolo\nNuovo Bonus Mamme 40 euro al mese, aggiornato il servizio per presentare le domande integrative entro il 31 gennaio. Messaggio INPS\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "8b98b125f0a8d2b0"
-    },
-    {
       "title": "Scuola, accoltellamento La Spezia. Fracassi (FLC CGIL): servono investimenti per affrontare il disagio giovanile",
       "url": "https://www.flcgil.it/comunicati-stampa/flc/scuola-accoltellamento-la-spezia-fracassi-flc-cgil-servono-investimenti-per-affrontare-il-disagio-giovanile.flc",
       "date": "Sun, 18 Jan 2026 17:10:12 +0100",
@@ -359,17 +293,6 @@
       "full_content": "Roma, 18 gennaio - \"Il grave fatto avvenuto nella scuola di La Spezia, dove un ragazzo di 18 anni ha perso la vita a seguito di un accoltellamento da parte di un diciannovenne, scuote profondamente l’intera comunità scolastica e il...",
       "has_full_content": true,
       "id": "b3d913760ba0dd04"
-    },
-    {
-      "title": "Posizioni economiche ATA, martedì sapremo dove si svolgeranno le prove. Poi la data del test. Le anticipazioni",
-      "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-martedi-sapremo-dove-si-svolgeranno-le-prove-poi-la-data-del-test-le-anticipazioni/",
-      "date": "Sat, 17 Jan 2026 07:43:21 +0000",
-      "source": "Orizzonte Scuola - ATA",
-      "type": "rss_article",
-      "description": "Lo scorso 28 novembre, il Ministero dell’Istruzione e del Merito ha riunito le sigle sindacali per discutere i prossimi passaggi della procedura che porterà all’assegnazione delle posizioni economiche previste per il personale ATA. Al centro dell’incontro, la necessità di rivedere i criteri di scelta delle sedi in cui si svolgeranno le prove, con l’obiettivo di rendere più fluida l’organizzazione del concorso interno.\nL'articolo\nPosizioni economiche ATA, martedì sapremo dove si svolgeranno le pr",
-      "full_content": "Lo scorso 28 novembre, il Ministero dell’Istruzione e del Merito ha riunito le sigle sindacali per discutere i prossimi passaggi della procedura che porterà all’assegnazione delle posizioni economiche previste per il personale ATA. Al centro dell’incontro, la necessità di rivedere i criteri di scelta delle sedi in cui si svolgeranno le prove, con l’obiettivo di rendere più fluida l’organizzazione del concorso interno.\nL'articolo\nPosizioni economiche ATA, martedì sapremo dove si svolgeranno le prove. Poi la data del test. Le anticipazioni\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "799971fc178e2c0c"
     },
     {
       "title": "Bologna, “Fuori la guerra dalla conoscenza!”. Un ordine del giorno in ogni scuola",
@@ -460,6 +383,94 @@
       "id": "b536f26c9e16388a"
     },
     {
+      "title": "Posizioni economiche ATA, prove finali dal 23 al 27 febbraio: ecco il calendario. AVVISO Ministero",
+      "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-prove-finali-dal-23-al-27-febbraio-ecco-il-calendario-avviso-ministero/",
+      "date": "Fri, 23 Jan 2026 10:50:37 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Posizioni economiche ATA: 47.328, suddivisi in 3.162 aule. La prova finale si svolgerà nei giorni 23, 24, 25, 26 e 27 febbraio. Le operazioni di identificazione avranno inizio dalle ore 8.00 per il turno mattutino e dalle ore 13.30 per il turno pomeridiano. Lo svolgimento delle prove è previsto alle ore 9.00 per il turno mattutino e alle ore 14.30 per il turno pomeridiano.\nL'articolo\nPosizioni economiche ATA, prove finali dal 23 al 27 febbraio: ecco il calendario. AVVISO Ministero\nsembra essere ",
+      "full_content": "Posizioni economiche ATA: 47.328, suddivisi in 3.162 aule. La prova finale si svolgerà nei giorni 23, 24, 25, 26 e 27 febbraio. Le operazioni di identificazione avranno inizio dalle ore 8.00 per il turno mattutino e dalle ore 13.30 per il turno pomeridiano. Lo svolgimento delle prove è previsto alle ore 9.00 per il turno mattutino e alle ore 14.30 per il turno pomeridiano.\nL'articolo\nPosizioni economiche ATA, prove finali dal 23 al 27 febbraio: ecco il calendario. AVVISO Ministero\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "5f0f382826313790"
+    },
+    {
+      "title": "Percorsi abilitanti 60, 36, 30 CFU: arrivano gli accreditamenti delle classi di concorso. Manca solo il decreto con i posti, ecco i BANDI già aperti 2025/26",
+      "url": "https://www.orizzontescuola.it/percorsi-abilitanti-60-36-30-cfu-ecco-le-nuove-pagine-delle-universita-per-lanno-accademico-2025-26/",
+      "date": "Fri, 23 Jan 2026 10:23:09 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Percorsi abilitanti dell'anno accademico 2025/26: alcune Università hanno già predisposto le nuove pagine per i percorsi da 60.36 e 30 CFU. Altre lo faranno nel corso delle prossime settimane, verosimilmente dopo la conclusione degli esami finali del 2024/25 per i corsi ancora attivi e con la pubblicazione del decreto MUR con i nuovi corsi accreditati. Nelle nuove pagine saranno pubblicati i BANDI, con le date per la presentazione della domanda.\nL'articolo\nPercorsi abilitanti 60, 36, 30 CFU: arr",
+      "full_content": "Percorsi abilitanti dell'anno accademico 2025/26: alcune Università hanno già predisposto le nuove pagine per i percorsi da 60.36 e 30 CFU. Altre lo faranno nel corso delle prossime settimane, verosimilmente dopo la conclusione degli esami finali del 2024/25 per i corsi ancora attivi e con la pubblicazione del decreto MUR con i nuovi corsi accreditati. Nelle nuove pagine saranno pubblicati i BANDI, con le date per la presentazione della domanda.\nL'articolo\nPercorsi abilitanti 60, 36, 30 CFU: arrivano gli accreditamenti delle classi di concorso. Manca solo il decreto con i posti, ecco i BANDI già aperti 2025/26\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "da03be0afbc86ce6"
+    },
+    {
+      "title": "Graduatorie GPS 2026/28: requisiti di accesso, riserva, titoli e servizi, nuovo algoritmo [LO SPECIALE]",
+      "url": "https://www.orizzontescuola.it/graduatorie-gps-2026-28-requisiti-di-accesso-riserva-titoli-e-servizi-nuovo-algoritmo-lo-speciale/",
+      "date": "Fri, 23 Jan 2026 10:09:01 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Graduatorie GPS 2026/28: la guida passo passo al testo normativo che per gli anni scolastici 2026/27 e 2027/28 guiderà l’assegnazione delle supplenze, della riconferma dell’insegnante di sostegno su richiesta della famiglia, gli interpelli. Non ancora diffuse le date di presentazione della domanda.\nL'articolo\nGraduatorie GPS 2026/28: requisiti di accesso, riserva, titoli e servizi, nuovo algoritmo [LO SPECIALE]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Graduatorie GPS 2026/28: la guida passo passo al testo normativo che per gli anni scolastici 2026/27 e 2027/28 guiderà l’assegnazione delle supplenze, della riconferma dell’insegnante di sostegno su richiesta della famiglia, gli interpelli. Non ancora diffuse le date di presentazione della domanda.\nL'articolo\nGraduatorie GPS 2026/28: requisiti di accesso, riserva, titoli e servizi, nuovo algoritmo [LO SPECIALE]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "798d8e87712dd1cd"
+    },
+    {
+      "title": "Immissioni in ruolo docenti 2026/27: elenchi regionali si utilizzeranno solo se graduatorie concorsi, compreso elenco 30%,  esaurite. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-27-elenchi-regionali-si-utilizzeranno-solo-se-graduatorie-concorsi-compreso-elenco-30-esaurite-pillole-di-question-time/",
+      "date": "Fri, 23 Jan 2026 10:03:21 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 15 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente esperta Sonia Cannas, è stata analizzata la procedura da seguire in caso di rinunce da parte dei vincitori del concorso PNRR 3. L’attenzione si è concentrata su quale graduatoria debba scorrere in questi casi: quella del concorso o gli elenchi regionali.\nL'articolo\nImmissioni in ruolo docenti 2026/27: elenchi regionali si utilizzeranno solo se graduatorie concorsi, compreso elenco 30%",
+      "full_content": "Nel question time del 15 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente esperta Sonia Cannas, è stata analizzata la procedura da seguire in caso di rinunce da parte dei vincitori del concorso PNRR 3. L’attenzione si è concentrata su quale graduatoria debba scorrere in questi casi: quella del concorso o gli elenchi regionali.\nL'articolo\nImmissioni in ruolo docenti 2026/27: elenchi regionali si utilizzeranno solo se graduatorie concorsi, compreso elenco 30%,  esaurite. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "0b1d50ee561c09a0"
+    },
+    {
+      "title": "Docenti con supplenze brevi, come si valuta il servizio nelle GPS 2026. Scarica la BOZZA",
+      "url": "https://www.orizzontescuola.it/docenti-con-supplenze-brevi-come-si-valuta-il-servizio-nelle-gps-2026-scarica-la-bozza/",
+      "date": "Fri, 23 Jan 2026 09:00:08 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 26 novembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto dell’Anief, è stato affrontato un quesito pratico riguardante l’aggiornamento delle Graduatorie Provinciali per le Supplenze. Il focus è stato posto sulla gestione dei punteggi per le supplenze brevi ottenute dopo la chiusura delle GPS.\nL'articolo\nDocenti con supplenze brevi, come si valuta il servizio nelle GPS 2026. Scarica la BOZZA\nsembra essere il primo su\nOrizzonte Scuola No",
+      "full_content": "Nel question time del 26 novembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto dell’Anief, è stato affrontato un quesito pratico riguardante l’aggiornamento delle Graduatorie Provinciali per le Supplenze. Il focus è stato posto sulla gestione dei punteggi per le supplenze brevi ottenute dopo la chiusura delle GPS.\nL'articolo\nDocenti con supplenze brevi, come si valuta il servizio nelle GPS 2026. Scarica la BOZZA\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "34937937b3fcad47"
+    },
+    {
+      "title": "Docenti neoassunti, il 30 gennaio l’incontro in presenza. Si potrà recuperare assenza?",
+      "url": "https://www.orizzontescuola.it/docenti-neoassunti-il-30-gennaio-lincontro-in-presenza-si-potra-recuperare-assenza/",
+      "date": "Fri, 23 Jan 2026 08:44:43 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Con nota dell'11 dicembre 2025 n. 95371 il Ministero ha comunicato che il primo incontro formativo rivolto ai docenti neoassunti per l’anno scolastico 2025/2026 avrà la durata di 3 ore e si svolgerà in presenza in diretta streaming nazionale, a cura di Indire.\nL'articolo\nDocenti neoassunti, il 30 gennaio l’incontro in presenza. Si potrà recuperare assenza?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Con nota dell'11 dicembre 2025 n. 95371 il Ministero ha comunicato che il primo incontro formativo rivolto ai docenti neoassunti per l’anno scolastico 2025/2026 avrà la durata di 3 ore e si svolgerà in presenza in diretta streaming nazionale, a cura di Indire.\nL'articolo\nDocenti neoassunti, il 30 gennaio l’incontro in presenza. Si potrà recuperare assenza?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "53076f7d473c4717"
+    },
+    {
+      "title": "GPS, elenchi regionali, percorsi abilitanti 2026. Tutte le novità Lalla vi anticiperà tutto nella newsletter “Diventare insegnanti”",
+      "url": "https://www.orizzontescuola.it/gps-elenchi-regionali-percorsi-abilitanti-2026-tutte-le-novita-lalla-vi-anticipera-tutto-nella-newsletter-diventare-insegnanti/",
+      "date": "Fri, 23 Jan 2026 08:00:59 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Siamo in attesa degli aggiornamenti relativi a GPS, supplenze, elenchi regionali, secondo ciclo Indire, percorsi abilitanti. Lalla vi spiegherà tutto. Iscriviti entro venerdì ore 18. Cosa riceverò iscrivendomi alla newsletter? Chi si iscrive riceverà: notizie filtrate e commentate, non semplici link; anticipazioni su bandi e aggiornamenti relativi ai percorsi per diventare insegnanti; risposte ai dubbi […]\nL'articolo\nGPS, elenchi regionali, percorsi abilitanti 2026. Tutte le novità Lalla vi anti",
+      "full_content": "Siamo in attesa degli aggiornamenti relativi a GPS, supplenze, elenchi regionali, secondo ciclo Indire, percorsi abilitanti. Lalla vi spiegherà tutto. Iscriviti entro venerdì ore 18. Cosa riceverò iscrivendomi alla newsletter? Chi si iscrive riceverà: notizie filtrate e commentate, non semplici link; anticipazioni su bandi e aggiornamenti relativi ai percorsi per diventare insegnanti; risposte ai dubbi […]\nL'articolo\nGPS, elenchi regionali, percorsi abilitanti 2026. Tutte le novità Lalla vi anticiperà tutto nella newsletter “Diventare insegnanti”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "85cc74c6e9b98661"
+    },
+    {
+      "title": "Posizioni economiche ATA: quando e dove si svolge la prova finale, come si viene convocati. RISPOSTE AI QUESITI",
+      "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-quando-e-dove-si-svolge-la-prova-finale-come-si-viene-convocati-risposte-ai-quesiti/",
+      "date": "Fri, 23 Jan 2026 07:10:11 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Le posizioni economiche rappresentano un riconoscimento professionale ed economico legato all’assunzione di maggiori responsabilità rispetto alle mansioni ordinarie del profilo di appartenenza. Si tratta di un istituto contrattuale di particolare rilievo perché comporta un incremento stipendiale valido per tredici mensilità, pensionabile e stabile nel tempo.\nL'articolo\nPosizioni economiche ATA: quando e dove si svolge la prova finale, come si viene convocati. RISPOSTE AI QUESITI\nsembra essere il",
+      "full_content": "Le posizioni economiche rappresentano un riconoscimento professionale ed economico legato all’assunzione di maggiori responsabilità rispetto alle mansioni ordinarie del profilo di appartenenza. Si tratta di un istituto contrattuale di particolare rilievo perché comporta un incremento stipendiale valido per tredici mensilità, pensionabile e stabile nel tempo.\nL'articolo\nPosizioni economiche ATA: quando e dove si svolge la prova finale, come si viene convocati. RISPOSTE AI QUESITI\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "2f2145114fbbeb0c"
+    },
+    {
       "title": "Filiera tecnologico-professionale: ma quale nuova scuola 4+2! È 5-1! [INFOGRAFICA]",
       "url": "https://www.flcgil.it/scuola/filiera-tecnologico-professionale-ma-quale-nuova-scuola-4-2-e-5-1-infografica.flc",
       "date": "Fri, 16 Jan 2026 19:54:00 +0100",
@@ -493,17 +504,6 @@
       "id": "98fce39250016afd"
     },
     {
-      "title": "Le istituzioni AFAM possono richiedere l’approvazione di nuovi corsi di diploma accademico entro il 6 febbraio 2026",
-      "url": "https://www.flcgil.it/universita/afam/le-istituzioni-afam-possono-richiedere-l-approvazione-di-nuovi-corsi-di-diploma-accademico-entro-il-6-febbraio-2026.flc",
-      "date": "Fri, 16 Jan 2026 14:53:19 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "L’Ufficio IV del Ministero dell’Università e della Ricerca ha pubblicato la",
-      "full_content": "L’Ufficio IV del Ministero dell’Università e della Ricerca ha pubblicato la",
-      "has_full_content": false,
-      "id": "e0b8a78fceec83d6"
-    },
-    {
       "title": "BRACCIANO: APERTURA NUOVA SEDE DELLA CISL SCUOLA DI ROMA",
       "url": "https://www.cislscuolaromarieti.it/bracciano-apertura-nuova-sede-della-cisl-scuola-di-roma/",
       "date": "22 Gennaio 2026",
@@ -529,15 +529,6 @@
       "type": "news",
       "description": "",
       "id": "04b27eaaed893877"
-    },
-    {
-      "title": "Avviso convocazione prova pratica e orale B017 – DDG 2939/2025",
-      "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/21/avviso-convocazione-prova-pratica-e-orale-b017-ddg-2939-2025/",
-      "date": "2026-01-23T06:32:47.230110",
-      "source": "USR Lazio",
-      "type": "comunicazione",
-      "description": "",
-      "id": "0c86ecf6bdf2cb2a"
     },
     {
       "title": "Posizioni economiche personale ATA, illustrate ai sindacati le nuove decisioni sugli abbinamenti dei candidati alle sedi di svolgimento dei test",
