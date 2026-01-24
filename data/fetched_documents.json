@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-24T06:29:54.717513",
+  "last_fetch": "2026-01-24T12:37:21.033390",
   "stats": {
-    "total": 51,
-    "fetched": 0,
-    "skipped": 51,
+    "total": 50,
+    "fetched": 2,
+    "skipped": 48,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 2
   },
-  "total_documents": 763,
+  "total_documents": 765,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -11296,6 +11296,36 @@
       "id": "a66683830453dd0a",
       "text": "Si è svolto questa mattina (22 gennaio 2026, ndr), presso l’Ufficio Scolastico Regionale per l’Emilia Romagna, l’incontro tra le Organizzazioni Sindacali regionali della scuola FLC CGIL, CISL Scuola, UIL Scuola RUA...",
       "fetched_at": "2026-01-24T01:24:45.280304",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Palestina, bloccata la delegazione dei sindacati internazionali in visita a scuole. FLC CGIL: duro attacco al diritto internazionale e all'istruzione",
+      "url": "https://www.flcgil.it/comunicati-stampa/flc/palestina-bloccata-la-delegazione-dei-sindacati-internazionali-in-visita-a-scuole-flc-cgil-duro-attacco-al-diritto-internazionale-e-all-istruzione.flc",
+      "date": "Sat, 24 Jan 2026 12:23:29 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "24 gennaio– “Nella giornata di ieri, 23 gennaio, le autorità di occupazione israeliane hanno impedito a una delegazione internazionale di sindacati del settore dell'istruzione, tra cui la FLC CGIL, di entrare in...",
+      "full_content": "24 gennaio– “Nella giornata di ieri, 23 gennaio, le autorità di occupazione israeliane hanno impedito a una delegazione internazionale di sindacati del settore dell'istruzione, tra cui la FLC CGIL, di entrare in...",
+      "has_full_content": true,
+      "id": "c14fd9e6c6208cb6",
+      "text": "24 gennaio– “Nella giornata di ieri, 23 gennaio, le autorità di occupazione israeliane hanno impedito a una delegazione internazionale di sindacati del settore dell'istruzione, tra cui la FLC CGIL, di entrare in...",
+      "fetched_at": "2026-01-24T12:37:20.022555",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Nuovo Bonus Mamme, domande integrative entro il 31 gennaio: spetta anche alle supplenti della scuola",
+      "url": "https://www.orizzontescuola.it/nuovo-bonus-mamme-domande-integrative-entro-il-31-gennaio-spetta-anche-alle-supplenti-della-scuola/",
+      "date": "Sat, 24 Jan 2026 09:35:14 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "L’INPS ha aggiornato il servizio online per la richiesta del Nuovo Bonus Mamme, rendendo possibile l’integrazione delle domande già presentate. Le lavoratrici interessate possono includere le mensilità eventualmente non richieste inizialmente.\nL'articolo\nNuovo Bonus Mamme, domande integrative entro il 31 gennaio: spetta anche alle supplenti della scuola\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "L’INPS ha aggiornato il servizio online per la richiesta del Nuovo Bonus Mamme, rendendo possibile l’integrazione delle domande già presentate. Le lavoratrici interessate possono includere le mensilità eventualmente non richieste inizialmente.\nL'articolo\nNuovo Bonus Mamme, domande integrative entro il 31 gennaio: spetta anche alle supplenti della scuola\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "18384534682e213a",
+      "text": "L’INPS ha aggiornato il servizio online per la richiesta del Nuovo Bonus Mamme, rendendo possibile l’integrazione delle domande già presentate. Le lavoratrici interessate possono includere le mensilità eventualmente non richieste inizialmente.\nL'articolo\nNuovo Bonus Mamme, domande integrative entro il 31 gennaio: spetta anche alle supplenti della scuola\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-24T12:37:20.522704",
       "document_type": "rss_full",
       "success": true
     }
