@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-25T06:30:12.374732",
+  "last_fetch": "2026-01-25T12:38:49.627279",
   "stats": {
     "total": 50,
-    "fetched": 0,
-    "skipped": 50,
+    "fetched": 1,
+    "skipped": 49,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 1
   },
-  "total_documents": 765,
+  "total_documents": 766,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -11326,6 +11326,21 @@
       "id": "18384534682e213a",
       "text": "L’INPS ha aggiornato il servizio online per la richiesta del Nuovo Bonus Mamme, rendendo possibile l’integrazione delle domande già presentate. Le lavoratrici interessate possono includere le mensilità eventualmente non richieste inizialmente.\nL'articolo\nNuovo Bonus Mamme, domande integrative entro il 31 gennaio: spetta anche alle supplenti della scuola\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2026-01-24T12:37:20.522704",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Posizioni economiche ATA, anche chi è in assegnazione provvisoria svolge la prova nella sede di servizio. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-anche-chi-e-in-assegnazione-provvisoria-svolge-la-prova-nella-sede-di-servizio-pillole-di-question-time/",
+      "date": "Sun, 25 Jan 2026 08:26:26 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Nel question time del 20 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Pasquale Raimondo, sindacalista della Uil Scuola Rua, è stata affrontata una questione rilevante riguardante le modalità organizzative della prova finale per il personale scolastico. Un focus particolare è stato dedicato alla situazione dei docenti attualmente in assegnazione provvisoria e alla sede in cui saranno chiamati a svolgere la prova.\nL'articolo\nPosizioni economiche ATA, anche chi è in a",
+      "full_content": "Nel question time del 20 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Pasquale Raimondo, sindacalista della Uil Scuola Rua, è stata affrontata una questione rilevante riguardante le modalità organizzative della prova finale per il personale scolastico. Un focus particolare è stato dedicato alla situazione dei docenti attualmente in assegnazione provvisoria e alla sede in cui saranno chiamati a svolgere la prova.\nL'articolo\nPosizioni economiche ATA, anche chi è in assegnazione provvisoria svolge la prova nella sede di servizio. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "bdcf745ae93e84a5",
+      "text": "Nel question time del 20 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Pasquale Raimondo, sindacalista della Uil Scuola Rua, è stata affrontata una questione rilevante riguardante le modalità organizzative della prova finale per il personale scolastico. Un focus particolare è stato dedicato alla situazione dei docenti attualmente in assegnazione provvisoria e alla sede in cui saranno chiamati a svolgere la prova.\nL'articolo\nPosizioni economiche ATA, anche chi è in assegnazione provvisoria svolge la prova nella sede di servizio. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-25T12:38:49.115935",
       "document_type": "rss_full",
       "success": true
     }
