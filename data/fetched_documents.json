@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-27T06:32:30.883249",
+  "last_fetch": "2026-01-27T12:43:53.120740",
   "stats": {
     "total": 51,
-    "fetched": 0,
-    "skipped": 51,
+    "fetched": 4,
+    "skipped": 47,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 4
   },
-  "total_documents": 781,
+  "total_documents": 785,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -11572,6 +11572,66 @@
       "id": "f4a4a2f8255d8191",
       "text": "L'idea di introdurre dieci giorni di chiusura aggiuntivi, posticipando il termine delle lezioni o anticipandone l'inizio, denota una scarsa conoscenza della complessità del sistema scolastico pubblico. Adempimenti...",
       "fetched_at": "2026-01-26T18:33:00.285511",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Teorema Santanchè: la scuola piegata al turismo",
+      "url": "https://www.flcgil.it/rassegna-stampa/teorema-santanche-la-scuola-piegata-al-turismo.flc",
+      "date": "Tue, 27 Jan 2026 12:06:07 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Stefano Iucci\nDieci giorni di vacanze estive in meno per permettere alle singole Regioni di modulare il calendario scolastico secondo le proprie esigenze e per fare da volano al turismo: estivo o invernale. Dipende...",
+      "full_content": "Stefano Iucci\nDieci giorni di vacanze estive in meno per permettere alle singole Regioni di modulare il calendario scolastico secondo le proprie esigenze e per fare da volano al turismo: estivo o invernale. Dipende...",
+      "has_full_content": true,
+      "id": "6439c4e8a40676dc",
+      "text": "Stefano Iucci\nDieci giorni di vacanze estive in meno per permettere alle singole Regioni di modulare il calendario scolastico secondo le proprie esigenze e per fare da volano al turismo: estivo o invernale. Dipende...",
+      "fetched_at": "2026-01-27T12:43:51.109236",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "GPS 2026-2028: cosa cambia nei punteggi e nelle riserve, cosa nell’algoritmo per le supplenze. Il punto di Sonia Cannas",
+      "url": "https://www.orizzontescuola.it/gps-2026-2028-cosa-cambia-nei-punteggi-nelle-riserve-e-cosa-nellalgoritmo-per-le-supplenze-il-punto-di-sonia-cannas/",
+      "date": "Tue, 27 Jan 2026 09:00:14 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel corso di una\ndiretta\ncondotta da\nFrancesco Bunetto\n,\nSonia Cannas\nha fatto il punto sulle principali novità emerse dalle informative sindacali e dagli incontri politici svolti nel mese di novembre, in vista della\nbozza di ordinanza ministeriale sulle GPS per il biennio 2026-2028\n.\nL'articolo\nGPS 2026-2028: cosa cambia nei punteggi e nelle riserve, cosa nell’algoritmo per le supplenze. Il punto di Sonia Cannas\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Nel corso di una\ndiretta\ncondotta da\nFrancesco Bunetto\n,\nSonia Cannas\nha fatto il punto sulle principali novità emerse dalle informative sindacali e dagli incontri politici svolti nel mese di novembre, in vista della\nbozza di ordinanza ministeriale sulle GPS per il biennio 2026-2028\n.\nL'articolo\nGPS 2026-2028: cosa cambia nei punteggi e nelle riserve, cosa nell’algoritmo per le supplenze. Il punto di Sonia Cannas\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "c279dace11f8fcef",
+      "text": "Nel corso di una\ndiretta\ncondotta da\nFrancesco Bunetto\n,\nSonia Cannas\nha fatto il punto sulle principali novità emerse dalle informative sindacali e dagli incontri politici svolti nel mese di novembre, in vista della\nbozza di ordinanza ministeriale sulle GPS per il biennio 2026-2028\n.\nL'articolo\nGPS 2026-2028: cosa cambia nei punteggi e nelle riserve, cosa nell’algoritmo per le supplenze. Il punto di Sonia Cannas\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-27T12:43:51.609425",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Prova finale posizioni economiche ATA: come si svolge il test e come si forma la graduatoria. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/prova-finale-posizioni-economiche-ata-come-si-svolge-il-test-e-come-si-forma-la-graduatoria-pillole-di-question-time/",
+      "date": "Tue, 27 Jan 2026 08:29:35 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Nel question time del 20 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Pasquale Raimondo, sindacalista della Uil Scuola Rua, è stata approfondita una questione centrale per il personale scolastico coinvolto nei percorsi concorsuali. L’attenzione si è concentrata su: la natura della prova finale e i criteri utilizzati per la formazione delle graduatorie.\nL'articolo\nProva finale posizioni economiche ATA: come si svolge il test e come si forma la graduatoria. Pillole d",
+      "full_content": "Nel question time del 20 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Pasquale Raimondo, sindacalista della Uil Scuola Rua, è stata approfondita una questione centrale per il personale scolastico coinvolto nei percorsi concorsuali. L’attenzione si è concentrata su: la natura della prova finale e i criteri utilizzati per la formazione delle graduatorie.\nL'articolo\nProva finale posizioni economiche ATA: come si svolge il test e come si forma la graduatoria. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "02a9148f5c6483d7",
+      "text": "Nel question time del 20 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Pasquale Raimondo, sindacalista della Uil Scuola Rua, è stata approfondita una questione centrale per il personale scolastico coinvolto nei percorsi concorsuali. L’attenzione si è concentrata su: la natura della prova finale e i criteri utilizzati per la formazione delle graduatorie.\nL'articolo\nProva finale posizioni economiche ATA: come si svolge il test e come si forma la graduatoria. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-27T12:43:52.109604",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "#IceOutSchools, sindacati Usa contro il terrore di Trump",
+      "url": "https://www.flcgil.it/rassegna-stampa/nazionale/iceoutschools-sindacati-usa-contro-il-terrore-di-trump.flc",
+      "date": "Mon, 26 Jan 2026 09:46:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Di Stefano Iucci\nLa ormai famigerata Ice, diventata una sorta di milizia personale di Donald Trump, sta come è noto mettendo a ferro e fuoco non solo Minneapolis (con il terribile assassinio di Renee Good e Alex...",
+      "full_content": "Di Stefano Iucci\nLa ormai famigerata Ice, diventata una sorta di milizia personale di Donald Trump, sta come è noto mettendo a ferro e fuoco non solo Minneapolis (con il terribile assassinio di Renee Good e Alex...",
+      "has_full_content": true,
+      "id": "42c365bd7a97d184",
+      "text": "Di Stefano Iucci\nLa ormai famigerata Ice, diventata una sorta di milizia personale di Donald Trump, sta come è noto mettendo a ferro e fuoco non solo Minneapolis (con il terribile assassinio di Renee Good e Alex...",
+      "fetched_at": "2026-01-27T12:43:52.609899",
       "document_type": "rss_full",
       "success": true
     }

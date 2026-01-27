@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-01-27T06:32:30.480849",
+  "scraped_at": "2026-01-27T12:43:50.836221",
   "stats": {
     "total_sources": 7,
     "successful": 7,
@@ -8,28 +8,6 @@
     "unique_documents": 51
   },
   "documents": [
-    {
-      "title": "Slide assemblea FLC CGIL Istat 20 gennaio 2026",
-      "url": "https://www.flcgil.it/enti/istat/documenti/slide-assemblea-flc-cgil-istat-20-gennaio-2026.flc",
-      "date": "Wed, 21 Jan 2026 18:52:07 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Slide assemblea FLC CGIL Istat 20 gennaio 2026",
-      "full_content": "Slide assemblea FLC CGIL Istat 20 gennaio 2026",
-      "has_full_content": false,
-      "id": "0dcfe5332903248a"
-    },
-    {
-      "title": "Istat: incontro su PIAO 2026-2028, lavoro a distanza 2026 e SMVP della dirigenza",
-      "url": "https://www.flcgil.it/enti/istat/notizie/istat-incontro-su-piao-2026-2028-lavoro-a-distanza-2026-e-smvp-della-dirigenza.flc",
-      "date": "Wed, 21 Jan 2026 18:10:58 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Martedì 20 gennaio si è svolto l’incontro sindacale con l’amministrazione riguardante l’area della dirigenza amministrativa (la FLC CGIL fa...",
-      "full_content": "Martedì 20 gennaio si è svolto l’incontro sindacale con l’amministrazione riguardante l’area della dirigenza amministrativa (la FLC CGIL fa...",
-      "has_full_content": false,
-      "id": "60928881b41dcc34"
-    },
     {
       "title": "Posizioni economiche ATA: il simulatore per esercitarti a superare l’esame",
       "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-simulatore-e-video-lezioni-per-superare-la-prova-finale/",
@@ -42,15 +20,48 @@
       "id": "aa80df70eae4eba0"
     },
     {
-      "title": "Nuove posizioni economiche ATA: dove si svolge la prova finale. La distanza media da percorrere è di 8,7 km. I criteri",
-      "url": "https://www.orizzontescuola.it/nuove-posizioni-economiche-ata-dove-si-svolge-la-prova-finale-la-distanza-media-da-percorrere-e-di-87km-i-criteri/",
-      "date": "Wed, 21 Jan 2026 08:18:23 +0000",
+      "title": "Teorema Santanchè: la scuola piegata al turismo",
+      "url": "https://www.flcgil.it/rassegna-stampa/teorema-santanche-la-scuola-piegata-al-turismo.flc",
+      "date": "Tue, 27 Jan 2026 12:06:07 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Stefano Iucci\nDieci giorni di vacanze estive in meno per permettere alle singole Regioni di modulare il calendario scolastico secondo le proprie esigenze e per fare da volano al turismo: estivo o invernale. Dipende...",
+      "full_content": "Stefano Iucci\nDieci giorni di vacanze estive in meno per permettere alle singole Regioni di modulare il calendario scolastico secondo le proprie esigenze e per fare da volano al turismo: estivo o invernale. Dipende...",
+      "has_full_content": true,
+      "id": "83d74504c6f5fd22"
+    },
+    {
+      "title": "Percorsi abilitanti 60, 36, 30 CFU: arrivati gli accreditamenti delle classi di concorso. Manca solo il decreto con i posti, ecco i BANDI già aperti 2025/26",
+      "url": "https://www.orizzontescuola.it/percorsi-abilitanti-60-36-30-cfu-ecco-le-nuove-pagine-delle-universita-per-lanno-accademico-2025-26/",
+      "date": "Tue, 27 Jan 2026 10:26:09 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Percorsi abilitanti dell'anno accademico 2025/26: alcune Università hanno già predisposto le nuove pagine per i percorsi da 60.36 e 30 CFU. Altre lo faranno nel corso delle prossime settimane, verosimilmente dopo la conclusione degli esami finali del 2024/25 per i corsi ancora attivi e con la pubblicazione del decreto MUR con i nuovi corsi accreditati. Nelle nuove pagine saranno pubblicati i BANDI, con le date per la presentazione della domanda.\nL'articolo\nPercorsi abilitanti 60, 36, 30 CFU: arr",
+      "full_content": "Percorsi abilitanti dell'anno accademico 2025/26: alcune Università hanno già predisposto le nuove pagine per i percorsi da 60.36 e 30 CFU. Altre lo faranno nel corso delle prossime settimane, verosimilmente dopo la conclusione degli esami finali del 2024/25 per i corsi ancora attivi e con la pubblicazione del decreto MUR con i nuovi corsi accreditati. Nelle nuove pagine saranno pubblicati i BANDI, con le date per la presentazione della domanda.\nL'articolo\nPercorsi abilitanti 60, 36, 30 CFU: arrivati gli accreditamenti delle classi di concorso. Manca solo il decreto con i posti, ecco i BANDI già aperti 2025/26\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "2b202e81fe0c3a09"
+    },
+    {
+      "title": "GPS 2026-2028: cosa cambia nei punteggi e nelle riserve, cosa nell’algoritmo per le supplenze. Il punto di Sonia Cannas",
+      "url": "https://www.orizzontescuola.it/gps-2026-2028-cosa-cambia-nei-punteggi-nelle-riserve-e-cosa-nellalgoritmo-per-le-supplenze-il-punto-di-sonia-cannas/",
+      "date": "Tue, 27 Jan 2026 09:00:14 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel corso di una\ndiretta\ncondotta da\nFrancesco Bunetto\n,\nSonia Cannas\nha fatto il punto sulle principali novità emerse dalle informative sindacali e dagli incontri politici svolti nel mese di novembre, in vista della\nbozza di ordinanza ministeriale sulle GPS per il biennio 2026-2028\n.\nL'articolo\nGPS 2026-2028: cosa cambia nei punteggi e nelle riserve, cosa nell’algoritmo per le supplenze. Il punto di Sonia Cannas\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Nel corso di una\ndiretta\ncondotta da\nFrancesco Bunetto\n,\nSonia Cannas\nha fatto il punto sulle principali novità emerse dalle informative sindacali e dagli incontri politici svolti nel mese di novembre, in vista della\nbozza di ordinanza ministeriale sulle GPS per il biennio 2026-2028\n.\nL'articolo\nGPS 2026-2028: cosa cambia nei punteggi e nelle riserve, cosa nell’algoritmo per le supplenze. Il punto di Sonia Cannas\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "691da2e06f5fef0f"
+    },
+    {
+      "title": "Prova finale posizioni economiche ATA: come si svolge il test e come si forma la graduatoria. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/prova-finale-posizioni-economiche-ata-come-si-svolge-il-test-e-come-si-forma-la-graduatoria-pillole-di-question-time/",
+      "date": "Tue, 27 Jan 2026 08:29:35 +0000",
       "source": "Orizzonte Scuola - ATA",
       "type": "rss_article",
-      "description": "Si è svolto nel pomeriggio del 20 gennaio l'incontro tra Ministero dell'istruzione e del merito e i Sindacati sulle prove finali per il personale ATA che ha partecipato ai corsi di formazione per le nuove posizioni economiche ATA.\nL'articolo\nNuove posizioni economiche ATA: dove si svolge la prova finale. La distanza media da percorrere è di 8,7 km. I criteri\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Si è svolto nel pomeriggio del 20 gennaio l'incontro tra Ministero dell'istruzione e del merito e i Sindacati sulle prove finali per il personale ATA che ha partecipato ai corsi di formazione per le nuove posizioni economiche ATA.\nL'articolo\nNuove posizioni economiche ATA: dove si svolge la prova finale. La distanza media da percorrere è di 8,7 km. I criteri\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "description": "Nel question time del 20 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Pasquale Raimondo, sindacalista della Uil Scuola Rua, è stata approfondita una questione centrale per il personale scolastico coinvolto nei percorsi concorsuali. L’attenzione si è concentrata su: la natura della prova finale e i criteri utilizzati per la formazione delle graduatorie.\nL'articolo\nProva finale posizioni economiche ATA: come si svolge il test e come si forma la graduatoria. Pillole d",
+      "full_content": "Nel question time del 20 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Pasquale Raimondo, sindacalista della Uil Scuola Rua, è stata approfondita una questione centrale per il personale scolastico coinvolto nei percorsi concorsuali. L’attenzione si è concentrata su: la natura della prova finale e i criteri utilizzati per la formazione delle graduatorie.\nL'articolo\nProva finale posizioni economiche ATA: come si svolge il test e come si forma la graduatoria. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
-      "id": "353e7c47817e5aa4"
+      "id": "1cc6c077a328f6da"
     },
     {
       "title": "Graduatorie concorso dirigenti scolastici. In arrivo l’ennesimo colpo di scena",
@@ -117,28 +128,6 @@
       "full_content": "Roma, 22 gennaio - La dirigente scolastica dell’Istituto Pacinotti di Fondi ha ricevuto la disciplinare di tre giorni di sospensione dal servizio a conclusione del procedimento avviato nei suoi confronti dopo il suicidio di un alunno della sua...",
       "has_full_content": true,
       "id": "87253a970c76fa2b"
-    },
-    {
-      "title": "GPS 2026, per passare dall’elenco aggiuntivo alla prima fascia GPS occorre presentare domanda, non è automatico",
-      "url": "https://www.orizzontescuola.it/gps-2026-per-passare-dallelenco-aggiuntivo-alla-prima-fascia-gps-occorre-presentare-domanda-non-e-automatico/",
-      "date": "Sun, 25 Jan 2026 17:26:37 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Nel question time del 25 novembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente esperta Sonia Cannas, è stato affrontato un tema rilevante per i docenti inseriti negli elenchi aggiuntivi delle Graduatorie provinciali per le supplenze. Un focus particolare è stato posto su: la possibilità di passaggio dalla posizione negli elenchi aggiuntivi alla prima fascia a pieno titolo.\nL'articolo\nGPS 2026, per passare dall’elenco aggiuntivo alla prima fascia GPS occorre pres",
-      "full_content": "Nel question time del 25 novembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente esperta Sonia Cannas, è stato affrontato un tema rilevante per i docenti inseriti negli elenchi aggiuntivi delle Graduatorie provinciali per le supplenze. Un focus particolare è stato posto su: la possibilità di passaggio dalla posizione negli elenchi aggiuntivi alla prima fascia a pieno titolo.\nL'articolo\nGPS 2026, per passare dall’elenco aggiuntivo alla prima fascia GPS occorre presentare domanda, non è automatico\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "0b78530651e28221"
-    },
-    {
-      "title": "GPS 2026, quanti punti per il concorso. Differenza tra prima e seconda fascia. Pillole di Question Time",
-      "url": "https://www.orizzontescuola.it/gps-2026-quanti-punti-per-il-concorso-differenza-tra-prima-e-seconda-fascia-pillole-di-question-time/",
-      "date": "Sun, 25 Jan 2026 13:45:28 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Nel question time del 5 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sara Cannas, docente esperta, è stato affrontato un tema importante legato all’aggiornamento delle Graduatorie Provinciali per le Supplenze (GPS). Il focus si è concentrato sul valore del superamento del concorso ordinario in termini di punteggio, anche quando non è riferito alla specifica classe di concorso.\nL'articolo\nGPS 2026, quanti punti per il concorso. Differenza tra prima e seconda fascia.",
-      "full_content": "Nel question time del 5 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sara Cannas, docente esperta, è stato affrontato un tema importante legato all’aggiornamento delle Graduatorie Provinciali per le Supplenze (GPS). Il focus si è concentrato sul valore del superamento del concorso ordinario in termini di punteggio, anche quando non è riferito alla specifica classe di concorso.\nL'articolo\nGPS 2026, quanti punti per il concorso. Differenza tra prima e seconda fascia. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "84cc90c8b3962883"
     },
     {
       "title": "Posizioni economiche ATA, anche chi è in assegnazione provvisoria svolge la prova nella sede di servizio. Pillole di Question Time",
@@ -326,6 +315,17 @@
       "full_content": "Elenchi regionali per le assunzioni, istituiti dall'anno scolastico 2026/27. Presentata la BOZZA ai sindacati, il testo non è stato ancora esaminato dal CSPI. Potrebbe essere ancora modificato?\nL'articolo\nElenchi regionali per il ruolo: solo punteggio prova scritta e orale, no titoli, no servizi. Potrebbero esserci delle novità?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "03b4741e718bcb21"
+    },
+    {
+      "title": "#IceOutSchools, sindacati Usa contro il terrore di Trump",
+      "url": "https://www.flcgil.it/rassegna-stampa/nazionale/iceoutschools-sindacati-usa-contro-il-terrore-di-trump.flc",
+      "date": "Mon, 26 Jan 2026 09:46:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Di Stefano Iucci\nLa ormai famigerata Ice, diventata una sorta di milizia personale di Donald Trump, sta come è noto mettendo a ferro e fuoco non solo Minneapolis (con il terribile assassinio di Renee Good e Alex...",
+      "full_content": "Di Stefano Iucci\nLa ormai famigerata Ice, diventata una sorta di milizia personale di Donald Trump, sta come è noto mettendo a ferro e fuoco non solo Minneapolis (con il terribile assassinio di Renee Good e Alex...",
+      "has_full_content": true,
+      "id": "c99b788fe896be38"
     },
     {
       "title": "Docenti in anno di prova e formazione, il 30 gennaio l’incontro a cura di Indire. Ecco il programma",
