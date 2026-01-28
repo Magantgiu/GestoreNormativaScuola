@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-27T18:36:57.866550",
+  "last_fetch": "2026-01-28T01:29:41.559730",
   "stats": {
     "total": 51,
-    "fetched": 12,
-    "skipped": 39,
+    "fetched": 3,
+    "skipped": 48,
     "failed": 0,
     "pdfs": 0,
-    "html": 12
+    "html": 3
   },
-  "total_documents": 797,
+  "total_documents": 800,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -11811,6 +11811,51 @@
       "success": true,
       "fetched_at": "2026-01-27T18:36:56.352361",
       "document_type": "html"
+    },
+    {
+      "title": "Abilitazioni, ecco i Percorsi di completamento 30 e 30 CFU per vincitori concorso PNRR neoassunti. Costo max 2.500 euro",
+      "url": "https://www.orizzontescuola.it/abilitazioni-ecco-i-percorsi-di-completamento-30-e-30-cfu-per-vincitori-concorso-pnrr-neoassunti-costo-max-2-500-euro/",
+      "date": "Tue, 27 Jan 2026 21:25:33 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "I vincitori di concorso PNRR neoassunti per l'anno scolastico 2025/26 con contratto a tempo determinato al 31 agosto 2026 finalizzato al ruolo previo conseguimento dell'abilitazione, devono iscriversi ai percorsi completamento disposti dal dm n. 138 del 27 gennaio 2026.\nL'articolo\nAbilitazioni, ecco i Percorsi di completamento 30 e 30 CFU per vincitori concorso PNRR neoassunti. Costo max 2.500 euro\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "I vincitori di concorso PNRR neoassunti per l'anno scolastico 2025/26 con contratto a tempo determinato al 31 agosto 2026 finalizzato al ruolo previo conseguimento dell'abilitazione, devono iscriversi ai percorsi completamento disposti dal dm n. 138 del 27 gennaio 2026.\nL'articolo\nAbilitazioni, ecco i Percorsi di completamento 30 e 30 CFU per vincitori concorso PNRR neoassunti. Costo max 2.500 euro\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "67263192da987210",
+      "text": "I vincitori di concorso PNRR neoassunti per l'anno scolastico 2025/26 con contratto a tempo determinato al 31 agosto 2026 finalizzato al ruolo previo conseguimento dell'abilitazione, devono iscriversi ai percorsi completamento disposti dal dm n. 138 del 27 gennaio 2026.\nL'articolo\nAbilitazioni, ecco i Percorsi di completamento 30 e 30 CFU per vincitori concorso PNRR neoassunti. Costo max 2.500 euro\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-28T01:29:40.047557",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Percorsi abilitanti 2025/26, confermata una domanda in una sola Università per classe di concorso e anche la selezione per titoli",
+      "url": "https://www.orizzontescuola.it/percorsi-abilitanti-2025-26-confermato-il-vincolo-di-una-domanda-in-una-sola-universita-per-classe-di-concorso-e-la-selezione-per-titoli/",
+      "date": "Tue, 27 Jan 2026 20:39:22 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Anche il decreto dei percorsi abilitanti terzo ciclo a.a. 2025/26 conferma la regola restrittiva della domanda in un solo Ateneo per classe di concorso.\nL'articolo\nPercorsi abilitanti 2025/26, confermata una domanda in una sola Università per classe di concorso e anche la selezione per titoli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Anche il decreto dei percorsi abilitanti terzo ciclo a.a. 2025/26 conferma la regola restrittiva della domanda in un solo Ateneo per classe di concorso.\nL'articolo\nPercorsi abilitanti 2025/26, confermata una domanda in una sola Università per classe di concorso e anche la selezione per titoli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "da2e3066af9362e8",
+      "text": "Anche il decreto dei percorsi abilitanti terzo ciclo a.a. 2025/26 conferma la regola restrittiva della domanda in un solo Ateneo per classe di concorso.\nL'articolo\nPercorsi abilitanti 2025/26, confermata una domanda in una sola Università per classe di concorso e anche la selezione per titoli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-28T01:29:40.547690",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Percorsi abilitanti 2025/26: pubblicato il Decreto terzo ciclo. I posti suddivisi per Università e la tabella titoli",
+      "url": "https://www.orizzontescuola.it/percorsi-abilitanti-2025-26-pubblicato-il-decreto-terzo-ciclo-i-posti-suddivisi-per-universita-e-la-tabella-titoli/",
+      "date": "Tue, 27 Jan 2026 20:16:33 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Con decreto n. il MUR ha dato avvio al terzo ciclo dei percorsi per l'acquisizione dell'abilitazione all'insegnamento nella scuola secondaria primo e secondo grado.\nL'articolo\nPercorsi abilitanti 2025/26: pubblicato il Decreto terzo ciclo. I posti suddivisi per Università e la tabella titoli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Con decreto n. il MUR ha dato avvio al terzo ciclo dei percorsi per l'acquisizione dell'abilitazione all'insegnamento nella scuola secondaria primo e secondo grado.\nL'articolo\nPercorsi abilitanti 2025/26: pubblicato il Decreto terzo ciclo. I posti suddivisi per Università e la tabella titoli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "c41bb8f551110d2f",
+      "text": "Con decreto n. il MUR ha dato avvio al terzo ciclo dei percorsi per l'acquisizione dell'abilitazione all'insegnamento nella scuola secondaria primo e secondo grado.\nL'articolo\nPercorsi abilitanti 2025/26: pubblicato il Decreto terzo ciclo. I posti suddivisi per Università e la tabella titoli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-28T01:29:41.047827",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
