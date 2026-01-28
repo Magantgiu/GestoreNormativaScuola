@@ -1,34 +1,155 @@
 {
-  "scraped_at": "2026-01-28T06:34:04.414765",
+  "scraped_at": "2026-01-28T12:44:33.369442",
   "stats": {
     "total_sources": 7,
     "successful": 7,
     "failed": 0,
-    "total_docs": 51,
-    "unique_documents": 51
+    "total_docs": 52,
+    "unique_documents": 52
   },
   "documents": [
     {
-      "title": "Abilitazioni, ecco i Percorsi di completamento 30 e 30 CFU per vincitori concorso PNRR neoassunti. Costo max 2.500 euro",
-      "url": "https://www.orizzontescuola.it/abilitazioni-ecco-i-percorsi-di-completamento-30-e-30-cfu-per-vincitori-concorso-pnrr-neoassunti-costo-max-2-500-euro/",
-      "date": "Tue, 27 Jan 2026 21:25:33 +0000",
+      "title": "Lettera FLC CGIL al Ministro Valditara del 28 gennaio 2026 - Richiesta presa posizione istituzionale su iniziativa La scuola è nostra",
+      "url": "https://www.flcgil.it/sindacato/documenti/lettere-comunicati-e-documenti/lettera-flc-cgil-al-ministro-valditara-del-28-gennaio-2026-richiesta-presa-posizione-istituzionale-su-iniziativa-la-scuola-e-nostra.flc",
+      "date": "Wed, 28 Jan 2026 12:29:29 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Lettera FLC CGIL al Ministro Valditara del 28 gennaio 2026 - Richiesta presa posizione istituzionale su iniziativa La scuola è nostra",
+      "full_content": "Lettera FLC CGIL al Ministro Valditara del 28 gennaio 2026 - Richiesta presa posizione istituzionale su iniziativa La scuola è nostra",
+      "has_full_content": false,
+      "id": "8b6b4816d65ca778"
+    },
+    {
+      "title": "Azione studentesca attacca la libertà di insegnamento. La FLC CGIL scrive al Ministro Valditara",
+      "url": "https://www.flcgil.it/attualita/azione-studentesca-attacca-la-liberta-di-insegnamento-la-flc-cgil-scrive-al-ministro-valditara.flc",
+      "date": "Wed, 28 Jan 2026 12:22:30 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "La Segretaria generale della FLC CGIL,",
+      "full_content": "La Segretaria generale della FLC CGIL,",
+      "has_full_content": false,
+      "id": "6f5aea19413b091a"
+    },
+    {
+      "title": "Corsi abilitanti 2025/26: pubblicato il decreto del MUR con i 63.890 posti autorizzati",
+      "url": "https://www.flcgil.it/scuola/precari/corsi-abilitanti-2025-26-pubblicato-il-decreto-del-mur-con-i-63-890-posti-autorizzati.flc",
+      "date": "Wed, 28 Jan 2026 10:43:36 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Il Ministero dell’Università e della Ricerca ha pubblicato il",
+      "full_content": "Il Ministero dell’Università e della Ricerca ha pubblicato il",
+      "has_full_content": false,
+      "id": "6be0f4841bf6f32a"
+    },
+    {
+      "title": "Percorsi abilitanti, FLC CGIL critica: per tanti esperienza poco qualificata, pochi laboratori e scarso supporto nel tirocinio. Costi troppo elevati",
+      "url": "https://www.orizzontescuola.it/percorsi-abilitanti-flc-cgil-critica-per-tanti-esperienza-poco-qualificata-pochi-laboratori-e-scarso-supporto-nel-tirocinio-costi-troppo-elevati/",
+      "date": "Wed, 28 Jan 2026 10:43:03 +0000",
       "source": "Orizzonte Scuola - Diventare Insegnanti",
       "type": "rss_article",
-      "description": "I vincitori di concorso PNRR neoassunti per l'anno scolastico 2025/26 con contratto a tempo determinato al 31 agosto 2026 finalizzato al ruolo previo conseguimento dell'abilitazione, devono iscriversi ai percorsi completamento disposti dal dm n. 138 del 27 gennaio 2026.\nL'articolo\nAbilitazioni, ecco i Percorsi di completamento 30 e 30 CFU per vincitori concorso PNRR neoassunti. Costo max 2.500 euro\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "I vincitori di concorso PNRR neoassunti per l'anno scolastico 2025/26 con contratto a tempo determinato al 31 agosto 2026 finalizzato al ruolo previo conseguimento dell'abilitazione, devono iscriversi ai percorsi completamento disposti dal dm n. 138 del 27 gennaio 2026.\nL'articolo\nAbilitazioni, ecco i Percorsi di completamento 30 e 30 CFU per vincitori concorso PNRR neoassunti. Costo max 2.500 euro\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "description": "Pubblicato il decreto MUR n.- 138 del 27 gennaio 202 che attiva il terzo ciclo di percorsi per il conseguimento dell'abilitazione nella scuola secondaria. Il punto di vista critico del sindacato FLC CGIl.\nL'articolo\nPercorsi abilitanti, FLC CGIL critica: per tanti esperienza poco qualificata, pochi laboratori e scarso supporto nel tirocinio. Costi troppo elevati\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Pubblicato il decreto MUR n.- 138 del 27 gennaio 202 che attiva il terzo ciclo di percorsi per il conseguimento dell'abilitazione nella scuola secondaria. Il punto di vista critico del sindacato FLC CGIl.\nL'articolo\nPercorsi abilitanti, FLC CGIL critica: per tanti esperienza poco qualificata, pochi laboratori e scarso supporto nel tirocinio. Costi troppo elevati\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
-      "id": "f963d23779164ef2"
+      "id": "36d99c7df596a890"
+    },
+    {
+      "title": "Percorsi abilitanti 2025/26: chi può iscriversi ai 36 CFU",
+      "url": "https://www.orizzontescuola.it/percorsi-abilitanti-2025-26-chi-puo-iscriversi-ai-36-cfu/",
+      "date": "Wed, 28 Jan 2026 10:25:27 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Percorsi abilitanti 60, 30, 36 CFU: è stata resa nota l'offerta formativa da parte delle Università per l'avvio del terzo ciclo relativo all'anno accademico 2025/26. Chi può partecipare.\nL'articolo\nPercorsi abilitanti 2025/26: chi può iscriversi ai 36 CFU\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Percorsi abilitanti 60, 30, 36 CFU: è stata resa nota l'offerta formativa da parte delle Università per l'avvio del terzo ciclo relativo all'anno accademico 2025/26. Chi può partecipare.\nL'articolo\nPercorsi abilitanti 2025/26: chi può iscriversi ai 36 CFU\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "a4738b5b076d0edb"
     },
     {
       "title": "Percorsi abilitanti 60, 36, 30 CFU: ecco i BANDI aperti per le iscrizioni 2025/26",
       "url": "https://www.orizzontescuola.it/percorsi-abilitanti-60-36-30-cfu-ecco-le-nuove-pagine-delle-universita-per-lanno-accademico-2025-26/",
-      "date": "Tue, 27 Jan 2026 20:46:09 +0000",
+      "date": "Wed, 28 Jan 2026 10:22:09 +0000",
       "source": "Orizzonte Scuola - Diventare Insegnanti",
       "type": "rss_article",
       "description": "Percorsi abilitanti dell'anno accademico 2025/26: alcune Università hanno già predisposto le nuove pagine per i percorsi da 60.36 e 30 CFU. Altre lo faranno nel corso delle prossime settimane, verosimilmente dopo la conclusione degli esami finali del 2024/25 per i corsi ancora attivi e con la pubblicazione del decreto MUR con i nuovi corsi accreditati. Nelle nuove pagine saranno pubblicati i BANDI, con le date per la presentazione della domanda.\nL'articolo\nPercorsi abilitanti 60, 36, 30 CFU: ecc",
       "full_content": "Percorsi abilitanti dell'anno accademico 2025/26: alcune Università hanno già predisposto le nuove pagine per i percorsi da 60.36 e 30 CFU. Altre lo faranno nel corso delle prossime settimane, verosimilmente dopo la conclusione degli esami finali del 2024/25 per i corsi ancora attivi e con la pubblicazione del decreto MUR con i nuovi corsi accreditati. Nelle nuove pagine saranno pubblicati i BANDI, con le date per la presentazione della domanda.\nL'articolo\nPercorsi abilitanti 60, 36, 30 CFU: ecco i BANDI aperti per le iscrizioni 2025/26\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "ea969e60f7730eeb"
+    },
+    {
+      "title": "Concorsi Università al 28 gennaio 2026",
+      "url": "https://www.flcgil.it/universita/concorsi-universita-al-28-gennaio-2026.flc",
+      "date": "Wed, 28 Jan 2026 09:46:37 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Gazzetta Ufficiale n°6 del 23 gennaio 2026\nUNIVERSITÀ DI BOLOGNA «ALMA MATER STUDIORUM»\nProcedura di selezione per la copertura di un posto di ricercatore a tempo...",
+      "full_content": "Gazzetta Ufficiale n°6 del 23 gennaio 2026\nUNIVERSITÀ DI BOLOGNA «ALMA MATER STUDIORUM»\nProcedura di selezione per la copertura di un posto di ricercatore a tempo...",
+      "has_full_content": false,
+      "id": "8c8aa61c7703f943"
+    },
+    {
+      "title": "I 24 CFU non sono abilitanti ma vengono riconosciuti nel percorso da 60. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/i-24-cfu-non-sono-abilitanti-ma-vengono-riconosciuti-nel-percorso-da-60-pillole-di-question-time/",
+      "date": "Wed, 28 Jan 2026 09:34:52 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 26 gennaio 2026 su OrizzonteScuola TV, condotto da Francesco Bunetto e con ospite Sonia Cannas, docente esperta, si è tornati a fare chiarezza su un tema che genera ancora dubbi tra gli aspiranti docenti: il valore dei 24 CFU e la loro eventuale natura abilitante. Il focus dell’intervento ha riguardato la distinzione tra requisiti di accesso ai concorsi e percorsi di abilitazione all’insegnamento.\nL'articolo\nI 24 CFU non sono abilitanti ma vengono riconosciuti nel percorso ",
+      "full_content": "Nel question time del 26 gennaio 2026 su OrizzonteScuola TV, condotto da Francesco Bunetto e con ospite Sonia Cannas, docente esperta, si è tornati a fare chiarezza su un tema che genera ancora dubbi tra gli aspiranti docenti: il valore dei 24 CFU e la loro eventuale natura abilitante. Il focus dell’intervento ha riguardato la distinzione tra requisiti di accesso ai concorsi e percorsi di abilitazione all’insegnamento.\nL'articolo\nI 24 CFU non sono abilitanti ma vengono riconosciuti nel percorso da 60. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "d90dd7c9c9ef8aa6"
+    },
+    {
+      "title": "Solidarietà con l'Unione degli Insegnanti della Siria Settentrionale e Orientale (UTNES) e il popolo curdo in Rojava",
+      "url": "https://www.flcgil.it/attualita/solidarieta-con-l-unione-degli-insegnanti-della-siria-settentrionale-e-orientale-utnes-e-il-popolo-curdo-in-rojava.flc",
+      "date": "Wed, 28 Jan 2026 09:26:42 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Martedì 27 gennaio si è svolto un incontro online con l'Unione degli Insegnanti della Siria Settentrionale e Orientale (UTNES) organizzato da una rete di solidariet&agrave...",
+      "full_content": "Martedì 27 gennaio si è svolto un incontro online con l'Unione degli Insegnanti della Siria Settentrionale e Orientale (UTNES) organizzato da una rete di solidariet&agrave...",
+      "has_full_content": false,
+      "id": "d4915f636a6d2ba2"
+    },
+    {
+      "title": "Posizioni economiche ATA: per candidate in gravidanza o allattamento previste le prove suppletive. FAQ Ministero e indicazioni",
+      "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-per-candidate-in-gravidanza-o-allattamento-previste-le-prove-suppletive-faq-ministero-e-indicazioni/",
+      "date": "Wed, 28 Jan 2026 08:30:04 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Dal 23 al 27 febbraio si svolgeranno le prove finali di valutazione finalizzate all'attribuzione delle nuove 46mila posizioni economiche ATA. Per le candidate che si trovano in gravidanza o in periodo di allattamento sono previste le prove suppletive.\nL'articolo\nPosizioni economiche ATA: per candidate in gravidanza o allattamento previste le prove suppletive. FAQ Ministero e indicazioni\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Dal 23 al 27 febbraio si svolgeranno le prove finali di valutazione finalizzate all'attribuzione delle nuove 46mila posizioni economiche ATA. Per le candidate che si trovano in gravidanza o in periodo di allattamento sono previste le prove suppletive.\nL'articolo\nPosizioni economiche ATA: per candidate in gravidanza o allattamento previste le prove suppletive. FAQ Ministero e indicazioni\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "c18c4760e644646d"
+    },
+    {
+      "title": "Secondo ciclo Indire/Università: decreto imminente, corsi dovranno partire max entro inizio marzo per concludersi entro 30 giugno",
+      "url": "https://www.orizzontescuola.it/secondo-ciclo-indire-universita-decreto-imminente-corsi-dovranno-partire-max-entro-inizio-marzo-per-concludersi-entro-30-giugno/",
+      "date": "Wed, 28 Jan 2026 08:26:17 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Secondo ciclo Indire possibile grazie al Decreto Scuola n. 127/2025 che ha reso possibile un nuovo ciclo di percorsi per la specializzazione sul sostegno paralleli al tradizionale TFA sostegno. Molto atteso, i tempi si fanno veramente stringati.\nL'articolo\nSecondo ciclo Indire/Università: decreto imminente, corsi dovranno partire max entro inizio marzo per concludersi entro 30 giugno\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Secondo ciclo Indire possibile grazie al Decreto Scuola n. 127/2025 che ha reso possibile un nuovo ciclo di percorsi per la specializzazione sul sostegno paralleli al tradizionale TFA sostegno. Molto atteso, i tempi si fanno veramente stringati.\nL'articolo\nSecondo ciclo Indire/Università: decreto imminente, corsi dovranno partire max entro inizio marzo per concludersi entro 30 giugno\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "983ddc408f73a93f"
+    },
+    {
+      "title": "GPS 2026, servizio scuole statali e paritarie danno stesso punteggio. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/gps-2026-servizio-scuole-statali-e-paritarie-danno-stesso-punteggio-pillole-di-question-time/",
+      "date": "Wed, 28 Jan 2026 08:00:42 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 26 gennaio 2026 su OrizzonteScuola TV, condotto da Francesco Bunetto e con ospite Sonia Cannas, docente esperta, è stato approfondito il tema della valutazione del servizio svolto nelle scuole statali e paritarie nell’ambito delle Graduatorie Provinciali per le Supplenze. Il focus dell’intervento ha riguardato l’equiparazione tra le due tipologie di servizio e le modalità concrete di attribuzione del punteggio.\nL'articolo\nGPS 2026, servizio scuole statali e paritarie danno ",
+      "full_content": "Nel question time del 26 gennaio 2026 su OrizzonteScuola TV, condotto da Francesco Bunetto e con ospite Sonia Cannas, docente esperta, è stato approfondito il tema della valutazione del servizio svolto nelle scuole statali e paritarie nell’ambito delle Graduatorie Provinciali per le Supplenze. Il focus dell’intervento ha riguardato l’equiparazione tra le due tipologie di servizio e le modalità concrete di attribuzione del punteggio.\nL'articolo\nGPS 2026, servizio scuole statali e paritarie danno stesso punteggio. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "9016d220731d9635"
+    },
+    {
+      "title": "Abilitazioni, ecco i Percorsi di completamento 30 e 36 CFU per vincitori concorso PNRR neoassunti. Costo max 2.500 euro",
+      "url": "https://www.orizzontescuola.it/abilitazioni-ecco-i-percorsi-di-completamento-30-e-30-cfu-per-vincitori-concorso-pnrr-neoassunti-costo-max-2-500-euro/",
+      "date": "Tue, 27 Jan 2026 21:25:33 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "I vincitori di concorso PNRR neoassunti per l'anno scolastico 2025/26 con contratto a tempo determinato al 31 agosto 2026 finalizzato al ruolo previo conseguimento dell'abilitazione, devono iscriversi ai percorsi completamento disposti dal dm n. 138 del 27 gennaio 2026.\nL'articolo\nAbilitazioni, ecco i Percorsi di completamento 30 e 36 CFU per vincitori concorso PNRR neoassunti. Costo max 2.500 euro\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "I vincitori di concorso PNRR neoassunti per l'anno scolastico 2025/26 con contratto a tempo determinato al 31 agosto 2026 finalizzato al ruolo previo conseguimento dell'abilitazione, devono iscriversi ai percorsi completamento disposti dal dm n. 138 del 27 gennaio 2026.\nL'articolo\nAbilitazioni, ecco i Percorsi di completamento 30 e 36 CFU per vincitori concorso PNRR neoassunti. Costo max 2.500 euro\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "6fdc7c3a13aabc73"
     },
     {
       "title": "Percorsi abilitanti 2025/26, confermata una domanda in una sola Università per classe di concorso e anche la selezione per titoli",
@@ -47,8 +168,8 @@
       "date": "Tue, 27 Jan 2026 20:16:33 +0000",
       "source": "Orizzonte Scuola - Diventare Insegnanti",
       "type": "rss_article",
-      "description": "Con decreto n. il MUR ha dato avvio al terzo ciclo dei percorsi per l'acquisizione dell'abilitazione all'insegnamento nella scuola secondaria primo e secondo grado.\nL'articolo\nPercorsi abilitanti 2025/26: pubblicato il Decreto terzo ciclo. I posti suddivisi per Università e la tabella titoli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Con decreto n. il MUR ha dato avvio al terzo ciclo dei percorsi per l'acquisizione dell'abilitazione all'insegnamento nella scuola secondaria primo e secondo grado.\nL'articolo\nPercorsi abilitanti 2025/26: pubblicato il Decreto terzo ciclo. I posti suddivisi per Università e la tabella titoli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "description": "Con decreto n. 137 del 27 gennaio 2026 il MUR ha dato avvio al terzo ciclo dei percorsi per l'acquisizione dell'abilitazione all'insegnamento nella scuola secondaria primo e secondo grado.\nL'articolo\nPercorsi abilitanti 2025/26: pubblicato il Decreto terzo ciclo. I posti suddivisi per Università e la tabella titoli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Con decreto n. 137 del 27 gennaio 2026 il MUR ha dato avvio al terzo ciclo dei percorsi per l'acquisizione dell'abilitazione all'insegnamento nella scuola secondaria primo e secondo grado.\nL'articolo\nPercorsi abilitanti 2025/26: pubblicato il Decreto terzo ciclo. I posti suddivisi per Università e la tabella titoli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "88c7aac588968ad3"
     },
@@ -86,17 +207,6 @@
       "id": "e360e7d78bc0f62d"
     },
     {
-      "title": "GPS 2026-28: entro quale data è necessario avere l’abilitazione? Le riserve incideranno sulle supplenze? RISPOSTE AI QUESITI",
-      "url": "https://www.orizzontescuola.it/gps-2026-28-entro-quale-data-e-necessario-avere-labilitazione-le-riserve-incideranno-sulle-supplenze-risposte-ai-quesiti/",
-      "date": "Tue, 27 Jan 2026 13:50:58 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Graduatorie GPS: riprendono le nostre puntate dedicate all'inserimento, aggiornamento e cambio provincia per gli anni scolastici 2026/27 e 2027/28. Ha risposto ai quesiti dei nostri lettori Sonia Cannas, docente esperta di normative scolastiche.\nL'articolo\nGPS 2026-28: entro quale data è necessario avere l’abilitazione? Le riserve incideranno sulle supplenze? RISPOSTE AI QUESITI\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Graduatorie GPS: riprendono le nostre puntate dedicate all'inserimento, aggiornamento e cambio provincia per gli anni scolastici 2026/27 e 2027/28. Ha risposto ai quesiti dei nostri lettori Sonia Cannas, docente esperta di normative scolastiche.\nL'articolo\nGPS 2026-28: entro quale data è necessario avere l’abilitazione? Le riserve incideranno sulle supplenze? RISPOSTE AI QUESITI\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "1710cacd1aabddeb"
-    },
-    {
       "title": "Tentativo di phishing ai danni del personale: finta email a nome di NoiPA. Come difendersi",
       "url": "https://www.orizzontescuola.it/tentativo-di-phishing-ai-danni-del-personale-finta-email-a-nome-di-noipa-come-difendersi/",
       "date": "Tue, 27 Jan 2026 13:34:34 +0000",
@@ -106,17 +216,6 @@
       "full_content": "Nei giorni scorsi, alcuni dipendenti del Ministero della Difesa in servizio presso la Marina Militare hanno ricevuto una comunicazione via email con contenuti truffaldini. Il messaggio, presentato come proveniente da NoiPA, invitava a consultare informazioni economiche personali tramite un link inserito nel testo.\nL'articolo\nTentativo di phishing ai danni del personale: finta email a nome di NoiPA. Come difendersi\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "b682c1fddba34c2a"
-    },
-    {
-      "title": "Graduatorie GPS 2026, per primo inserimento bisogna registrarsi a Istanze online. Serve anche SPID o carta identità CIE. GUIDA",
-      "url": "https://www.orizzontescuola.it/graduatorie-gps-2026-per-primo-inserimento-bisogna-registrarsi-a-istanze-online-serve-anche-spid-o-carta-identita-cie-guida/",
-      "date": "Tue, 27 Jan 2026 13:22:29 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
-      "type": "rss_article",
-      "description": "Graduatorie GPS provinciali e di istituto per il biennio 2026/28: si è in attesa dell'Ordinanza e dell'Avviso del Ministero dell'Istruzione e del Merito con le date utili per la presentazione della domanda. Alcune indicazioni per chi accede per la prima volta al sistema utilizzato.\nL'articolo\nGraduatorie GPS 2026, per primo inserimento bisogna registrarsi a Istanze online. Serve anche SPID o carta identità CIE. GUIDA\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Graduatorie GPS provinciali e di istituto per il biennio 2026/28: si è in attesa dell'Ordinanza e dell'Avviso del Ministero dell'Istruzione e del Merito con le date utili per la presentazione della domanda. Alcune indicazioni per chi accede per la prima volta al sistema utilizzato.\nL'articolo\nGraduatorie GPS 2026, per primo inserimento bisogna registrarsi a Istanze online. Serve anche SPID o carta identità CIE. GUIDA\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "c21f879ec79d403d"
     },
     {
       "title": "INAIL: gli effetti del CCNL 2022-2024 sui salari",
@@ -141,37 +240,37 @@
       "id": "83d74504c6f5fd22"
     },
     {
-      "title": "Concorso infanzia e primaria PNRR3, prova orale [Le convocazioni]",
-      "url": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-pnrr3-arrivano-le-convocazioni-prova-orale-dal-19-gennaio-in-aggiornamento/",
-      "date": "Tue, 27 Jan 2026 12:00:57 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "title": "Decreto Ministeriale 138 del 27 gennaio 2026 - Allegato B",
+      "url": "https://www.flcgil.it/leggi-normative/documenti/decreti-ministeriali/decreto-ministeriale-138-del-27-gennaio-2026-allegato-b.flc",
+      "date": "Tue, 27 Jan 2026 10:43:00 +0100",
+      "source": "FLC CGIL",
       "type": "rss_article",
-      "description": "Convocazioni concorso DDG n. 2398/2025: arrivate le prime convocazioni per la prova orale. La convocazione viene inviata a coloro che hanno raggiunto il voto minimo rientrando nel gruppo degli ammessi alla prova orale.\nL'articolo\nConcorso infanzia e primaria PNRR3, prova orale [Le convocazioni]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Convocazioni concorso DDG n. 2398/2025: arrivate le prime convocazioni per la prova orale. La convocazione viene inviata a coloro che hanno raggiunto il voto minimo rientrando nel gruppo degli ammessi alla prova orale.\nL'articolo\nConcorso infanzia e primaria PNRR3, prova orale [Le convocazioni]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "db2c4730358ffb3f"
+      "description": "Decreto Ministeriale 138 del 27 gennaio 2026 - Allegato B",
+      "full_content": "Decreto Ministeriale 138 del 27 gennaio 2026 - Allegato B",
+      "has_full_content": false,
+      "id": "fc13a7b92ce30697"
     },
     {
-      "title": "Concorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]",
-      "url": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-lettera-estratta-per-avvio-delle-prove-orali-in-aggiornamento/",
-      "date": "Tue, 27 Jan 2026 12:00:44 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "title": "Decreto Ministeriale 138 del 27 gennaio 2026 - Allegato A",
+      "url": "https://www.flcgil.it/leggi-normative/documenti/decreti-ministeriali/decreto-ministeriale-138-del-27-gennaio-2026-allegato-a.flc",
+      "date": "Tue, 27 Jan 2026 10:41:00 +0100",
+      "source": "FLC CGIL",
       "type": "rss_article",
-      "description": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: ecco le lettere estratte per l'avvio delle prove orali. Avvisi USR in aggiornamento.\nL'articolo\nConcorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Concorso docenti PNRR3 bandito con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: ecco le lettere estratte per l'avvio delle prove orali. Avvisi USR in aggiornamento.\nL'articolo\nConcorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "1e87894b022f4662"
+      "description": "Decreto Ministeriale 138 del 27 gennaio 2026 - Allegato A",
+      "full_content": "Decreto Ministeriale 138 del 27 gennaio 2026 - Allegato A",
+      "has_full_content": false,
+      "id": "8373696916e28f86"
     },
     {
-      "title": "Concorso PNRR3 docenti secondaria, al via la PROVA ORALE. Ecco le convocazioni [AGGIORNATO]",
-      "url": "https://www.orizzontescuola.it/concorso-pnrr3-docenti-secondaria-al-via-la-prova-orale-ecco-le-convocazioni-in-aggiornamento/",
-      "date": "Tue, 27 Jan 2026 12:00:23 +0000",
-      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "title": "Decreto Ministeriale 138 del 27 gennaio 2026 - Autorizzazione posti e modalità di selezione per attivazione percorsi formazione iniziale docenti aa 2025-2026",
+      "url": "https://www.flcgil.it/leggi-normative/documenti/decreti-ministeriali/decreto-ministeriale-138-del-27-gennaio-2026-autorizzazione-posti-e-modalita-di-selezione-per-attivazione-percorsi-formazione-iniziale-docenti-aa-2025-2026.flc",
+      "date": "Tue, 27 Jan 2026 10:36:00 +0100",
+      "source": "FLC CGIL",
       "type": "rss_article",
-      "description": "Concorso docenti secondaria bandito con DDG n. 2939/2025: al via le prove orali. Laddove sono state formate le commissioni e proceduto all'estrazione della lettera di avvio, si può formalmente dare avvio alle prove orali (e pratiche per le classi di concorso che le prevedono).\nL'articolo\nConcorso PNRR3 docenti secondaria, al via la PROVA ORALE. Ecco le convocazioni [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "full_content": "Concorso docenti secondaria bandito con DDG n. 2939/2025: al via le prove orali. Laddove sono state formate le commissioni e proceduto all'estrazione della lettera di avvio, si può formalmente dare avvio alle prove orali (e pratiche per le classi di concorso che le prevedono).\nL'articolo\nConcorso PNRR3 docenti secondaria, al via la PROVA ORALE. Ecco le convocazioni [AGGIORNATO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "ff702417a28fdf4e"
+      "description": "Decreto Ministeriale 138 del 27 gennaio 2026 - Autorizzazione posti e modalità di selezione per attivazione percorsi formazione iniziale docenti aa 2025-2026",
+      "full_content": "Decreto Ministeriale 138 del 27 gennaio 2026 - Autorizzazione posti e modalità di selezione per attivazione percorsi formazione iniziale docenti aa 2025-2026",
+      "has_full_content": false,
+      "id": "712fc71c8f9ad2d9"
     },
     {
       "title": "Prova finale posizioni economiche ATA: come si svolge il test e come si forma la graduatoria. Pillole di Question Time",
@@ -183,50 +282,6 @@
       "full_content": "Nel question time del 20 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Pasquale Raimondo, sindacalista della Uil Scuola Rua, è stata approfondita una questione centrale per il personale scolastico coinvolto nei percorsi concorsuali. L’attenzione si è concentrata su: la natura della prova finale e i criteri utilizzati per la formazione delle graduatorie.\nL'articolo\nProva finale posizioni economiche ATA: come si svolge il test e come si forma la graduatoria. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "1cc6c077a328f6da"
-    },
-    {
-      "title": "Graduatorie concorso dirigenti scolastici. In arrivo l’ennesimo colpo di scena",
-      "url": "https://www.flcgil.it/scuola/dirigenti/graduatorie-concorso-dirigenti-scolastici-in-arrivo-l-ennesimo-colpo-di-scena.flc",
-      "date": "Thu, 22 Jan 2026 16:17:03 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Com’è noto, la norma che nel 2022 aveva ripristinato la validità della graduatoria del concorso nazionale 2017, prevedendo l’inclusione di tutti i soggetti con contenziosi in atto con l’amministrazione per il mancato...",
-      "full_content": "Com’è noto, la norma che nel 2022 aveva ripristinato la validità della graduatoria del concorso nazionale 2017, prevedendo l’inclusione di tutti i soggetti con contenziosi in atto con l’amministrazione per il mancato...",
-      "has_full_content": true,
-      "id": "abb7f08ca6ad0f10"
-    },
-    {
-      "title": "Esami di maturità: importante pronunciamento del Garante per la protezione dei dati personali",
-      "url": "https://www.flcgil.it/scuola/docenti/secondo-ciclo/esami-di-maturita-importante-pronunciamento-del-garante-per-la-protezione-dei-dati-personali.flc",
-      "date": "Thu, 22 Jan 2026 14:32:14 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Per quanto riguarda il nuovo esame di Stato, ormai ridenominato\n“esame di maturit&agrave...",
-      "full_content": "Per quanto riguarda il nuovo esame di Stato, ormai ridenominato\n“esame di maturit&agrave...",
-      "has_full_content": false,
-      "id": "e9b4a8df2820b508"
-    },
-    {
-      "title": "Parere GPDP su schema decreto MIM attuativo DL 127/25 di implementazione modello “Curriculum della studentessa e dello studente” - 18 dicembre 2025",
-      "url": "https://www.flcgil.it/sindacato/documenti/scuola/parere-gpdp-su-schema-decreto-mim-attuativo-dl-127-25-di-implementazione-modello-curriculum-della-studentessa-e-dello-studente-18-dicembre-2025.flc",
-      "date": "Thu, 22 Jan 2026 14:21:25 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Parere GPDP su schema decreto MIM attuativo DL 127/25 di implementazione modello “Curriculum della studentessa e dello studente” - 18 dicembre 2025",
-      "full_content": "Parere GPDP su schema decreto MIM attuativo DL 127/25 di implementazione modello “Curriculum della studentessa e dello studente” - 18 dicembre 2025",
-      "has_full_content": false,
-      "id": "1ee8efe8fa590e6d"
-    },
-    {
-      "title": "Decreto Milleproroghe: le proposte emendative presentate dalla FLC CGIL",
-      "url": "https://www.flcgil.it/attualita/decreto-milleproroghe-le-proposte-emendative-presentate-dalla-flc-cgil.flc",
-      "date": "Thu, 22 Jan 2026 11:04:53 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Con la pubblicazione del decreto-legge n. 200 del 31 dicembre 2025, il cosiddetto “Milleproroghe”, il Governo è intervenuto ancora una volta su numerosi ambiti dei settori della...",
-      "full_content": "Con la pubblicazione del decreto-legge n. 200 del 31 dicembre 2025, il cosiddetto “Milleproroghe”, il Governo è intervenuto ancora una volta su numerosi ambiti dei settori della...",
-      "has_full_content": false,
-      "id": "b6ef1e1de4badc30"
     },
     {
       "title": "Posizioni economiche ATA, anche chi è in assegnazione provvisoria svolge la prova nella provincia di servizio. Pillole di Question Time",
@@ -350,6 +405,28 @@
       "id": "94695a29200d75a7"
     },
     {
+      "title": "Decreto Ministeriale 137 del 26 gennaio 2026 - All. A Decreto riserva posti",
+      "url": "https://www.flcgil.it/leggi-normative/documenti/decreti-ministeriali/decreto-ministeriale-137-del-26-gennaio-2026-all-a-decreto-riserva-posti.flc",
+      "date": "Mon, 26 Jan 2026 10:42:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Decreto Ministeriale 137 del 26 gennaio 2026 - All. A Decreto riserva posti",
+      "full_content": "Decreto Ministeriale 137 del 26 gennaio 2026 - All. A Decreto riserva posti",
+      "has_full_content": false,
+      "id": "1d6d6110fde5d08a"
+    },
+    {
+      "title": "Decreto Ministeriale 137 del 26 gennaio 2026 - Riserva posti percorsi di formazione iniziale docenti aa 2025-2026",
+      "url": "https://www.flcgil.it/leggi-normative/documenti/decreti-ministeriali/decreto-ministeriale-137-del-26-gennaio-2026-riserva-posti-percorsi-di-formazione-iniziale-docenti-aa-2025-2026.flc",
+      "date": "Mon, 26 Jan 2026 10:39:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Decreto Ministeriale 137 del 26 gennaio 2026 - Riserva posti percorsi di formazione iniziale docenti aa 2025-2026",
+      "full_content": "Decreto Ministeriale 137 del 26 gennaio 2026 - Riserva posti percorsi di formazione iniziale docenti aa 2025-2026",
+      "has_full_content": false,
+      "id": "019e4d012522cb88"
+    },
+    {
       "title": "#IceOutSchools, sindacati Usa contro il terrore di Trump",
       "url": "https://www.flcgil.it/rassegna-stampa/nazionale/iceoutschools-sindacati-usa-contro-il-terrore-di-trump.flc",
       "date": "Mon, 26 Jan 2026 09:46:00 +0100",
@@ -405,39 +482,6 @@
       "id": "ada8dc5266f261d8"
     },
     {
-      "title": "Nota ministeriale 779 del 23 gennaio 2026 - Indicazioni operative transito in diverso settore artistico-disciplinare docenti di ruolo",
-      "url": "https://www.flcgil.it/leggi-normative/documenti/note-ministeriali/nota-ministeriale-779-del-23-gennaio-2026-indicazioni-operative-transito-in-diverso-settore-artistico-disciplinare-docenti-di-ruolo.flc",
-      "date": "Fri, 23 Jan 2026 17:17:59 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Nota ministeriale 779 del 23 gennaio 2026 - Indicazioni operative transito in diverso settore artistico-disciplinare docenti di ruolo",
-      "full_content": "Nota ministeriale 779 del 23 gennaio 2026 - Indicazioni operative transito in diverso settore artistico-disciplinare docenti di ruolo",
-      "has_full_content": false,
-      "id": "0bc3a71b4acaa713"
-    },
-    {
-      "title": "La scuola è della Costituzione",
-      "url": "https://www.flcgil.it/regioni/friuli-venezia-giulia/scuola-e-della-costituzione.flc",
-      "date": "Fri, 23 Jan 2026 16:17:00 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "A cura della CGIL e della FLC CGIL Friuli Venezia Giulia\nUn manifesto affisso qualche giorno fa sui muri del liceo Leopardi-Maiorana di Pordenone da Azione Studentesca, movimento politico che si colloca esplicitamente nell&rsquo...",
-      "full_content": "A cura della CGIL e della FLC CGIL Friuli Venezia Giulia\nUn manifesto affisso qualche giorno fa sui muri del liceo Leopardi-Maiorana di Pordenone da Azione Studentesca, movimento politico che si colloca esplicitamente nell&rsquo...",
-      "has_full_content": true,
-      "id": "1aa27d1e1aeb529d"
-    },
-    {
-      "title": "Arretrati CCNL 2022-2024: la FLC CGIL interviene presso NoiPA",
-      "url": "https://www.flcgil.it/scuola/arretrati-ccnl-2022-2024-la-flc-cgil-interviene-presso-noipa.flc",
-      "date": "Fri, 23 Jan 2026 14:11:58 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "La FLC CGIL è intervenuta formalmente presso NoiPA per segnalare e denunciare le numerose anomalie riscontrate nella",
-      "full_content": "La FLC CGIL è intervenuta formalmente presso NoiPA per segnalare e denunciare le numerose anomalie riscontrate nella",
-      "has_full_content": false,
-      "id": "0351fc8250d94162"
-    },
-    {
       "title": "Posizioni economiche ATA, prove finali dal 23 al 27 febbraio: ecco il calendario. AVVISO e VIDEO TUTORIAL Ministero",
       "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-prove-finali-dal-23-al-27-febbraio-ecco-il-calendario-avviso-ministero/",
       "date": "Fri, 23 Jan 2026 14:02:37 +0000",
@@ -458,50 +502,6 @@
       "full_content": "Il Ministero dell’Istruzione e del Merito ha diffuso le indicazioni rivolte agli Uffici Scolastici Regionali per la gestione delle prove conclusive della procedura selettiva ATA, secondo quanto previsto dal decreto ministeriale del 12 luglio 2024, n. 140.\nL'articolo\nProva finale per le posizioni economiche ATA: le ISTRUZIONI operative del MIM agli USR\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "df76c984a73c3284"
-    },
-    {
-      "title": "Posizioni economiche ATA: pubblicato il calendario delle prove finali",
-      "url": "https://www.flcgil.it/scuola/ata/posizioni-economiche-ata-pubblicato-il-calendario-delle-prove-finali.flc",
-      "date": "Fri, 23 Jan 2026 13:53:14 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Il Ministero dell’Istruzione e del Merito ha pubblicato, con",
-      "full_content": "Il Ministero dell’Istruzione e del Merito ha pubblicato, con",
-      "has_full_content": false,
-      "id": "14ca8e758b7a732e"
-    },
-    {
-      "title": "Nota 1744 del 23 gennaio 2026 - Prova finale procedura attribuzione posizioni economiche ATA - Calendario prova scritta",
-      "url": "https://www.flcgil.it/leggi-normative/documenti/note-ministeriali/nota-1744-del-23-gennaio-2026-prova-finale-procedura-attribuzione-posizioni-economiche-ata-calendario-prova-scritta.flc",
-      "date": "Fri, 23 Jan 2026 13:49:45 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "Nota 1744 del 23 gennaio 2026 - Prova finale procedura attribuzione posizioni economiche ATA - Calendario prova scritta",
-      "full_content": "Nota 1744 del 23 gennaio 2026 - Prova finale procedura attribuzione posizioni economiche ATA - Calendario prova scritta",
-      "has_full_content": false,
-      "id": "fe7488b8539fc5df"
-    },
-    {
-      "title": "FLC CGIL Solidarity message to AFT and NEA for #IceOutSchools Day January 23, 2026",
-      "url": "https://www.flcgil.it/sindacato/documenti/europa-mondo/flc-cgil-solidarity-message-to-aft-and-nea-for-iceoutschools-day-january-23-2026.flc",
-      "date": "Fri, 23 Jan 2026 11:22:00 +0100",
-      "source": "FLC CGIL",
-      "type": "rss_article",
-      "description": "FLC CGIL Solidarity message to AFT and NEA for #IceOutSchools Day January 23, 2026",
-      "full_content": "FLC CGIL Solidarity message to AFT and NEA for #IceOutSchools Day January 23, 2026",
-      "has_full_content": false,
-      "id": "d5ad4ed9df19cb8f"
-    },
-    {
-      "title": "Posizioni economiche ATA: quando e dove si svolge la prova finale, come si viene convocati. RISPOSTE AI QUESITI",
-      "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-quando-e-dove-si-svolge-la-prova-finale-come-si-viene-convocati-risposte-ai-quesiti/",
-      "date": "Fri, 23 Jan 2026 07:10:11 +0000",
-      "source": "Orizzonte Scuola - ATA",
-      "type": "rss_article",
-      "description": "Le posizioni economiche rappresentano un riconoscimento professionale ed economico legato all’assunzione di maggiori responsabilità rispetto alle mansioni ordinarie del profilo di appartenenza. Si tratta di un istituto contrattuale di particolare rilievo perché comporta un incremento stipendiale valido per tredici mensilità, pensionabile e stabile nel tempo.\nL'articolo\nPosizioni economiche ATA: quando e dove si svolge la prova finale, come si viene convocati. RISPOSTE AI QUESITI\nsembra essere il",
-      "full_content": "Le posizioni economiche rappresentano un riconoscimento professionale ed economico legato all’assunzione di maggiori responsabilità rispetto alle mansioni ordinarie del profilo di appartenenza. Si tratta di un istituto contrattuale di particolare rilievo perché comporta un incremento stipendiale valido per tredici mensilità, pensionabile e stabile nel tempo.\nL'articolo\nPosizioni economiche ATA: quando e dove si svolge la prova finale, come si viene convocati. RISPOSTE AI QUESITI\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
-      "has_full_content": true,
-      "id": "2f2145114fbbeb0c"
     },
     {
       "title": "ATP Roma. Posizioni economiche ATA: richiesta di documentazione per concessione ausili, tempi aggiuntivi e altre necessità",
@@ -556,6 +556,15 @@
       "type": "news",
       "description": "",
       "id": "a491c09d5cd1cbe5"
+    },
+    {
+      "title": "“La sfida dei dati – Scenari di conflitto. I dati in guerra e pace”  – Concorso nazionale a.s. 2025/2026",
+      "url": "https://www.ufficioscolasticoregionalelazio.it/2026/01/28/la-sfida-dei-dati-scenari-di-conflitto-i-dati-in-guerra-e-pace-concorso-nazionale-a-s-2025-2026/",
+      "date": "2026-01-28T12:44:32.367634",
+      "source": "USR Lazio",
+      "type": "comunicazione",
+      "description": "",
+      "id": "3699b38a6cc2f3db"
     }
   ]
 }
