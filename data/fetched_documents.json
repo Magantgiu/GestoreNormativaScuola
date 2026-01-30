@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-29T18:43:14.728747",
+  "last_fetch": "2026-01-30T01:49:20.117663",
   "stats": {
     "total": 347,
-    "fetched": 33,
-    "skipped": 67,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 33
+    "html": 1
   },
-  "total_documents": 874,
+  "total_documents": 875,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -12947,6 +12947,21 @@
       "success": true,
       "fetched_at": "2026-01-29T18:43:12.726063",
       "document_type": "html"
+    },
+    {
+      "title": "Posizioni economiche ATA, prova finale dal 23 al 27 febbraio. Ecco le convocazioni e le sedi [IN AGGIORNAMENTO]",
+      "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-prova-finale-dal-23-al-27-febbraio-ecco-le-convocazioni-in-aggiornamento/",
+      "date": "Thu, 29 Jan 2026 20:23:57 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Dal 23 al 27 febbraio, in base al\ncalendario diffuso dal MIM\n, si svolgono le prove finali di valutazione per l'attribuzione delle nuove 46mila posizioni economiche ATA. Gli Uffici scolastici regionali pubblicano gli avvisi di convocazione.\nL'articolo\nPosizioni economiche ATA, prova finale dal 23 al 27 febbraio. Ecco le convocazioni e le sedi [IN AGGIORNAMENTO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Dal 23 al 27 febbraio, in base al\ncalendario diffuso dal MIM\n, si svolgono le prove finali di valutazione per l'attribuzione delle nuove 46mila posizioni economiche ATA. Gli Uffici scolastici regionali pubblicano gli avvisi di convocazione.\nL'articolo\nPosizioni economiche ATA, prova finale dal 23 al 27 febbraio. Ecco le convocazioni e le sedi [IN AGGIORNAMENTO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "f010772aaee8a0b3",
+      "text": "Dal 23 al 27 febbraio, in base al\ncalendario diffuso dal MIM\n, si svolgono le prove finali di valutazione per l'attribuzione delle nuove 46mila posizioni economiche ATA. Gli Uffici scolastici regionali pubblicano gli avvisi di convocazione.\nL'articolo\nPosizioni economiche ATA, prova finale dal 23 al 27 febbraio. Ecco le convocazioni e le sedi [IN AGGIORNAMENTO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-30T01:49:19.605431",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
