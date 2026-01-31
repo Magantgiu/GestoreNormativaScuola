@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-31T01:47:13.923718",
+  "last_fetch": "2026-01-31T06:36:39.189770",
   "stats": {
-    "total": 323,
-    "fetched": 26,
-    "skipped": 74,
+    "total": 348,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 26
+    "html": 1
   },
-  "total_documents": 927,
+  "total_documents": 928,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -13711,6 +13711,21 @@
       "success": true,
       "fetched_at": "2026-01-31T01:47:12.645483",
       "document_type": "html"
+    },
+    {
+      "title": "Belluno: bambino fatto scendere dal pullman e lasciato a piedi sotto la neve",
+      "url": "https://www.flcgil.it/regioni/veneto/belluno/belluno-bambino-fatto-scendere-dal-pullman-e-lasciato-a-piedi-sotto-la-neve.flc",
+      "date": "Fri, 30 Jan 2026 22:39:49 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "«Ancora una volta, a pagare il prezzo più alto di decisioni, che non mettono al centro il territorio bellunese e la scuola sono studenti e studentesse». Netta è la presa di posizione della FLC CGIL di Belluno per quanto...",
+      "full_content": "«Ancora una volta, a pagare il prezzo più alto di decisioni, che non mettono al centro il territorio bellunese e la scuola sono studenti e studentesse». Netta è la presa di posizione della FLC CGIL di Belluno per quanto...",
+      "has_full_content": true,
+      "id": "1f4397ade817ae7d",
+      "text": "«Ancora una volta, a pagare il prezzo più alto di decisioni, che non mettono al centro il territorio bellunese e la scuola sono studenti e studentesse». Netta è la presa di posizione della FLC CGIL di Belluno per quanto...",
+      "fetched_at": "2026-01-31T06:36:38.675980",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
