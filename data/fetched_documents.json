@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-01-31T12:41:31.955241",
+  "last_fetch": "2026-01-31T18:29:24.220507",
   "stats": {
     "total": 348,
-    "fetched": 0,
-    "skipped": 100,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 1
   },
-  "total_documents": 928,
+  "total_documents": 929,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -13724,6 +13724,21 @@
       "id": "1f4397ade817ae7d",
       "text": "«Ancora una volta, a pagare il prezzo più alto di decisioni, che non mettono al centro il territorio bellunese e la scuola sono studenti e studentesse». Netta è la presa di posizione della FLC CGIL di Belluno per quanto...",
       "fetched_at": "2026-01-31T06:36:38.675980",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "48.000 docenti neoassunti, questionario online entro il 6 febbraio e recupero assenza primo incontro Indire",
+      "url": "https://www.orizzontescuola.it/48-000-docenti-neoassunti-questionario-online-entro-il-6-febbraio-e-recupero-assenza-primo-incontro-indire/",
+      "date": "Sat, 31 Jan 2026 15:56:58 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Venerdì 30 gennaio si è svolto l’evento nazionale di avvio dedicato ai docenti neoassunti e ai docenti in passaggio di ruolo per l’Anno di formazione e prova 2025/26. A conclusione dell'incontro, viene proposto un questionario anonimo che è possibile restituire entro il 6 febbraio.\nL'articolo\n48.000 docenti neoassunti, questionario online entro il 6 febbraio e recupero assenza primo incontro Indire\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Venerdì 30 gennaio si è svolto l’evento nazionale di avvio dedicato ai docenti neoassunti e ai docenti in passaggio di ruolo per l’Anno di formazione e prova 2025/26. A conclusione dell'incontro, viene proposto un questionario anonimo che è possibile restituire entro il 6 febbraio.\nL'articolo\n48.000 docenti neoassunti, questionario online entro il 6 febbraio e recupero assenza primo incontro Indire\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "4db353ff850ba533",
+      "text": "Venerdì 30 gennaio si è svolto l’evento nazionale di avvio dedicato ai docenti neoassunti e ai docenti in passaggio di ruolo per l’Anno di formazione e prova 2025/26. A conclusione dell'incontro, viene proposto un questionario anonimo che è possibile restituire entro il 6 febbraio.\nL'articolo\n48.000 docenti neoassunti, questionario online entro il 6 febbraio e recupero assenza primo incontro Indire\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-01-31T18:29:23.707608",
       "document_type": "rss_full",
       "success": true
     }
