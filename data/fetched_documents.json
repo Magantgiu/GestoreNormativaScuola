@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-01T06:46:22.399953",
+  "last_fetch": "2026-02-01T12:43:40.549841",
   "stats": {
     "total": 348,
-    "fetched": 0,
-    "skipped": 100,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 1
   },
-  "total_documents": 929,
+  "total_documents": 930,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -13739,6 +13739,21 @@
       "id": "4db353ff850ba533",
       "text": "Venerdì 30 gennaio si è svolto l’evento nazionale di avvio dedicato ai docenti neoassunti e ai docenti in passaggio di ruolo per l’Anno di formazione e prova 2025/26. A conclusione dell'incontro, viene proposto un questionario anonimo che è possibile restituire entro il 6 febbraio.\nL'articolo\n48.000 docenti neoassunti, questionario online entro il 6 febbraio e recupero assenza primo incontro Indire\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2026-01-31T18:29:23.707608",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Abilitazione per chi ha altra abilitazione o specializzazione sostegno: percorso ex art.13 con attività sincrona online al 100%. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/abilitazione-docenti-chi-ha-altra-abilitazione-o-specializzazione-sostegno-puo-iscriversi-a-percorso-ex-art-13-con-attivita-sincrona-online-al-100-pillole-di-question-time/",
+      "date": "Sun, 01 Feb 2026 08:27:36 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 27 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Giallanza e con ospite Giuseppe Semeraro, esperto in normativa scolastica, si è affrontato il tema dei percorsi abilitanti per i docenti. In particolare, si è parlato della situazione di coloro che rientrano nell’ex articolo 13 e della possibilità che per loro siano previsti corsi da 30 CFU, analoghi a quelli destinati ai cosiddetti triennalisti.\nL'articolo\nAbilitazione per chi ha altra abilitazione o specializzazion",
+      "full_content": "Nel question time del 27 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Giallanza e con ospite Giuseppe Semeraro, esperto in normativa scolastica, si è affrontato il tema dei percorsi abilitanti per i docenti. In particolare, si è parlato della situazione di coloro che rientrano nell’ex articolo 13 e della possibilità che per loro siano previsti corsi da 30 CFU, analoghi a quelli destinati ai cosiddetti triennalisti.\nL'articolo\nAbilitazione per chi ha altra abilitazione o specializzazione sostegno: percorso ex art.13 con attività sincrona online al 100%. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "6802eef2be71ed2a",
+      "text": "Nel question time del 27 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Giallanza e con ospite Giuseppe Semeraro, esperto in normativa scolastica, si è affrontato il tema dei percorsi abilitanti per i docenti. In particolare, si è parlato della situazione di coloro che rientrano nell’ex articolo 13 e della possibilità che per loro siano previsti corsi da 30 CFU, analoghi a quelli destinati ai cosiddetti triennalisti.\nL'articolo\nAbilitazione per chi ha altra abilitazione o specializzazione sostegno: percorso ex art.13 con attività sincrona online al 100%. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-01T12:43:40.036089",
       "document_type": "rss_full",
       "success": true
     }
