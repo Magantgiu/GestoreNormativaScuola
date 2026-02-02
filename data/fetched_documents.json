@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-02T12:54:40.823331",
+  "last_fetch": "2026-02-02T18:42:13.363862",
   "stats": {
-    "total": 347,
-    "fetched": 5,
-    "skipped": 95,
+    "total": 346,
+    "fetched": 7,
+    "skipped": 93,
     "failed": 0,
     "pdfs": 0,
-    "html": 5
+    "html": 7
   },
-  "total_documents": 937,
+  "total_documents": 944,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -13861,6 +13861,111 @@
       "fetched_at": "2026-02-02T12:54:40.309784",
       "document_type": "rss_full",
       "success": true
+    },
+    {
+      "title": "Sciopero scuola 12 e 13 gennaio: adesioni allo 0,82% e 0,84%. I dati del Ministero",
+      "url": "https://www.orizzontescuola.it/sciopero-scuola-12-e-13-gennaio-adesioni-allo-082-e-084-i-dati-del-ministero/",
+      "date": "Mon, 02 Feb 2026 16:38:35 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "I dati definitivi relativi allo sciopero proclamato dalle organizzazioni sindacali CSLE, CONALPE, CONFSAI e FLP per le giornate del 12 e 13 gennaio 2026 sono stati comunicati dal Ministero dell’Istruzione e del Merito con avviso del 2 febbraio.\nL'articolo\nSciopero scuola 12 e 13 gennaio: adesioni allo 0,82% e 0,84%. I dati del Ministero\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "I dati definitivi relativi allo sciopero proclamato dalle organizzazioni sindacali CSLE, CONALPE, CONFSAI e FLP per le giornate del 12 e 13 gennaio 2026 sono stati comunicati dal Ministero dell’Istruzione e del Merito con avviso del 2 febbraio.\nL'articolo\nSciopero scuola 12 e 13 gennaio: adesioni allo 0,82% e 0,84%. I dati del Ministero\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "7b59dd6a32584dc0",
+      "text": "I dati definitivi relativi allo sciopero proclamato dalle organizzazioni sindacali CSLE, CONALPE, CONFSAI e FLP per le giornate del 12 e 13 gennaio 2026 sono stati comunicati dal Ministero dell’Istruzione e del Merito con avviso del 2 febbraio.\nL'articolo\nSciopero scuola 12 e 13 gennaio: adesioni allo 0,82% e 0,84%. I dati del Ministero\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-02T18:42:02.527150",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Neoassunti 2025/26: 45.547 i docenti iscritti e attivi sulla piattaforma Indire, oltre 31mila i bilanci iniziali inviati",
+      "url": "https://www.orizzontescuola.it/neoassunti-2025-26-45-547-i-docenti-iscritti-e-attivi-sulla-piattaforma-indire-oltre-31mila-i-bilanci-iniziali-inviati/",
+      "date": "Mon, 02 Feb 2026 16:28:31 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Il portale INDIRE dedicato ai docenti neoassunti per l’anno scolastico 2025/2026 ha reso disponibili i dati più recenti relativi all’utilizzo dell’ambiente online. Le informazioni fanno riferimento agli accessi, allo stato dei bilanci professionali e alle attività documentate dai docenti che operano sulla piattaforma.\nL'articolo\nNeoassunti 2025/26: 45.547 i docenti iscritti e attivi sulla piattaforma Indire, oltre 31mila i bilanci iniziali inviati\nsembra essere il primo su\nOrizzonte Scuola Notiz",
+      "full_content": "Il portale INDIRE dedicato ai docenti neoassunti per l’anno scolastico 2025/2026 ha reso disponibili i dati più recenti relativi all’utilizzo dell’ambiente online. Le informazioni fanno riferimento agli accessi, allo stato dei bilanci professionali e alle attività documentate dai docenti che operano sulla piattaforma.\nL'articolo\nNeoassunti 2025/26: 45.547 i docenti iscritti e attivi sulla piattaforma Indire, oltre 31mila i bilanci iniziali inviati\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "35c06cf324378fcc",
+      "text": "Il portale INDIRE dedicato ai docenti neoassunti per l’anno scolastico 2025/2026 ha reso disponibili i dati più recenti relativi all’utilizzo dell’ambiente online. Le informazioni fanno riferimento agli accessi, allo stato dei bilanci professionali e alle attività documentate dai docenti che operano sulla piattaforma.\nL'articolo\nNeoassunti 2025/26: 45.547 i docenti iscritti e attivi sulla piattaforma Indire, oltre 31mila i bilanci iniziali inviati\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-02T18:42:03.027349",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "GPS: riserva del 15% per il servizio civile e universale non si conteggia ad ogni bollettino. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/gps-riserva-del-15-per-il-servizio-civile-e-universale-non-si-conteggia-ad-ogni-bollettino-pillole-di-question-time/",
+      "date": "Mon, 02 Feb 2026 14:48:48 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 30 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Giallanza e con ospite Chiara Cozzetto, rappresentante della segreteria nazionale di ANIEF, è stato affrontato un tema ricorrente nelle procedure di conferimento delle supplenze. L’attenzione si è concentrata sull’applicazione della riserva del 15% per il servizio civile e sull'eventuale ricalcolo nei diversi bollettini di nomina.\nL'articolo\nGPS: riserva del 15% per il servizio civile e universale non si conteggia ad",
+      "full_content": "Nel question time del 30 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Giallanza e con ospite Chiara Cozzetto, rappresentante della segreteria nazionale di ANIEF, è stato affrontato un tema ricorrente nelle procedure di conferimento delle supplenze. L’attenzione si è concentrata sull’applicazione della riserva del 15% per il servizio civile e sull'eventuale ricalcolo nei diversi bollettini di nomina.\nL'articolo\nGPS: riserva del 15% per il servizio civile e universale non si conteggia ad ogni bollettino. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "5ead3797759bb78b",
+      "text": "Nel question time del 30 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Giallanza e con ospite Chiara Cozzetto, rappresentante della segreteria nazionale di ANIEF, è stato affrontato un tema ricorrente nelle procedure di conferimento delle supplenze. L’attenzione si è concentrata sull’applicazione della riserva del 15% per il servizio civile e sull'eventuale ricalcolo nei diversi bollettini di nomina.\nL'articolo\nGPS: riserva del 15% per il servizio civile e universale non si conteggia ad ogni bollettino. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-02T18:42:03.527555",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Dimensionamento rete scolastica: petizione della FLC CGIL a sostegno dell’emendamento che blocca i commissariamenti delle Regioni inadempienti",
+      "url": "https://www.flcgil.it/scuola/dimensionamento-rete-scolastica-petizione-della-flc-cgil-a-sostegno-dell-emendamento-che-blocca-i-commissariamenti-delle-regioni-inadempienti.flc",
+      "date": "Mon, 02 Feb 2026 14:00:33 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "In sede di conversione in legge del dl 200/2025, che detta Disposizioni urgenti in materia di termini normativi (cosiddetto “decreto Milleproroghe”), è stato presentato presso le Commissioni riunite I – Affari costituzionali...",
+      "full_content": "In sede di conversione in legge del dl 200/2025, che detta Disposizioni urgenti in materia di termini normativi (cosiddetto “decreto Milleproroghe”), è stato presentato presso le Commissioni riunite I – Affari costituzionali...",
+      "has_full_content": true,
+      "id": "da84a6e499b2e78c",
+      "text": "In sede di conversione in legge del dl 200/2025, che detta Disposizioni urgenti in materia di termini normativi (cosiddetto “decreto Milleproroghe”), è stato presentato presso le Commissioni riunite I – Affari costituzionali...",
+      "fetched_at": "2026-02-02T18:42:04.027703",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Referendum: Rizza (Flc Cgil Sicilia), inaccettabile non far votare i fuorisede, il governo rimedi subito",
+      "url": "https://www.flcgil.it/regioni/sicilia/referendum-rizza-flc-cgil-sicilia-inaccettabile-non-far-votare-i-fuorisede-il-governo-rimedi-subito.flc",
+      "date": "Mon, 02 Feb 2026 13:48:22 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "“Esprimiamo forte indignazione e profonda preoccupazione per la decisione del Governo e della maggioranza parlamentare di escludere il voto fuori sede dal decreto per il referendum costituzionale...",
+      "full_content": "“Esprimiamo forte indignazione e profonda preoccupazione per la decisione del Governo e della maggioranza parlamentare di escludere il voto fuori sede dal decreto per il referendum costituzionale...",
+      "has_full_content": false,
+      "id": "f2bf5da62d92c6c5",
+      "text": "FLC\nChi siamo\nDove siamo\nContattaci\nScuola\nUniversità e AFAM\nRicerca\nRisorse\nApprofondimenti\nArgomenti\nContratti\nNormativa\nRSU\nRubrica giuridica\nSpeciali\nhttps://www.flcgil.it/@3973239\nHome\n»\nNotizie dalle Regioni\n»\nSicilia\n»\nReferendum: Rizza (Flc Cgil Sicilia), inaccettabile non far votare i fuorisede, il governo rimedi subito\nReferendum: Rizza (Flc Cgil Sicilia), inaccettabile non far votare i fuorisede, il governo rimedi subito\nIndignazione e profonda preoccupazione per la decisione del Governo\n02/02/2026\nTweet\nInvia ad un amico\nStampa\n“Esprimiamo forte indignazione e profonda preoccupazione per la decisione del Governo e della maggioranza parlamentare di escludere il voto fuori sede dal decreto per il referendum costituzionale sulla giustizia del 22-23 marzo”. Lo dichiara Adriano Rizza, segretario della Flc Cgil Sicilia.\n“Questa scelta, giustificata con pretestuose ragioni di \"tempi tecnici\" – aggiunge – rappresenta un grave passo indietro per i diritti civili e democratici e una palese discriminazione nei confronti di centinaia di migliaia di cittadini, tra cui un numero enorme di giovani studenti siciliani costretti a migrare per formarsi”.\n“È inaccettabile che – spiega Rizza – dopo le positive sperimentazioni avvenute per le Europee 2024 e per i referendum abrogativi del giugno 2025, si decida ora di negare questo diritto in una consultazione di fondamentale importanza per il futuro del Paese. Le motivazioni addotte dalla Sottosegretaria Ferro – i tempi ridotti e il basso numero di adesioni precedenti – non reggono ad un esame serio: l'intervallo tra il decreto e il voto è pressoché identico a quello del 2025. La differenza è solo nella volontà politica”.\n“Denunciamo con forza il sospetto – continua – avanzato anche dalle opposizioni in Parlamento, che questa esclusione sia dettata da calcoli politici, nel timore che gli elettori fuori sede, spesso giovani e consapevoli, possano esprimersi contro la riforma. Privare del voto chi studia o lavora lontano da casa significa silenziare una voce cruciale, soprattutto in un referendum senza quorum”.\n“Chiediamo con urgenza – conclude Rizza – al Governo e al Parlamento di rimediare immediatamente a questa ingiustizia. Si trovi la via politica e normativa per consentire a tutti i cittadini siciliani, e italiani, fuori sede di esercitare il loro sacrosanto diritto di voto. La democrazia non può fare un passo indietro. La Sicilia, terra che da sempre paga un prezzo altissimo in termini di emigrazione giovanile, non può vedere i propri figli privati della possibilità di decidere sul futuro della giustizia e del Paese”.\nTweet\nInvia ad un amico\nStampa\nServizi e comunicazioni\nDove siamo\nSedi FLC CGIL\nSedi CGIL\nINCA CGIL\nCAAF CGIL\nAltri servizi CGIL\nServizi assicurativi per iscritti e RSU\nOra e sempre esperienza!\nAttività formative\nEventi\nFirenze, VII Convegno “Didattica della matematica”\nLazio\nRiforme scolastiche tutor e orientamento, filiera tecnico-professionale, ITS, carriera docenti: il 6 febbraio seminario a Roma\nEventi\nRitorno a Barbiana: il coraggio pedagogico tra testimonianze e proposte\nEventi\nDon Lorenzo Milani tra storicità e attualità\nEventi\nRoma, Insegnare comunità a scuola. Desiderio, differenze, relazioni: uno sguardo femminista che attraversa i saperi\nI più letti\nDimensionamento scolastico: Emilia Romagna, incontro con il Commissario ad acta Di Palma all’USR\nDimensionamento scolastico: altissima partecipazione in piazza a Bologna sabato 26 gennaio\nNiscemi: FLC CGIL, si trovino subito locali alternativi per le 3 scuole in zona rossa\nLa scuola è della Costituzione\nBlitz nelle scuole a Pavia: serve educazione, non militarizzazione\nLink utili\nConferenza Regioni e Province autonome\nConferenze Stato Regioni ed Unificata\nUnione Province italiane\nAssociazione nazionale Comuni italiani\nLink consigliati\nCGIL\nEdizioni Conoscenza\nCollettiva\nProteo Fare Sapere\nEdiesse\nFondazione Di Vittorio\nFLC CGIL\nChi siamo\nDove siamo\nQuanti siamo\nStatuto\nBilancio sociale\nServizi\nIscriviti\nContattaci\nCasa editrice\nArchivio storico\nGiornale\nNewsletter\nFeed RSS\nLink utili\nPrivacy policy\nFLC CGIL\nNOTIZIE\nCGIL\nNOTIZIE\nDimensionamento rete scolastica: petizione della FLC CGIL a sostegno dell’emendamento che blocca i commissariamenti delle Regioni inadempienti\nIndicazioni nazionali 2025: in Gazzetta Ufficiale il nuovo regolamento\nAssicurazione sanitaria integrativa: pubblicato il bando che scade il 5 marzo 2026\nWebmail\nGmail\nIntranet\nQuesto sito utilizza dei cookie che ci aiutano ad offrirti un servizio migliore.\nPuoi prendere visione dell'informativa estesa sull'uso dei cookie\no negare il consenso cliccando su \"Maggiori informazioni\".\nProseguendo la navigazione o cliccando su \"Accetto\" acconsenti all'uso dei cookie.\nAccetto\nMaggiori informazioni\nRimani sempre aggiornato, Diventa Fan di\nFLC CGIL\nsu Facebook!\nCondividi",
+      "size_chars": 4832,
+      "success": true,
+      "fetched_at": "2026-02-02T18:42:06.643309",
+      "document_type": "html"
+    },
+    {
+      "title": "Percorsi abilitanti: il 2025/26 vale come terzo anno di servizio?",
+      "url": "https://www.orizzontescuola.it/percorsi-abilitanti-il-2025-26-vale-come-terzo-anno-di-servizio/",
+      "date": "Mon, 02 Feb 2026 13:23:37 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Percorsi abilitanti a.a. 2025/26: è il periodo di presentazione della domanda. Alcuni Atenei avevano già predisposto il bando in attesa del decreto, altri invece lo pubblicano in questi giorni, con pochi giorni a disposizione. Altri Atenei, probabilmente, attenderanno ancora qualche settimana.\nL'articolo\nPercorsi abilitanti: il 2025/26 vale come terzo anno di servizio?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Percorsi abilitanti a.a. 2025/26: è il periodo di presentazione della domanda. Alcuni Atenei avevano già predisposto il bando in attesa del decreto, altri invece lo pubblicano in questi giorni, con pochi giorni a disposizione. Altri Atenei, probabilmente, attenderanno ancora qualche settimana.\nL'articolo\nPercorsi abilitanti: il 2025/26 vale come terzo anno di servizio?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "60a203f20aeffffa",
+      "text": "Percorsi abilitanti a.a. 2025/26: è il periodo di presentazione della domanda. Alcuni Atenei avevano già predisposto il bando in attesa del decreto, altri invece lo pubblicano in questi giorni, con pochi giorni a disposizione. Altri Atenei, probabilmente, attenderanno ancora qualche settimana.\nL'articolo\nPercorsi abilitanti: il 2025/26 vale come terzo anno di servizio?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-02T18:42:07.997425",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Avviso convocazione prove finali scritte_PEV_ATA – Ufficio Scolastico Regionale",
+      "url": "https://www.ufficioscolasticoregionalelazio.it/2026/02/02/avviso-convocazione-prove-finali-scritte_pev_ata-2/",
+      "date": "2026-02-02T18:42:01.205337",
+      "source": "USR Lazio",
+      "type": "comunicazione",
+      "description": "",
+      "id": "0334cfe8db90c9c6",
+      "text": "m_pi.AOODRLA.REGISTRO UFFICIALE(U).0011994.02-02-2026 [295 KB]",
+      "size_chars": 62,
+      "success": true,
+      "fetched_at": "2026-02-02T18:42:11.740856",
+      "document_type": "html"
     }
   ]
 }
