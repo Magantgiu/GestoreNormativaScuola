@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-02T07:00:44.254230",
+  "last_fetch": "2026-02-02T12:54:40.823331",
   "stats": {
-    "total": 348,
-    "fetched": 0,
-    "skipped": 100,
+    "total": 347,
+    "fetched": 5,
+    "skipped": 95,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 5
   },
-  "total_documents": 932,
+  "total_documents": 937,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -13784,6 +13784,81 @@
       "id": "8df7777e5622c886",
       "text": "I docenti che hanno partecipato con riserva alla prova scritta del concorso PNNR3 indetto con DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria hanno tempo fino al 2 febbraio 2026 ore 23.59 per sciogliere la riserva.\nL'articolo\nConcorso docenti PNRR3, il 2 febbraio ultimo giorno per sciogliere la riserva\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2026-02-02T01:56:10.821959",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Abilitazione, TFA sostegno e secondo ciclo Indire: compatibilità delle iscrizioni nel 2026. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/abilitazione-tfa-sostegno-e-secondo-ciclo-indire-compatibilita-delle-iscrizioni-nel-2026-pillole-di-question-time/",
+      "date": "Mon, 02 Feb 2026 11:27:44 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 23 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata esaminata una questione relativa ai percorsi di formazione iniziale dei docenti. L’attenzione si è concentrata sulla possibilità di iscriversi al TFA sostegno dopo il conseguimento dell’abilitazione a gennaio 2026.\nL'articolo\nAbilitazione, TFA sostegno e secondo ciclo Indire: compatibilità delle iscrizioni nel 2026. Pillole di Question Time\nsembra essere il",
+      "full_content": "Nel question time del 23 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata esaminata una questione relativa ai percorsi di formazione iniziale dei docenti. L’attenzione si è concentrata sulla possibilità di iscriversi al TFA sostegno dopo il conseguimento dell’abilitazione a gennaio 2026.\nL'articolo\nAbilitazione, TFA sostegno e secondo ciclo Indire: compatibilità delle iscrizioni nel 2026. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "afa5c845fde0f8f6",
+      "text": "Nel question time del 23 dicembre 2025 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente esperta, è stata esaminata una questione relativa ai percorsi di formazione iniziale dei docenti. L’attenzione si è concentrata sulla possibilità di iscriversi al TFA sostegno dopo il conseguimento dell’abilitazione a gennaio 2026.\nL'articolo\nAbilitazione, TFA sostegno e secondo ciclo Indire: compatibilità delle iscrizioni nel 2026. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-02T12:54:38.309159",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Carta docente 2025/26: alla riapertura della piattaforma i docenti con supplenze brevi non avranno il bonus",
+      "url": "https://www.orizzontescuola.it/carta-docente-2025-26-alla-riapertura-della-piattaforma-i-docenti-con-supplenze-brevi-non-avranno-il-bonus/",
+      "date": "Mon, 02 Feb 2026 10:19:02 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Cresce l'attesa per l'accredito del Bonus Carta docente per l'anno scolastico 2025/26. Dopo la delusione della mancata pubblicazione del decreto entro la data del 30 gennaio, l'unico punto di riferimento saranno le indicazioni del Ministero. Ad essere interessati anche i docenti precari.\nL'articolo\nCarta docente 2025/26: alla riapertura della piattaforma i docenti con supplenze brevi non avranno il bonus\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Cresce l'attesa per l'accredito del Bonus Carta docente per l'anno scolastico 2025/26. Dopo la delusione della mancata pubblicazione del decreto entro la data del 30 gennaio, l'unico punto di riferimento saranno le indicazioni del Ministero. Ad essere interessati anche i docenti precari.\nL'articolo\nCarta docente 2025/26: alla riapertura della piattaforma i docenti con supplenze brevi non avranno il bonus\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "3cad12db22056b41",
+      "text": "Cresce l'attesa per l'accredito del Bonus Carta docente per l'anno scolastico 2025/26. Dopo la delusione della mancata pubblicazione del decreto entro la data del 30 gennaio, l'unico punto di riferimento saranno le indicazioni del Ministero. Ad essere interessati anche i docenti precari.\nL'articolo\nCarta docente 2025/26: alla riapertura della piattaforma i docenti con supplenze brevi non avranno il bonus\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-02T12:54:38.809318",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Docenti Neoimmessi in ruolo: videotutorial per attività didattica e curriculum formativo",
+      "url": "https://www.orizzontescuola.it/docenti-neoimmessi-in-ruolo-videotutorial-per-attivita-didattica-e-curriculum-formativo/",
+      "date": "Mon, 02 Feb 2026 10:05:28 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Docenti neoimmessi in ruolo: Indire ha pubblicato due approfondimenti utili per la compilazione del Portfolio professionale: documentazione di un’Attività didattica e Curriculum formativo.\nL'articolo\nDocenti Neoimmessi in ruolo: videotutorial per attività didattica e curriculum formativo\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Docenti neoimmessi in ruolo: Indire ha pubblicato due approfondimenti utili per la compilazione del Portfolio professionale: documentazione di un’Attività didattica e Curriculum formativo.\nL'articolo\nDocenti Neoimmessi in ruolo: videotutorial per attività didattica e curriculum formativo\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "2838dd4c3b41632a",
+      "text": "Docenti neoimmessi in ruolo: Indire ha pubblicato due approfondimenti utili per la compilazione del Portfolio professionale: documentazione di un’Attività didattica e Curriculum formativo.\nL'articolo\nDocenti Neoimmessi in ruolo: videotutorial per attività didattica e curriculum formativo\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-02T12:54:39.309469",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "FLC CGIL Firenze: raccolta firme a difesa della scuola democratica e antifascista",
+      "url": "https://www.flcgil.it/regioni/toscana/firenze/flc-cgil-firenze-raccolta-firme-difesa-scuola-democratica-e-antifascista.flc",
+      "date": "Mon, 02 Feb 2026 09:15:01 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "A cura della FLC CGIL Firenze\nCome deciso nell’attivo provinciale di mercoledì 28 gennaio 2026, le RSU e i TAS della FLC CGIL si fanno promotori di una iniziativa di raccolta firme nelle proprie scuole, per suscitare...",
+      "full_content": "A cura della FLC CGIL Firenze\nCome deciso nell’attivo provinciale di mercoledì 28 gennaio 2026, le RSU e i TAS della FLC CGIL si fanno promotori di una iniziativa di raccolta firme nelle proprie scuole, per suscitare...",
+      "has_full_content": true,
+      "id": "03cad781554b0391",
+      "text": "A cura della FLC CGIL Firenze\nCome deciso nell’attivo provinciale di mercoledì 28 gennaio 2026, le RSU e i TAS della FLC CGIL si fanno promotori di una iniziativa di raccolta firme nelle proprie scuole, per suscitare...",
+      "fetched_at": "2026-02-02T12:54:39.809631",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "GPS 2026, per le certificazioni linguistiche vale il principio del “riconoscimento temporale dell’ente”. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/gps-2026-per-le-certificazioni-linguistiche-vale-il-principio-del-riconoscimento-temporale-dellente-pillole-di-question-time/",
+      "date": "Mon, 02 Feb 2026 09:00:39 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Durante il question time del 26 gennaio 2026 su OrizzonteScuola TV, condotto da Francesco Bunetto e con ospite Sonia Cannas, docente esperta, è stato affrontato un tema rilevante riguardante l'inserimento nelle graduatorie GPS. In particolare, l’attenzione si è concentrata sulla validità delle certificazioni linguistiche già valutate in GPS precedenti, nel caso in cui l’ente certificatore non sia più riconosciuto.\nL'articolo\nGPS 2026, per le certificazioni linguistiche vale il principio del “ric",
+      "full_content": "Durante il question time del 26 gennaio 2026 su OrizzonteScuola TV, condotto da Francesco Bunetto e con ospite Sonia Cannas, docente esperta, è stato affrontato un tema rilevante riguardante l'inserimento nelle graduatorie GPS. In particolare, l’attenzione si è concentrata sulla validità delle certificazioni linguistiche già valutate in GPS precedenti, nel caso in cui l’ente certificatore non sia più riconosciuto.\nL'articolo\nGPS 2026, per le certificazioni linguistiche vale il principio del “riconoscimento temporale dell’ente”. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "56304ae19fbbdb61",
+      "text": "Durante il question time del 26 gennaio 2026 su OrizzonteScuola TV, condotto da Francesco Bunetto e con ospite Sonia Cannas, docente esperta, è stato affrontato un tema rilevante riguardante l'inserimento nelle graduatorie GPS. In particolare, l’attenzione si è concentrata sulla validità delle certificazioni linguistiche già valutate in GPS precedenti, nel caso in cui l’ente certificatore non sia più riconosciuto.\nL'articolo\nGPS 2026, per le certificazioni linguistiche vale il principio del “riconoscimento temporale dell’ente”. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-02T12:54:40.309784",
       "document_type": "rss_full",
       "success": true
     }
