@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-02T18:42:13.363862",
+  "last_fetch": "2026-02-03T01:55:14.061858",
   "stats": {
     "total": 346,
-    "fetched": 7,
-    "skipped": 93,
+    "fetched": 2,
+    "skipped": 98,
     "failed": 0,
     "pdfs": 0,
-    "html": 7
+    "html": 2
   },
-  "total_documents": 944,
+  "total_documents": 946,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -13966,6 +13966,36 @@
       "success": true,
       "fetched_at": "2026-02-02T18:42:11.740856",
       "document_type": "html"
+    },
+    {
+      "title": "Prove finali posizioni economiche ATA: ecco perché non è previsto “non superare” il test. Per la graduatoria fondamentale il punteggio ottenuto",
+      "url": "https://www.orizzontescuola.it/prove-finali-posizioni-economiche-ata-ecco-perche-non-e-previsto-non-superare-il-test-per-la-graduatoria-fondamentale-il-punteggio/",
+      "date": "Mon, 02 Feb 2026 18:03:27 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Dal 23 al 27 febbraio, secondo il calendario diffuso dal Ministero dell’Istruzione e del Merito, si tengono le prove finali di valutazione per l’attribuzione delle nuove 46mila posizioni economiche del personale ATA.\nL'articolo\nProve finali posizioni economiche ATA: ecco perché non è previsto “non superare” il test. Per la graduatoria fondamentale il punteggio ottenuto\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Dal 23 al 27 febbraio, secondo il calendario diffuso dal Ministero dell’Istruzione e del Merito, si tengono le prove finali di valutazione per l’attribuzione delle nuove 46mila posizioni economiche del personale ATA.\nL'articolo\nProve finali posizioni economiche ATA: ecco perché non è previsto “non superare” il test. Per la graduatoria fondamentale il punteggio ottenuto\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "1266cc06b7f2ead2",
+      "text": "Dal 23 al 27 febbraio, secondo il calendario diffuso dal Ministero dell’Istruzione e del Merito, si tengono le prove finali di valutazione per l’attribuzione delle nuove 46mila posizioni economiche del personale ATA.\nL'articolo\nProve finali posizioni economiche ATA: ecco perché non è previsto “non superare” il test. Per la graduatoria fondamentale il punteggio ottenuto\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-03T01:55:13.049543",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Supplenze GPS, dal 2026 l’algoritmo non sarà una lotteria: come leggere i nuovi bollettini. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/supplenze-gps-dal-2026-lalgoritmo-non-sara-una-lotteria-come-leggere-i-nuovi-bollettini-pillole-di-question-time/",
+      "date": "Mon, 02 Feb 2026 17:46:17 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 30 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Giallanza e con ospite Chiara Cozzetto, rappresentante della segreteria nazionale di ANIEF, è stata discussa una questione centrale per i docenti inseriti in GPS. L’attenzione si è concentrata su come comprendere l’andamento delle assegnazioni delle supplenze con il nuovo algoritmo e su quali strumenti restano disponibili per monitorare le operazioni.\nL'articolo\nSupplenze GPS, dal 2026 l’algoritmo non sarà una lotter",
+      "full_content": "Nel question time del 30 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Giallanza e con ospite Chiara Cozzetto, rappresentante della segreteria nazionale di ANIEF, è stata discussa una questione centrale per i docenti inseriti in GPS. L’attenzione si è concentrata su come comprendere l’andamento delle assegnazioni delle supplenze con il nuovo algoritmo e su quali strumenti restano disponibili per monitorare le operazioni.\nL'articolo\nSupplenze GPS, dal 2026 l’algoritmo non sarà una lotteria: come leggere i nuovi bollettini. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "65fcd277870852a5",
+      "text": "Nel question time del 30 gennaio 2026 su OrizzonteScuola TV, condotto da Andrea Giallanza e con ospite Chiara Cozzetto, rappresentante della segreteria nazionale di ANIEF, è stata discussa una questione centrale per i docenti inseriti in GPS. L’attenzione si è concentrata su come comprendere l’andamento delle assegnazioni delle supplenze con il nuovo algoritmo e su quali strumenti restano disponibili per monitorare le operazioni.\nL'articolo\nSupplenze GPS, dal 2026 l’algoritmo non sarà una lotteria: come leggere i nuovi bollettini. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-03T01:55:13.549720",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
