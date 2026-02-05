@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-05T06:56:59.505407",
+  "last_fetch": "2026-02-05T12:57:12.511032",
   "stats": {
-    "total": 346,
-    "fetched": 0,
-    "skipped": 100,
+    "total": 347,
+    "fetched": 4,
+    "skipped": 96,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 4
   },
-  "total_documents": 984,
+  "total_documents": 988,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -14571,6 +14571,67 @@
       "success": true,
       "fetched_at": "2026-02-04T18:45:58.663100",
       "document_type": "html"
+    },
+    {
+      "title": "Carta Docente: tagliata di 100 euro",
+      "url": "https://www.flcgil.it/scuola/carta-docente-tagliata-di-100-euro.flc",
+      "date": "Thu, 05 Feb 2026 13:01:39 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Il decreto interministeriale di prossima pubblicazione fissa il nuovo importo della Carta docente: il beneficio è stato ridotto a 400 euro con un taglio netto di 100 euro rispetto allo stanziamento originario previsto dalla...",
+      "full_content": "Il decreto interministeriale di prossima pubblicazione fissa il nuovo importo della Carta docente: il beneficio è stato ridotto a 400 euro con un taglio netto di 100 euro rispetto allo stanziamento originario previsto dalla...",
+      "has_full_content": true,
+      "id": "dc744b03286e065f",
+      "text": "Il decreto interministeriale di prossima pubblicazione fissa il nuovo importo della Carta docente: il beneficio è stato ridotto a 400 euro con un taglio netto di 100 euro rispetto allo stanziamento originario previsto dalla...",
+      "fetched_at": "2026-02-05T12:57:06.614279",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "GPS, laureandi magistrali iscritti ai percorsi abilitanti: potranno inserirsi in prima fascia con riserva? Serve chiarimento ministeriale",
+      "url": "https://www.orizzontescuola.it/gps-laureandi-magistrali-iscritti-ai-percorsi-abilitanti-potranno-inserirsi-in-prima-fascia-con-riserva-serve-chiarimento-ministeriale/",
+      "date": "Thu, 05 Feb 2026 11:09:03 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 26 gennaio 2026 su OrizzonteScuola TV, condotto da Francesco Bunetto e con ospite Sonia Cannas, docente esperta, è stato affrontato un tema ancora incerto ma di grande interesse per molti aspiranti docenti: la possibilità, per i laureandi magistrali iscritti a un percorso abilitante, di inserirsi con riserva nella prima fascia delle Graduatorie Provinciali per le Supplenze.\nL'articolo\nGPS, laureandi magistrali iscritti ai percorsi abilitanti: potranno inserirsi in prima fas",
+      "full_content": "Nel question time del 26 gennaio 2026 su OrizzonteScuola TV, condotto da Francesco Bunetto e con ospite Sonia Cannas, docente esperta, è stato affrontato un tema ancora incerto ma di grande interesse per molti aspiranti docenti: la possibilità, per i laureandi magistrali iscritti a un percorso abilitante, di inserirsi con riserva nella prima fascia delle Graduatorie Provinciali per le Supplenze.\nL'articolo\nGPS, laureandi magistrali iscritti ai percorsi abilitanti: potranno inserirsi in prima fascia con riserva? Serve chiarimento ministeriale\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "8ce5506b35df0f84",
+      "text": "Nel question time del 26 gennaio 2026 su OrizzonteScuola TV, condotto da Francesco Bunetto e con ospite Sonia Cannas, docente esperta, è stato affrontato un tema ancora incerto ma di grande interesse per molti aspiranti docenti: la possibilità, per i laureandi magistrali iscritti a un percorso abilitante, di inserirsi con riserva nella prima fascia delle Graduatorie Provinciali per le Supplenze.\nL'articolo\nGPS, laureandi magistrali iscritti ai percorsi abilitanti: potranno inserirsi in prima fascia con riserva? Serve chiarimento ministeriale\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-05T12:57:07.114465",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Posizioni economiche: prove suppletive per le candidate in stato di gravidanza o di allattamento",
+      "url": "https://www.flcgil.it/scuola/ata/posizioni-economiche-prove-suppletive-per-le-candidate-in-stato-di-gravidanza-o-di-allattamento.flc",
+      "date": "Thu, 05 Feb 2026 09:04:16 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "In vista delle prove finali della procedura per l’attribuzione delle posizioni economiche del personale ATA, in programma dal 23 al 27 febbraio, riteniamo utile richiamare l’attenzione sulle...",
+      "full_content": "In vista delle prove finali della procedura per l’attribuzione delle posizioni economiche del personale ATA, in programma dal 23 al 27 febbraio, riteniamo utile richiamare l’attenzione sulle...",
+      "has_full_content": false,
+      "id": "5fe47cdfe1e5b487",
+      "text": "FLC\nChi siamo\nDove siamo\nContattaci\nScuola\nUniversità e AFAM\nRicerca\nRisorse\nApprofondimenti\nArgomenti\nContratti\nNormativa\nRSU\nRubrica giuridica\nSpeciali\nhttps://www.flcgil.it/@3973256\nHome\n»\nScuola\n»\nPersonale ATA\n»\nPosizioni economiche: prove suppletive per le candidate in stato di gravidanza o di allattamento\nPosizioni economiche: prove suppletive per le candidate in stato di gravidanza o di allattamento\nDomanda da presentare almeno 10 giorni prima dell’inizio delle prove.\n05/02/2026\nTweet\nInvia ad un amico\nStampa\nVai agli allegati\nContenuti Correlati\nPosizioni economiche ATA: pubblicato il calendario delle prove finali\nIn vista delle prove finali della procedura per l’attribuzione delle\nposizioni economiche del personale ATA\n,\nin programma dal 23 al 27 febbraio\n, riteniamo utile richiamare l’attenzione sulle modalità previste per lo svolgimento delle prove suppletive a tutela delle interessate.\nPer le candidate impossibilitate a rispettare il\ncalendario delle prove\na causa dello\nstato di gravidanza o di allattamento\n, è prevista la possibilità di partecipare alla procedura selettiva attraverso lo svolgimento di\nprove suppletive\n, ai sensi dell’art. 7, comma 7, del Decreto del Presidente della Repubblica 9 maggio 1994, n. 487.\nLe interessate devono trasmettere\nalmeno dieci giorni prima dell’inizio della prova\napposita comunicazione all’USR competente, mediante\nraccomandata con avviso di ricevimento\noppure\nposta elettronica certificata (PEC)\n, allegando la documentazione attestante la data presunta del parto o la data di nascita del/la bambino/a.\nIl mancato invio della richiesta e della documentazione nei termini previsti non consentirà all’Amministrazione di predisporre tempestivamente l’organizzazione delle prove suppletive né di assicurare la partecipazione alla procedura concorsuale.\nTutti gli Uffici Scolastici Regionali hanno ormai completato l’invio delle convocazioni alla prova con indicazione della data e ubicazione della sede d’esame, dandone comunicazione sui rispettivi siti istituzionali.\nLe candidate e i candidati possono prenderne visione, accedendo alla propria area riservata della\n“Piattaforma Concorsi e Procedure selettive”\n, sezione\n“Graduatorie” (consultando gli allegati.zip)\n, disponibile sul sito\nwww.mim.gov.it\nseguendo il percorso:\nArgomenti e Servizi > Servizi > lettera P > Piattaforma concorsi e Procedure selettive\n.\nnota ministeriale 2151 del 28 gennaio 2026 prova finale di valutazione procedura per attribuzione posizioni economiche personale ata\nnota 1744 del 23 gennaio 2026 prova finale procedura attribuzione posizioni economiche ata calendario prova scritta\nTweet\nInvia ad un amico\nStampa\nTag:\nconcorsi e selezioni\n,\ndsga\n,\nmiur\n,\nnota 1744/26\n,\nnota 2151/26\n,\nposizioni economiche ATA\n,\nretribuzioni\nServizi e comunicazioni\nI più letti\nArretrati CCNL 2022-2024: la FLC CGIL interviene presso NoiPA\nLiquidazione arretrati CCNL 2022/2024 “Istruzione e Ricerca” personale scuola: l’ultimo comunicato di NoiPA\nPosizioni economiche ATA: pubblicato il calendario delle prove finali\nDimensionamento rete scolastica: petizione della FLC CGIL a sostegno dell’emendamento che blocca i commissariamenti delle Regioni inadempienti\nPosizioni economiche ATA: pubblicate le nuove istruzioni per la prova finale\nLavorare nella conoscenza\nServizi assicurativi per iscritti e RSU\nApprofondimenti\nTutti gli approfondimenti\nMobilità docenti e ATA\nGraduatorie d'istituto docenti\nGraduatorie d'istituto ATA\nConcorso 24 mesi ATA\nFormazione iniziale e reclutamento docenti\nAssunzioni e supplenze\nQuando si chiamano i supplenti?\nPosizioni economiche e passaggi di qualifica ATA\nGuida alle Istanze online\nVademecum sanzioni disciplinari\nAssenze per malattia e certificati telematici\nLink utili\nLegislazione e giurisprudenza recente\nDecreti ministeriali\nDecreto Ministeriale 13 del 29 gennaio 2026 - Allegati\nDecreti ministeriali\nDecreto Ministeriale 13 del 29 gennaio 2026 - Individuazione discipline seconda prova scritta e orale esame di stato as 2025-2026\nNote ministeriali\nNota ministeriale 2151 del 28 gennaio 2026 - Prova finale di valutazione procedura per attribuzione posizioni economiche personale ATA\nDecreti ministeriali\nDecreto Ministeriale 138 del 27 gennaio 2026 - Allegato B\nDecreti ministeriali\nDecreto Ministeriale 138 del 27 gennaio 2026 - Allegato A\nSeguici su facebook\nTag più usate\nalunni/studenti\ncontratto istruzione e ricerca\ngiuseppe valditara\ngoverno\nlegge di bilancio\nmiur\nposizioni economiche ATA\nretribuzioni\nsecondaria superiore\nstabilizzazione precari\nFLC CGIL\nChi siamo\nDove siamo\nQuanti siamo\nStatuto\nBilancio sociale\nServizi\nIscriviti\nContattaci\nCasa editrice\nArchivio storico\nGiornale\nNewsletter\nFeed RSS\nLink utili\nPrivacy policy\nFLC CGIL\nNOTIZIE\nCGIL\nNOTIZIE\nCarta Docente: tagliata di 100 euro\nPosizioni economiche: prove suppletive per le candidate in stato di gravidanza o di allattamento\nUn nuovo decreto sul PNRR conferma l’inverno sull’università italiana\nWebmail\nGmail\nIntranet\nQuesto sito utilizza dei cookie che ci aiutano ad offrirti un servizio migliore.\nPuoi prendere visione dell'informativa estesa sull'uso dei cookie\no negare il consenso cliccando su \"Maggiori informazioni\".\nProseguendo la navigazione o cliccando su \"Accetto\" acconsenti all'uso dei cookie.\nAccetto\nMaggiori informazioni\nRimani sempre aggiornato, Diventa Fan di\nFLC CGIL\nsu Facebook!\nCondividi",
+      "size_chars": 5364,
+      "success": true,
+      "fetched_at": "2026-02-05T12:57:10.701506",
+      "document_type": "html"
+    },
+    {
+      "title": "Accesso ai percorsi da 30 CFU dopo il concorso PNRR1 e PNRR2: chiarimenti sui requisiti. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/accesso-ai-percorsi-da-30-cfu-dopo-il-concorso-pnrr1-e-pnrr2-chiarimenti-sui-requisiti-pillole-di-question-time/",
+      "date": "Thu, 05 Feb 2026 09:00:13 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 2 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Giallanza e con ospite Sonia Cannas, docente esperta, è stata affrontata una questione relativa ai requisiti di accesso ai percorsi abilitanti da 30 CFU. Il focus si è concentrato sulla valutazione delle annualità di servizio maturate dopo la partecipazione al concorso PNRR1.\nL'articolo\nAccesso ai percorsi da 30 CFU dopo il concorso PNRR1 e PNRR2: chiarimenti sui requisiti. Pillole di Question Time\nsembra essere il p",
+      "full_content": "Nel question time del 2 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Giallanza e con ospite Sonia Cannas, docente esperta, è stata affrontata una questione relativa ai requisiti di accesso ai percorsi abilitanti da 30 CFU. Il focus si è concentrato sulla valutazione delle annualità di servizio maturate dopo la partecipazione al concorso PNRR1.\nL'articolo\nAccesso ai percorsi da 30 CFU dopo il concorso PNRR1 e PNRR2: chiarimenti sui requisiti. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "24d5c0653274ccee",
+      "text": "Nel question time del 2 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Giallanza e con ospite Sonia Cannas, docente esperta, è stata affrontata una questione relativa ai requisiti di accesso ai percorsi abilitanti da 30 CFU. Il focus si è concentrato sulla valutazione delle annualità di servizio maturate dopo la partecipazione al concorso PNRR1.\nL'articolo\nAccesso ai percorsi da 30 CFU dopo il concorso PNRR1 e PNRR2: chiarimenti sui requisiti. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-05T12:57:11.996972",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
