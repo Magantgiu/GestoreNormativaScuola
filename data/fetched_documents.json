@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-07T12:42:51.250738",
+  "last_fetch": "2026-02-07T18:32:15.735724",
   "stats": {
     "total": 348,
-    "fetched": 0,
-    "skipped": 100,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 1
   },
-  "total_documents": 1016,
+  "total_documents": 1017,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -15040,6 +15040,21 @@
       "success": true,
       "fetched_at": "2026-02-07T01:48:07.001953",
       "document_type": "html"
+    },
+    {
+      "title": "Percorso abilitante, se ho i 24 CFU perché devo presentare domanda per i 60? Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/percorso-abilitante-se-ho-i-24-cfu-perche-devo-presentare-domanda-per-i-60-pillole-di-question-time/",
+      "date": "Sat, 07 Feb 2026 12:42:44 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 5 febbraio 2026 su OrizzonteScuola TV, condotto da Francesco Bunetto e con ospite Simone Craparo, docente e sindacalista della Gilda Unams, è stata affrontata una questione legata ai requisiti di accesso ai percorsi abilitanti. L’attenzione si è concentrata su chi possiede i 24 CFU e sulla possibilità di iscriversi direttamente al percorso abilitante da 36 CFU.\nL'articolo\nPercorso abilitante, se ho i 24 CFU perché devo presentare domanda per i 60? Pillole di Question Time\ns",
+      "full_content": "Nel question time del 5 febbraio 2026 su OrizzonteScuola TV, condotto da Francesco Bunetto e con ospite Simone Craparo, docente e sindacalista della Gilda Unams, è stata affrontata una questione legata ai requisiti di accesso ai percorsi abilitanti. L’attenzione si è concentrata su chi possiede i 24 CFU e sulla possibilità di iscriversi direttamente al percorso abilitante da 36 CFU.\nL'articolo\nPercorso abilitante, se ho i 24 CFU perché devo presentare domanda per i 60? Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "e3d4def58bb989a7",
+      "text": "Nel question time del 5 febbraio 2026 su OrizzonteScuola TV, condotto da Francesco Bunetto e con ospite Simone Craparo, docente e sindacalista della Gilda Unams, è stata affrontata una questione legata ai requisiti di accesso ai percorsi abilitanti. L’attenzione si è concentrata su chi possiede i 24 CFU e sulla possibilità di iscriversi direttamente al percorso abilitante da 36 CFU.\nL'articolo\nPercorso abilitante, se ho i 24 CFU perché devo presentare domanda per i 60? Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-07T18:32:15.222393",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
