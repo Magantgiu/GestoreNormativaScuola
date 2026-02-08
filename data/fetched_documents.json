@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-07T18:32:15.735724",
+  "last_fetch": "2026-02-08T02:14:01.288371",
   "stats": {
-    "total": 348,
+    "total": 323,
     "fetched": 1,
     "skipped": 99,
     "failed": 0,
     "pdfs": 0,
     "html": 1
   },
-  "total_documents": 1017,
+  "total_documents": 1018,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -15055,6 +15055,20 @@
       "fetched_at": "2026-02-07T18:32:15.222393",
       "document_type": "rss_full",
       "success": true
+    },
+    {
+      "title": "Decreto Dipartimentale n. 3822 del 18 dicembre 2025 - Decreto Dipartimentale n. 3822 del 18 dicembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3822-del-18-dicembre-2025",
+      "date": "2026-02-08T02:13:50.167897",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "481dbda001b2a98c",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Dipartimentale n. 3822 del 18 dicembre 2025\nVenerdì, 19 dicembre 2025\nDecreto Dipartimentale n. 3822 del 18 dicembre 2025\nNota Prot. n.\n3822\nUfficio: DGOF\nRiconoscimento Formazione Docente.\nDocumenti Allegati\nm_pi.AOODPIT.REGISTRO DECRETI DIPARTIMENTALI(R).0003822.18-12-2025.pdf",
+      "size_chars": 340,
+      "success": true,
+      "fetched_at": "2026-02-08T02:13:59.316149",
+      "document_type": "html"
     }
   ]
 }
