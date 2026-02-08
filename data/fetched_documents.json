@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-08T06:46:23.012872",
+  "last_fetch": "2026-02-08T12:43:23.028921",
   "stats": {
     "total": 348,
-    "fetched": 0,
-    "skipped": 100,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 1
   },
-  "total_documents": 1018,
+  "total_documents": 1019,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -15069,6 +15069,21 @@
       "success": true,
       "fetched_at": "2026-02-08T02:13:59.316149",
       "document_type": "html"
+    },
+    {
+      "title": "Carta del docente, Miceli (ANIEF): “Siamo davanti ad un cambiamento della sua funzione, ecco come. Non si possono escludere i docenti precari”",
+      "url": "https://www.orizzontescuola.it/carta-del-docente-miceli-anief-siamo-davanti-ad-un-cambiamento-della-sua-funzione-ecco-come-non-si-possono-escludere-i-docenti-precari/",
+      "date": "Sun, 08 Feb 2026 07:00:08 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel corso dell’ultima puntata di\nDentro il palazzo\n,\nformat condotto da Andrea Carlino, il confronto si è concentrato sul futuro della carta del docente. Ospite della diretta l’avvocato dell’ANIEF Walter Miceli, chiamato a chiarire i passaggi normativi che stanno alimentando incertezze e reazioni nel mondo della scuola.\nL'articolo\nCarta del docente, Miceli (ANIEF): “Siamo davanti ad un cambiamento della sua funzione, ecco come. Non si possono escludere i docenti precari”\nsembra essere il primo s",
+      "full_content": "Nel corso dell’ultima puntata di\nDentro il palazzo\n,\nformat condotto da Andrea Carlino, il confronto si è concentrato sul futuro della carta del docente. Ospite della diretta l’avvocato dell’ANIEF Walter Miceli, chiamato a chiarire i passaggi normativi che stanno alimentando incertezze e reazioni nel mondo della scuola.\nL'articolo\nCarta del docente, Miceli (ANIEF): “Siamo davanti ad un cambiamento della sua funzione, ecco come. Non si possono escludere i docenti precari”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "61cdc42260bb3998",
+      "text": "Nel corso dell’ultima puntata di\nDentro il palazzo\n,\nformat condotto da Andrea Carlino, il confronto si è concentrato sul futuro della carta del docente. Ospite della diretta l’avvocato dell’ANIEF Walter Miceli, chiamato a chiarire i passaggi normativi che stanno alimentando incertezze e reazioni nel mondo della scuola.\nL'articolo\nCarta del docente, Miceli (ANIEF): “Siamo davanti ad un cambiamento della sua funzione, ecco come. Non si possono escludere i docenti precari”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-08T12:43:22.515095",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
