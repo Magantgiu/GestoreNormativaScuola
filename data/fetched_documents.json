@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-08T12:43:23.028921",
+  "last_fetch": "2026-02-08T18:33:41.812045",
   "stats": {
-    "total": 348,
+    "total": 323,
     "fetched": 1,
     "skipped": 99,
     "failed": 0,
     "pdfs": 0,
     "html": 1
   },
-  "total_documents": 1019,
+  "total_documents": 1020,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -15082,6 +15082,21 @@
       "id": "61cdc42260bb3998",
       "text": "Nel corso dell’ultima puntata di\nDentro il palazzo\n,\nformat condotto da Andrea Carlino, il confronto si è concentrato sul futuro della carta del docente. Ospite della diretta l’avvocato dell’ANIEF Walter Miceli, chiamato a chiarire i passaggi normativi che stanno alimentando incertezze e reazioni nel mondo della scuola.\nL'articolo\nCarta del docente, Miceli (ANIEF): “Siamo davanti ad un cambiamento della sua funzione, ecco come. Non si possono escludere i docenti precari”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2026-02-08T12:43:22.515095",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Immissioni in ruolo, Pittoni (Lega): elenchi regionali prima possibilità per evitare il “selezionificio” senza fine",
+      "url": "https://www.orizzontescuola.it/immissioni-in-ruolo-pittoni-lega-elenchi-regionali-prima-possibilita-per-evitare-il-selezionificio-senza-fine/",
+      "date": "Sun, 08 Feb 2026 12:25:14 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "\"Doppio canale di reclutamento\": dialogo con i docenti di Mario Pittoni, responsabile del Dipartimento Istruzione della Lega, già Presidente della Commissione Cultura al Senato.\nL'articolo\nImmissioni in ruolo, Pittoni (Lega): elenchi regionali prima possibilità per evitare il “selezionificio” senza fine\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "\"Doppio canale di reclutamento\": dialogo con i docenti di Mario Pittoni, responsabile del Dipartimento Istruzione della Lega, già Presidente della Commissione Cultura al Senato.\nL'articolo\nImmissioni in ruolo, Pittoni (Lega): elenchi regionali prima possibilità per evitare il “selezionificio” senza fine\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "65923dba063b1e66",
+      "text": "\"Doppio canale di reclutamento\": dialogo con i docenti di Mario Pittoni, responsabile del Dipartimento Istruzione della Lega, già Presidente della Commissione Cultura al Senato.\nL'articolo\nImmissioni in ruolo, Pittoni (Lega): elenchi regionali prima possibilità per evitare il “selezionificio” senza fine\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-08T18:33:41.298536",
       "document_type": "rss_full",
       "success": true
     }
