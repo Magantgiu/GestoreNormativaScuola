@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-11T13:04:05.158376",
+  "last_fetch": "2026-02-11T19:00:34.911193",
   "stats": {
-    "total": 346,
-    "fetched": 7,
-    "skipped": 93,
+    "total": 322,
+    "fetched": 4,
+    "skipped": 96,
     "failed": 0,
     "pdfs": 0,
-    "html": 7
+    "html": 4
   },
-  "total_documents": 1066,
+  "total_documents": 1070,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -15796,6 +15796,64 @@
       "fetched_at": "2026-02-11T13:04:04.642974",
       "document_type": "rss_full",
       "success": true
+    },
+    {
+      "title": "Docenti neoimmessi 2025/26: almeno 12 ore di laboratori formativi su Scuola Futura. Indicazioni del Ministero",
+      "url": "https://www.orizzontescuola.it/docenti-neoimmessi-2025-26-almeno-12-ore-di-laboratori-formativi-su-scuola-futura-indicazioni-del-ministero/",
+      "date": "Wed, 11 Feb 2026 14:16:31 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Formazione docenti neoassunti anno scolastico 2025/26: in seguito alle richieste di chiarimenti da parte di alcuni corsisti, Indire condivide le indicazioni fornite dall'Ufficio VII del Ministero dell’Istruzione e del Merito.\nL'articolo\nDocenti neoimmessi 2025/26: almeno 12 ore di laboratori formativi su Scuola Futura. Indicazioni del Ministero\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Formazione docenti neoassunti anno scolastico 2025/26: in seguito alle richieste di chiarimenti da parte di alcuni corsisti, Indire condivide le indicazioni fornite dall'Ufficio VII del Ministero dell’Istruzione e del Merito.\nL'articolo\nDocenti neoimmessi 2025/26: almeno 12 ore di laboratori formativi su Scuola Futura. Indicazioni del Ministero\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "3ac9ead4730cd173",
+      "text": "Formazione docenti neoassunti anno scolastico 2025/26: in seguito alle richieste di chiarimenti da parte di alcuni corsisti, Indire condivide le indicazioni fornite dall'Ufficio VII del Ministero dell’Istruzione e del Merito.\nL'articolo\nDocenti neoimmessi 2025/26: almeno 12 ore di laboratori formativi su Scuola Futura. Indicazioni del Ministero\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-11T19:00:25.933758",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Personale ATA, slitta ancora l’operatore scolastico e il funzionario: nella bozza del dl PNRR c’è il rinvio al 2027/28",
+      "url": "https://www.orizzontescuola.it/personale-ata-slitta-ancora-loperatore-scolastico-e-il-funzionario-nella-bozza-del-dl-pnrr-ce-il-rinvio-al-2027-28/",
+      "date": "Wed, 11 Feb 2026 14:15:13 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Nella bozza di decreto legge PNRR\nè previsto un nuovo rinvio per l’introduzione delle figure dell’\noperatore scolastico\ne del\nfunzionario EQ (elevate qualificazioni)\ndel personale ATA.\nL'articolo\nPersonale ATA, slitta ancora l’operatore scolastico e il funzionario: nella bozza del dl PNRR c’è il rinvio al 2027/28\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Nella bozza di decreto legge PNRR\nè previsto un nuovo rinvio per l’introduzione delle figure dell’\noperatore scolastico\ne del\nfunzionario EQ (elevate qualificazioni)\ndel personale ATA.\nL'articolo\nPersonale ATA, slitta ancora l’operatore scolastico e il funzionario: nella bozza del dl PNRR c’è il rinvio al 2027/28\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "7172d0722994b088",
+      "text": "Nella bozza di decreto legge PNRR\nè previsto un nuovo rinvio per l’introduzione delle figure dell’\noperatore scolastico\ne del\nfunzionario EQ (elevate qualificazioni)\ndel personale ATA.\nL'articolo\nPersonale ATA, slitta ancora l’operatore scolastico e il funzionario: nella bozza del dl PNRR c’è il rinvio al 2027/28\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-11T19:00:26.433929",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Bando relativo a “I Greci e la storia – Gara di traduzione dal Greco antico all’Italiano” – a.s. 2025/2026 – Ufficio Scolastico Regionale",
+      "url": "https://www.ufficioscolasticoregionalelazio.it/2026/02/11/bando-relativo-a-i-greci-e-la-storia-gara-di-traduzione-dal-greco-antico-allitaliano-a-s-2025-2026/",
+      "date": "2026-02-11T19:00:24.615555",
+      "source": "USR Lazio",
+      "type": "comunicazione",
+      "description": "",
+      "id": "903d162656979de7",
+      "text": "m_pi.AOODRLA.REGISTRO UFFICIALE(U).0016214.11-02-2026 [242 KB]",
+      "size_chars": 62,
+      "success": true,
+      "fetched_at": "2026-02-11T19:00:29.576647",
+      "document_type": "html"
+    },
+    {
+      "title": "Circolare n. 100847 del 17 dicembre 2025 - Circolare n. 100847 del 17 dicembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/circolare-n-100847-del-17-dicembre-2025",
+      "date": "2026-02-11T19:00:19.357618",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "aafeb1def7ae17b0",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nCircolare n. 100847 del 17 dicembre 2025\nLunedì, 22 dicembre 2025\nCircolare n. 100847 del 17 dicembre 2025\nNota Prot. n.\n100847\nUfficio: DGOSVI\nIscrizioni alle scuole dell'infanzia e alle scuole del primo e del secondo ciclo di istruzione per l'anno scolastico 2026-2027\nLa nota disciplina le iscrizioni alle scuole dell'infanzia, del primo e del secondo ciclo di istruzione per l'anno scolastico 2026-2027.\nDocumenti Allegati\nCircolare n. 100847 del 17 dicembre 2025.pdf\nAllegati nota iscrizioni 2026-27.zip",
+      "size_chars": 561,
+      "success": true,
+      "fetched_at": "2026-02-11T19:00:33.804727",
+      "document_type": "html"
     }
   ]
 }
