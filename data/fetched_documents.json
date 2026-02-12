@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-11T19:00:34.911193",
+  "last_fetch": "2026-02-12T01:57:39.814639",
   "stats": {
-    "total": 322,
-    "fetched": 4,
-    "skipped": 96,
+    "total": 347,
+    "fetched": 3,
+    "skipped": 97,
     "failed": 0,
     "pdfs": 0,
-    "html": 4
+    "html": 3
   },
-  "total_documents": 1070,
+  "total_documents": 1073,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -15854,6 +15854,51 @@
       "success": true,
       "fetched_at": "2026-02-11T19:00:33.804727",
       "document_type": "html"
+    },
+    {
+      "title": "Nuovo rinvio profili Ata scuola, Flc: il governo danneggia i lavoratori",
+      "url": "https://www.flcgil.it/rassegna-stampa/nuovo-rinvio-profili-ata-scuola-flc-il-governo-danneggia-i-lavoratori.flc",
+      "date": "Wed, 11 Feb 2026 15:28:03 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "“I nuovi profili Ata di operatore scolastico e funzionario Eq (elevate qualificazioni) dovevano essere varati per contratto dal 1° maggio 2024. La decorrenza, rinviata già per due volte, la prima al...",
+      "full_content": "“I nuovi profili Ata di operatore scolastico e funzionario Eq (elevate qualificazioni) dovevano essere varati per contratto dal 1° maggio 2024. La decorrenza, rinviata già per due volte, la prima al...",
+      "has_full_content": true,
+      "id": "8507ca962f20dced",
+      "text": "“I nuovi profili Ata di operatore scolastico e funzionario Eq (elevate qualificazioni) dovevano essere varati per contratto dal 1° maggio 2024. La decorrenza, rinviata già per due volte, la prima al...",
+      "fetched_at": "2026-02-12T01:57:38.299157",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "CGIL e FLC CGIL della provincia dell’Aquila condannano quanto avvenuto in un liceo di Sulmona",
+      "url": "https://www.flcgil.it/regioni/abruzzo/l'aquila/cgil-e-flc-cgil-della-provincia-dell-aquila-condannano-quanto-avvenuto-in-un-liceo-di-sulmona.flc",
+      "date": "Wed, 11 Feb 2026 15:03:53 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "A cura di CGIL e FLC CGIL L'Aquila\nLa CGIL e la FLC CGIL della provincia dell’Aquila apprendono con sgomento che l’episodio avvenuto presso un liceo di Sulmona, dove alcuni studenti hanno girato e postato dei...",
+      "full_content": "A cura di CGIL e FLC CGIL L'Aquila\nLa CGIL e la FLC CGIL della provincia dell’Aquila apprendono con sgomento che l’episodio avvenuto presso un liceo di Sulmona, dove alcuni studenti hanno girato e postato dei...",
+      "has_full_content": true,
+      "id": "38fa1180ca1dd792",
+      "text": "A cura di CGIL e FLC CGIL L'Aquila\nLa CGIL e la FLC CGIL della provincia dell’Aquila apprendono con sgomento che l’episodio avvenuto presso un liceo di Sulmona, dove alcuni studenti hanno girato e postato dei...",
+      "fetched_at": "2026-02-12T01:57:38.799368",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Nuovo rinvio profili ATA, FLC CGIL: il Governo danneggia i lavoratori",
+      "url": "https://www.flcgil.it/comunicati-stampa/flc/nuovo-rinvio-profili-ata-flc-cgil-il-governo-danneggia-i-lavoratori.flc",
+      "date": "Wed, 11 Feb 2026 14:18:57 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Roma, 11 febbraio – “I nuovi profili ATA di operatore scolastico e funzionario EQ (elevate qualificazioni) dovevano essere varati per contratto dal 1° maggio 2024. La decorrenza, rinviata già per due volte, la prima al...",
+      "full_content": "Roma, 11 febbraio – “I nuovi profili ATA di operatore scolastico e funzionario EQ (elevate qualificazioni) dovevano essere varati per contratto dal 1° maggio 2024. La decorrenza, rinviata già per due volte, la prima al...",
+      "has_full_content": true,
+      "id": "46a98f4f86472690",
+      "text": "Roma, 11 febbraio – “I nuovi profili ATA di operatore scolastico e funzionario EQ (elevate qualificazioni) dovevano essere varati per contratto dal 1° maggio 2024. La decorrenza, rinviata già per due volte, la prima al...",
+      "fetched_at": "2026-02-12T01:57:39.299555",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
