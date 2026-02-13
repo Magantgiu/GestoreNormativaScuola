@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-12T19:00:57.155794",
+  "last_fetch": "2026-02-13T02:00:07.920311",
   "stats": {
     "total": 344,
-    "fetched": 11,
-    "skipped": 89,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 11
+    "html": 1
   },
-  "total_documents": 1094,
+  "total_documents": 1095,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -16214,6 +16214,21 @@
       "id": "2aefa6722046a6b0",
       "text": "A cura della FLC CGIL Sicilia\nProsegue senza sosta l’impegno della FLC CGIL Sicilia per la tutela e il consolidamento del comparto dell’istruzione e della formazione nell’Isola. Mercoledì 11 febbraio, una...",
       "fetched_at": "2026-02-12T19:00:56.639060",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Posizioni economiche ATA, prove dal 23 febbraio: le info utili e a cosa fare attenzione. QUESTION TIME con Sorrentino (Anief) LIVE Venerdì 13 febbraio alle 15:00",
+      "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-prove-dal-23-marzo-le-info-utili-e-a-cosa-fare-attenzione-question-time-con-sorrentino-anief-live-venerdi-13-febbraio-alle-1500/",
+      "date": "Thu, 12 Feb 2026 18:47:48 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Dal 23 al 27 febbraio si terranno le prove scritte relative alle posizioni economiche ATA. Per fare il punto della situazione e per rispondere ai vostri quesiti, la redazione di Orizzonte Scuola organizza una puntata di Question Time, il format di consulenza in onda sui nostri canali social (Facebook e YouTube).\nL'articolo\nPosizioni economiche ATA, prove dal 23 febbraio: le info utili e a cosa fare attenzione. QUESTION TIME con Sorrentino (Anief) LIVE Venerdì 13 febbraio alle 15:00\nsembra essere",
+      "full_content": "Dal 23 al 27 febbraio si terranno le prove scritte relative alle posizioni economiche ATA. Per fare il punto della situazione e per rispondere ai vostri quesiti, la redazione di Orizzonte Scuola organizza una puntata di Question Time, il format di consulenza in onda sui nostri canali social (Facebook e YouTube).\nL'articolo\nPosizioni economiche ATA, prove dal 23 febbraio: le info utili e a cosa fare attenzione. QUESTION TIME con Sorrentino (Anief) LIVE Venerdì 13 febbraio alle 15:00\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "5177c0c484a04bf4",
+      "text": "Dal 23 al 27 febbraio si terranno le prove scritte relative alle posizioni economiche ATA. Per fare il punto della situazione e per rispondere ai vostri quesiti, la redazione di Orizzonte Scuola organizza una puntata di Question Time, il format di consulenza in onda sui nostri canali social (Facebook e YouTube).\nL'articolo\nPosizioni economiche ATA, prove dal 23 febbraio: le info utili e a cosa fare attenzione. QUESTION TIME con Sorrentino (Anief) LIVE Venerdì 13 febbraio alle 15:00\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-13T02:00:07.405551",
       "document_type": "rss_full",
       "success": true
     }
