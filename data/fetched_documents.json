@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-14T12:42:44.505127",
+  "last_fetch": "2026-02-14T18:31:43.457252",
   "stats": {
     "total": 342,
-    "fetched": 4,
-    "skipped": 96,
+    "fetched": 3,
+    "skipped": 97,
     "failed": 0,
     "pdfs": 0,
-    "html": 4
+    "html": 3
   },
-  "total_documents": 1118,
+  "total_documents": 1121,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -16573,6 +16573,52 @@
       "fetched_at": "2026-02-14T12:42:43.990121",
       "document_type": "rss_full",
       "success": true
+    },
+    {
+      "title": "Concorsi docenti PNRR3, ISTRUZIONI presentazione titoli (non autocertificabili). Valgono solo quelli dichiarati nella domanda",
+      "url": "https://www.orizzontescuola.it/concorsi-docenti-pnrr3-istruzioni-presentazione-titoli-non-autocertificabili-valgono-solo-quelli-dichiarati-nella-domanda/",
+      "date": "Sat, 14 Feb 2026 14:43:27 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Concorsi DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: sono in corso le prove orali.  Le istruzioni per la presentazione dei titoli non autocertificabili.\nL'articolo\nConcorsi docenti PNRR3, ISTRUZIONI presentazione titoli (non autocertificabili). Valgono solo quelli dichiarati nella domanda\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Concorsi DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: sono in corso le prove orali.  Le istruzioni per la presentazione dei titoli non autocertificabili.\nL'articolo\nConcorsi docenti PNRR3, ISTRUZIONI presentazione titoli (non autocertificabili). Valgono solo quelli dichiarati nella domanda\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "480cc37e1123234b",
+      "text": "Concorsi DDG n. 2938/2025 per infanzia e primaria e DDG n. 2939/2025 per la scuola secondaria: sono in corso le prove orali.  Le istruzioni per la presentazione dei titoli non autocertificabili.\nL'articolo\nConcorsi docenti PNRR3, ISTRUZIONI presentazione titoli (non autocertificabili). Valgono solo quelli dichiarati nella domanda\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-14T18:31:38.124298",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Fondo Espero scuola, messaggio INPS con indicazioni sull’adesione anche con silenzio-assenso e istruzioni UNIEMENS",
+      "url": "https://www.orizzontescuola.it/fondo-espero-scuola-messaggio-inps-con-indicazioni-sulladesione-anche-con-silenzio-assenso-e-istruzioni-uniemens/",
+      "date": "Sat, 14 Feb 2026 14:40:23 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Con il messaggio 12 febbraio 2026, n. 516, l’INPS ha illustrato le modalità di espressione della volontà di adesione al Fondo pensione Espero per i lavoratori del comparto scuola, fornendo anche le istruzioni operative per la compilazione del flusso UNIEMENS da parte dei datori di lavoro.\nL'articolo\nFondo Espero scuola, messaggio INPS con indicazioni sull’adesione anche con silenzio-assenso e istruzioni UNIEMENS\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Con il messaggio 12 febbraio 2026, n. 516, l’INPS ha illustrato le modalità di espressione della volontà di adesione al Fondo pensione Espero per i lavoratori del comparto scuola, fornendo anche le istruzioni operative per la compilazione del flusso UNIEMENS da parte dei datori di lavoro.\nL'articolo\nFondo Espero scuola, messaggio INPS con indicazioni sull’adesione anche con silenzio-assenso e istruzioni UNIEMENS\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "92e27ea9e684acbf",
+      "text": "Con il messaggio 12 febbraio 2026, n. 516, l’INPS ha illustrato le modalità di espressione della volontà di adesione al Fondo pensione Espero per i lavoratori del comparto scuola, fornendo anche le istruzioni operative per la compilazione del flusso UNIEMENS da parte dei datori di lavoro.\nL'articolo\nFondo Espero scuola, messaggio INPS con indicazioni sull’adesione anche con silenzio-assenso e istruzioni UNIEMENS\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-14T18:31:38.624473",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Scuola, negata commemorazione strage di Cutro. Fracassi: Inaccettabile, circolare Valditara va ritirata - Comunicato stampa FLCgil",
+      "url": "https://www.flcgil.it/comunicati-stampa/scuola-negata-commemorazione-strage-di-cutro-fracassi-inaccettabile-circolare-valditara-va-ritirata.flc",
+      "date": "Sat, 14 Feb 2026 14:19:19 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "“La FLC CGIL denuncia con forza la decisione dell’istituto scolastico che ha negato l’utilizzo dell’auditorium per l’iniziativa di commemorazione della strage di Steccato di Cutro, promossa...",
+      "full_content": "“La FLC CGIL denuncia con forza la decisione dell’istituto scolastico che ha negato l’utilizzo dell’auditorium per l’iniziativa di commemorazione della strage di Steccato di Cutro, promossa...",
+      "has_full_content": false,
+      "id": "8e45d69b57ffdba0",
+      "text": "FLC\nChi siamo\nDove siamo\nContattaci\nScuola\nUniversità e AFAM\nRicerca\nRisorse\nApprofondimenti\nArgomenti\nContratti\nNormativa\nRSU\nRubrica giuridica\nSpeciali\nhttps://www.flcgil.it/@3973307\nHome\n»\nComunicati stampa\n»\nScuola, negata commemorazione strage di Cutro. Fracassi: Inaccettabile, circolare Valditara va ritirata\nScuola, negata commemorazione strage di Cutro. Fracassi: Inaccettabile, circolare Valditara va ritirata\nComunicato stampa della Federazione Lavoratori della Conoscenza CGIL\n14/02/2026\n“La FLC CGIL denuncia con forza la decisione dell’istituto scolastico che ha negato l’utilizzo dell’auditorium per l’iniziativa di commemorazione della strage di Steccato di Cutro, promossa dalla FLC e dalla CGIL Calabria” dichiara Gianna Fracassi, segretaria generale della Federazione Lavoratori della Conoscenza CGIL.\n“L’iniziativa - continua Fracassi - aveva un obiettivo limpido: offrire alla comunità scolastica un momento di riflessione civile e umana e affermare i valori della solidarietà, dell’accoglienza e dei diritti umani, nel ricordo di 94 vittime accertate, tra cui 34 bambine e bambini. Opporre a tutto questo la mancanza di un presunto ‘contraddittorio’ non è un cavillo burocratico. È una scelta culturalmente e moralmente inaccettabile”.\n“Di fronte alla morte, quale contraddittorio si pretende? Si pensa davvero di dover affiancare al ricordo delle vittime la voce di uno scafista o di chi semina odio? Se questa è la strada, allora siamo a una torsione gravissima del ruolo della scuola, che da luogo di educazione alla cittadinanza diventa ostaggio della paura e dell’autocensura” prosegue la dirigente sindacale.\nPer Fracassi: “È il clima prodotto dalla circolare voluta dal Ministro Giuseppe Valditara: un atto improprio, lesivo dell’autonomia scolastica, che sta incoraggiando letture burocratiche e difensive fino a generare decisioni assurde come questa. Quella circolare non impone nulla alle scuole autonome, ma viene usata come scudo per non assumersi responsabilità educative che dovrebbero essere elementari. Noi non ci stiamo”.\n“Chiediamo il ritiro immediato di quel provvedimento, che rappresenta una delle pagine più buie per la scuola italiana degli ultimi anni. Quando il ricordo di 94 morti diventa oggetto di prudenza amministrativa, vuol dire che qualcosa si è rotto nel rapporto tra scuola, democrazia e umanità. Noi quella rottura non la accettiamo. Le vittime di Cutro meritano rispetto. Studentesse e studenti meritano una scuola capace di educare all’umanità”. Conclude Fracassi.\nTweet\nInvia ad un amico\nStampa\nTag:\ncomunicati stampa\n,\ngianna fracassi\n,\ngiuseppe valditara\n,\nmiur\n,\nsolidarietà\nServizi assicurativi agli iscritti\nServizi e comunicazioni\nAgenda\n19 FEBBRAIO |\n“ATA al CENTRO della SCUOLA di OGGI”. Partecipa Gianna Fracassi. IC De Gasperi, Palermo, ore 09:00.\nI più letti\nToscana: superiori di 4 anni nei tecnici e professionali. Una scorciatoia che penalizza studenti e famiglie\nAFAM e applicazione del CCNL 2022-2024: da NOIPA un pasticcio senza precedenti\nIl MIM avvia una piattaforma per sconti su beni e servizi per il personale scolastico\nSenza stipendio e senza la possibilità di ottenere la pensione\nRiordino degli Istituti Tecnici: contrarietà della FLC CGIL al nuovo assetto ordinamentale\nNuovo rinvio profili ATA, FLC CGIL: il Governo danneggia i lavoratori\nLink consigliati\nCGIL\nEdizioni Conoscenza\nCollettiva\nProteo Fare Sapere\nArticolo 33\nFondazione Di Vittorio\nSeguici su facebook\nFLC CGIL\nChi siamo\nDove siamo\nContattaci\nStatuto\nIscriviti\nServizi\nCasa editrice\nArchivio storico\nNewsletter\nFeed RSS\nLink utili\nPrivacy policy\nFLC CGIL\nNOTIZIE\nCGIL\nNOTIZIE\nIl MIM avvia una piattaforma per sconti su beni e servizi per il personale scolastico\nScatti di anzianità ai precari: la Commissione europea chiede all’Italia di porre fine alla discriminazione retributiva del personale a tempo determinato nelle scuole pubbliche\nAFAM e applicazione del CCNL 2022-2024: da NOIPA un pasticcio senza precedenti\nWebmail\nGmail\nIntranet\nQuesto sito utilizza dei cookie che ci aiutano ad offrirti un servizio migliore.\nPuoi prendere visione dell'informativa estesa sull'uso dei cookie\no negare il consenso cliccando su \"Maggiori informazioni\".\nProseguendo la navigazione o cliccando su \"Accetto\" acconsenti all'uso dei cookie.\nAccetto\nMaggiori informazioni\nRimani sempre aggiornato, Diventa Fan di\nFLC CGIL\nsu Facebook!\nCondividi",
+      "size_chars": 4386,
+      "success": true,
+      "fetched_at": "2026-02-14T18:31:41.795139",
+      "document_type": "html"
     }
   ]
 }
