@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-14T06:42:05.001605",
+  "last_fetch": "2026-02-14T12:42:44.505127",
   "stats": {
     "total": 342,
-    "fetched": 0,
-    "skipped": 100,
+    "fetched": 4,
+    "skipped": 96,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 4
   },
-  "total_documents": 1114,
+  "total_documents": 1118,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -16511,6 +16511,66 @@
       "id": "4ab269147676b2a7",
       "text": "Il Ministero dell’Istruzione e del Merito ha annunciato l’attivazione di una piattaforma digitale che, a seguito di una convenzione stipulata con Poste Welfare Servizi S.p.A., consentirà al personale...",
       "fetched_at": "2026-02-14T01:49:59.689910",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Graduatorie GPS 2026: guida alla compilazione per seconda fascia a pieno titolo e riserva prima fascia",
+      "url": "https://www.orizzontescuola.it/graduatorie-gps-2026-guida-alla-compilazione-per-seconda-fascia-a-pieno-titolo-e-riserva-prima-fascia/",
+      "date": "Sat, 14 Feb 2026 11:10:54 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Graduatorie GPS 2026/28: il quesito di oggi inviato a lallaorizzonte@orizzontescuola.it ci permette di chiarire meglio cosa si intende quando consigliamo l'iscrizione a pieno titolo in seconda fascia e in prima con riserva per non perdere nessuna possibilità lavorativa in base ai titoli in possesso.\nL'articolo\nGraduatorie GPS 2026: guida alla compilazione per seconda fascia a pieno titolo e riserva prima fascia\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Graduatorie GPS 2026/28: il quesito di oggi inviato a lallaorizzonte@orizzontescuola.it ci permette di chiarire meglio cosa si intende quando consigliamo l'iscrizione a pieno titolo in seconda fascia e in prima con riserva per non perdere nessuna possibilità lavorativa in base ai titoli in possesso.\nL'articolo\nGraduatorie GPS 2026: guida alla compilazione per seconda fascia a pieno titolo e riserva prima fascia\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "0415d198eea421b7",
+      "text": "Graduatorie GPS 2026/28: il quesito di oggi inviato a lallaorizzonte@orizzontescuola.it ci permette di chiarire meglio cosa si intende quando consigliamo l'iscrizione a pieno titolo in seconda fascia e in prima con riserva per non perdere nessuna possibilità lavorativa in base ai titoli in possesso.\nL'articolo\nGraduatorie GPS 2026: guida alla compilazione per seconda fascia a pieno titolo e riserva prima fascia\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-14T12:42:42.489595",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "La provincia scelta per le GPS può essere al di fuori della regione del concorso: prima i ruoli e poi le supplenze. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/la-provincia-scelta-per-le-gps-puo-essere-al-di-fuori-della-regione-del-concorso-prima-i-ruoli-e-poi-le-supplenze-pillole-di-question-time/",
+      "date": "Sat, 14 Feb 2026 09:25:35 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 9 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente ed esperta in normativa scolastica, è stato chiarito il rapporto tra idoneità concorsuale e partecipazione alle supplenze in una provincia diversa. Il focus si è concentrato in particolare su come funziona l’eventuale immissione in ruolo in presenza di una domanda per le supplenze.\nL'articolo\nLa provincia scelta per le GPS può essere al di fuori della regione del concorso: p",
+      "full_content": "Nel question time del 9 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente ed esperta in normativa scolastica, è stato chiarito il rapporto tra idoneità concorsuale e partecipazione alle supplenze in una provincia diversa. Il focus si è concentrato in particolare su come funziona l’eventuale immissione in ruolo in presenza di una domanda per le supplenze.\nL'articolo\nLa provincia scelta per le GPS può essere al di fuori della regione del concorso: prima i ruoli e poi le supplenze. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "f19e01ba9fbd9484",
+      "text": "Nel question time del 9 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente ed esperta in normativa scolastica, è stato chiarito il rapporto tra idoneità concorsuale e partecipazione alle supplenze in una provincia diversa. Il focus si è concentrato in particolare su come funziona l’eventuale immissione in ruolo in presenza di una domanda per le supplenze.\nL'articolo\nLa provincia scelta per le GPS può essere al di fuori della regione del concorso: prima i ruoli e poi le supplenze. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-14T12:42:42.989744",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Corsi di differenziazione didattica a metodo Pizzigoni per la scuola primaria: CSPI propone anche iscrizione studenti SFP con 150 CFU",
+      "url": "https://www.orizzontescuola.it/corsi-di-differenziazione-didattica-a-metodo-pizzigoni-per-la-scuola-primaria-cspi-propone-anche-iscrizione-studenti-sfp-con-150-cfu/",
+      "date": "Sat, 14 Feb 2026 08:38:19 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Il CSPI è stato chiamato ad esprimere il proprio parere su “Schema di decreto del Ministro dell’istruzione e del merito concernente i corsi di differenziazione didattica a metodo Pizzigoni per la scuola primaria”.\nL'articolo\nCorsi di differenziazione didattica a metodo Pizzigoni per la scuola primaria: CSPI propone anche iscrizione studenti SFP con 150 CFU\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Il CSPI è stato chiamato ad esprimere il proprio parere su “Schema di decreto del Ministro dell’istruzione e del merito concernente i corsi di differenziazione didattica a metodo Pizzigoni per la scuola primaria”.\nL'articolo\nCorsi di differenziazione didattica a metodo Pizzigoni per la scuola primaria: CSPI propone anche iscrizione studenti SFP con 150 CFU\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "7486ca24a04e9efb",
+      "text": "Il CSPI è stato chiamato ad esprimere il proprio parere su “Schema di decreto del Ministro dell’istruzione e del merito concernente i corsi di differenziazione didattica a metodo Pizzigoni per la scuola primaria”.\nL'articolo\nCorsi di differenziazione didattica a metodo Pizzigoni per la scuola primaria: CSPI propone anche iscrizione studenti SFP con 150 CFU\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-14T12:42:43.489961",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Posizioni economiche ATA, prove dal 23 febbraio: la sola partecipazione consente l’inserimento in graduatoria, ma attenzione al punteggio. RISPOSTE AI QUESITI",
+      "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-prove-dal-23-febbraio-la-sola-partecipazione-consente-linserimento-in-graduatoria-ma-attenzione-al-punteggio-risposte-ai-quesiti/",
+      "date": "Sat, 14 Feb 2026 07:24:58 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "In vista delle prove finali di valutazione per l'attribuzione delle nuove posizioni economiche ATA, Orizzonte Scuola ha organizzato una diretta, andata in onda il 13 febbraio. Ospite della puntata Alberico Sorrentino, DSGA del dipartimento Anief-Condir, che ha risposto ai dubbi dei lettori e fatto il punto sulla prova.\nL'articolo\nPosizioni economiche ATA, prove dal 23 febbraio: la sola partecipazione consente l’inserimento in graduatoria, ma attenzione al punteggio. RISPOSTE AI QUESITI\nsembra es",
+      "full_content": "In vista delle prove finali di valutazione per l'attribuzione delle nuove posizioni economiche ATA, Orizzonte Scuola ha organizzato una diretta, andata in onda il 13 febbraio. Ospite della puntata Alberico Sorrentino, DSGA del dipartimento Anief-Condir, che ha risposto ai dubbi dei lettori e fatto il punto sulla prova.\nL'articolo\nPosizioni economiche ATA, prove dal 23 febbraio: la sola partecipazione consente l’inserimento in graduatoria, ma attenzione al punteggio. RISPOSTE AI QUESITI\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "837e69c29e55af41",
+      "text": "In vista delle prove finali di valutazione per l'attribuzione delle nuove posizioni economiche ATA, Orizzonte Scuola ha organizzato una diretta, andata in onda il 13 febbraio. Ospite della puntata Alberico Sorrentino, DSGA del dipartimento Anief-Condir, che ha risposto ai dubbi dei lettori e fatto il punto sulla prova.\nL'articolo\nPosizioni economiche ATA, prove dal 23 febbraio: la sola partecipazione consente l’inserimento in graduatoria, ma attenzione al punteggio. RISPOSTE AI QUESITI\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-14T12:42:43.990121",
       "document_type": "rss_full",
       "success": true
     }
