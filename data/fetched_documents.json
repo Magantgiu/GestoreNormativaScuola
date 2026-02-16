@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-15T18:33:06.500604",
+  "last_fetch": "2026-02-16T01:55:40.842926",
   "stats": {
     "total": 342,
-    "fetched": 0,
-    "skipped": 100,
+    "fetched": 2,
+    "skipped": 98,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 2
   },
-  "total_documents": 1121,
+  "total_documents": 1123,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -16619,6 +16619,36 @@
       "success": true,
       "fetched_at": "2026-02-14T18:31:41.795139",
       "document_type": "html"
+    },
+    {
+      "title": "Supplenze 2026/28: domanda unica per GPS e venti scuole di istituto, separata per le 150 preferenze. CHIARIMENTI",
+      "url": "https://www.orizzontescuola.it/supplenze-2026-28-domanda-unica-per-gps-e-venti-scuole-di-istituto-separata-per-le-150-preferenze-chiarimenti/",
+      "date": "Sun, 15 Feb 2026 19:30:51 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Graduatorie supplenze 2026/28: chiarimento sulle domande da presentare per ottenere il massimo delle possibilità. Il quesito a lallaorizzonte@orizzontescuola.it\nL'articolo\nSupplenze 2026/28: domanda unica per GPS e venti scuole di istituto, separata per le 150 preferenze. CHIARIMENTI\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Graduatorie supplenze 2026/28: chiarimento sulle domande da presentare per ottenere il massimo delle possibilità. Il quesito a lallaorizzonte@orizzontescuola.it\nL'articolo\nSupplenze 2026/28: domanda unica per GPS e venti scuole di istituto, separata per le 150 preferenze. CHIARIMENTI\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "54ff770b965bc032",
+      "text": "Graduatorie supplenze 2026/28: chiarimento sulle domande da presentare per ottenere il massimo delle possibilità. Il quesito a lallaorizzonte@orizzontescuola.it\nL'articolo\nSupplenze 2026/28: domanda unica per GPS e venti scuole di istituto, separata per le 150 preferenze. CHIARIMENTI\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-16T01:55:39.826626",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Graduatorie GPS 2026: scadenza domanda non sarà a febbraio! I vantaggi su servizio e titoli",
+      "url": "https://www.orizzontescuola.it/graduatorie-gps-2026-scadenza-domanda-non-sara-a-febbraio-i-vantaggi-su-servizio-e-titoli/",
+      "date": "Sun, 15 Feb 2026 18:00:51 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Graduatorie GPS 2026/28: siamo in attesa dell'Ordinanza e delle nuove tabelle di valutazione dei titoli, utili per la compilazione della domanda di primo inserimento/aggiornamento/conferma/cambio provincia.\nL'articolo\nGraduatorie GPS 2026: scadenza domanda non sarà a febbraio! I vantaggi su servizio e titoli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Graduatorie GPS 2026/28: siamo in attesa dell'Ordinanza e delle nuove tabelle di valutazione dei titoli, utili per la compilazione della domanda di primo inserimento/aggiornamento/conferma/cambio provincia.\nL'articolo\nGraduatorie GPS 2026: scadenza domanda non sarà a febbraio! I vantaggi su servizio e titoli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "b207021aadcd8a1c",
+      "text": "Graduatorie GPS 2026/28: siamo in attesa dell'Ordinanza e delle nuove tabelle di valutazione dei titoli, utili per la compilazione della domanda di primo inserimento/aggiornamento/conferma/cambio provincia.\nL'articolo\nGraduatorie GPS 2026: scadenza domanda non sarà a febbraio! I vantaggi su servizio e titoli\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-16T01:55:40.326774",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
