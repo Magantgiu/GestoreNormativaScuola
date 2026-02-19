@@ -1,12 +1,12 @@
 {
-  "last_fetch": "2026-02-19T01:57:05.137297",
+  "last_fetch": "2026-02-19T06:58:49.677246",
   "stats": {
-    "total": 315,
-    "fetched": 11,
-    "skipped": 89,
+    "total": 340,
+    "fetched": 0,
+    "skipped": 100,
     "failed": 0,
     "pdfs": 0,
-    "html": 11
+    "html": 0
   },
   "total_documents": 1180,
   "documents": [
