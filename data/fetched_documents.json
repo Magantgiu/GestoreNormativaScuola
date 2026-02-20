@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-20T12:54:16.988847",
+  "last_fetch": "2026-02-20T18:43:05.360324",
   "stats": {
     "total": 344,
-    "fetched": 10,
-    "skipped": 90,
+    "fetched": 7,
+    "skipped": 93,
     "failed": 0,
     "pdfs": 0,
-    "html": 10
+    "html": 7
   },
-  "total_documents": 1207,
+  "total_documents": 1214,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -17921,6 +17921,111 @@
       "success": true,
       "fetched_at": "2026-02-20T12:54:15.872466",
       "document_type": "html"
+    },
+    {
+      "title": "Aggiornamento GPS al via: attenzione a certificazioni informatiche nel cambio fascia, servizio con riserva, ALERT punteggio ITP.  Il punto di Chiara Cozzetto (ANIEF)",
+      "url": "https://www.orizzontescuola.it/aggiornamento-gps-al-via-attenzione-a-certificazioni-informatiche-nel-cambio-fascia-servizio-con-riserva-alert-punteggio-itp-il-punto-di-chiara-cozzetto-anief/",
+      "date": "Fri, 20 Feb 2026 17:34:21 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel\nQuestion Time\ndi oggi 20 febbraio, Chiara Cozzetto di\nANIEF\nha analizzato nel dettaglio il format della domanda di aggiornamento delle GPS appena presentato dal Ministero.\nL'articolo\nAggiornamento GPS al via: attenzione a certificazioni informatiche nel cambio fascia, servizio con riserva, ALERT punteggio ITP.  Il punto di Chiara Cozzetto (ANIEF)\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Nel\nQuestion Time\ndi oggi 20 febbraio, Chiara Cozzetto di\nANIEF\nha analizzato nel dettaglio il format della domanda di aggiornamento delle GPS appena presentato dal Ministero.\nL'articolo\nAggiornamento GPS al via: attenzione a certificazioni informatiche nel cambio fascia, servizio con riserva, ALERT punteggio ITP.  Il punto di Chiara Cozzetto (ANIEF)\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "c6ac3fead378ed63",
+      "text": "Nel\nQuestion Time\ndi oggi 20 febbraio, Chiara Cozzetto di\nANIEF\nha analizzato nel dettaglio il format della domanda di aggiornamento delle GPS appena presentato dal Ministero.\nL'articolo\nAggiornamento GPS al via: attenzione a certificazioni informatiche nel cambio fascia, servizio con riserva, ALERT punteggio ITP.  Il punto di Chiara Cozzetto (ANIEF)\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-20T18:43:01.842163",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "GPS 2026-2028, ecco la scheda Uil Scuola Rua con tutte le info utili sulla domanda",
+      "url": "https://www.orizzontescuola.it/gps-2026-2028-ecco-la-scheda-uil-scuola-rua-con-tutte-le-info-utili-sulla-domanda/",
+      "date": "Fri, 20 Feb 2026 16:54:53 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "La domanda di partecipazione alle GPS 2026/2028 può essere presentata a partire dalle ore 12:00 del 23 febbraio e fino alle ore 23:59 del 16 marzo 2026, esclusivamente in modalità telematica tramite il Portale Unico del Reclutamento, raggiungibile all'indirizzo www.inpa.gov.it.\nL'articolo\nGPS 2026-2028, ecco la scheda Uil Scuola Rua con tutte le info utili sulla domanda\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "La domanda di partecipazione alle GPS 2026/2028 può essere presentata a partire dalle ore 12:00 del 23 febbraio e fino alle ore 23:59 del 16 marzo 2026, esclusivamente in modalità telematica tramite il Portale Unico del Reclutamento, raggiungibile all'indirizzo www.inpa.gov.it.\nL'articolo\nGPS 2026-2028, ecco la scheda Uil Scuola Rua con tutte le info utili sulla domanda\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "7b73a12239f951c3",
+      "text": "La domanda di partecipazione alle GPS 2026/2028 può essere presentata a partire dalle ore 12:00 del 23 febbraio e fino alle ore 23:59 del 16 marzo 2026, esclusivamente in modalità telematica tramite il Portale Unico del Reclutamento, raggiungibile all'indirizzo www.inpa.gov.it.\nL'articolo\nGPS 2026-2028, ecco la scheda Uil Scuola Rua con tutte le info utili sulla domanda\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-20T18:43:02.342348",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Graduatorie GPS 2026/28: specializzazione TFA sostegno e percorso Indire hanno lo stesso punteggio. Il Ministero ci spiega perché",
+      "url": "https://www.orizzontescuola.it/graduatorie-gps-2026-28-specializzazione-tfa-sostegno-e-percorso-indire-hanno-lo-stesso-punteggio-il-ministero-ci-spiega-perche/",
+      "date": "Fri, 20 Feb 2026 16:41:14 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Graduatorie GPS provinciali e di istituto per il biennio 2026/28: pubblicata l'Ordinanza e le tabelle titoli. Ci soffermiamo sulla tabella A/7 prima fascia sostegno.\nL'articolo\nGraduatorie GPS 2026/28: specializzazione TFA sostegno e percorso Indire hanno lo stesso punteggio. Il Ministero ci spiega perché\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Graduatorie GPS provinciali e di istituto per il biennio 2026/28: pubblicata l'Ordinanza e le tabelle titoli. Ci soffermiamo sulla tabella A/7 prima fascia sostegno.\nL'articolo\nGraduatorie GPS 2026/28: specializzazione TFA sostegno e percorso Indire hanno lo stesso punteggio. Il Ministero ci spiega perché\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "fe69db8a7831e0b3",
+      "text": "Graduatorie GPS provinciali e di istituto per il biennio 2026/28: pubblicata l'Ordinanza e le tabelle titoli. Ci soffermiamo sulla tabella A/7 prima fascia sostegno.\nL'articolo\nGraduatorie GPS 2026/28: specializzazione TFA sostegno e percorso Indire hanno lo stesso punteggio. Il Ministero ci spiega perché\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-20T18:43:02.842521",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Aggiornamento GPS 2026: ecco le guide del Ministero per compilare la domanda",
+      "url": "https://www.orizzontescuola.it/aggiornamento-gps-2026-ecco-le-guide-del-ministero-per-compilare-la-domanda/",
+      "date": "Fri, 20 Feb 2026 14:32:51 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Il Ministero dell’Istruzione e del Merito ha pubblicato la sezione informativa relativa all’aggiornamento e al rinnovo, con cadenza biennale, delle Graduatorie provinciali per le supplenze (GPS) di prima e seconda fascia, nonché delle rispettive graduatorie di istituto, per gli anni scolastici 2026/2027 e 2027/2028.\nL'articolo\nAggiornamento GPS 2026: ecco le guide del Ministero per compilare la domanda\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Il Ministero dell’Istruzione e del Merito ha pubblicato la sezione informativa relativa all’aggiornamento e al rinnovo, con cadenza biennale, delle Graduatorie provinciali per le supplenze (GPS) di prima e seconda fascia, nonché delle rispettive graduatorie di istituto, per gli anni scolastici 2026/2027 e 2027/2028.\nL'articolo\nAggiornamento GPS 2026: ecco le guide del Ministero per compilare la domanda\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "3cd606ec1376fa52",
+      "text": "Il Ministero dell’Istruzione e del Merito ha pubblicato la sezione informativa relativa all’aggiornamento e al rinnovo, con cadenza biennale, delle Graduatorie provinciali per le supplenze (GPS) di prima e seconda fascia, nonché delle rispettive graduatorie di istituto, per gli anni scolastici 2026/2027 e 2027/2028.\nL'articolo\nAggiornamento GPS 2026: ecco le guide del Ministero per compilare la domanda\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-20T18:43:03.342710",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Aggiornamento GPS 2026/27 e 2027/28, online la pagina del Ministero con tutte le informazioni utili",
+      "url": "https://www.orizzontescuola.it/aggiornamento-gps-2026-27-e-2027-28-online-la-pagina-del-ministero-con-guida-scadenze-e-istruzioni-per-la-domanda/",
+      "date": "Fri, 20 Feb 2026 14:23:42 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Il Ministero dell’Istruzione e del Merito ha reso disponibile la pagina dedicata all’aggiornamento e rinnovo biennale delle Graduatorie provinciali per le supplenze (GPS) di I e II fascia e delle corrispondenti graduatorie di istituto per gli anni scolastici 2026/27 e 2027/28.\nL'articolo\nAggiornamento GPS 2026/27 e 2027/28, online la pagina del Ministero con tutte le informazioni utili\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Il Ministero dell’Istruzione e del Merito ha reso disponibile la pagina dedicata all’aggiornamento e rinnovo biennale delle Graduatorie provinciali per le supplenze (GPS) di I e II fascia e delle corrispondenti graduatorie di istituto per gli anni scolastici 2026/27 e 2027/28.\nL'articolo\nAggiornamento GPS 2026/27 e 2027/28, online la pagina del Ministero con tutte le informazioni utili\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "c18e7020a3fea155",
+      "text": "Il Ministero dell’Istruzione e del Merito ha reso disponibile la pagina dedicata all’aggiornamento e rinnovo biennale delle Graduatorie provinciali per le supplenze (GPS) di I e II fascia e delle corrispondenti graduatorie di istituto per gli anni scolastici 2026/27 e 2027/28.\nL'articolo\nAggiornamento GPS 2026/27 e 2027/28, online la pagina del Ministero con tutte le informazioni utili\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-20T18:43:03.842926",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "GPS 2026: seconda fascia anche per ed. motoria alla primaria. Ecco le lauree utili, no diploma Isef. NOVITÀ",
+      "url": "https://www.orizzontescuola.it/gps-2026-seconda-fascia-anche-per-ed-motoria-alla-primaria-ecco-le-lauree-utili-no-diploma-isef-novita/",
+      "date": "Fri, 20 Feb 2026 13:20:32 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "L'Ordinanza n. 27 del 16 febbraio 2026, con le tabelle allegati, ci dà un'idea delle GPS graduatorie provinciali e di istituto per il biennio 2026/27 e 2028/29\nL'articolo\nGPS 2026: seconda fascia anche per ed. motoria alla primaria. Ecco le lauree utili, no diploma Isef. NOVITÀ\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "L'Ordinanza n. 27 del 16 febbraio 2026, con le tabelle allegati, ci dà un'idea delle GPS graduatorie provinciali e di istituto per il biennio 2026/27 e 2028/29\nL'articolo\nGPS 2026: seconda fascia anche per ed. motoria alla primaria. Ecco le lauree utili, no diploma Isef. NOVITÀ\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "e21cf7b797beb015",
+      "text": "L'Ordinanza n. 27 del 16 febbraio 2026, con le tabelle allegati, ci dà un'idea delle GPS graduatorie provinciali e di istituto per il biennio 2026/27 e 2028/29\nL'articolo\nGPS 2026: seconda fascia anche per ed. motoria alla primaria. Ecco le lauree utili, no diploma Isef. NOVITÀ\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-20T18:43:04.343111",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Certificazioni informatiche nelle GPS 2026/28, fino a 4 punti. Ecco con quali titoli. TABELLA ufficiale",
+      "url": "https://www.orizzontescuola.it/certificazioni-informatiche-nelle-gps-2026-28-fino-a-4-punti-ecco-con-quali-titoli-tabella-ufficiale/",
+      "date": "Fri, 20 Feb 2026 13:02:57 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Il Ministero dell'Istruzione e del Merito ha pubblicato l'Ordinanza e le tabelle titoli relative all'aggiornamento GPS del biennio 2026/28. Ecco quali titoli sono validi.\nL'articolo\nCertificazioni informatiche nelle GPS 2026/28, fino a 4 punti. Ecco con quali titoli. TABELLA ufficiale\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Il Ministero dell'Istruzione e del Merito ha pubblicato l'Ordinanza e le tabelle titoli relative all'aggiornamento GPS del biennio 2026/28. Ecco quali titoli sono validi.\nL'articolo\nCertificazioni informatiche nelle GPS 2026/28, fino a 4 punti. Ecco con quali titoli. TABELLA ufficiale\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "a3b92964de62f559",
+      "text": "Il Ministero dell'Istruzione e del Merito ha pubblicato l'Ordinanza e le tabelle titoli relative all'aggiornamento GPS del biennio 2026/28. Ecco quali titoli sono validi.\nL'articolo\nCertificazioni informatiche nelle GPS 2026/28, fino a 4 punti. Ecco con quali titoli. TABELLA ufficiale\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-20T18:43:04.843290",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
