@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-19T18:48:07.669201",
+  "last_fetch": "2026-02-20T01:52:13.537265",
   "stats": {
     "total": 341,
-    "fetched": 7,
-    "skipped": 93,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 7
+    "html": 1
   },
-  "total_documents": 1196,
+  "total_documents": 1197,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -17754,6 +17754,21 @@
       "id": "137e3da368dcf781",
       "text": "Nel question time del 18 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Marco Vulcano, rappresentante del Centro Nazionale della Flc Cgil, è stata affrontata una questione relativa ai titoli e alla valutazione del servizio nelle Graduatorie provinciali per le supplenze. Un focus particolare è stato posto su: modalità di dichiarazione della laurea conseguita prima della scadenza delle istanze e dunque utile per l'accesso in seconda fascia.\nL'articolo\nGPS 2026: la laurea si autocertifica. Indicazione per i CFU aggiuntivi conseguiti per l’accesso alla classe di concorso.  Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2026-02-19T18:48:07.153251",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Graduatorie GPS 2926: c’è tempo fino al 16 marzo per conseguire “altri titoli”",
+      "url": "https://www.orizzontescuola.it/graduatorie-gps-2926-ce-tempo-fino-al-16-marzo-per-conseguire-altri-altri-titoli/",
+      "date": "Thu, 19 Feb 2026 19:47:04 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "I sindacati hanno diffuso le date della finestra temporale utile per l'inserimento e l'aggiornamento delle GPS graduatorie provinciali e di istituto per il biennio 2026/28, come comunicate dal Ministero.\nL'articolo\nGraduatorie GPS 2926: c’è tempo fino al 16 marzo per conseguire “altri titoli”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "I sindacati hanno diffuso le date della finestra temporale utile per l'inserimento e l'aggiornamento delle GPS graduatorie provinciali e di istituto per il biennio 2026/28, come comunicate dal Ministero.\nL'articolo\nGraduatorie GPS 2926: c’è tempo fino al 16 marzo per conseguire “altri titoli”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "506ef092778e500b",
+      "text": "I sindacati hanno diffuso le date della finestra temporale utile per l'inserimento e l'aggiornamento delle GPS graduatorie provinciali e di istituto per il biennio 2026/28, come comunicate dal Ministero.\nL'articolo\nGraduatorie GPS 2926: c’è tempo fino al 16 marzo per conseguire “altri titoli”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-20T01:52:13.019434",
       "document_type": "rss_full",
       "success": true
     }
