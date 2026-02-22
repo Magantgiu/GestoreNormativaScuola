@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-21T18:31:45.465473",
+  "last_fetch": "2026-02-22T01:54:56.344369",
   "stats": {
-    "total": 344,
-    "fetched": 5,
-    "skipped": 95,
+    "total": 319,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 5
+    "html": 1
   },
-  "total_documents": 1222,
+  "total_documents": 1223,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -18148,6 +18148,21 @@
       "success": true,
       "fetched_at": "2026-02-21T18:31:43.584732",
       "document_type": "html"
+    },
+    {
+      "title": "GPS 2026: chi non è ancora iscritto al corso abilitante o sostegno potrà iscriversi con riserva in prima fascia",
+      "url": "https://www.orizzontescuola.it/gps-2026-chi-non-e-ancora-iscritto-al-corso-abilitante-o-sostegno-potra-iscriversi-con-riserva-in-prima-fascia/",
+      "date": "Sat, 21 Feb 2026 16:59:39 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Graduatorie GPS per il biennio 2026/28: la domanda di inserimento /aggiornamento/ permanenza va presentata dal 23 febbraio ore 12 fino al 16 marzo ore 23.59. Chi può inserirsi con riserva in prima fascia.\nL'articolo\nGPS 2026: chi non è ancora iscritto al corso abilitante o sostegno potrà iscriversi con riserva in prima fascia\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Graduatorie GPS per il biennio 2026/28: la domanda di inserimento /aggiornamento/ permanenza va presentata dal 23 febbraio ore 12 fino al 16 marzo ore 23.59. Chi può inserirsi con riserva in prima fascia.\nL'articolo\nGPS 2026: chi non è ancora iscritto al corso abilitante o sostegno potrà iscriversi con riserva in prima fascia\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "8009cd7a87561a38",
+      "text": "Graduatorie GPS per il biennio 2026/28: la domanda di inserimento /aggiornamento/ permanenza va presentata dal 23 febbraio ore 12 fino al 16 marzo ore 23.59. Chi può inserirsi con riserva in prima fascia.\nL'articolo\nGPS 2026: chi non è ancora iscritto al corso abilitante o sostegno potrà iscriversi con riserva in prima fascia\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-22T01:54:55.828431",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
