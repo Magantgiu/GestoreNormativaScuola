@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-22T12:43:24.318312",
+  "last_fetch": "2026-02-22T18:33:03.813069",
   "stats": {
     "total": 319,
-    "fetched": 3,
-    "skipped": 97,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 3
+    "html": 1
   },
-  "total_documents": 1226,
+  "total_documents": 1227,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -18206,6 +18206,21 @@
       "id": "70768e11b2e2baae",
       "text": "In vista delle prove finali per l’attribuzione delle nuove posizioni economiche ATA, in programma dal 23 al 27 febbraio, Orizzonte Scuola ha dedicato una diretta di approfondimento il 13 febbraio con Alberico Sorrentino, DSGA del Dipartimento Anief-Condir.\nL'articolo\nPosizioni economiche ATA, prove dal 23 al 27 febbraio: le informazioni utili per affrontare la prova\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2026-02-22T12:43:23.801563",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Prima fascia GPS sostegno: quanti punti vale l’abilitazione su materia. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/prima-fascia-gps-sostegno-quanti-punti-vale-labilitazione-su-materia-pillole-di-question-time/",
+      "date": "Sun, 22 Feb 2026 16:38:54 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 18 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Marco Vulcano, rappresentante del Centro Nazionale della Flc Cgil, è stata approfondita una questione relativa alla valutazione dei titoli nella prima fascia GPS sostegno. L’attenzione si è concentrata sul punteggio attribuito all’abilitazione su materia.\nL'articolo\nPrima fascia GPS sostegno: quanti punti vale l’abilitazione su materia. Pillole di Question Time\nsembra essere il primo su\nOrizzont",
+      "full_content": "Nel question time del 18 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Marco Vulcano, rappresentante del Centro Nazionale della Flc Cgil, è stata approfondita una questione relativa alla valutazione dei titoli nella prima fascia GPS sostegno. L’attenzione si è concentrata sul punteggio attribuito all’abilitazione su materia.\nL'articolo\nPrima fascia GPS sostegno: quanti punti vale l’abilitazione su materia. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "9ffc30dd4558262c",
+      "text": "Nel question time del 18 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Marco Vulcano, rappresentante del Centro Nazionale della Flc Cgil, è stata approfondita una questione relativa alla valutazione dei titoli nella prima fascia GPS sostegno. L’attenzione si è concentrata sul punteggio attribuito all’abilitazione su materia.\nL'articolo\nPrima fascia GPS sostegno: quanti punti vale l’abilitazione su materia. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-22T18:33:03.296041",
       "document_type": "rss_full",
       "success": true
     }
