@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-25T19:03:44.811875",
+  "last_fetch": "2026-02-26T01:51:29.560347",
   "stats": {
     "total": 342,
-    "fetched": 12,
-    "skipped": 88,
+    "fetched": 3,
+    "skipped": 97,
     "failed": 0,
     "pdfs": 0,
-    "html": 12
+    "html": 3
   },
-  "total_documents": 1291,
+  "total_documents": 1294,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -19187,6 +19187,51 @@
       "success": true,
       "fetched_at": "2026-02-25T19:03:43.229289",
       "document_type": "html"
+    },
+    {
+      "title": "Elenchi regionali 2026: si conosceranno i posti vuoti prima della scelta della regione? Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/elenchi-regionali-2026-si-conosceranno-i-posti-vuoti-prima-della-scelta-della-regione-pillole-di-question-time/",
+      "date": "Wed, 25 Feb 2026 19:47:19 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 21 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Simone Craparo della Gilda degli Insegnanti, è stata esaminata la procedura di scelta della regione per gli elenchi regionali. L’attenzione si è concentrata sulla possibilità di conoscere in anticipo i posti disponibili e sulla consultazione della propria posizione in graduatoria.\nL'articolo\nElenchi regionali 2026: si conosceranno i posti vuoti prima della scelta della regione? Pillole di Questi",
+      "full_content": "Nel question time del 21 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Simone Craparo della Gilda degli Insegnanti, è stata esaminata la procedura di scelta della regione per gli elenchi regionali. L’attenzione si è concentrata sulla possibilità di conoscere in anticipo i posti disponibili e sulla consultazione della propria posizione in graduatoria.\nL'articolo\nElenchi regionali 2026: si conosceranno i posti vuoti prima della scelta della regione? Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "6434dff5efd87ceb",
+      "text": "Nel question time del 21 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Simone Craparo della Gilda degli Insegnanti, è stata esaminata la procedura di scelta della regione per gli elenchi regionali. L’attenzione si è concentrata sulla possibilità di conoscere in anticipo i posti disponibili e sulla consultazione della propria posizione in graduatoria.\nL'articolo\nElenchi regionali 2026: si conosceranno i posti vuoti prima della scelta della regione? Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-26T01:51:28.043113",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Aggiornamento GPS e certificazioni informatiche, il Ministero precisa: “L’ordinanza riconosce i vecchi attestati. Valgono i punteggi già acquisiti”",
+      "url": "https://www.orizzontescuola.it/gps-e-certificazioni-informatiche-il-ministero-precisa-nessuna-esclusione-delle-vecchie-attestazioni-valgono-i-punteggi-gia-acquisiti/",
+      "date": "Wed, 25 Feb 2026 19:37:57 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "A intervenire sul riconoscimento delle certificazioni informatiche per le GPS con una nota è Carmela Palumbo, Capo Dipartimento per il sistema educativo di istruzione e formazione del Ministero dell’Istruzione e del Merito, che respinge le accuse mosse dall’onorevole Elisabetta Piccolotti.\nL'articolo\nAggiornamento GPS e certificazioni informatiche, il Ministero precisa: “L’ordinanza riconosce i vecchi attestati. Valgono i punteggi già acquisiti”\nsembra essere il primo su\nOrizzonte Scuola Notizie",
+      "full_content": "A intervenire sul riconoscimento delle certificazioni informatiche per le GPS con una nota è Carmela Palumbo, Capo Dipartimento per il sistema educativo di istruzione e formazione del Ministero dell’Istruzione e del Merito, che respinge le accuse mosse dall’onorevole Elisabetta Piccolotti.\nL'articolo\nAggiornamento GPS e certificazioni informatiche, il Ministero precisa: “L’ordinanza riconosce i vecchi attestati. Valgono i punteggi già acquisiti”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "536bfd304a97f7c9",
+      "text": "A intervenire sul riconoscimento delle certificazioni informatiche per le GPS con una nota è Carmela Palumbo, Capo Dipartimento per il sistema educativo di istruzione e formazione del Ministero dell’Istruzione e del Merito, che respinge le accuse mosse dall’onorevole Elisabetta Piccolotti.\nL'articolo\nAggiornamento GPS e certificazioni informatiche, il Ministero precisa: “L’ordinanza riconosce i vecchi attestati. Valgono i punteggi già acquisiti”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-26T01:51:28.543275",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Graduatorie GPS 2026: servizio senza titolo non è aspecifico, non dà punteggio. Ma si può recuperare. La FAQ “storica”",
+      "url": "https://www.orizzontescuola.it/graduatorie-gps-2026-servizio-senza-titolo-non-e-aspecifico-non-da-punteggio-ma-si-puo-recuperare-la-faq-storica/",
+      "date": "Wed, 25 Feb 2026 17:26:03 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Graduatorie GPS per il biennio 2026/28: il Ministero dell'Istruzione e del Merito ripubblica una FAQ \"storica\", importante per capire ancora una volta che il servizio svolto senza titolo (es. classico il servizio svolto alla primaria con laurea per la secondaria) non dà punteggio. Spieghiamo perché.\nL'articolo\nGraduatorie GPS 2026: servizio senza titolo non è aspecifico, non dà punteggio. Ma si può recuperare. La FAQ “storica”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Graduatorie GPS per il biennio 2026/28: il Ministero dell'Istruzione e del Merito ripubblica una FAQ \"storica\", importante per capire ancora una volta che il servizio svolto senza titolo (es. classico il servizio svolto alla primaria con laurea per la secondaria) non dà punteggio. Spieghiamo perché.\nL'articolo\nGraduatorie GPS 2026: servizio senza titolo non è aspecifico, non dà punteggio. Ma si può recuperare. La FAQ “storica”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "50eb27d626c834ed",
+      "text": "Graduatorie GPS per il biennio 2026/28: il Ministero dell'Istruzione e del Merito ripubblica una FAQ \"storica\", importante per capire ancora una volta che il servizio svolto senza titolo (es. classico il servizio svolto alla primaria con laurea per la secondaria) non dà punteggio. Spieghiamo perché.\nL'articolo\nGraduatorie GPS 2026: servizio senza titolo non è aspecifico, non dà punteggio. Ma si può recuperare. La FAQ “storica”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-26T01:51:29.043459",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
