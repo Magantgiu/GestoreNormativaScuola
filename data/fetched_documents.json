@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-28T12:40:16.807736",
+  "last_fetch": "2026-02-28T18:30:22.456092",
   "stats": {
     "total": 344,
-    "fetched": 4,
-    "skipped": 96,
+    "fetched": 2,
+    "skipped": 98,
     "failed": 0,
     "pdfs": 0,
-    "html": 4
+    "html": 2
   },
-  "total_documents": 1354,
+  "total_documents": 1356,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -20127,6 +20127,36 @@
       "id": "bbca07b2396b29a9",
       "text": "Comincia ad essere visibile nell'area riservata di NoiPA l'importo del mese di marzo 2026 per docenti e Ata a tempo indeterminato o determinato fino al 31 agosto o 30 giugno 2026. Gli importi vengono caricati a scaglioni.\nL'articolo\nStipendio marzo 2026 docenti e ATA: importo visibile su NoiPA\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2026-02-28T12:40:16.290757",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "GPS 2026: sostituzione del titolo estero con quello italiano non è operazione automatica. Va richiesta con TAB prima fascia",
+      "url": "https://www.orizzontescuola.it/gps-2026-sostituzione-del-titolo-estero-con-quello-italiano-non-e-operazione-automatica-va-richiesta-con-tab-prima-fascia/",
+      "date": "Sat, 28 Feb 2026 17:18:28 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Graduatorie GPS 2026: numerosi aspiranti dovranno modificare il titolo di accesso alla prima fascia per inserire nuovo titolo di abilitazione o specializzazione sostegno. Uno dei casi più comuni il passaggio dal titolo estero a quello conseguito in Italia.\nL'articolo\nGPS 2026: sostituzione del titolo estero con quello italiano non è operazione automatica. Va richiesta con TAB prima fascia\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Graduatorie GPS 2026: numerosi aspiranti dovranno modificare il titolo di accesso alla prima fascia per inserire nuovo titolo di abilitazione o specializzazione sostegno. Uno dei casi più comuni il passaggio dal titolo estero a quello conseguito in Italia.\nL'articolo\nGPS 2026: sostituzione del titolo estero con quello italiano non è operazione automatica. Va richiesta con TAB prima fascia\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "82e8f6dd6e2cf4c7",
+      "text": "Graduatorie GPS 2026: numerosi aspiranti dovranno modificare il titolo di accesso alla prima fascia per inserire nuovo titolo di abilitazione o specializzazione sostegno. Uno dei casi più comuni il passaggio dal titolo estero a quello conseguito in Italia.\nL'articolo\nGPS 2026: sostituzione del titolo estero con quello italiano non è operazione automatica. Va richiesta con TAB prima fascia\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-28T18:30:21.437896",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "30 CFU: non è possibile inserirli con riserva nella GPS sostegno 2026. Titolo deve essere conseguito entro il 16 marzo",
+      "url": "https://www.orizzontescuola.it/30-cfu-non-e-possibile-inserirli-con-riserva-nella-gps-sostegno-2026-titolo-deve-essere-conseguito-entro-il-16-marzo/",
+      "date": "Sat, 28 Feb 2026 13:57:32 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 23 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Roberta Vannini della UIL Scuola RUA, è stata affrontata una questione relativa alla dichiarazione dei titoli ai fini del punteggio nelle GPS. Il focus si è concentrato sulla possibilità di inserire i 30 CFU con riserva, anche per l’incremento del punteggio nella tabella del sostegno.\nL'articolo\n30 CFU: non è possibile inserirli con riserva nella GPS sostegno 2026. Titolo deve essere conseguito ",
+      "full_content": "Nel question time del 23 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Roberta Vannini della UIL Scuola RUA, è stata affrontata una questione relativa alla dichiarazione dei titoli ai fini del punteggio nelle GPS. Il focus si è concentrato sulla possibilità di inserire i 30 CFU con riserva, anche per l’incremento del punteggio nella tabella del sostegno.\nL'articolo\n30 CFU: non è possibile inserirli con riserva nella GPS sostegno 2026. Titolo deve essere conseguito entro il 16 marzo\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "455876fca6f22735",
+      "text": "Nel question time del 23 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Roberta Vannini della UIL Scuola RUA, è stata affrontata una questione relativa alla dichiarazione dei titoli ai fini del punteggio nelle GPS. Il focus si è concentrato sulla possibilità di inserire i 30 CFU con riserva, anche per l’incremento del punteggio nella tabella del sostegno.\nL'articolo\n30 CFU: non è possibile inserirli con riserva nella GPS sostegno 2026. Titolo deve essere conseguito entro il 16 marzo\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-28T18:30:21.938053",
       "document_type": "rss_full",
       "success": true
     }
