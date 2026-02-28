@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-28T06:35:23.043721",
+  "last_fetch": "2026-02-28T12:40:16.807736",
   "stats": {
     "total": 344,
-    "fetched": 0,
-    "skipped": 100,
+    "fetched": 4,
+    "skipped": 96,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 4
   },
-  "total_documents": 1350,
+  "total_documents": 1354,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -20069,6 +20069,66 @@
       "success": true,
       "fetched_at": "2026-02-27T18:39:47.282883",
       "document_type": "html"
+    },
+    {
+      "title": "Certificazioni informatiche DigComp: è possibile cumularle per raggiungere i 4 punti nelle GPS? Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/certificazioni-informatiche-digcomp-e-possibile-cumularle-per-raggiungere-i-4-punti-nelle-gps-pillole-di-question-time/",
+      "date": "Sat, 28 Feb 2026 11:49:23 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 23 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Roberta Vannini della UIL Scuola RUA, è stata affrontata una questione relativa alla valutazione delle certificazioni informatiche nelle GPS. L’attenzione si è concentrata sulla possibilità di cumulare più certificazioni DigComp per raggiungere il punteggio massimo previsto.\nL'articolo\nCertificazioni informatiche DigComp: è possibile cumularle per raggiungere i 4 punti nelle GPS? Pillole di Ques",
+      "full_content": "Nel question time del 23 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Roberta Vannini della UIL Scuola RUA, è stata affrontata una questione relativa alla valutazione delle certificazioni informatiche nelle GPS. L’attenzione si è concentrata sulla possibilità di cumulare più certificazioni DigComp per raggiungere il punteggio massimo previsto.\nL'articolo\nCertificazioni informatiche DigComp: è possibile cumularle per raggiungere i 4 punti nelle GPS? Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "37feac52fb5a801b",
+      "text": "Nel question time del 23 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Roberta Vannini della UIL Scuola RUA, è stata affrontata una questione relativa alla valutazione delle certificazioni informatiche nelle GPS. L’attenzione si è concentrata sulla possibilità di cumulare più certificazioni DigComp per raggiungere il punteggio massimo previsto.\nL'articolo\nCertificazioni informatiche DigComp: è possibile cumularle per raggiungere i 4 punti nelle GPS? Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-28T12:40:14.790099",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "GPS docenti 2026, si può controllare il punteggio: come verificare l’anteprima e come leggerla",
+      "url": "https://www.orizzontescuola.it/gps-docenti-2026-si-puo-controllare-il-punteggio-come-verificare-lanteprima-e-come-leggerla/",
+      "date": "Sat, 28 Feb 2026 10:31:10 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 24 febbraio su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Giuseppe Semeraro, esperto in normativa scolastica, è stato affrontato il tema della verifica del punteggio nelle istanze per le graduatorie. L’attenzione si è concentrata sulla possibilità di controllare in anticipo il punteggio risultante dalla dichiarazione e sugli elementi che lo compongono.\nL'articolo\nGPS docenti 2026, si può controllare il punteggio: come verificare l’anteprima e come leggerla\n",
+      "full_content": "Nel question time del 24 febbraio su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Giuseppe Semeraro, esperto in normativa scolastica, è stato affrontato il tema della verifica del punteggio nelle istanze per le graduatorie. L’attenzione si è concentrata sulla possibilità di controllare in anticipo il punteggio risultante dalla dichiarazione e sugli elementi che lo compongono.\nL'articolo\nGPS docenti 2026, si può controllare il punteggio: come verificare l’anteprima e come leggerla\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "b19266e83cc6e543",
+      "text": "Nel question time del 24 febbraio su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Giuseppe Semeraro, esperto in normativa scolastica, è stato affrontato il tema della verifica del punteggio nelle istanze per le graduatorie. L’attenzione si è concentrata sulla possibilità di controllare in anticipo il punteggio risultante dalla dichiarazione e sugli elementi che lo compongono.\nL'articolo\nGPS docenti 2026, si può controllare il punteggio: come verificare l’anteprima e come leggerla\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-28T12:40:15.290357",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "GPS 2026: chi può iscriversi in seconda fascia sostegno TAB A/8. Pillole di Question Time",
+      "url": "https://www.orizzontescuola.it/gps-2026-chi-puo-iscriversi-in-seconda-fascia-sostegno-tab-a-8-pillole-di-question-time/",
+      "date": "Sat, 28 Feb 2026 08:23:19 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 24 febbraio su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Giuseppe Semeraro, esperto in normativa scolastica, è stata affrontata una questione relativa alle graduatorie per il sostegno. L’attenzione si è concentrata sulle modalità di inserimento nella seconda fascia riservata ai docenti con tre annualità di servizio senza titolo di specializzazione.\nL'articolo\nGPS 2026: chi può iscriversi in seconda fascia sostegno TAB A/8. Pillole di Question Time\nsembra e",
+      "full_content": "Nel question time del 24 febbraio su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Giuseppe Semeraro, esperto in normativa scolastica, è stata affrontata una questione relativa alle graduatorie per il sostegno. L’attenzione si è concentrata sulle modalità di inserimento nella seconda fascia riservata ai docenti con tre annualità di servizio senza titolo di specializzazione.\nL'articolo\nGPS 2026: chi può iscriversi in seconda fascia sostegno TAB A/8. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "b33240859d2fa5aa",
+      "text": "Nel question time del 24 febbraio su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Giuseppe Semeraro, esperto in normativa scolastica, è stata affrontata una questione relativa alle graduatorie per il sostegno. L’attenzione si è concentrata sulle modalità di inserimento nella seconda fascia riservata ai docenti con tre annualità di servizio senza titolo di specializzazione.\nL'articolo\nGPS 2026: chi può iscriversi in seconda fascia sostegno TAB A/8. Pillole di Question Time\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-28T12:40:15.790590",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Stipendio marzo 2026 docenti e ATA: importo visibile su NoiPA",
+      "url": "https://www.orizzontescuola.it/stipendio-marzo-2026-docenti-e-ata-importo-visibile-su-noipa/",
+      "date": "Sat, 28 Feb 2026 06:49:18 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Comincia ad essere visibile nell'area riservata di NoiPA l'importo del mese di marzo 2026 per docenti e Ata a tempo indeterminato o determinato fino al 31 agosto o 30 giugno 2026. Gli importi vengono caricati a scaglioni.\nL'articolo\nStipendio marzo 2026 docenti e ATA: importo visibile su NoiPA\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Comincia ad essere visibile nell'area riservata di NoiPA l'importo del mese di marzo 2026 per docenti e Ata a tempo indeterminato o determinato fino al 31 agosto o 30 giugno 2026. Gli importi vengono caricati a scaglioni.\nL'articolo\nStipendio marzo 2026 docenti e ATA: importo visibile su NoiPA\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "bbca07b2396b29a9",
+      "text": "Comincia ad essere visibile nell'area riservata di NoiPA l'importo del mese di marzo 2026 per docenti e Ata a tempo indeterminato o determinato fino al 31 agosto o 30 giugno 2026. Gli importi vengono caricati a scaglioni.\nL'articolo\nStipendio marzo 2026 docenti e ATA: importo visibile su NoiPA\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-02-28T12:40:16.290757",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
