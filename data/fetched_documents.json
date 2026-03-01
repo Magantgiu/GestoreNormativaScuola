@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-03-01T12:42:36.219891",
+  "last_fetch": "2026-03-01T18:30:59.469640",
   "stats": {
-    "total": 344,
-    "fetched": 2,
-    "skipped": 98,
+    "total": 319,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 2
+    "html": 1
   },
-  "total_documents": 1359,
+  "total_documents": 1360,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -20204,6 +20204,20 @@
       "fetched_at": "2026-03-01T12:42:35.700853",
       "document_type": "rss_full",
       "success": true
+    },
+    {
+      "title": "Decreto Ministeriale 10 dicembre 2025, n. 250 di proroga del termine di rendicontazione - Decreto Ministeriale 10 dicembre 2025, n. 250 di proroga del termine di rendicontazione - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-10-dicembre-2025-n-250-di-proroga-del-termine-di-rendicontazione",
+      "date": "2026-03-01T18:30:47.843695",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "a96349f469af240e",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Ministeriale 10 dicembre 2025, n. 250 di proroga del termine di rendicontazione\nMartedì, 13 gennaio 2026\nDecreto Ministeriale 10 dicembre 2025, n. 250 di proroga del termine di rendicontazione\nNota Prot. n.\n250\nUfficio: DPIT\nDecreto di proroga del termine di rendicontazione degli interventi resisi necessari a seguito dell'avvenuta esecuzione delle indagini diagnostiche su solai e controsoffitti di edifici pubblici adibiti ad uso scolastico, di cui al decreto del Ministro dell'istruzione 6 agosto 2021, n. 254.\nDocumenti Allegati\nm_pi.AOOGABMI.Registro Decreti(R).0000250.10-12-2025.pdf",
+      "size_chars": 651,
+      "success": true,
+      "fetched_at": "2026-03-01T18:30:57.928056",
+      "document_type": "html"
     }
   ]
 }
