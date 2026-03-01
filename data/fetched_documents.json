@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-03-01T06:43:09.129216",
+  "last_fetch": "2026-03-01T12:42:36.219891",
   "stats": {
     "total": 344,
-    "fetched": 0,
-    "skipped": 100,
+    "fetched": 2,
+    "skipped": 98,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 2
   },
-  "total_documents": 1357,
+  "total_documents": 1359,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -20172,6 +20172,36 @@
       "id": "2bda2621fcf46341",
       "text": "A cura della FLC CGIL Sicilia e FLC CGIL Palermo\n«È stata una nota stonata trovare i cancelli della scuola sbarrati in un momento che avrebbe dovuto rappresentare una grande occasione di partecipazione collettiva e di...",
       "fetched_at": "2026-03-01T02:02:02.103806",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "GPS 2026: “Finalmente è cambiato qualcosa, attenzione a certificazioni informatiche, ITP e titoli esteri”. Il punto di Giuseppe Semeraro",
+      "url": "https://www.orizzontescuola.it/gps-2026-finalmente-e-cambiato-qualcosa-attenzione-a-certificazioni-informatiche-itp-e-titoli-esteri-il-punto-di-giuseppe-semeraro/",
+      "date": "Sun, 01 Mar 2026 08:27:32 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Durante la diretta del nostro format \"Question time\" di ieri, Giuseppe Semeraro ha fatto il punto sulle novità arrivate con la pubblicazione ufficiale delle FAQ ministeriali sulle GPS, chiarendo in particolare il nodo delle certificazioni informatiche e soffermandosi anche su ITP e titoli esteri.\nL'articolo\nGPS 2026: “Finalmente è cambiato qualcosa, attenzione a certificazioni informatiche, ITP e titoli esteri”. Il punto di Giuseppe Semeraro\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Durante la diretta del nostro format \"Question time\" di ieri, Giuseppe Semeraro ha fatto il punto sulle novità arrivate con la pubblicazione ufficiale delle FAQ ministeriali sulle GPS, chiarendo in particolare il nodo delle certificazioni informatiche e soffermandosi anche su ITP e titoli esteri.\nL'articolo\nGPS 2026: “Finalmente è cambiato qualcosa, attenzione a certificazioni informatiche, ITP e titoli esteri”. Il punto di Giuseppe Semeraro\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "497fdab9546a7771",
+      "text": "Durante la diretta del nostro format \"Question time\" di ieri, Giuseppe Semeraro ha fatto il punto sulle novità arrivate con la pubblicazione ufficiale delle FAQ ministeriali sulle GPS, chiarendo in particolare il nodo delle certificazioni informatiche e soffermandosi anche su ITP e titoli esteri.\nL'articolo\nGPS 2026: “Finalmente è cambiato qualcosa, attenzione a certificazioni informatiche, ITP e titoli esteri”. Il punto di Giuseppe Semeraro\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-03-01T12:42:35.200662",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Ai precari spetta la giusta retribuzione professionale come ai docenti di ruolo: illegittimo discriminarli. Di cosa si tratta. Sentenza",
+      "url": "https://www.orizzontescuola.it/ai-docenti-precari-spetta-la-giusta-retribuzione-professionale-dei-docenti-illegittimo-discriminarli-di-cosa-si-tratta-sentenza/",
+      "date": "Sun, 01 Mar 2026 07:00:07 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Un docente precario, con contratti a tempo determinato rilevava di non aveva ricevuto la retribuzione professionale docenti giusta tabella allegata al contratto scuola, così subendo una lesione dei propri diritti con grave discriminazione rispetto ai docenti di ruolo ed agli stessi docenti precari con contratto al 30 Giugno; invocava, a proprio sostegno, il principio di non discriminazione.\nL'articolo\nAi precari spetta la giusta retribuzione professionale come ai docenti di ruolo: illegittimo di",
+      "full_content": "Un docente precario, con contratti a tempo determinato rilevava di non aveva ricevuto la retribuzione professionale docenti giusta tabella allegata al contratto scuola, così subendo una lesione dei propri diritti con grave discriminazione rispetto ai docenti di ruolo ed agli stessi docenti precari con contratto al 30 Giugno; invocava, a proprio sostegno, il principio di non discriminazione.\nL'articolo\nAi precari spetta la giusta retribuzione professionale come ai docenti di ruolo: illegittimo discriminarli. Di cosa si tratta. Sentenza\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "e3ced93a94e511e8",
+      "text": "Un docente precario, con contratti a tempo determinato rilevava di non aveva ricevuto la retribuzione professionale docenti giusta tabella allegata al contratto scuola, così subendo una lesione dei propri diritti con grave discriminazione rispetto ai docenti di ruolo ed agli stessi docenti precari con contratto al 30 Giugno; invocava, a proprio sostegno, il principio di non discriminazione.\nL'articolo\nAi precari spetta la giusta retribuzione professionale come ai docenti di ruolo: illegittimo discriminarli. Di cosa si tratta. Sentenza\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-03-01T12:42:35.700853",
       "document_type": "rss_full",
       "success": true
     }
