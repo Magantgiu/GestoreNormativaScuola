@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-02-28T18:30:22.456092",
+  "last_fetch": "2026-03-01T02:02:02.622499",
   "stats": {
     "total": 344,
-    "fetched": 2,
-    "skipped": 98,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 2
+    "html": 1
   },
-  "total_documents": 1356,
+  "total_documents": 1357,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -20157,6 +20157,21 @@
       "id": "455876fca6f22735",
       "text": "Nel question time del 23 febbraio 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Roberta Vannini della UIL Scuola RUA, è stata affrontata una questione relativa alla dichiarazione dei titoli ai fini del punteggio nelle GPS. Il focus si è concentrato sulla possibilità di inserire i 30 CFU con riserva, anche per l’incremento del punteggio nella tabella del sostegno.\nL'articolo\n30 CFU: non è possibile inserirli con riserva nella GPS sostegno 2026. Titolo deve essere conseguito entro il 16 marzo\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2026-02-28T18:30:21.938053",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Scuola: la FLC CGIL Sicilia e Palermo esprimono rammarico per l’inaugurazione del murales partigiano senza studenti",
+      "url": "https://www.flcgil.it/regioni/sicilia/scuola-flc-cgil-sicilia-e-palermo-esprimono-rammarico-per-inaugurazione-murales-partigiano-senza-studenti.flc",
+      "date": "Sat, 28 Feb 2026 19:28:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "A cura della FLC CGIL Sicilia e FLC CGIL Palermo\n«È stata una nota stonata trovare i cancelli della scuola sbarrati in un momento che avrebbe dovuto rappresentare una grande occasione di partecipazione collettiva e di...",
+      "full_content": "A cura della FLC CGIL Sicilia e FLC CGIL Palermo\n«È stata una nota stonata trovare i cancelli della scuola sbarrati in un momento che avrebbe dovuto rappresentare una grande occasione di partecipazione collettiva e di...",
+      "has_full_content": true,
+      "id": "2bda2621fcf46341",
+      "text": "A cura della FLC CGIL Sicilia e FLC CGIL Palermo\n«È stata una nota stonata trovare i cancelli della scuola sbarrati in un momento che avrebbe dovuto rappresentare una grande occasione di partecipazione collettiva e di...",
+      "fetched_at": "2026-03-01T02:02:02.103806",
       "document_type": "rss_full",
       "success": true
     }
