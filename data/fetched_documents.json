@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-03-03T18:44:40.388983",
+  "last_fetch": "2026-03-04T01:49:34.485974",
   "stats": {
-    "total": 338,
-    "fetched": 9,
-    "skipped": 91,
+    "total": 313,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 9
+    "html": 1
   },
-  "total_documents": 1409,
+  "total_documents": 1410,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -20944,6 +20944,21 @@
       "success": true,
       "fetched_at": "2026-03-03T18:44:38.794878",
       "document_type": "html"
+    },
+    {
+      "title": "GPS 2026: specializzazione sostegno estero, sostituita da TFA conseguito in Italia, può essere dichiarato come ulteriore titolo?",
+      "url": "https://www.orizzontescuola.it/gps-206-specializzazione-sostegno-estero-sostituita-da-tfa-conseguito-in-italia-puo-essere-dichiarato-come-ulteriore-titolo/",
+      "date": "Tue, 03 Mar 2026 21:16:29 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 2 marzo 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente Sonia Cannas, è stata affrontata una questione relativa all’aggiornamento delle graduatorie.\nL'articolo\nGPS 2026: specializzazione sostegno estero, sostituita da TFA conseguito in Italia, può essere dichiarato come ulteriore titolo?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Nel question time del 2 marzo 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente Sonia Cannas, è stata affrontata una questione relativa all’aggiornamento delle graduatorie.\nL'articolo\nGPS 2026: specializzazione sostegno estero, sostituita da TFA conseguito in Italia, può essere dichiarato come ulteriore titolo?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "fb83b81fcfbc9783",
+      "text": "Nel question time del 2 marzo 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente Sonia Cannas, è stata affrontata una questione relativa all’aggiornamento delle graduatorie.\nL'articolo\nGPS 2026: specializzazione sostegno estero, sostituita da TFA conseguito in Italia, può essere dichiarato come ulteriore titolo?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-03-04T01:49:33.966500",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
