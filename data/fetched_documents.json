@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-03-05T01:52:40.431583",
+  "last_fetch": "2026-03-05T06:47:42.101702",
   "stats": {
-    "total": 337,
-    "fetched": 5,
-    "skipped": 95,
+    "total": 312,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 5
+    "html": 1
   },
-  "total_documents": 1436,
+  "total_documents": 1437,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -21351,6 +21351,20 @@
       "fetched_at": "2026-03-05T01:52:39.910281",
       "document_type": "rss_full",
       "success": true
+    },
+    {
+      "title": "Decreto Dipartimentale n. 2528 del 9 settembre 2025 - Decreto Dipartimentale n. 2528 del 9 settembre 2025 - MIM",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2528-del-9-settembre-2025-1",
+      "date": "2026-03-05T06:47:31.203954",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "a6f51de7c3198cd1",
+      "text": "Torna alla pagina iniziale\nHome\n>\nAtti e Normativa\n>\nDecreto Dipartimentale n. 2528 del 9 settembre 2025\nVenerdì, 16 gennaio 2026\nDecreto Dipartimentale n. 2528 del 9 settembre 2025\nNota Prot. n.\n2528\nUfficio: DPIT-DGOF\nRiconoscimento Formazione Docente\nDocumenti Allegati\nDecreto Dipartimentale n. 2528 del 9 settembre 2025",
+      "size_chars": 324,
+      "success": true,
+      "fetched_at": "2026-03-05T06:47:40.795270",
+      "document_type": "html"
     }
   ]
 }
