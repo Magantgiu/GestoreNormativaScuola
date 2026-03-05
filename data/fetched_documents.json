@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-03-04T18:45:28.335296",
+  "last_fetch": "2026-03-05T01:52:40.431583",
   "stats": {
     "total": 337,
-    "fetched": 11,
-    "skipped": 89,
+    "fetched": 5,
+    "skipped": 95,
     "failed": 0,
     "pdfs": 0,
-    "html": 11
+    "html": 5
   },
-  "total_documents": 1431,
+  "total_documents": 1436,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -21276,6 +21276,81 @@
       "success": true,
       "fetched_at": "2026-03-04T18:45:26.904320",
       "document_type": "html"
+    },
+    {
+      "title": "Immissioni in ruolo ATA su tutti i posti vacanti: FLC CGIL propone emendamento al Decreto PNRR",
+      "url": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-su-tutti-i-posti-vacanti-flc-cgil-propone-emendamento-al-decreto-pnrr/",
+      "date": "Wed, 04 Mar 2026 20:57:20 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "La FLC CGIL ha consegnato alle forze parlamentari una serie di emendamenti al Decreto-Legge 19 febbraio 2026, n. 19, recante “Ulteriori disposizioni urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e in materia di politiche di coesione”.\nL'articolo\nImmissioni in ruolo ATA su tutti i posti vacanti: FLC CGIL propone emendamento al Decreto PNRR\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "La FLC CGIL ha consegnato alle forze parlamentari una serie di emendamenti al Decreto-Legge 19 febbraio 2026, n. 19, recante “Ulteriori disposizioni urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e in materia di politiche di coesione”.\nL'articolo\nImmissioni in ruolo ATA su tutti i posti vacanti: FLC CGIL propone emendamento al Decreto PNRR\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "b7e0ffa061508de3",
+      "text": "La FLC CGIL ha consegnato alle forze parlamentari una serie di emendamenti al Decreto-Legge 19 febbraio 2026, n. 19, recante “Ulteriori disposizioni urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e in materia di politiche di coesione”.\nL'articolo\nImmissioni in ruolo ATA su tutti i posti vacanti: FLC CGIL propone emendamento al Decreto PNRR\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-03-05T01:52:37.909481",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Elenchi regionali per il ruolo: FLC CGIL sostiene emendamento per inserire anche docenti del concorso straordinario 2020",
+      "url": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-flc-cgil-sostiene-emendamento-per-inserire-anche-docenti-del-concorso-straordinario-2020/",
+      "date": "Wed, 04 Mar 2026 20:50:19 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "In fase di presentazione gli emendamenti al Decreto-Legge 19 febbraio 2026, n. 19, recante “Ulteriori disposizioni urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e in materia di politiche di coesione”.\nL'articolo\nElenchi regionali per il ruolo: FLC CGIL sostiene emendamento per inserire anche docenti del concorso straordinario 2020\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "In fase di presentazione gli emendamenti al Decreto-Legge 19 febbraio 2026, n. 19, recante “Ulteriori disposizioni urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e in materia di politiche di coesione”.\nL'articolo\nElenchi regionali per il ruolo: FLC CGIL sostiene emendamento per inserire anche docenti del concorso straordinario 2020\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "27adbc2fee61a4b1",
+      "text": "In fase di presentazione gli emendamenti al Decreto-Legge 19 febbraio 2026, n. 19, recante “Ulteriori disposizioni urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e in materia di politiche di coesione”.\nL'articolo\nElenchi regionali per il ruolo: FLC CGIL sostiene emendamento per inserire anche docenti del concorso straordinario 2020\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-03-05T01:52:38.409652",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Graduatorie GPS 2026: sostituisco l’abilitazione in TAB3. Ecco come far comparire il nuovo titolo anche nella GPS sostegno. FAQ n. 84",
+      "url": "https://www.orizzontescuola.it/graduatorie-gps-2026-sostituisco-labilitazione-in-tab3-ecco-come-far-comparire-il-nuovo-titolo-anche-nella-gps-sostegno-faq-n-84/",
+      "date": "Wed, 04 Mar 2026 19:28:22 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Graduatorie GPS 2026: sostituisco l'abilitazione già dichiarata come titolo di accesso con un'altra che mi dà un punteggio maggiore in TAB3. Ecco come far comparire il titolo anche nella GPS sostegno. FAQ n. 84 del Ministero dell'Istruzione e del Merito.\nL'articolo\nGraduatorie GPS 2026: sostituisco l’abilitazione in TAB3. Ecco come far comparire il nuovo titolo anche nella GPS sostegno. FAQ n. 84\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Graduatorie GPS 2026: sostituisco l'abilitazione già dichiarata come titolo di accesso con un'altra che mi dà un punteggio maggiore in TAB3. Ecco come far comparire il titolo anche nella GPS sostegno. FAQ n. 84 del Ministero dell'Istruzione e del Merito.\nL'articolo\nGraduatorie GPS 2026: sostituisco l’abilitazione in TAB3. Ecco come far comparire il nuovo titolo anche nella GPS sostegno. FAQ n. 84\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "55a2f0af39dec646",
+      "text": "Graduatorie GPS 2026: sostituisco l'abilitazione già dichiarata come titolo di accesso con un'altra che mi dà un punteggio maggiore in TAB3. Ecco come far comparire il titolo anche nella GPS sostegno. FAQ n. 84 del Ministero dell'Istruzione e del Merito.\nL'articolo\nGraduatorie GPS 2026: sostituisco l’abilitazione in TAB3. Ecco come far comparire il nuovo titolo anche nella GPS sostegno. FAQ n. 84\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-03-05T01:52:38.909875",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Posizioni economiche ATA e incarichi specifici 2024/25: non si restituisce il compenso, vale il principio “tempus regit actum”",
+      "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-e-incarichi-specifici-2024-25-non-si-restituisce-il-compenso-vale-il-principio-tempus-regit-actum/",
+      "date": "Wed, 04 Mar 2026 18:57:05 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Una lettrice chiede chiarimenti sull’attribuzione delle posizioni economiche del personale ATA, in particolare sul riconoscimento retroattivo del compenso a partire dal 1° settembre 2024.\nL'articolo\nPosizioni economiche ATA e incarichi specifici 2024/25: non si restituisce il compenso, vale il principio “tempus regit actum”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Una lettrice chiede chiarimenti sull’attribuzione delle posizioni economiche del personale ATA, in particolare sul riconoscimento retroattivo del compenso a partire dal 1° settembre 2024.\nL'articolo\nPosizioni economiche ATA e incarichi specifici 2024/25: non si restituisce il compenso, vale il principio “tempus regit actum”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "9cffb90069e77431",
+      "text": "Una lettrice chiede chiarimenti sull’attribuzione delle posizioni economiche del personale ATA, in particolare sul riconoscimento retroattivo del compenso a partire dal 1° settembre 2024.\nL'articolo\nPosizioni economiche ATA e incarichi specifici 2024/25: non si restituisce il compenso, vale il principio “tempus regit actum”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-03-05T01:52:39.410069",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Tutto sulla carta docente ai precari. Iscriviti alla newsletter “Diventare Insegnanti”",
+      "url": "https://www.orizzontescuola.it/tutto-sulla-carta-docente-ai-precari-iscriviti-alla-newsletter-diventare-insegnanti/",
+      "date": "Wed, 04 Mar 2026 18:37:59 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "La carta docenti ha rappresentato per molto tempo un ennesimo strumento di discriminazione. Con i ricorsi si è riusciti da tempo per via comunitaria a ripristinare il principio di non discriminazione. Dalle sentenze si è passati alla nuova normativa, che estende il diritto anche ai precari. Un successivo step è stato rappresentato dall’estensione del diritto […]\nL'articolo\nTutto sulla carta docente ai precari. Iscriviti alla newsletter “Diventare Insegnanti”\nsembra essere il primo su\nOrizzonte S",
+      "full_content": "La carta docenti ha rappresentato per molto tempo un ennesimo strumento di discriminazione. Con i ricorsi si è riusciti da tempo per via comunitaria a ripristinare il principio di non discriminazione. Dalle sentenze si è passati alla nuova normativa, che estende il diritto anche ai precari. Un successivo step è stato rappresentato dall’estensione del diritto […]\nL'articolo\nTutto sulla carta docente ai precari. Iscriviti alla newsletter “Diventare Insegnanti”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "4a3f9e8a689487b7",
+      "text": "La carta docenti ha rappresentato per molto tempo un ennesimo strumento di discriminazione. Con i ricorsi si è riusciti da tempo per via comunitaria a ripristinare il principio di non discriminazione. Dalle sentenze si è passati alla nuova normativa, che estende il diritto anche ai precari. Un successivo step è stato rappresentato dall’estensione del diritto […]\nL'articolo\nTutto sulla carta docente ai precari. Iscriviti alla newsletter “Diventare Insegnanti”\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-03-05T01:52:39.910281",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
