@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-03-06T06:44:01.145699",
+  "last_fetch": "2026-03-06T12:49:51.875668",
   "stats": {
     "total": 334,
-    "fetched": 0,
-    "skipped": 100,
+    "fetched": 6,
+    "skipped": 94,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 6
   },
-  "total_documents": 1452,
+  "total_documents": 1458,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -21592,6 +21592,95 @@
       "fetched_at": "2026-03-06T01:53:47.632312",
       "document_type": "rss_full",
       "success": true
+    },
+    {
+      "title": "L’8 marzo e la parità fragile in un mondo in crisi",
+      "url": "https://www.flcgil.it/attualita/pari-opportunita/l-8-marzo-e-la-parita-fragile-in-un-mondo-in-crisi.flc",
+      "date": "Fri, 06 Mar 2026 11:39:34 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "L’8 marzo ritorna ogni anno e anno dopo anno ci ritroviamo a parlare della Giornata internazionale della donna in contesti storici sempre più complessi. Guerre, crisi economiche e tensioni geopolitiche stanno ridefinendo gli equilibri...",
+      "full_content": "L’8 marzo ritorna ogni anno e anno dopo anno ci ritroviamo a parlare della Giornata internazionale della donna in contesti storici sempre più complessi. Guerre, crisi economiche e tensioni geopolitiche stanno ridefinendo gli equilibri...",
+      "has_full_content": true,
+      "id": "cd7788a48d04581d",
+      "text": "L’8 marzo ritorna ogni anno e anno dopo anno ci ritroviamo a parlare della Giornata internazionale della donna in contesti storici sempre più complessi. Guerre, crisi economiche e tensioni geopolitiche stanno ridefinendo gli equilibri...",
+      "fetched_at": "2026-03-06T12:49:45.693430",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Psicologo nelle scuole del Lazio: in arrivo 400mila euro nel 2026 e 750mila nel 2027",
+      "url": "https://www.orizzontescuola.it/psicologo-nelle-scuole-del-lazio-in-arrivo-400mila-euro-nel-2026-e-750mila-nel-2027/",
+      "date": "Fri, 06 Mar 2026 11:04:02 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "La Regione Lazio ha stanziato un milione di euro per introdurre lo psicologo nelle scuole. Il progetto triennale supporterà studenti, docenti e famiglie contro il disagio giovanile.\nL'articolo\nPsicologo nelle scuole del Lazio: in arrivo 400mila euro nel 2026 e 750mila nel 2027\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "La Regione Lazio ha stanziato un milione di euro per introdurre lo psicologo nelle scuole. Il progetto triennale supporterà studenti, docenti e famiglie contro il disagio giovanile.\nL'articolo\nPsicologo nelle scuole del Lazio: in arrivo 400mila euro nel 2026 e 750mila nel 2027\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "28ceb10054bf3dab",
+      "text": "La Regione Lazio ha stanziato un milione di euro per introdurre lo psicologo nelle scuole. Il progetto triennale supporterà studenti, docenti e famiglie contro il disagio giovanile.\nL'articolo\nPsicologo nelle scuole del Lazio: in arrivo 400mila euro nel 2026 e 750mila nel 2027\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-03-06T12:49:46.193580",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "GPS 2026: leggiamo insieme il PDF prodotto dopo l’inoltro della domanda. Cosa vuol dire la lettera “Z” accanto al superamento del concorso?",
+      "url": "https://www.orizzontescuola.it/gps-2026-leggiamo-insieme-il-pdf-prodotto-dopo-linoltro-della-domanda-cosa-vuol-dire-la-lettera-z-accanto-al-superamento-del-concorso/",
+      "date": "Fri, 06 Mar 2026 10:13:10 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 4 marzo 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Giuseppe Semeraro, esperto in normativa scolastica, è stata affrontata una questione relativa alla valutazione dei titoli nelle graduatorie.\nL'articolo\nGPS 2026: leggiamo insieme il PDF prodotto dopo l’inoltro della domanda. Cosa vuol dire la lettera “Z” accanto al superamento del concorso?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Nel question time del 4 marzo 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Giuseppe Semeraro, esperto in normativa scolastica, è stata affrontata una questione relativa alla valutazione dei titoli nelle graduatorie.\nL'articolo\nGPS 2026: leggiamo insieme il PDF prodotto dopo l’inoltro della domanda. Cosa vuol dire la lettera “Z” accanto al superamento del concorso?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "d21b71bb248e2024",
+      "text": "Nel question time del 4 marzo 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Giuseppe Semeraro, esperto in normativa scolastica, è stata affrontata una questione relativa alla valutazione dei titoli nelle graduatorie.\nL'articolo\nGPS 2026: leggiamo insieme il PDF prodotto dopo l’inoltro della domanda. Cosa vuol dire la lettera “Z” accanto al superamento del concorso?\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-03-06T12:49:46.693752",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Concorso PNRR3, ecco le Tracce della prova scritta e i quesiti completi, alcuni contestati dai candidati: da Celestine Freinet alla legge 107/2025 a Canva e Kaoot",
+      "url": "https://www.orizzontescuola.it/concorso-pnrr3-ecco-le-tracce-della-prova-scritta-e-i-quesiti-completi-alcuni-contestati-dai-candidati-da-celestine-freinet-alla-legge-107-2025-a-canva-e-kaoot/",
+      "date": "Fri, 06 Mar 2026 09:46:20 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Concorso docenti PNRR3 bandito con DDG n.2939/2025 per la scuola secondaria e DDG n. 2938/2025 per infanzia e primaria. Ecco le tracce delle prove scritte svolte il 27 novembre per infanzia e primaria e con vari turni tra il 1° e il 5 dicembre per la scuola secondaria.\nL'articolo\nConcorso PNRR3, ecco le Tracce della prova scritta e i quesiti completi, alcuni contestati dai candidati: da Celestine Freinet alla legge 107/2025 a Canva e Kaoot\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Concorso docenti PNRR3 bandito con DDG n.2939/2025 per la scuola secondaria e DDG n. 2938/2025 per infanzia e primaria. Ecco le tracce delle prove scritte svolte il 27 novembre per infanzia e primaria e con vari turni tra il 1° e il 5 dicembre per la scuola secondaria.\nL'articolo\nConcorso PNRR3, ecco le Tracce della prova scritta e i quesiti completi, alcuni contestati dai candidati: da Celestine Freinet alla legge 107/2025 a Canva e Kaoot\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "6b89992c2da267a3",
+      "text": "Concorso docenti PNRR3 bandito con DDG n.2939/2025 per la scuola secondaria e DDG n. 2938/2025 per infanzia e primaria. Ecco le tracce delle prove scritte svolte il 27 novembre per infanzia e primaria e con vari turni tra il 1° e il 5 dicembre per la scuola secondaria.\nL'articolo\nConcorso PNRR3, ecco le Tracce della prova scritta e i quesiti completi, alcuni contestati dai candidati: da Celestine Freinet alla legge 107/2025 a Canva e Kaoot\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-03-06T12:49:47.193927",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Sciopero scuola 6 e 7 maggio: i Cobas indicono la mobilitazione contro i quiz Invalsi, il precariato e l’Autonomia differenziata",
+      "url": "https://www.orizzontescuola.it/sciopero-scuola-6-e-7-maggio-i-cobas-indicono-la-mobilitazione-contro-i-quiz-invalsi-il-precariato-e-lautonomia-differenziata/",
+      "date": "Fri, 06 Mar 2026 09:41:31 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "Il sindacato Cobas indice lo sciopero della scuola per il 6 e 7 maggio contro le prove Invalsi, rivendicando stipendi adeguati, assunzioni e ruolo unico.\nL'articolo\nSciopero scuola 6 e 7 maggio: i Cobas indicono la mobilitazione contro i quiz Invalsi, il precariato e l’Autonomia differenziata\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Il sindacato Cobas indice lo sciopero della scuola per il 6 e 7 maggio contro le prove Invalsi, rivendicando stipendi adeguati, assunzioni e ruolo unico.\nL'articolo\nSciopero scuola 6 e 7 maggio: i Cobas indicono la mobilitazione contro i quiz Invalsi, il precariato e l’Autonomia differenziata\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "44531fc84d7e5860",
+      "text": "Il sindacato Cobas indice lo sciopero della scuola per il 6 e 7 maggio contro le prove Invalsi, rivendicando stipendi adeguati, assunzioni e ruolo unico.\nL'articolo\nSciopero scuola 6 e 7 maggio: i Cobas indicono la mobilitazione contro i quiz Invalsi, il precariato e l’Autonomia differenziata\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-03-06T12:49:47.694110",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "AVVISO – Richiesta documentazione per prove suppletive – Procedura per l’attribuzione delle posizioni economiche al personale A.T.A. – DM 140 del 12 luglio 2024 – Ufficio Scolastico Regionale",
+      "url": "https://www.ufficioscolasticoregionalelazio.it/2026/03/06/avviso-richiesta-documentazione-per-prove-suppletive-procedura-per-lattribuzione-delle-posizioni-economiche-al-personale-a-t-a-dm-140-del-12-luglio-2024/",
+      "date": "2026-03-06T12:49:44.244340",
+      "source": "USR Lazio",
+      "type": "comunicazione",
+      "description": "",
+      "id": "4fa5723c5a0be49b",
+      "text": "m_pi.AOODRLA.REGISTRO UFFICIALE(U).0026100.06-03-2026 [221 KB]",
+      "size_chars": 62,
+      "success": true,
+      "fetched_at": "2026-03-06T12:49:50.815047",
+      "document_type": "html"
     }
   ]
 }
