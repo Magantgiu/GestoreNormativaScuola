@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-03-05T19:15:38.321851",
+  "last_fetch": "2026-03-06T01:53:48.151860",
   "stats": {
     "total": 334,
-    "fetched": 8,
-    "skipped": 92,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 8
+    "html": 1
   },
-  "total_documents": 1451,
+  "total_documents": 1452,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -21577,6 +21577,21 @@
       "success": true,
       "fetched_at": "2026-03-05T19:15:36.456393",
       "document_type": "html"
+    },
+    {
+      "title": "GPS 2024: servizio su posto didattica differenziata “Montessori” alla scuola primaria come si inserisce? FAQ n. 87",
+      "url": "https://www.orizzontescuola.it/gps-2024-servizio-su-posto-didattica-differenziata-montessori-alla-scuola-primaria-come-si-inserisce-faq-n-87/",
+      "date": "Thu, 05 Mar 2026 18:13:46 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nuova FAQ del Ministero dell'Istruzione e del Merito sul servizio. E' la n. 87 di un aggiornamento che si sta rilevando complesso e con tante situazioni che meritano già di essere chiarite, prima di affidare la valutazione ad uffici scolastici e scuole polo. Scadenza per la presentazione della domanda 16 marzo 2026 ore 23.59.\nL'articolo\nGPS 2024: servizio su posto didattica differenziata “Montessori” alla scuola primaria come si inserisce? FAQ n. 87\nsembra essere il primo su\nOrizzonte Scuola Not",
+      "full_content": "Nuova FAQ del Ministero dell'Istruzione e del Merito sul servizio. E' la n. 87 di un aggiornamento che si sta rilevando complesso e con tante situazioni che meritano già di essere chiarite, prima di affidare la valutazione ad uffici scolastici e scuole polo. Scadenza per la presentazione della domanda 16 marzo 2026 ore 23.59.\nL'articolo\nGPS 2024: servizio su posto didattica differenziata “Montessori” alla scuola primaria come si inserisce? FAQ n. 87\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "1fc2df56294519e5",
+      "text": "Nuova FAQ del Ministero dell'Istruzione e del Merito sul servizio. E' la n. 87 di un aggiornamento che si sta rilevando complesso e con tante situazioni che meritano già di essere chiarite, prima di affidare la valutazione ad uffici scolastici e scuole polo. Scadenza per la presentazione della domanda 16 marzo 2026 ore 23.59.\nL'articolo\nGPS 2024: servizio su posto didattica differenziata “Montessori” alla scuola primaria come si inserisce? FAQ n. 87\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-03-06T01:53:47.632312",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
