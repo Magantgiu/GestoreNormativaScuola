@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-03-07T06:37:30.131144",
+  "last_fetch": "2026-03-07T12:41:13.387480",
   "stats": {
     "total": 334,
-    "fetched": 0,
-    "skipped": 100,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 1
   },
-  "total_documents": 1468,
+  "total_documents": 1469,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -21831,6 +21831,21 @@
       "success": true,
       "fetched_at": "2026-03-06T18:41:15.237209",
       "document_type": "html"
+    },
+    {
+      "title": "Immissioni in ruolo docenti: escluso il doppio canale di reclutamento nell’anno scolastico 2026/27",
+      "url": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-escluso-il-doppio-canale-di-reclutamento-nellanno-scolastico-2026-27/",
+      "date": "Sat, 07 Mar 2026 09:27:10 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 3 marzo 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Marcello Pacifico, presidente Anief, è stata affrontata una questione relativa al sistema di reclutamento dei docenti.\nL'articolo\nImmissioni in ruolo docenti: escluso il doppio canale di reclutamento nell’anno scolastico 2026/27\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Nel question time del 3 marzo 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Marcello Pacifico, presidente Anief, è stata affrontata una questione relativa al sistema di reclutamento dei docenti.\nL'articolo\nImmissioni in ruolo docenti: escluso il doppio canale di reclutamento nell’anno scolastico 2026/27\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "0cadab5c6d111c31",
+      "text": "Nel question time del 3 marzo 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Marcello Pacifico, presidente Anief, è stata affrontata una questione relativa al sistema di reclutamento dei docenti.\nL'articolo\nImmissioni in ruolo docenti: escluso il doppio canale di reclutamento nell’anno scolastico 2026/27\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-03-07T12:41:12.868281",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
