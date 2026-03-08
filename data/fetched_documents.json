@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-03-08T06:40:15.885215",
+  "last_fetch": "2026-03-08T12:42:55.045256",
   "stats": {
     "total": 334,
-    "fetched": 0,
-    "skipped": 100,
+    "fetched": 3,
+    "skipped": 97,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 3
   },
-  "total_documents": 1476,
+  "total_documents": 1479,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -21949,6 +21949,51 @@
       "id": "d6ab31a5db1fecef",
       "text": "Nel question time del 2 marzo 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite la docente esperta Sonia Cannas, è stata affrontata una questione relativa all’aggiornamento delle graduatorie. Ritorniamo a parlare di differenza tra la scelta delle scuole per le graduatorie di istituto (entro il 16 marzo) e la scelta delle max 150 preferenze (in estate).\nL'articolo\nScelta scuole graduatorie di istituto, fino a venti per classe di concorso. Non si indica ordine di preferenza, non si inserisce numero ore supplenza\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2026-03-07T18:30:42.006978",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Ruolo da GPS 2026, partecipano anche specializzati Indire. Primo ciclo sì, secondo ciclo percorso ancora iniziato",
+      "url": "https://www.orizzontescuola.it/ruolo-da-gps-2026-partecipano-anche-specializzati-indire-primo-ciclo-si-secondo-ciclo-percorso-ancora-iniziato/",
+      "date": "Sun, 08 Mar 2026 11:19:21 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 4 marzo su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto della presidenza nazionale Anief, è stata affrontata una questione legata al conseguimento della specializzazione sul sostegno e agli effetti sull’inserimento nelle graduatorie.\nL'articolo\nRuolo da GPS 2026, partecipano anche specializzati Indire. Primo ciclo sì, secondo ciclo percorso ancora iniziato\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Nel question time del 4 marzo su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto della presidenza nazionale Anief, è stata affrontata una questione legata al conseguimento della specializzazione sul sostegno e agli effetti sull’inserimento nelle graduatorie.\nL'articolo\nRuolo da GPS 2026, partecipano anche specializzati Indire. Primo ciclo sì, secondo ciclo percorso ancora iniziato\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "f70e09151a9e4382",
+      "text": "Nel question time del 4 marzo su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Chiara Cozzetto della presidenza nazionale Anief, è stata affrontata una questione legata al conseguimento della specializzazione sul sostegno e agli effetti sull’inserimento nelle graduatorie.\nL'articolo\nRuolo da GPS 2026, partecipano anche specializzati Indire. Primo ciclo sì, secondo ciclo percorso ancora iniziato\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-03-08T12:42:53.525370",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "Distacco sindacale part-time, Aran: attività lavorativa fino al 75%",
+      "url": "https://www.orizzontescuola.it/distacco-sindacale-part-time-aran-attivita-lavorativa-fino-al-75/",
+      "date": "Sun, 08 Mar 2026 08:19:13 +0000",
+      "source": "Orizzonte Scuola - ATA",
+      "type": "rss_article",
+      "description": "In caso di distacco sindacale part-time, l’attività lavorativa può essere svolta fino a un massimo del 75%. Lo chiarisce l’Aran in un orientamento pubblicato il 3 marzo, richiamando l’articolo 8, comma 3, del CCNQ del 4 dicembre 2017.\nL'articolo\nDistacco sindacale part-time, Aran: attività lavorativa fino al 75%\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "In caso di distacco sindacale part-time, l’attività lavorativa può essere svolta fino a un massimo del 75%. Lo chiarisce l’Aran in un orientamento pubblicato il 3 marzo, richiamando l’articolo 8, comma 3, del CCNQ del 4 dicembre 2017.\nL'articolo\nDistacco sindacale part-time, Aran: attività lavorativa fino al 75%\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "5e5f721b018dd4e7",
+      "text": "In caso di distacco sindacale part-time, l’attività lavorativa può essere svolta fino a un massimo del 75%. Lo chiarisce l’Aran in un orientamento pubblicato il 3 marzo, richiamando l’articolo 8, comma 3, del CCNQ del 4 dicembre 2017.\nL'articolo\nDistacco sindacale part-time, Aran: attività lavorativa fino al 75%\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-03-08T12:42:54.025615",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "GPS 2026: Abilitazione su A12 vale per Lettere secondaria primo e secondo grado ma non per Latino A11",
+      "url": "https://www.orizzontescuola.it/gps-2026-abilitazione-su-a12-vale-per-lettere-secondaria-primo-e-secondo-grado-ma-non-per-latino-a11/",
+      "date": "Sun, 08 Mar 2026 08:10:18 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 4 marzo 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Giuseppe Semeraro, esperto in normativa scolastica, è stata affrontata una questione relativa alle abilitazioni e al nuovo assetto delle classi di concorso. Il focus è sulle classi di concorso accorpate.\nL'articolo\nGPS 2026: Abilitazione su A12 vale per Lettere secondaria primo e secondo grado ma non per Latino A11\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "full_content": "Nel question time del 4 marzo 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Giuseppe Semeraro, esperto in normativa scolastica, è stata affrontata una questione relativa alle abilitazioni e al nuovo assetto delle classi di concorso. Il focus è sulle classi di concorso accorpate.\nL'articolo\nGPS 2026: Abilitazione su A12 vale per Lettere secondaria primo e secondo grado ma non per Latino A11\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "de5b3599e2c398b1",
+      "text": "Nel question time del 4 marzo 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Giuseppe Semeraro, esperto in normativa scolastica, è stata affrontata una questione relativa alle abilitazioni e al nuovo assetto delle classi di concorso. Il focus è sulle classi di concorso accorpate.\nL'articolo\nGPS 2026: Abilitazione su A12 vale per Lettere secondaria primo e secondo grado ma non per Latino A11\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-03-08T12:42:54.525806",
       "document_type": "rss_full",
       "success": true
     }
