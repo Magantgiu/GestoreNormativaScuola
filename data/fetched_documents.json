@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-03-09T01:54:27.377199",
+  "last_fetch": "2026-03-09T06:59:42.448958",
   "stats": {
     "total": 334,
-    "fetched": 0,
-    "skipped": 100,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 0
+    "html": 1
   },
-  "total_documents": 1479,
+  "total_documents": 1480,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -21994,6 +21994,21 @@
       "id": "de5b3599e2c398b1",
       "text": "Nel question time del 4 marzo 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Giuseppe Semeraro, esperto in normativa scolastica, è stata affrontata una questione relativa alle abilitazioni e al nuovo assetto delle classi di concorso. Il focus è sulle classi di concorso accorpate.\nL'articolo\nGPS 2026: Abilitazione su A12 vale per Lettere secondaria primo e secondo grado ma non per Latino A11\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "fetched_at": "2026-03-08T12:42:54.525806",
+      "document_type": "rss_full",
+      "success": true
+    },
+    {
+      "title": "8 marzo e oltre: conoscere per cambiare",
+      "url": "https://www.flcgil.it/attualita/8-marzo-e-oltre-conoscere-per-cambiare.flc",
+      "date": "Mon, 09 Mar 2026 06:07:00 +0100",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "L’8 marzo non è solo una ricorrenza simbolica. È un giorno di lotta contro le disuguaglianze e rappresenta un momento per riflettere sulle condizioni di vita e di lavoro delle donne e sulle discriminazioni che ancora oggi...",
+      "full_content": "L’8 marzo non è solo una ricorrenza simbolica. È un giorno di lotta contro le disuguaglianze e rappresenta un momento per riflettere sulle condizioni di vita e di lavoro delle donne e sulle discriminazioni che ancora oggi...",
+      "has_full_content": true,
+      "id": "13068564d712715e",
+      "text": "L’8 marzo non è solo una ricorrenza simbolica. È un giorno di lotta contro le disuguaglianze e rappresenta un momento per riflettere sulle condizioni di vita e di lavoro delle donne e sulle discriminazioni che ancora oggi...",
+      "fetched_at": "2026-03-09T06:59:41.928893",
       "document_type": "rss_full",
       "success": true
     }
