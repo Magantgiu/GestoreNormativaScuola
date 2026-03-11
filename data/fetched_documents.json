@@ -1,14 +1,14 @@
 {
-  "last_fetch": "2026-03-10T18:44:28.082740",
+  "last_fetch": "2026-03-11T01:49:16.182919",
   "stats": {
     "total": 336,
-    "fetched": 8,
-    "skipped": 92,
+    "fetched": 1,
+    "skipped": 99,
     "failed": 0,
     "pdfs": 0,
-    "html": 8
+    "html": 1
   },
-  "total_documents": 1527,
+  "total_documents": 1528,
   "documents": [
     {
       "title": "Mobilitazione CNR: i Precari Uniti ottengono il tavolo di confronto",
@@ -22706,6 +22706,21 @@
       "success": true,
       "fetched_at": "2026-03-10T18:44:26.532128",
       "document_type": "html"
+    },
+    {
+      "title": "Abilitazioni per classi di concorso accorpate: TAB A/3 punto B.4 delle graduatorie GPS 2026. Come si compila domanda",
+      "url": "https://www.orizzontescuola.it/abilitazioni-per-classi-di-concorso-accorpate-tab-a-3-punto-b-4-delle-graduatorie-gps-2026-come-si-compila-domanda/",
+      "date": "Tue, 10 Mar 2026 18:39:49 +0000",
+      "source": "Orizzonte Scuola - Diventare Insegnanti",
+      "type": "rss_article",
+      "description": "Nel question time del 9 marzo 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente ed esperta in normativa scolastica, si è fatto il punto sulle GPS (Graduatorie Provinciali per le Supplenze). Durante la diretta sono stati affrontati i principali dubbi degli aspiranti docenti in vista della scadenza del 16 marzo, termine entro il quale è possibile inserirsi per la prima volta o aggiornare la propria posizione nelle graduatorie.\nL'articolo\nAbilitazioni per cla",
+      "full_content": "Nel question time del 9 marzo 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente ed esperta in normativa scolastica, si è fatto il punto sulle GPS (Graduatorie Provinciali per le Supplenze). Durante la diretta sono stati affrontati i principali dubbi degli aspiranti docenti in vista della scadenza del 16 marzo, termine entro il quale è possibile inserirsi per la prima volta o aggiornare la propria posizione nelle graduatorie.\nL'articolo\nAbilitazioni per classi di concorso accorpate: TAB A/3 punto B.4 delle graduatorie GPS 2026. Come si compila domanda\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "has_full_content": true,
+      "id": "c932905a6dd61273",
+      "text": "Nel question time del 9 marzo 2026 su OrizzonteScuola TV, condotto da Andrea Carlino e con ospite Sonia Cannas, docente ed esperta in normativa scolastica, si è fatto il punto sulle GPS (Graduatorie Provinciali per le Supplenze). Durante la diretta sono stati affrontati i principali dubbi degli aspiranti docenti in vista della scadenza del 16 marzo, termine entro il quale è possibile inserirsi per la prima volta o aggiornare la propria posizione nelle graduatorie.\nL'articolo\nAbilitazioni per classi di concorso accorpate: TAB A/3 punto B.4 delle graduatorie GPS 2026. Come si compila domanda\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
+      "fetched_at": "2026-03-11T01:49:15.662044",
+      "document_type": "rss_full",
+      "success": true
     }
   ]
 }
