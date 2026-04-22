@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-04-22T02:11:44.709060",
+  "scraped_at": "2026-04-22T07:28:58.987025",
   "stats": {
     "total_sources": 7,
     "successful": 7,
     "failed": 0,
-    "total_docs": 306,
-    "unique_documents": 305
+    "total_docs": 331,
+    "unique_documents": 330
   },
   "documents": [
     {
@@ -18,6 +18,28 @@
       "full_content": "Supplenze personale ATA: l'I.I.S V. Florio di Erice (Trapani) ha la necessità di reperire un Infermiere per n. 36 ore settimanali di lavoro fino al 01/06/2026.\nL'articolo\nInterpello personale ATA Profilo infermiere fino al 01 giugno 2026\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "c1f6848c854cd363"
+    },
+    {
+      "title": "Assunzioni GPS I Fascia Sostegno: prorogata al 31 dicembre 2026 la procedura straordinaria",
+      "url": "https://www.flcgil.it/scuola/precari/assunzioni-gps-i-fascia-sostegno-prorogata-al-31-dicembre-2026-la-procedura-straordinaria.flc",
+      "date": "Tue, 21 Apr 2026 18:51:59 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "È stato pubblicato in data 31 marzo 2026 il",
+      "full_content": "È stato pubblicato in data 31 marzo 2026 il",
+      "has_full_content": false,
+      "id": "dfbb7d963453082b"
+    },
+    {
+      "title": "DL PNRR convertito in legge: le misure su scuola, università, ricerca e AFAM",
+      "url": "https://www.flcgil.it/attualita/piano-nazionale-ripresa-resilienza/dl-pnrr-convertito-legge-misure-scuola-universita-ricerca-afam.flc",
+      "date": "Tue, 21 Apr 2026 18:32:05 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Il Senato ha approvato definitivamente il 15 aprile 2026 la legge di conversione del decreto-legge 19 febbraio 2026, n. 19, recante disposizioni urgenti per l’attuazione del PNRR e in materia di politiche di coesione.\nIl...",
+      "full_content": "Il Senato ha approvato definitivamente il 15 aprile 2026 la legge di conversione del decreto-legge 19 febbraio 2026, n. 19, recante disposizioni urgenti per l’attuazione del PNRR e in materia di politiche di coesione.\nIl...",
+      "has_full_content": true,
+      "id": "1e86af91c21797e0"
     },
     {
       "title": "Aggiornamento ATA 24 mesi 2026: differenza tra titoli di riserva e preferenza, invalidità civile, legge 104. RISPOSTE AI QUESITI",
@@ -40,6 +62,17 @@
       "full_content": "Gli Uffici scolastici regionali pubblicano entro il 21 aprile i bandi relativi alle graduatorie ATA 24 mesi 2026/27, utilizzate per immissioni in ruolo e supplenze. Le procedure, come indicato nella\nnota ministeriale n. 10009 del 15 aprile\n, sono rese disponibili anche sul portale\nInPA\n, oltre che sui siti degli stessi USR.\nL'articolo\nConcorsi ATA 24 mesi 2026, ecco tutti i bandi regionali [COMPLETO]\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "ee2cf1d530600869"
+    },
+    {
+      "title": "AFAM: assegnato il fondo di istituto 2026",
+      "url": "https://www.flcgil.it/universita/afam/afam-assegnato-il-fondo-di-istituto-2026.flc",
+      "date": "Tue, 21 Apr 2026 16:47:51 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Con\nDecreto Direttoriale 2091 del 26 marzo 2026\n, pubblicato il 20 aprile,",
+      "full_content": "Con\nDecreto Direttoriale 2091 del 26 marzo 2026\n, pubblicato il 20 aprile,",
+      "has_full_content": false,
+      "id": "aec05d4c81614195"
     },
     {
       "title": "Elenchi regionali in due sezioni. Priorità per chi sceglie stessa regione concorso non va scambiata con garanzia ruolo",
@@ -119,6 +152,17 @@
       "id": "17c347c3b2d658a5"
     },
     {
+      "title": "Educazione sessuo-affettiva: le associazioni contro il DDL Valditara",
+      "url": "https://www.flcgil.it/attualita/educazione-sessuo-affettiva-le-associazioni-contro-il-ddl-valditara.flc",
+      "date": "Tue, 21 Apr 2026 11:57:48 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Il 22 aprile alle ore 11:30 in piazza Vidoni a Roma una rete di associazioni si è data appuntamento per protestare contro il DDL sul “consenso informato&rdquo...",
+      "full_content": "Il 22 aprile alle ore 11:30 in piazza Vidoni a Roma una rete di associazioni si è data appuntamento per protestare contro il DDL sul “consenso informato&rdquo...",
+      "has_full_content": false,
+      "id": "5a28c9a202ee7a94"
+    },
+    {
       "title": "Concorso infanzia e primaria PNRR3, prova orale [Le convocazioni]",
       "url": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-pnrr3-arrivano-le-convocazioni-prova-orale-dal-19-gennaio-in-aggiornamento/",
       "date": "Tue, 21 Apr 2026 11:00:57 +0000",
@@ -150,6 +194,17 @@
       "full_content": "Supplenze docenti 2025/26: è confermata la procedura di interpello prevista dall'OM n. 88/2024. Gli interpelli saranno proposti quando le graduatorie risulteranno esaurite, ossia non ci saranno più aspiranti che potranno accettare l'incarico proposto. L'interpello è diramato a livello nazionale tramite gli Uffici Scolastici.\nL'articolo\nSupplenze docenti 2026, nuovi interpelli alla ricerca di insegnanti\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "26fa83dd8f17991a"
+    },
+    {
+      "title": "AFAM: aumentati i fondi per i Dottorati di ricerca",
+      "url": "https://www.flcgil.it/universita/afam/afam-aumentati-i-fondi-per-i-dottorati-di-ricerca.flc",
+      "date": "Tue, 21 Apr 2026 10:46:17 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Durante l’iter di approvazione del decreto-legge 19/26 sono stati introdotti all’art. 21 i commi 8-bis e 8-ter che riguardano l’alta formazione artistica, musicale e coreutica. In particolare, è stato previsto un...",
+      "full_content": "Durante l’iter di approvazione del decreto-legge 19/26 sono stati introdotti all’art. 21 i commi 8-bis e 8-ter che riguardano l’alta formazione artistica, musicale e coreutica. In particolare, è stato previsto un...",
+      "has_full_content": true,
+      "id": "00d314a1eb6802fc"
     },
     {
       "title": "Graduatorie GPS 2026: ecco le scuole polo che valutano le domande [AGGIORNATO]",
@@ -185,6 +240,28 @@
       "id": "b91f2076ac24575d"
     },
     {
+      "title": "Rinnovo CCNL Area dirigenza “Istruzione e Ricerca” 2022-2024: terzo incontro all’Aran",
+      "url": "https://www.flcgil.it/scuola/dirigenti/rinnovo-ccnl-area-istruzione-e-ricerca-2022-2024-terzo-incontro-aran.flc",
+      "date": "Mon, 20 Apr 2026 18:42:09 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Si è conclusa lunedì 20 aprile 2026, presso l’ARAN la terza sessione negoziale per il rinnovo del contratto collettivo nazionale dell’area istruzione e ricerca.",
+      "full_content": "Si è conclusa lunedì 20 aprile 2026, presso l’ARAN la terza sessione negoziale per il rinnovo del contratto collettivo nazionale dell’area istruzione e ricerca.",
+      "has_full_content": false,
+      "id": "c6750fb34666fba0"
+    },
+    {
+      "title": "Università degli Studi di Perugia: efficientamento energetico, valorizzazione del personale TAB e nuovi investimenti su ricerca e docenza",
+      "url": "https://www.flcgil.it/regioni/umbria/universita-degli-studi-perugia-efficientamento-energetico-valorizzazione-personale-tab-nuovi-investimenti-ricerca-docenza.flc",
+      "date": "Mon, 20 Apr 2026 18:19:23 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "A cura della FLC CGIL Umbria e FLC CGIL Perugia\nL’Università degli Studi di Perugia apre un fronte nuovo e strategico per la gestione delle proprie risorse: la costituzione di un tavolo permanente per l’adozione...",
+      "full_content": "A cura della FLC CGIL Umbria e FLC CGIL Perugia\nL’Università degli Studi di Perugia apre un fronte nuovo e strategico per la gestione delle proprie risorse: la costituzione di un tavolo permanente per l’adozione...",
+      "has_full_content": true,
+      "id": "fdd2c52183a20562"
+    },
+    {
       "title": "Posizioni economiche ATA, il 23 aprile le prove suppletive: orari, sedi e istruzioni per i candidati",
       "url": "https://www.orizzontescuola.it/posizioni-economiche-ata-il-23-aprile-le-prove-suppletive-orari-sedi-e-istruzioni-per-i-candidati/",
       "date": "Mon, 20 Apr 2026 17:33:39 +0000",
@@ -194,6 +271,28 @@
       "full_content": "Si svolgeranno giovedì 23 aprile 2026 le prove suppletive per l’attribuzione delle posizioni economiche del personale ATA. Si tratta della sessione riservata ai candidati che non hanno potuto partecipare alla sessione ordinaria, svolta dal 23 al 27 febbraio, per motivi legati a gravidanza, allattamento o gravi patologie.\nL'articolo\nPosizioni economiche ATA, il 23 aprile le prove suppletive: orari, sedi e istruzioni per i candidati\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "452b39d042998c06"
+    },
+    {
+      "title": "Avvio XI ciclo TFA Sostegno: il contingente richiesto alle università è pari a 30 mila posti, di cui zero alla secondaria di II grado",
+      "url": "https://www.flcgil.it/scuola/precari/avvio-x-ciclo-tfa-sostegno-il-contingente-richiesto-alle-universita-e-pari-a-30-mila-posti-di-cui-zero-alla-secondaria.flc",
+      "date": "Mon, 20 Apr 2026 16:59:14 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Il Ministero dell’Università e della Ricerca, con la",
+      "full_content": "Il Ministero dell’Università e della Ricerca, con la",
+      "has_full_content": false,
+      "id": "24eab1121f762cc1"
+    },
+    {
+      "title": "Grande partecipazione al presidio delle lavoratrici e dei lavoratori precari dell'Università e degli Enti pubblici di ricerca dello scorso 16 aprile",
+      "url": "https://www.flcgil.it/ricerca/grande-partecipazione-al-presidio-delle-lavoratrici-e-dei-lavoratori-precari-dell-universita-e-degli-enti-pubblici-di-ricerca-dello-scorso-16-aprile.flc",
+      "date": "Mon, 20 Apr 2026 16:06:53 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Si è svolto giovedì 16 aprile a piazza Montecitorio un partecipato\npresidio dei lavoratori precari dell&rsquo...",
+      "full_content": "Si è svolto giovedì 16 aprile a piazza Montecitorio un partecipato\npresidio dei lavoratori precari dell&rsquo...",
+      "has_full_content": false,
+      "id": "d5ccf76572dc59ed"
     },
     {
       "title": "Mondo ATA. Le visite fiscali, come funziona la richiesta: dalla segreteria all’INPS + Il meglio della settimana. Iscriviti gratuitamente",
@@ -207,6 +306,39 @@
       "id": "d22db37c49fc3b3e"
     },
     {
+      "title": "Education International tra gli ospiti ai 20 anni della FLC CGIL",
+      "url": "https://www.flcgil.it/attualita/estero/education-international-tra-gli-ospiti-ai-20-anni-della-flc-cgil.flc",
+      "date": "Mon, 20 Apr 2026 10:47:52 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "",
+      "full_content": "",
+      "has_full_content": false,
+      "id": "9138e55c3b94073d"
+    },
+    {
+      "title": "Molise: al via assemblee nelle scuole su rinnovo contratto, nuove indicazioni nazionali e riforma istituti tecnici",
+      "url": "https://www.flcgil.it/regioni/molise/molise-al-via-assemblee-nelle-scuole-su-rinnovo-contratto-nuove-indicazioni-nazionali-e-riforma-istituti-tecnici.flc",
+      "date": "Mon, 20 Apr 2026 10:27:00 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "A cura delle FLC CGIL Molise\nIn data 1° aprile, la FLC CGIL, insieme alle altre organizzazioni sindacali, ha",
+      "full_content": "A cura delle FLC CGIL Molise\nIn data 1° aprile, la FLC CGIL, insieme alle altre organizzazioni sindacali, ha",
+      "has_full_content": false,
+      "id": "beb82596510e4a11"
+    },
+    {
+      "title": "Piano triennale di formazione per il personale scolastico in servizio all’estero",
+      "url": "https://www.flcgil.it/scuola/scuole-italiane-estero/piano-triennale-di-formazione-per-il-personale-scolastico-in-servizio-all-estero.flc",
+      "date": "Mon, 20 Apr 2026 09:41:59 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Il 15 aprile 2026 si è svolto al MAECI il confronto sul piano triennale di formazione rivolto al personale scolastico all’estero.\nLa FLC CGIL valuta la proposta formativa interessante, ben...",
+      "full_content": "Il 15 aprile 2026 si è svolto al MAECI il confronto sul piano triennale di formazione rivolto al personale scolastico all’estero.\nLa FLC CGIL valuta la proposta formativa interessante, ben...",
+      "has_full_content": false,
+      "id": "776c203dd6f7c195"
+    },
+    {
       "title": "Personale ATA, ferie non godute entro aprile: cosa cambia con l’orario su cinque giorni",
       "url": "https://www.orizzontescuola.it/personale-ata-ferie-non-godute-entro-aprile-cosa-cambia-con-lorario-su-cinque-giorni/",
       "date": "Mon, 20 Apr 2026 07:07:42 +0000",
@@ -216,6 +348,149 @@
       "full_content": "Le ferie non godute dal personale ATA devono essere utilizzate, di norma, entro il mese di aprile dell’anno scolastico successivo. A ribadirlo è stato l’Aran, con un recente orientamento applicativo che interviene sulla gestione dei residui, in particolare nei casi in cui il dipendente abbia modificato l’articolazione settimanale del servizio.\nL'articolo\nPersonale ATA, ferie non godute entro aprile: cosa cambia con l’orario su cinque giorni\nsembra essere il primo su\nOrizzonte Scuola Notizie\n.",
       "has_full_content": true,
       "id": "974a444f353bdfcf"
+    },
+    {
+      "title": "Formazione personale scolastico: direttiva per l’accreditamento dei soggetti che la realizzano, incontro MIM/Sindacati",
+      "url": "https://www.flcgil.it/scuola/formazione-personale-scolastico-direttiva-accreditamento-soggetti-che-la-realizzano-incontro-mim-sindacati.flc",
+      "date": "Mon, 20 Apr 2026 01:29:30 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Si tenuto il 17 aprile 2026 presso il MIM l’incontro di informazione alle organizzazioni sindacali del comparto e dell’Area Istruzione e Ricerca sulla bozza di Direttiva per l’accreditamento degli enti deputati a erogare la...",
+      "full_content": "Si tenuto il 17 aprile 2026 presso il MIM l’incontro di informazione alle organizzazioni sindacali del comparto e dell’Area Istruzione e Ricerca sulla bozza di Direttiva per l’accreditamento degli enti deputati a erogare la...",
+      "has_full_content": true,
+      "id": "2fdd680eef06cd06"
+    },
+    {
+      "title": "Genova, scuola chiuse: FLC CGIL “Diritto all’istruzione deve rimanere una priorità, anche con eventi rilevanti per la città”",
+      "url": "https://www.flcgil.it/regioni/liguria/genova/genova-scuola-chiuse-flc-cgil-diritto-all-istruzione-deve-rimanere-una-priorita-anche-in-presenza-di-eventi-rilevanti-per-la-citta.flc",
+      "date": "Mon, 20 Apr 2026 01:17:53 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "A cura della FLC CGIL Genova\nIl diritto all’istruzione deve rimanere una priorità, anche in presenza di eventi rilevanti per la città che devono essere organizzati senza incidere sul regolare svolgimento delle...",
+      "full_content": "A cura della FLC CGIL Genova\nIl diritto all’istruzione deve rimanere una priorità, anche in presenza di eventi rilevanti per la città che devono essere organizzati senza incidere sul regolare svolgimento delle...",
+      "has_full_content": true,
+      "id": "3f30c5b9fa63be54"
+    },
+    {
+      "title": "“Sapere è libertà”, un documentario sui 20 anni del sindacato della Conoscenza",
+      "url": "https://www.flcgil.it/attualita/sindacato/sapere-e-liberta-un-documentario-sui-20-anni-del-sindacato-della-conoscenza.flc",
+      "date": "Fri, 17 Apr 2026 19:14:00 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Un documentario, realizzato in occasione della ricorrenza dei vent’anni dalla costituzione della FLC CGIL, che racconta la storia e il senso profondo del sindacato della Conoscenza, attraverso le voci di chi ogni giorno vive, difende e...",
+      "full_content": "Un documentario, realizzato in occasione della ricorrenza dei vent’anni dalla costituzione della FLC CGIL, che racconta la storia e il senso profondo del sindacato della Conoscenza, attraverso le voci di chi ogni giorno vive, difende e...",
+      "has_full_content": true,
+      "id": "92b41ee2f2698e15"
+    },
+    {
+      "title": "Istituti tecnici, organici 2026/2027: note ministeriali senza tutele e quadri orari bocciati dal CSPI",
+      "url": "https://www.flcgil.it/scuola/istituti-tecnici-organici-2026-2027-note-ministeriali-senza-tutele-e-quadri-orari-bocciati-dal-cspi.flc",
+      "date": "Fri, 17 Apr 2026 18:53:23 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "La nota del Dipartimento per il personale scolastico del MIM sugli organici docenti 2026/2027, relativamente alle classi prime degli istituti tecnici di cui al DM 29/2026 e ai nuovi quadri orario ivi contenuti, non aggiunge alcuna...",
+      "full_content": "La nota del Dipartimento per il personale scolastico del MIM sugli organici docenti 2026/2027, relativamente alle classi prime degli istituti tecnici di cui al DM 29/2026 e ai nuovi quadri orario ivi contenuti, non aggiunge alcuna...",
+      "has_full_content": true,
+      "id": "cfd18b1cccabdd68"
+    },
+    {
+      "title": "Organici scuola 2026/2027: docenti, ancora tagli e zero investimenti",
+      "url": "https://www.flcgil.it/scuola/docenti/organici-docenti-as-2026-27-nota-ministeriale-ancora-tagli-e-zero-investimenti.flc",
+      "date": "Fri, 17 Apr 2026 18:12:59 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Il Ministero dell’istruzione e del merito, con la",
+      "full_content": "Il Ministero dell’istruzione e del merito, con la",
+      "has_full_content": false,
+      "id": "a2eef1c1cd35f20c"
+    },
+    {
+      "title": "Roma: proclamazione dello sciopero di tutto il personale dell’IIS Pacinotti-Archimede per il 20 aprile",
+      "url": "https://www.flcgil.it/regioni/lazio/roma/roma-proclamazione-sciopero-tutto-personale-iis-pacinotti-archimede-20-aprile.flc",
+      "date": "Fri, 17 Apr 2026 17:00:00 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "A cura della FLC CGIL Rieti Roma Est – Valle dell’Aniene\nLa scrivente Organizzazione Sindacale FLC CGIL, a seguito dello stato di agitazione proclamato in data 16 febbraio 2026 e delle numerose assemblee svolte con...",
+      "full_content": "A cura della FLC CGIL Rieti Roma Est – Valle dell’Aniene\nLa scrivente Organizzazione Sindacale FLC CGIL, a seguito dello stato di agitazione proclamato in data 16 febbraio 2026 e delle numerose assemblee svolte con...",
+      "has_full_content": true,
+      "id": "8ce4d89f68990920"
+    },
+    {
+      "title": "Flc a Valditara: non usi registro elettronico per fini propagandistici",
+      "url": "https://www.flcgil.it/rassegna-stampa/flc-a-valditara-non-usi-registro-elettronico-per-fini-propagandistici.flc",
+      "date": "Fri, 17 Apr 2026 15:48:30 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "\"Il ministro Valditara, per la terza volta, utilizza il registro elettronico, senza consenso delle scuole, per comunicare direttamente le famiglie di alunni e studenti. Dopo il caso degli spot...",
+      "full_content": "\"Il ministro Valditara, per la terza volta, utilizza il registro elettronico, senza consenso delle scuole, per comunicare direttamente le famiglie di alunni e studenti. Dopo il caso degli spot...",
+      "has_full_content": false,
+      "id": "c7aca0612dcdb240"
+    },
+    {
+      "title": "Valditara senza consenso scuole utilizza registro elettronico per scrivere a famiglie. FLC CGIL: violata autonomia, ritiri la comunicazione",
+      "url": "https://www.flcgil.it/comunicati-stampa/valditara-senza-consenso-scuole-utilizza-registro-elettronico-per-scrivere-a-famiglie-flc-cgil-violata-autonomia-ritiri-la-comunicazione.flc",
+      "date": "Fri, 17 Apr 2026 15:35:26 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Roma, 17 aprile – \"Il ministro Valditara, per la terza volta, utilizza il registro elettronico, senza consenso delle scuole, per comunicare direttamente le famiglie di alunni e studenti...",
+      "full_content": "Roma, 17 aprile – \"Il ministro Valditara, per la terza volta, utilizza il registro elettronico, senza consenso delle scuole, per comunicare direttamente le famiglie di alunni e studenti...",
+      "has_full_content": false,
+      "id": "34ec8e99c7f47298"
+    },
+    {
+      "title": "Partecipazione e democrazia, i 20 anni della FLC CGIL",
+      "url": "https://www.flcgil.it/rassegna-stampa/partecipazione-e-democrazia-i-20-anni-della-flc-cgil.flc",
+      "date": "Fri, 17 Apr 2026 14:55:00 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "",
+      "full_content": "",
+      "has_full_content": false,
+      "id": "91f73918c0811209"
+    },
+    {
+      "title": "Valditara viola ancora l’autonomia scolastica: d’accordo con i gestori delle piattaforme delle scuole scrive alle famiglie per illustrare corsi Indire",
+      "url": "https://www.flcgil.it/scuola/valditara-viola-ancora-autonomia-scolastica-accordo-con-gestori-piattaforme-scuole-scrive-alle-famiglie-per-illustrare-corsi-indire.flc",
+      "date": "Fri, 17 Apr 2026 14:12:37 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Per la terza volta il Ministro Valditara utilizza il registro elettronico senza consenso delle scuole per informare direttamente le famiglie. Dopo il caso degli spot pubblicitari e dei giochi veicolati attraverso il gestionale del...",
+      "full_content": "Per la terza volta il Ministro Valditara utilizza il registro elettronico senza consenso delle scuole per informare direttamente le famiglie. Dopo il caso degli spot pubblicitari e dei giochi veicolati attraverso il gestionale del...",
+      "has_full_content": true,
+      "id": "d5ad2317f90bfc34"
+    },
+    {
+      "title": "ISTAT: firmata l'ipotesi di integrazione all'accordo sul salario accessorio 2024 dei IV-VIII",
+      "url": "https://www.flcgil.it/enti/istat/notizie/istat-firmata-l-ipotesi-di-integrazione-all-accordo-sul-salario-accessorio-2024-dei-iv-viii.flc",
+      "date": "Fri, 17 Apr 2026 13:59:03 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Di seguito il comunicato al personale della FLC CGIL ISTAT.",
+      "full_content": "Di seguito il comunicato al personale della FLC CGIL ISTAT.",
+      "has_full_content": false,
+      "id": "4ff24e8cd755c715"
+    },
+    {
+      "title": "Comunicato FLC CGIL ISTAT - firma ipotesi integrazione accessorio 2024 IV-VIII del 17 aprile 2026",
+      "url": "https://www.flcgil.it/enti/istat/documenti/comunicato-flc-cgil-istat-firma-ipotesi-integrazione-accessorio-2024-iv-viii-del-17-aprile-2026.flc",
+      "date": "Fri, 17 Apr 2026 13:56:54 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Comunicato FLC CGIL ISTAT - firma ipotesi integrazione accessorio 2024 IV-VIII del 17 aprile 2026",
+      "full_content": "Comunicato FLC CGIL ISTAT - firma ipotesi integrazione accessorio 2024 IV-VIII del 17 aprile 2026",
+      "has_full_content": false,
+      "id": "1ed03e5bb0c45f75"
+    },
+    {
+      "title": "Percorsi abilitanti docenti scuola secondaria vincitori di concorso: indicazioni per frequentare i corsi",
+      "url": "https://www.flcgil.it/scuola/precari/percorsi-abilitanti-per-docenti-di-scuola-secondaria-vincitori-di-concorso-indicazioni-operative-per-la-frequenza-dei-corsi.flc",
+      "date": "Fri, 17 Apr 2026 09:28:33 +0200",
+      "source": "FLC CGIL",
+      "type": "rss_article",
+      "description": "Data la non uniforme presenza sul territorio nazionale di percorsi universitari e accademici per il conseguimento dell’abilitazione all’insegnamento, emersa a seguito di una ricognizione condotta sulle classi di concorso accreditate...",
+      "full_content": "Data la non uniforme presenza sul territorio nazionale di percorsi universitari e accademici per il conseguimento dell’abilitazione all’insegnamento, emersa a seguito di una ricognizione condotta sulle classi di concorso accreditate...",
+      "has_full_content": true,
+      "id": "9682370649d9c6a3"
     },
     {
       "title": "ATP Rieti. Personale ATA – Bandi 24 mesi",
@@ -229,7 +504,7 @@
     {
       "title": "Graduatoria di merito Concorso Ordinario IRC – AAEE – D.M. 103/2024",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/04/20/graduatoria-di-merito-concorso-ordinario-irc-aaee-d-m-103-2024-2/",
-      "date": "2026-04-22T02:11:43.707250",
+      "date": "2026-04-22T07:28:57.984999",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -238,7 +513,7 @@
     {
       "title": "Graduatoria di merito Concorso Ordinario IRC – MMSS – D.M. 104/2024",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/04/20/graduatoria-di-merito-concorso-ordinario-irc-mmss-d-m-104-2024-2/",
-      "date": "2026-04-22T02:11:43.707240",
+      "date": "2026-04-22T07:28:57.984988",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -247,7 +522,7 @@
     {
       "title": "Trasmissione nota IPSSC “Filippo Re” di rettifica delle modalità organizzative della Gara Nazionale A.S. 2025/2026",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/04/21/trasmissione-nota-ipssc-filippo-re-di-rettifica-delle-modalita-organizzative-della-gara-nazionale-a-s-2025-2026/",
-      "date": "2026-04-22T02:11:43.707224",
+      "date": "2026-04-22T07:28:57.984976",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -256,7 +531,7 @@
     {
       "title": "Avviso – Concorsi per titoli per l’aggiornamento e l’integrazione delle graduatorie per l’accesso ai ruoli provinciali dei profili professionali delle aree dei collaboratori, degli operatori e degli assistenti (ex aree A e B) del personale ATA. Indizione dei concorsi nell’anno scolastico 2025/2026 – Graduatorie a.s. 2026/2027",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/04/21/avviso-concorsi-per-titoli-per-laggiornamento-e-lintegrazione-delle-graduatorie-per-laccesso-ai-ruoli-provinciali-dei-profili-professionali-delle-aree-dei-collaboratori-d/",
-      "date": "2026-04-22T02:11:43.707196",
+      "date": "2026-04-22T07:28:57.984946",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
@@ -265,43 +540,16 @@
     {
       "title": "Trasmissione nota Manifestazione Agridays – Comunicazione di nuova calendarizzazione dell’evento",
       "url": "https://www.ufficioscolasticoregionalelazio.it/2026/04/21/trasmissione-nota-manifestazione-agridays-comunicazione-di-nuova-calendarizzazione-dellevento/",
-      "date": "2026-04-22T02:11:43.707171",
+      "date": "2026-04-22T07:28:57.984921",
       "source": "USR Lazio",
       "type": "comunicazione",
       "description": "",
       "id": "e61458d3a5210b1a"
     },
     {
-      "title": "Circolare n. 307 del 4 febbraio 2026",
-      "url": "https://www.mim.gov.it/web/guest/-/circolare-n-307-del-4-febbraio-2026",
-      "date": "2026-04-22T02:11:34.384350",
-      "source": "MIM - Normativa",
-      "type": "normativa",
-      "description": "",
-      "id": "de9d1a1d3f0881a3"
-    },
-    {
-      "title": "Decreto Direttoriale n.141 del 05 febbraio 2026",
-      "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-141-del-05-febbraio-2026",
-      "date": "2026-04-22T02:11:34.384306",
-      "source": "MIM - Normativa",
-      "type": "normativa",
-      "description": "",
-      "id": "a48a8677efead2fb"
-    },
-    {
-      "title": "Decreto Ministeriale n. 2 del 9 gennaio 2026",
-      "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-2-del-9-gennaio-2026",
-      "date": "2026-04-22T02:11:34.384264",
-      "source": "MIM - Normativa",
-      "type": "normativa",
-      "description": "",
-      "id": "25be280e11049cb5"
-    },
-    {
       "title": "Decreto Direttoriale n. 1055 del 4 agosto 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1055-del-4-agosto-2025",
-      "date": "2026-04-22T02:11:34.384220",
+      "date": "2026-04-22T07:28:53.058200",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -310,7 +558,7 @@
     {
       "title": "Circolare n. 365 del 6 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-n-365-del-6-febbraio-2026",
-      "date": "2026-04-22T02:11:34.384175",
+      "date": "2026-04-22T07:28:53.058156",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -319,7 +567,7 @@
     {
       "title": "Decreto Direttoriale n. 206 del 9 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-206-del-9-febbraio-2026",
-      "date": "2026-04-22T02:11:34.384130",
+      "date": "2026-04-22T07:28:53.058112",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -328,7 +576,7 @@
     {
       "title": "Decreto Dipartimentale n. 32 del 19 giugno 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-32-del-19-giugno-2025",
-      "date": "2026-04-22T02:11:34.384083",
+      "date": "2026-04-22T07:28:53.058066",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -337,7 +585,7 @@
     {
       "title": "Decreto Direttoriale n. 128 del 29 gennaio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-128-del-29-gennaio-2026",
-      "date": "2026-04-22T02:11:34.384026",
+      "date": "2026-04-22T07:28:53.058010",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -346,7 +594,7 @@
     {
       "title": "Decreto Direttoriale n. 165 del 10 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-165-del-10-febbraio-2026",
-      "date": "2026-04-22T02:11:34.383981",
+      "date": "2026-04-22T07:28:53.057964",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -355,7 +603,7 @@
     {
       "title": "Decreto Direttoriale n. 164 del 10 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-164-del-10-febbraio-2026",
-      "date": "2026-04-22T02:11:34.383933",
+      "date": "2026-04-22T07:28:53.057915",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -364,7 +612,7 @@
     {
       "title": "Decreto Ministeriale n. 23 del 12 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-23-del-12-febbraio-2026",
-      "date": "2026-04-22T02:11:34.383874",
+      "date": "2026-04-22T07:28:53.057862",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -373,7 +621,7 @@
     {
       "title": "Decreto Dirigenziale n. 3713 del 12 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-3713-del-12-febbraio-2026",
-      "date": "2026-04-22T02:11:34.383830",
+      "date": "2026-04-22T07:28:53.057813",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -382,7 +630,7 @@
     {
       "title": "Decreto Dirigenziale n. 3717 del 12 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-3717-del-12-febbraio-2026",
-      "date": "2026-04-22T02:11:34.383782",
+      "date": "2026-04-22T07:28:53.057767",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -391,7 +639,7 @@
     {
       "title": "Circolare n. 537 del 16 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-n-537-del-16-febbraio-2016",
-      "date": "2026-04-22T02:11:34.383728",
+      "date": "2026-04-22T07:28:53.057715",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -400,7 +648,7 @@
     {
       "title": "Decreto Direttoriale n. 158 del 21 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-158-del-21-novembre-2025",
-      "date": "2026-04-22T02:11:34.383682",
+      "date": "2026-04-22T07:28:53.057665",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -409,7 +657,7 @@
     {
       "title": "Decreto Direttoriale n.195 del 16 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-195-del-16-febbraio-2026",
-      "date": "2026-04-22T02:11:34.383637",
+      "date": "2026-04-22T07:28:53.057599",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -418,7 +666,7 @@
     {
       "title": "Decreto direttoriale n. 40 del 22 aprile 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-40-del-22-aprile-2025",
-      "date": "2026-04-22T02:11:34.383591",
+      "date": "2026-04-22T07:28:53.057554",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -427,7 +675,7 @@
     {
       "title": "Decreto direttoriale n. 84 del 19 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-84-del-19-ottobre-2025",
-      "date": "2026-04-22T02:11:34.383544",
+      "date": "2026-04-22T07:28:53.057510",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -436,7 +684,7 @@
     {
       "title": "Decreto direttoriale n. 2 del 24 gennaio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-2-del-24-gennaio-2026",
-      "date": "2026-04-22T02:11:34.383490",
+      "date": "2026-04-22T07:28:53.057465",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -445,7 +693,7 @@
     {
       "title": "Circolare n. 1115 del 18 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-n-1115-del-18-febbraio-2016",
-      "date": "2026-04-22T02:11:34.383445",
+      "date": "2026-04-22T07:28:53.057421",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -454,7 +702,7 @@
     {
       "title": "Ordinanza ministeriale del 16 febbraio 2026, n. 27",
       "url": "https://www.mim.gov.it/web/guest/-/ordinanza-ministeriale-n-27-del-16-febbraio-2026",
-      "date": "2026-04-22T02:11:34.383402",
+      "date": "2026-04-22T07:28:53.057377",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -463,7 +711,7 @@
     {
       "title": "Circolare n. 221 del 19 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-n-221-del-19-febbraio-2026",
-      "date": "2026-04-22T02:11:34.383358",
+      "date": "2026-04-22T07:28:53.057328",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -472,7 +720,7 @@
     {
       "title": "Decreto Ministeriale n. 3 del 9 gennaio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-3-del-9-gennaio-2026",
-      "date": "2026-04-22T02:11:34.383315",
+      "date": "2026-04-22T07:28:53.057283",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -481,7 +729,7 @@
     {
       "title": "Decreto Ministeriale n. 21 del 12 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-21-del-12-febbraio-2026",
-      "date": "2026-04-22T02:11:34.383271",
+      "date": "2026-04-22T07:28:53.057238",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -490,7 +738,7 @@
     {
       "title": "Decreto Ministeriale n. 22 del 12 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-22-del-12-febbraio-2026",
-      "date": "2026-04-22T02:11:34.383227",
+      "date": "2026-04-22T07:28:53.057192",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -499,7 +747,7 @@
     {
       "title": "Decreto Direttoriale n.189 del 16 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-189-del-16-febbraio-2026",
-      "date": "2026-04-22T02:11:34.383183",
+      "date": "2026-04-22T07:28:53.057145",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -508,7 +756,7 @@
     {
       "title": "Decreto Direttoriale n.190 del 16 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-190-del-16-febbraio-2026",
-      "date": "2026-04-22T02:11:34.383136",
+      "date": "2026-04-22T07:28:53.057099",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -517,7 +765,7 @@
     {
       "title": "Decreto Direttoriale n. 2 del 2 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-2-del-2-febbraio-2026",
-      "date": "2026-04-22T02:11:34.383086",
+      "date": "2026-04-22T07:28:53.057049",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -526,7 +774,7 @@
     {
       "title": "Decreto Direttoriale n. 3 del 2 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3-del-2-febbraio-2026",
-      "date": "2026-04-22T02:11:34.383041",
+      "date": "2026-04-22T07:28:53.057003",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -535,7 +783,7 @@
     {
       "title": "Decreto Direttoriale n. 253 del 19 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-253-del-19-febbraio-2026",
-      "date": "2026-04-22T02:11:34.382998",
+      "date": "2026-04-22T07:28:53.056956",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -544,7 +792,7 @@
     {
       "title": "Circolare prot. n. 662 del 24 febbraio",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-prot-n-662-del-24-febbraio",
-      "date": "2026-04-22T02:11:34.382948",
+      "date": "2026-04-22T07:28:53.056908",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -553,7 +801,7 @@
     {
       "title": "Decreto Dirigenziale n. 4577 del 25 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-4577-del-25-febbraio-2026",
-      "date": "2026-04-22T02:11:34.382901",
+      "date": "2026-04-22T07:28:53.056858",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -562,7 +810,7 @@
     {
       "title": "Circolare prot. n. 39623 del 23 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-prot-n-39623-del-23-febbraio-2026",
-      "date": "2026-04-22T02:11:34.382858",
+      "date": "2026-04-22T07:28:53.056812",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -571,7 +819,7 @@
     {
       "title": "Decreto Ministeriale n. 26 del 16 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-26-del-16-febbraio-2026",
-      "date": "2026-04-22T02:11:34.382813",
+      "date": "2026-04-22T07:28:53.056767",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -580,7 +828,7 @@
     {
       "title": "Decreto Dipartimentale n. 6 del 24 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-6-del-24-febbraio-2026",
-      "date": "2026-04-22T02:11:34.382768",
+      "date": "2026-04-22T07:28:53.056721",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -589,7 +837,7 @@
     {
       "title": "Decreto Dipartimentale n. 7 del 24 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-7-del-24-febbraio-2026",
-      "date": "2026-04-22T02:11:34.382724",
+      "date": "2026-04-22T07:28:53.056672",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -598,7 +846,7 @@
     {
       "title": "Decreto Dipartimentale n. 291 del 25 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-291-del-25-febbraio-2026",
-      "date": "2026-04-22T02:11:34.382678",
+      "date": "2026-04-22T07:28:53.056602",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -607,7 +855,7 @@
     {
       "title": "Decreto Direttoriale n. 63 del 26 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-63-del-26-febbraio-2026",
-      "date": "2026-04-22T02:11:34.382632",
+      "date": "2026-04-22T07:28:53.056556",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -616,7 +864,7 @@
     {
       "title": "Decreto Direttoriale n.265 del 26 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-265-del-26-febbraio-2026",
-      "date": "2026-04-22T02:11:34.382577",
+      "date": "2026-04-22T07:28:53.056503",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -625,7 +873,7 @@
     {
       "title": "Decreto Direttoriale n.76 del 21 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-76-del-21-novembre-2025",
-      "date": "2026-04-22T02:11:34.382522",
+      "date": "2026-04-22T07:28:53.056458",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -634,7 +882,7 @@
     {
       "title": "Decreto Direttoriale n.2 del 16 gennaio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-2-del-16-gennaio-2026",
-      "date": "2026-04-22T02:11:34.382478",
+      "date": "2026-04-22T07:28:53.056413",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -643,7 +891,7 @@
     {
       "title": "Decreto Direttoriale n.32 del 9 aprile 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-32-del-9-aprile-2025",
-      "date": "2026-04-22T02:11:34.382434",
+      "date": "2026-04-22T07:28:53.056369",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -652,7 +900,7 @@
     {
       "title": "Decreto Direttoriale n.4 del 21 gennaio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-4-del-21-gennaio-2026",
-      "date": "2026-04-22T02:11:34.382390",
+      "date": "2026-04-22T07:28:53.056323",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -661,7 +909,7 @@
     {
       "title": "Decreto Dirigenziale n. 317 del 2 marzo  2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-317-del-2-marzo-2026",
-      "date": "2026-04-22T02:11:34.382337",
+      "date": "2026-04-22T07:28:53.056272",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -670,7 +918,7 @@
     {
       "title": "Decreto Ministeriale n. 15 del 30 gennaio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-15-del-30-gennaio-2026",
-      "date": "2026-04-22T02:11:34.382288",
+      "date": "2026-04-22T07:28:53.056221",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -679,7 +927,7 @@
     {
       "title": "Decreto Direttoriale n. 268 del 4 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-268-del-4-marzo-2026",
-      "date": "2026-04-22T02:11:34.382244",
+      "date": "2026-04-22T07:28:53.056159",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -688,7 +936,7 @@
     {
       "title": "Circolare prot. n. 790 del 4 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-prot-n-790-del-4-marzo-2026",
-      "date": "2026-04-22T02:11:34.382200",
+      "date": "2026-04-22T07:28:53.056097",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -697,7 +945,7 @@
     {
       "title": "Decreto Dipartimentale n. 3596 del 27 novembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3596-del-27-novembre-2025",
-      "date": "2026-04-22T02:11:34.382156",
+      "date": "2026-04-22T07:28:53.056038",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -706,7 +954,7 @@
     {
       "title": "Decreto Dipartimentale n. 3193 del 24 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3193-del-24-ottobre-2025",
-      "date": "2026-04-22T02:11:34.382111",
+      "date": "2026-04-22T07:28:53.055971",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -715,7 +963,7 @@
     {
       "title": "Decreto Dipartimentale n. 3102 del 21 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3102-del-21-ottobre-2025",
-      "date": "2026-04-22T02:11:34.382067",
+      "date": "2026-04-22T07:28:53.055909",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -724,7 +972,7 @@
     {
       "title": "Decreto Dipartimentale n. 3095 del 21 ottobre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3095-del-21-ottobre-2025",
-      "date": "2026-04-22T02:11:34.382020",
+      "date": "2026-04-22T07:28:53.055833",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -733,7 +981,7 @@
     {
       "title": "Decreto Direttoriale n. 285 del 25 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-285-del-25-febbraio-2026",
-      "date": "2026-04-22T02:11:34.381966",
+      "date": "2026-04-22T07:28:53.055766",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -742,7 +990,7 @@
     {
       "title": "Decreto Direttoriale n. 286 del 25 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-286-del-25-febbraio-2026",
-      "date": "2026-04-22T02:11:34.381921",
+      "date": "2026-04-22T07:28:53.055701",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -751,7 +999,7 @@
     {
       "title": "Decreto Direttoriale n. 287 del 25 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-287-del-25-febbraio-2026",
-      "date": "2026-04-22T02:11:34.381876",
+      "date": "2026-04-22T07:28:53.055638",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -760,7 +1008,7 @@
     {
       "title": "Decreto Direttoriale n. 288 del 25 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-288-del-25-febbraio-2026",
-      "date": "2026-04-22T02:11:34.381833",
+      "date": "2026-04-22T07:28:53.055560",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -769,7 +1017,7 @@
     {
       "title": "Decreto Direttoriale n. 289 del 25 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-289-del-25-febbraio-2026",
-      "date": "2026-04-22T02:11:34.381787",
+      "date": "2026-04-22T07:28:53.055494",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -778,7 +1026,7 @@
     {
       "title": "Decreto Direttoriale n. 290 del 25 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-290-del-25-febbraio-2026",
-      "date": "2026-04-22T02:11:34.381740",
+      "date": "2026-04-22T07:28:53.055431",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -787,7 +1035,7 @@
     {
       "title": "Circolare prot. n. 847 del 6 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-prot-n-847-del-6-marzo-2026",
-      "date": "2026-04-22T02:11:34.381693",
+      "date": "2026-04-22T07:28:53.055359",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -796,7 +1044,7 @@
     {
       "title": "Decreto ministeriale n. 250 del 21 settembre 2022",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-250-del-21-settembre-2022",
-      "date": "2026-04-22T02:11:34.381648",
+      "date": "2026-04-22T07:28:53.055298",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -805,7 +1053,7 @@
     {
       "title": "Decreto ministeriale n. 29 del 19 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-29-del-19-febbraio-2026",
-      "date": "2026-04-22T02:11:34.381604",
+      "date": "2026-04-22T07:28:53.055254",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -814,7 +1062,7 @@
     {
       "title": "Decreto Ministeriale n. 254 del 16 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-254-del-16-dicembre-2025",
-      "date": "2026-04-22T02:11:34.381560",
+      "date": "2026-04-22T07:28:53.055209",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -823,7 +1071,7 @@
     {
       "title": "Decreto Ministeriale n. 41 del 9 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-41-del-9-marzo-2026",
-      "date": "2026-04-22T02:11:34.381509",
+      "date": "2026-04-22T07:28:53.055164",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -832,7 +1080,7 @@
     {
       "title": "Decreto Ministeriale n. 28 del 18 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-28-del-18-febbraio-2026",
-      "date": "2026-04-22T02:11:34.381463",
+      "date": "2026-04-22T07:28:53.055118",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -841,7 +1089,7 @@
     {
       "title": "Decreto Ministeriale n. 35 del 27 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-35-del-27-febbraio-2026",
-      "date": "2026-04-22T02:11:34.381410",
+      "date": "2026-04-22T07:28:53.055067",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -850,7 +1098,7 @@
     {
       "title": "Decreto Direttoriale n. 23 del 5 aprile 2024",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-23-del-5-aprile-2026",
-      "date": "2026-04-22T02:11:34.381357",
+      "date": "2026-04-22T07:28:53.055015",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -859,7 +1107,7 @@
     {
       "title": "Decreto Direttoriale n. 1 del 12 gennaio 2024",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1-del-12-gennaio-2024-1",
-      "date": "2026-04-22T02:11:34.381314",
+      "date": "2026-04-22T07:28:53.054969",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -868,7 +1116,7 @@
     {
       "title": "Decreto Dipartimentale n. 403 del 12 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-403-del-12-marzo-2026",
-      "date": "2026-04-22T02:11:34.381268",
+      "date": "2026-04-22T07:28:53.054921",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -877,7 +1125,7 @@
     {
       "title": "Decreto Dipartimentale n. 404 del 12 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-404-del-12-marzo-2026",
-      "date": "2026-04-22T02:11:34.381224",
+      "date": "2026-04-22T07:28:53.054876",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -886,7 +1134,7 @@
     {
       "title": "Decreto Direttoriale prot. n. 1254 del 30 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-prot-n-1254-del-30-dicembre-2025",
-      "date": "2026-04-22T02:11:34.381180",
+      "date": "2026-04-22T07:28:53.054830",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -895,7 +1143,7 @@
     {
       "title": "Decreto Direttoriale prot. n. 1253 del 30 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-prot-n-1253-del-30-dicembre-2025",
-      "date": "2026-04-22T02:11:34.381137",
+      "date": "2026-04-22T07:28:53.054784",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -904,7 +1152,7 @@
     {
       "title": "Decreto Direttoriale prot. n. 1255 del 30 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-prot-n-1255-del-30-dicembre-2025",
-      "date": "2026-04-22T02:11:34.381093",
+      "date": "2026-04-22T07:28:53.054734",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -913,7 +1161,7 @@
     {
       "title": "Decreto Dirigenziale n. 5877 del 13 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-5877-del-13-marzo-2026",
-      "date": "2026-04-22T02:11:34.381047",
+      "date": "2026-04-22T07:28:53.054684",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -922,7 +1170,7 @@
     {
       "title": "Circolare prot. n. 946 del 13 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-prot-n-946-del-13-marzo-2026",
-      "date": "2026-04-22T02:11:34.380996",
+      "date": "2026-04-22T07:28:53.054609",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -931,7 +1179,7 @@
     {
       "title": "Decreto Direttoriale n. 1 del 12 gennaio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1-del-12-gennaio-2026",
-      "date": "2026-04-22T02:11:34.380950",
+      "date": "2026-04-22T07:28:53.054564",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -940,7 +1188,7 @@
     {
       "title": "Decreto Direttoriale n. 3 del 19 gennaio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3-del-19-gennaio-2026",
-      "date": "2026-04-22T02:11:34.380904",
+      "date": "2026-04-22T07:28:53.054519",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -949,7 +1197,7 @@
     {
       "title": "Decreto direttoriale n. 439 del 18 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-prot-n-439-del-18-marzo-2026",
-      "date": "2026-04-22T02:11:34.380849",
+      "date": "2026-04-22T07:28:53.054468",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -958,7 +1206,7 @@
     {
       "title": "Decreto direttoriale  n. 440 del 18 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-prot-n-440-del-18-marzo-2026",
-      "date": "2026-04-22T02:11:34.380804",
+      "date": "2026-04-22T07:28:53.054422",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -967,7 +1215,7 @@
     {
       "title": "Decreto Dipartimentale n. 168 del 5 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-168-del-5-febbraio-2026",
-      "date": "2026-04-22T02:11:34.380741",
+      "date": "2026-04-22T07:28:53.054364",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -976,7 +1224,7 @@
     {
       "title": "Circolare prot. n. 1397 del 19 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-prot-n-1397-del-19-marzo-2026",
-      "date": "2026-04-22T02:11:34.380688",
+      "date": "2026-04-22T07:28:53.054314",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -985,7 +1233,7 @@
     {
       "title": "Decreto direttoriale n. 461 del 20 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-461-del-20-marzo-2026",
-      "date": "2026-04-22T02:11:34.380643",
+      "date": "2026-04-22T07:28:53.054268",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -994,7 +1242,7 @@
     {
       "title": "Decreto Dirigenziale n. 451 del 19 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-451-del-19-marzo-2026",
-      "date": "2026-04-22T02:11:34.380596",
+      "date": "2026-04-22T07:28:53.054219",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1003,7 +1251,7 @@
     {
       "title": "Decreto Direttoriale n. 436 del 18 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-436-del-18-marzo-2026",
-      "date": "2026-04-22T02:11:34.380550",
+      "date": "2026-04-22T07:28:53.054174",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1012,7 +1260,7 @@
     {
       "title": "Decreto Dipartimentale n. 465 del 23 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-465-del-23-marzo-2026",
-      "date": "2026-04-22T02:11:34.380499",
+      "date": "2026-04-22T07:28:53.054129",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1021,7 +1269,7 @@
     {
       "title": "Decreto Dipartimentale n. 479 del 23 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-479-del-23-marzo-2026",
-      "date": "2026-04-22T02:11:34.380455",
+      "date": "2026-04-22T07:28:53.054083",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1030,7 +1278,7 @@
     {
       "title": "Decreto Direttoriale n. 486 del 23 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-486-del-23-marzo-2026",
-      "date": "2026-04-22T02:11:34.380412",
+      "date": "2026-04-22T07:28:53.054034",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1039,7 +1287,7 @@
     {
       "title": "Decreto Dipartimentale n. 485 del 23 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-485-del-23-marzo-2026",
-      "date": "2026-04-22T02:11:34.380368",
+      "date": "2026-04-22T07:28:53.053988",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1048,7 +1296,7 @@
     {
       "title": "Decreto Direttoriale prot. n. 418 del 16 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-prot-n-418-del-16-marzo-2026",
-      "date": "2026-04-22T02:11:34.380324",
+      "date": "2026-04-22T07:28:53.053941",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1057,7 +1305,7 @@
     {
       "title": "Decreto Dipartimentale n. 472 del 23 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-472-del-23-marzo-2026",
-      "date": "2026-04-22T02:11:34.380272",
+      "date": "2026-04-22T07:28:53.053890",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1066,7 +1314,7 @@
     {
       "title": "Decreto Dipartimentale n. 473 del 23 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-473-del-23-marzo-2026",
-      "date": "2026-04-22T02:11:34.380228",
+      "date": "2026-04-22T07:28:53.053844",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1075,7 +1323,7 @@
     {
       "title": "Decreto Dipartimentale n. 471 del 23 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-471-del-23-marzo-2026",
-      "date": "2026-04-22T02:11:34.380185",
+      "date": "2026-04-22T07:28:53.053794",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1084,7 +1332,7 @@
     {
       "title": "Decreto Dipartimentale n. 484 del 23 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-484-del-23-marzo-2026",
-      "date": "2026-04-22T02:11:34.380141",
+      "date": "2026-04-22T07:28:53.053749",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1093,7 +1341,7 @@
     {
       "title": "Decreto Dipartimentale n. 483 del 23 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-483-del-23-marzo-2026",
-      "date": "2026-04-22T02:11:34.380097",
+      "date": "2026-04-22T07:28:53.053703",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1102,7 +1350,7 @@
     {
       "title": "Decreto Direttoriale prot. n. 102 del 28 gennaio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-prot-n-102-del-28-gennaio-2026",
-      "date": "2026-04-22T02:11:34.380053",
+      "date": "2026-04-22T07:28:53.053653",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1111,7 +1359,7 @@
     {
       "title": "Decreto Direttoriale n. 250 del 25 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-250-del-25-febbraio-2026",
-      "date": "2026-04-22T02:11:34.380008",
+      "date": "2026-04-22T07:28:53.053590",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1120,7 +1368,7 @@
     {
       "title": "Decreto Direttoriale n. 251 del 25 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-251-del-25-febbraio-2026",
-      "date": "2026-04-22T02:11:34.379961",
+      "date": "2026-04-22T07:28:53.053545",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1129,7 +1377,7 @@
     {
       "title": "Decreto Direttoriale n. 252 del 25 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-252-del-25-febbraio-2026",
-      "date": "2026-04-22T02:11:34.379916",
+      "date": "2026-04-22T07:28:53.053501",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1138,7 +1386,7 @@
     {
       "title": "Decreto Direttoriale n. 253 del 25 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-253-del-25-febbraio-2026",
-      "date": "2026-04-22T02:11:34.379871",
+      "date": "2026-04-22T07:28:53.053456",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1147,7 +1395,7 @@
     {
       "title": "Decreto Dipartimentale n. 480 del 23 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-480-del-23-marzo-2026",
-      "date": "2026-04-22T02:11:34.379825",
+      "date": "2026-04-22T07:28:53.053411",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1156,7 +1404,7 @@
     {
       "title": "Decreto Dipartimentale n. 475 del 23 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-475-del-23-marzo-2026",
-      "date": "2026-04-22T02:11:34.379780",
+      "date": "2026-04-22T07:28:53.053366",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1165,7 +1413,7 @@
     {
       "title": "Decreto Dipartimentale n. 474 del 23 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-474-del-23-marzo-2026",
-      "date": "2026-04-22T02:11:34.379735",
+      "date": "2026-04-22T07:28:53.053321",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1174,7 +1422,7 @@
     {
       "title": "Decreto Dipartimentale n. 493 del 24 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-493-del-24-marzo-2026",
-      "date": "2026-04-22T02:11:34.379692",
+      "date": "2026-04-22T07:28:53.053276",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1183,7 +1431,7 @@
     {
       "title": "Decreto Dipartimentale n. 497 del 25 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-497-del-25-marzo-2026",
-      "date": "2026-04-22T02:11:34.379648",
+      "date": "2026-04-22T07:28:53.053231",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1192,7 +1440,7 @@
     {
       "title": "Circolare prot. n. 89225 del 24 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-prot-n-89225-del-24-marzo-2026",
-      "date": "2026-04-22T02:11:34.379604",
+      "date": "2026-04-22T07:28:53.053185",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1201,7 +1449,7 @@
     {
       "title": "Decreto Direttoriale n. 512 del 26 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-512-del-26-marzo-2026",
-      "date": "2026-04-22T02:11:34.379558",
+      "date": "2026-04-22T07:28:53.053138",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1210,7 +1458,7 @@
     {
       "title": "Decreto Direttoriale n. 3870 del 22 dicembre 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-3870-del-22-dicembre-2025",
-      "date": "2026-04-22T02:11:34.379506",
+      "date": "2026-04-22T07:28:53.053092",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1219,7 +1467,7 @@
     {
       "title": "Circolare prot. n. 7766 del 26 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-prot-n-7766-del-26-marzo-2026",
-      "date": "2026-04-22T02:11:34.379461",
+      "date": "2026-04-22T07:28:53.053046",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1228,7 +1476,7 @@
     {
       "title": "Ordinanza Ministeriale n. 54 del 26 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/ordinanza-ministeriale-n-54-del-26-marzo-2026",
-      "date": "2026-04-22T02:11:34.379411",
+      "date": "2026-04-22T07:28:53.052998",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1237,7 +1485,7 @@
     {
       "title": "Decreto Direttoriale n. 525 del 27 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-525-del-27-marzo-2026",
-      "date": "2026-04-22T02:11:34.379365",
+      "date": "2026-04-22T07:28:53.052952",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1246,7 +1494,7 @@
     {
       "title": "Decreto Direttoriale n. 294 del 6 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-294-del-6-marzo-2026",
-      "date": "2026-04-22T02:11:34.379321",
+      "date": "2026-04-22T07:28:53.052905",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1255,7 +1503,7 @@
     {
       "title": "Decreto Dirigenziale n. 87319 del 20 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-87319-del-20-marzo-2026",
-      "date": "2026-04-22T02:11:34.379277",
+      "date": "2026-04-22T07:28:53.052855",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1264,7 +1512,7 @@
     {
       "title": "Decreto Dipartimentale n. 534 del 30 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-534-del-30-marzo-2026",
-      "date": "2026-04-22T02:11:34.379234",
+      "date": "2026-04-22T07:28:53.052808",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1273,7 +1521,7 @@
     {
       "title": "Decreto dipartimentale n. 518 del 27 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-518-del-27-marzo-2026",
-      "date": "2026-04-22T02:11:34.379190",
+      "date": "2026-04-22T07:28:53.052761",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1282,7 +1530,7 @@
     {
       "title": "Decreto dipartimentale n. 519 del 27 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-519-del-27-marzo-2026",
-      "date": "2026-04-22T02:11:34.379146",
+      "date": "2026-04-22T07:28:53.052713",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1291,7 +1539,7 @@
     {
       "title": "Decreto Dipartimentale n. 470 del 23 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-470-del-23-marzo-2026",
-      "date": "2026-04-22T02:11:34.379100",
+      "date": "2026-04-22T07:28:53.052663",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1300,7 +1548,7 @@
     {
       "title": "Decreto Dipartimentale n. 541 del 31 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-541-del-31-marzo-2026",
-      "date": "2026-04-22T02:11:34.379053",
+      "date": "2026-04-22T07:28:53.052597",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1309,7 +1557,7 @@
     {
       "title": "Decreto Dipartimentale n. 34 del 30 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-34-del-30-marzo-2026",
-      "date": "2026-04-22T02:11:34.379009",
+      "date": "2026-04-22T07:28:53.052550",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1318,7 +1566,7 @@
     {
       "title": "Decreto Direttoriale n. 336 del 30 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-336-del-30-marzo-2026",
-      "date": "2026-04-22T02:11:34.378966",
+      "date": "2026-04-22T07:28:53.052501",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1327,7 +1575,7 @@
     {
       "title": "Circolare n. 97152 del 31 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-n-97152-del-31-marzo-2026",
-      "date": "2026-04-22T02:11:34.378921",
+      "date": "2026-04-22T07:28:53.052455",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1336,7 +1584,7 @@
     {
       "title": "Decreto Ministeriale n. 39 del 6 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-39-del-6-marzo-2026",
-      "date": "2026-04-22T02:11:34.378870",
+      "date": "2026-04-22T07:28:53.052410",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1345,7 +1593,7 @@
     {
       "title": "Decreto Dipartimentale n. 41 del 1 aprile 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-41-del-1-aprile-2026",
-      "date": "2026-04-22T02:11:34.378823",
+      "date": "2026-04-22T07:28:53.052362",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1354,7 +1602,7 @@
     {
       "title": "Decreto Dirigenziale n. 25772 del 31 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-25772-del-31-marzo-2026",
-      "date": "2026-04-22T02:11:34.378778",
+      "date": "2026-04-22T07:28:53.052316",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1363,7 +1611,7 @@
     {
       "title": "Decreto Direttoriale n. 454 del 19 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-454-del-19-marzo-2026",
-      "date": "2026-04-22T02:11:34.378717",
+      "date": "2026-04-22T07:28:53.052259",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1372,7 +1620,7 @@
     {
       "title": "Circolare n. 684 del 3 aprile 2026",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-n-684-del-3-aprile-2026",
-      "date": "2026-04-22T02:11:34.378673",
+      "date": "2026-04-22T07:28:53.052214",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1381,7 +1629,7 @@
     {
       "title": "Decreto Dipartimentale n. 557 del 2 aprile 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-557-del-2-aprile-2026",
-      "date": "2026-04-22T02:11:34.378628",
+      "date": "2026-04-22T07:28:53.052169",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1390,7 +1638,7 @@
     {
       "title": "Decreto Direttoriale n. 574 dell' 8 aprile 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-574-dell-8-aprile-2026",
-      "date": "2026-04-22T02:11:34.378583",
+      "date": "2026-04-22T07:28:53.052124",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1399,7 +1647,7 @@
     {
       "title": "Decreto Direttoriale n. 42 del 20 giugno 2025",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-42-del-20-giugno-2025",
-      "date": "2026-04-22T02:11:34.378527",
+      "date": "2026-04-22T07:28:53.052078",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1408,7 +1656,7 @@
     {
       "title": "Decreto Direttoriale prot. n. 452 del 19 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-prot-n-452-del-19-marzo-2026",
-      "date": "2026-04-22T02:11:34.378480",
+      "date": "2026-04-22T07:28:53.052030",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1417,7 +1665,7 @@
     {
       "title": "Decreto Diringenziale n. 102038 del 08 aprile 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-diringenziale-n-102038-del-08-aprile-2026",
-      "date": "2026-04-22T02:11:34.378426",
+      "date": "2026-04-22T07:28:53.051976",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1426,7 +1674,7 @@
     {
       "title": "Decreto Dipartimentale n. 622 del 13 aprile 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-622-del-13-aprile-2026",
-      "date": "2026-04-22T02:11:34.378382",
+      "date": "2026-04-22T07:28:53.051922",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1435,7 +1683,7 @@
     {
       "title": "Decreto Dipartimentale n. 626 del 13 aprile 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-626-del-13-aprile-2026",
-      "date": "2026-04-22T02:11:34.378335",
+      "date": "2026-04-22T07:28:53.051876",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1444,7 +1692,7 @@
     {
       "title": "Decreto Dipartimentale n. 625 del 13 aprile 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-625-del-13-aprile-2026",
-      "date": "2026-04-22T02:11:34.378289",
+      "date": "2026-04-22T07:28:53.051830",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1453,7 +1701,7 @@
     {
       "title": "Decreto Dipartimentale n. 627 del 13 aprile 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-627-del-13-aprile-2026",
-      "date": "2026-04-22T02:11:34.378242",
+      "date": "2026-04-22T07:28:53.051782",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1462,7 +1710,7 @@
     {
       "title": "Decreto Dipartimentale n. 628 del 13 aprile 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-628-del-13-aprile-2026",
-      "date": "2026-04-22T02:11:34.378198",
+      "date": "2026-04-22T07:28:53.051737",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1471,7 +1719,7 @@
     {
       "title": "Decreto Dipartimentale n. 629 del 13 aprile 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-629-del-13-aprile-2026",
-      "date": "2026-04-22T02:11:34.378153",
+      "date": "2026-04-22T07:28:53.051690",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1480,7 +1728,7 @@
     {
       "title": "Circolare n. 10009 del 15 aprile 2026",
       "url": "https://www.mim.gov.it/web/guest/-/circolare-n-10009-del-15-aprile-2026",
-      "date": "2026-04-22T02:11:34.378109",
+      "date": "2026-04-22T07:28:53.051639",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1489,7 +1737,7 @@
     {
       "title": "Decreto Dirigenziale n. 30796 del 17 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-30796-7-02-2026",
-      "date": "2026-04-22T02:11:34.378064",
+      "date": "2026-04-22T07:28:53.051575",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1498,7 +1746,7 @@
     {
       "title": "Decreto Direttoriale n. 253 del 19 febbraio 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-253-del-19-febbraio-2026-1",
-      "date": "2026-04-22T02:11:34.378017",
+      "date": "2026-04-22T07:28:53.051526",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1507,7 +1755,7 @@
     {
       "title": "Decreto Direttoriale n. 124 del 17 aprile 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-124-del-17-aprile-2026",
-      "date": "2026-04-22T02:11:34.377961",
+      "date": "2026-04-22T07:28:53.051470",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1516,7 +1764,7 @@
     {
       "title": "Decreto Direttoriale n.396 del 20 aprile 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-396-del-20-aprile-2026",
-      "date": "2026-04-22T02:11:34.377917",
+      "date": "2026-04-22T07:28:53.051424",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1525,7 +1773,7 @@
     {
       "title": "Decreto Ministeriale n. 50 del 26 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-50-del-26-marzo-2026",
-      "date": "2026-04-22T02:11:34.377871",
+      "date": "2026-04-22T07:28:53.051376",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1534,7 +1782,7 @@
     {
       "title": "Decreto Ministeriale n. 58 del 31 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-58-del-31-marzo-2026",
-      "date": "2026-04-22T02:11:34.377828",
+      "date": "2026-04-22T07:28:53.051331",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1543,16 +1791,43 @@
     {
       "title": "Decreto Ministeriale n. 51 del 26 marzo 2026",
       "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-51-del-26-marzo-2026",
-      "date": "2026-04-22T02:11:34.377783",
+      "date": "2026-04-22T07:28:53.051286",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
       "id": "d3f88486dce34a41"
     },
     {
+      "title": "Decreto direttoriale n. 87 del 30 ottobre 2025",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-87-del-30-ottobre-2025",
+      "date": "2026-04-22T07:28:53.051239",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "6d75c3ee385460bb"
+    },
+    {
+      "title": "Decreto direttoriale n. 95 del 15 novembre 2025",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-95-del-15-novembre-2025",
+      "date": "2026-04-22T07:28:53.051189",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "8fdf63befc1b31c3"
+    },
+    {
+      "title": "Decreto direttoriale n. 26 del 10 aprile 2026",
+      "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-26-del-10-aprile-2026",
+      "date": "2026-04-22T07:28:53.051143",
+      "source": "MIM - Normativa",
+      "type": "normativa",
+      "description": "",
+      "id": "88c9f3606353c784"
+    },
+    {
       "title": "RSS(Apre una nuova finestra)(Apre una nuova finestra)",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_OXOyq2TZX0Cz&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=getRSS&p_p_cacheability=cacheLevelPage",
-      "date": "2026-04-22T02:11:34.377746",
+      "date": "2026-04-22T07:28:53.051104",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1561,7 +1836,7 @@
     {
       "title": "Atti e Normativa",
       "url": "https://www.mim.gov.it/web/guest/normativa",
-      "date": "2026-04-22T02:11:34.377705",
+      "date": "2026-04-22T07:28:53.051063",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1570,7 +1845,7 @@
     {
       "title": "riforma 4+2",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=8558254",
-      "date": "2026-04-22T02:11:34.377363",
+      "date": "2026-04-22T07:28:53.050780",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1579,7 +1854,7 @@
     {
       "title": "Studenti, diritto allo studio e residenze",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38273",
-      "date": "2026-04-22T02:11:34.377333",
+      "date": "2026-04-22T07:28:53.050741",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1588,7 +1863,7 @@
     {
       "title": "Promozione all'estero",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=117772",
-      "date": "2026-04-22T02:11:34.377303",
+      "date": "2026-04-22T07:28:53.050708",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1597,7 +1872,7 @@
     {
       "title": "Programmazione Triennale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=230898",
-      "date": "2026-04-22T02:11:34.377274",
+      "date": "2026-04-22T07:28:53.050672",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1606,7 +1881,7 @@
     {
       "title": "Finanziamenti",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=240829",
-      "date": "2026-04-22T02:11:34.377244",
+      "date": "2026-04-22T07:28:53.050615",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1615,7 +1890,7 @@
     {
       "title": "Facoltà assunzionali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=240828",
-      "date": "2026-04-22T02:11:34.377214",
+      "date": "2026-04-22T07:28:53.050581",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1624,7 +1899,7 @@
     {
       "title": "Dipartimenti di eccellenza",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=241425",
-      "date": "2026-04-22T02:11:34.377184",
+      "date": "2026-04-22T07:28:53.050548",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1633,7 +1908,7 @@
     {
       "title": "Programmazione e finanziamenti",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38266",
-      "date": "2026-04-22T02:11:34.377146",
+      "date": "2026-04-22T07:28:53.050505",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1642,7 +1917,7 @@
     {
       "title": "Professioni",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=124664",
-      "date": "2026-04-22T02:11:34.377117",
+      "date": "2026-04-22T07:28:53.050472",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1651,7 +1926,7 @@
     {
       "title": "Politiche internazionali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=117829",
-      "date": "2026-04-22T02:11:34.377088",
+      "date": "2026-04-22T07:28:53.050440",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1660,7 +1935,7 @@
     {
       "title": "Politiche europee",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=117803",
-      "date": "2026-04-22T02:11:34.377059",
+      "date": "2026-04-22T07:28:53.050407",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1669,7 +1944,7 @@
     {
       "title": "Offerta Formativa",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38257",
-      "date": "2026-04-22T02:11:34.377026",
+      "date": "2026-04-22T07:28:53.050373",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1678,7 +1953,7 @@
     {
       "title": "Mobilità internazionale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=124463",
-      "date": "2026-04-22T02:11:34.376994",
+      "date": "2026-04-22T07:28:53.050338",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1687,7 +1962,7 @@
     {
       "title": "Il sistema universitario",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38272",
-      "date": "2026-04-22T02:11:34.376964",
+      "date": "2026-04-22T07:28:53.050301",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1696,7 +1971,7 @@
     {
       "title": "Istituti di specializzazione in psicoterapia",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=438714",
-      "date": "2026-04-22T02:11:34.376934",
+      "date": "2026-04-22T07:28:53.050266",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1705,7 +1980,7 @@
     {
       "title": "Equipollenze ed equiparazioni",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=124469",
-      "date": "2026-04-22T02:11:34.376900",
+      "date": "2026-04-22T07:28:53.050229",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1714,7 +1989,7 @@
     {
       "title": "Cooperazione bilaterale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=124454",
-      "date": "2026-04-22T02:11:34.376868",
+      "date": "2026-04-22T07:28:53.050196",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1723,7 +1998,7 @@
     {
       "title": "Chiamate dirette",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=506496",
-      "date": "2026-04-22T02:11:34.376838",
+      "date": "2026-04-22T07:28:53.050164",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1732,7 +2007,7 @@
     {
       "title": "Abilitazione Scientifica Nazionale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=1115063",
-      "date": "2026-04-22T02:11:34.376808",
+      "date": "2026-04-22T07:28:53.050130",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1741,7 +2016,7 @@
     {
       "title": "Carriera accademica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=87782",
-      "date": "2026-04-22T02:11:34.376773",
+      "date": "2026-04-22T07:28:53.050090",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1750,7 +2025,7 @@
     {
       "title": "Anagrafica studenti e rilevazioni università",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=347113",
-      "date": "2026-04-22T02:11:34.376742",
+      "date": "2026-04-22T07:28:53.050050",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1759,7 +2034,7 @@
     {
       "title": "Accesso programmato",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=117708",
-      "date": "2026-04-22T02:11:34.376712",
+      "date": "2026-04-22T07:28:53.050016",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1768,7 +2043,7 @@
     {
       "title": "Università",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20655",
-      "date": "2026-04-22T02:11:34.376619",
+      "date": "2026-04-22T07:28:53.049928",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1777,7 +2052,7 @@
     {
       "title": "Sistema IFTS",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=141196",
-      "date": "2026-04-22T02:11:34.376583",
+      "date": "2026-04-22T07:28:53.049891",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1786,7 +2061,7 @@
     {
       "title": "Scuole di Alta Tecnologia",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=91388",
-      "date": "2026-04-22T02:11:34.376528",
+      "date": "2026-04-22T07:28:53.049851",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1795,7 +2070,7 @@
     {
       "title": "Welfare dello studente e politiche giovanili",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20667",
-      "date": "2026-04-22T02:11:34.376497",
+      "date": "2026-04-22T07:28:53.049817",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1804,7 +2079,7 @@
     {
       "title": "Sostegno alla Disabilità",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20674",
-      "date": "2026-04-22T02:11:34.376467",
+      "date": "2026-04-22T07:28:53.049783",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1813,7 +2088,7 @@
     {
       "title": "Sistema, istituzioni e attori",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=297326",
-      "date": "2026-04-22T02:11:34.376437",
+      "date": "2026-04-22T07:28:53.049748",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1822,7 +2097,7 @@
     {
       "title": "Sistema nazionale di valutazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20671",
-      "date": "2026-04-22T02:11:34.376406",
+      "date": "2026-04-22T07:28:53.049705",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1831,7 +2106,7 @@
     {
       "title": "Scuola non statale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20631",
-      "date": "2026-04-22T02:11:34.376374",
+      "date": "2026-04-22T07:28:53.049664",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1840,7 +2115,7 @@
     {
       "title": "Scuola e Lavoro",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20632",
-      "date": "2026-04-22T02:11:34.376344",
+      "date": "2026-04-22T07:28:53.049604",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1849,7 +2124,7 @@
     {
       "title": "Riconoscimento titoli esteri",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20652",
-      "date": "2026-04-22T02:11:34.376311",
+      "date": "2026-04-22T07:28:53.049570",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1858,7 +2133,7 @@
     {
       "title": "Immissioni in ruolo",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=3549279",
-      "date": "2026-04-22T02:11:34.376281",
+      "date": "2026-04-22T07:28:53.049537",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1867,7 +2142,7 @@
     {
       "title": "Reclutamento e servizio del personale scolastico",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20645",
-      "date": "2026-04-22T02:11:34.376248",
+      "date": "2026-04-22T07:28:53.049501",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1876,7 +2151,7 @@
     {
       "title": "Progressione area funzionari ed elevata qualificazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=8465008",
-      "date": "2026-04-22T02:11:34.376217",
+      "date": "2026-04-22T07:28:53.049466",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1885,7 +2160,7 @@
     {
       "title": "Scuole associate all'UNESCO",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=3423225",
-      "date": "2026-04-22T02:11:34.376187",
+      "date": "2026-04-22T07:28:53.049432",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1894,7 +2169,7 @@
     {
       "title": "Progetti e iniziative internazionali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=2250721",
-      "date": "2026-04-22T02:11:34.376153",
+      "date": "2026-04-22T07:28:53.049394",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1903,7 +2178,7 @@
     {
       "title": "Politiche Sportive Scolastiche",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20680",
-      "date": "2026-04-22T02:11:34.376123",
+      "date": "2026-04-22T07:28:53.049361",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1912,7 +2187,7 @@
     {
       "title": "Percorsi di Studio e Formazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20599",
-      "date": "2026-04-22T02:11:34.376092",
+      "date": "2026-04-22T07:28:53.049327",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1921,7 +2196,7 @@
     {
       "title": "Partecipazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20665",
-      "date": "2026-04-22T02:11:34.376063",
+      "date": "2026-04-22T07:28:53.049293",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1930,7 +2205,7 @@
     {
       "title": "Orientamento e dispersione scolastica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20653",
-      "date": "2026-04-22T02:11:34.376032",
+      "date": "2026-04-22T07:28:53.049256",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1939,7 +2214,7 @@
     {
       "title": "Organici, mobilità e contratti",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20634",
-      "date": "2026-04-22T02:11:34.376000",
+      "date": "2026-04-22T07:28:53.049222",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1948,7 +2223,7 @@
     {
       "title": "Olimpiadi di Italiano",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=373213",
-      "date": "2026-04-22T02:11:34.375970",
+      "date": "2026-04-22T07:28:53.049188",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1957,7 +2232,7 @@
     {
       "title": "Olimpiadi e Competizioni",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20614",
-      "date": "2026-04-22T02:11:34.375937",
+      "date": "2026-04-22T07:28:53.049151",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1966,7 +2241,7 @@
     {
       "title": "Cittadinanza e Costituzione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=373214",
-      "date": "2026-04-22T02:11:34.375905",
+      "date": "2026-04-22T07:28:53.049114",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1975,7 +2250,7 @@
     {
       "title": "Articolo 9 della Costituzione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=373212",
-      "date": "2026-04-22T02:11:34.375874",
+      "date": "2026-04-22T07:28:53.049079",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1984,7 +2259,7 @@
     {
       "title": "Offerta didattica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20592",
-      "date": "2026-04-22T02:11:34.375835",
+      "date": "2026-04-22T07:28:53.049033",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -1993,7 +2268,7 @@
     {
       "title": "Lingue di minoranza",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38253",
-      "date": "2026-04-22T02:11:34.375798",
+      "date": "2026-04-22T07:28:53.048988",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2002,7 +2277,7 @@
     {
       "title": "Istruzione degli Adulti",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20648",
-      "date": "2026-04-22T02:11:34.375766",
+      "date": "2026-04-22T07:28:53.048953",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2011,7 +2286,7 @@
     {
       "title": "Iscrizioni",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20602",
-      "date": "2026-04-22T02:11:34.375736",
+      "date": "2026-04-22T07:28:53.048919",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2020,7 +2295,7 @@
     {
       "title": "Internazionalizzazione del sistema di istruzione e formazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20585",
-      "date": "2026-04-22T02:11:34.375700",
+      "date": "2026-04-22T07:28:53.048879",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2029,7 +2304,7 @@
     {
       "title": "Intercultura",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20683",
-      "date": "2026-04-22T02:11:34.375668",
+      "date": "2026-04-22T07:28:53.048844",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2038,7 +2313,7 @@
     {
       "title": "Semplificazione amministrativa",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=8969240",
-      "date": "2026-04-22T02:11:34.375638",
+      "date": "2026-04-22T07:28:53.048809",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2047,7 +2322,7 @@
     {
       "title": "Innovazione Digitale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20661",
-      "date": "2026-04-22T02:11:34.375604",
+      "date": "2026-04-22T07:28:53.048772",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2056,7 +2331,7 @@
     {
       "title": "Iniziative Esterne",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=482816",
-      "date": "2026-04-22T02:11:34.375574",
+      "date": "2026-04-22T07:28:53.048739",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2065,7 +2340,7 @@
     {
       "title": "Inclusione e integrazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=1885364",
-      "date": "2026-04-22T02:11:34.375543",
+      "date": "2026-04-22T07:28:53.048704",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2074,7 +2349,7 @@
     {
       "title": "Il sistema di istruzione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=1775364",
-      "date": "2026-04-22T02:11:34.375505",
+      "date": "2026-04-22T07:28:53.048669",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2083,7 +2358,7 @@
     {
       "title": "Graduatoria nazionale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=2611766",
-      "date": "2026-04-22T02:11:34.375476",
+      "date": "2026-04-22T07:28:53.048614",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2092,7 +2367,7 @@
     {
       "title": "Formazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20615",
-      "date": "2026-04-22T02:11:34.375447",
+      "date": "2026-04-22T07:28:53.048580",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2101,7 +2376,7 @@
     {
       "title": "Fondi Strutturali Europei",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20639",
-      "date": "2026-04-22T02:11:34.375417",
+      "date": "2026-04-22T07:28:53.048542",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2110,7 +2385,7 @@
     {
       "title": "Esami di abilitazione albi professionali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=458848",
-      "date": "2026-04-22T02:11:34.375387",
+      "date": "2026-04-22T07:28:53.048505",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2119,7 +2394,7 @@
     {
       "title": "Esami di Stato e abilitazione albi professionali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20642",
-      "date": "2026-04-22T02:11:34.375353",
+      "date": "2026-04-22T07:28:53.048461",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2128,7 +2403,7 @@
     {
       "title": "Edilizia Scolastica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20603",
-      "date": "2026-04-22T02:11:34.375324",
+      "date": "2026-04-22T07:28:53.048426",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2137,7 +2412,7 @@
     {
       "title": "Dispersione Scolastica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38244",
-      "date": "2026-04-22T02:11:34.375294",
+      "date": "2026-04-22T07:28:53.048393",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2146,7 +2421,7 @@
     {
       "title": "Confronto e Partecipazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=100823",
-      "date": "2026-04-22T02:11:34.375264",
+      "date": "2026-04-22T07:28:53.048359",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2155,7 +2430,7 @@
     {
       "title": "Concorso Docenti 2018",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=766152",
-      "date": "2026-04-22T02:11:34.375233",
+      "date": "2026-04-22T07:28:53.048325",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2164,7 +2439,7 @@
     {
       "title": "Concorso DSGA",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=2282455",
-      "date": "2026-04-22T02:11:34.375203",
+      "date": "2026-04-22T07:28:53.048291",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2173,7 +2448,7 @@
     {
       "title": "Competizioni e iniziative per le eccellenze",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20609",
-      "date": "2026-04-22T02:11:34.375173",
+      "date": "2026-04-22T07:28:53.048257",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2182,7 +2457,7 @@
     {
       "title": "Anno Scolastico in Corso",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20649",
-      "date": "2026-04-22T02:11:34.375140",
+      "date": "2026-04-22T07:28:53.048223",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2191,7 +2466,7 @@
     {
       "title": "Anagrafe studenti e rilevazioni sulle scuole",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=314071",
-      "date": "2026-04-22T02:11:34.375109",
+      "date": "2026-04-22T07:28:53.048188",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2200,7 +2475,7 @@
     {
       "title": "Valutazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38275",
-      "date": "2026-04-22T02:11:34.375076",
+      "date": "2026-04-22T07:28:53.048152",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2209,7 +2484,7 @@
     {
       "title": "Sistema della ricerca",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38271",
-      "date": "2026-04-22T02:11:34.375045",
+      "date": "2026-04-22T07:28:53.048118",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2218,7 +2493,7 @@
     {
       "title": "Ricerca di base",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=374860",
-      "date": "2026-04-22T02:11:34.375013",
+      "date": "2026-04-22T07:28:53.048085",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2227,7 +2502,7 @@
     {
       "title": "Ricerca Internazionale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20662",
-      "date": "2026-04-22T02:11:34.374983",
+      "date": "2026-04-22T07:28:53.048050",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2236,7 +2511,7 @@
     {
       "title": "Programmi di Finanziamento",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20611",
-      "date": "2026-04-22T02:11:34.374953",
+      "date": "2026-04-22T07:28:53.048016",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2245,7 +2520,7 @@
     {
       "title": "Programmazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20617",
-      "date": "2026-04-22T02:11:34.374922",
+      "date": "2026-04-22T07:28:53.047981",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2254,7 +2529,7 @@
     {
       "title": "Settimana della scienza",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=717805",
-      "date": "2026-04-22T02:11:34.374892",
+      "date": "2026-04-22T07:28:53.047947",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2263,7 +2538,7 @@
     {
       "title": "Diffusione della cultura scientifica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=520599",
-      "date": "2026-04-22T02:11:34.374862",
+      "date": "2026-04-22T07:28:53.047912",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2272,7 +2547,7 @@
     {
       "title": "Iniziative speciali e grandi ricerche",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20657",
-      "date": "2026-04-22T02:11:34.374825",
+      "date": "2026-04-22T07:28:53.047869",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2281,7 +2556,7 @@
     {
       "title": "Protocolli d'Intesa",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=1891444",
-      "date": "2026-04-22T02:11:34.374793",
+      "date": "2026-04-22T07:28:53.047829",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2290,7 +2565,7 @@
     {
       "title": "Personale scuola all'estero",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=1929226",
-      "date": "2026-04-22T02:11:34.374760",
+      "date": "2026-04-22T07:28:53.047795",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2299,7 +2574,7 @@
     {
       "title": "Biblioteca",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=535754",
-      "date": "2026-04-22T02:11:34.374730",
+      "date": "2026-04-22T07:28:53.047761",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2308,7 +2583,7 @@
     {
       "title": "Accesso professione docente",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=1929225",
-      "date": "2026-04-22T02:11:34.374700",
+      "date": "2026-04-22T07:28:53.047728",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2317,7 +2592,7 @@
     {
       "title": "Studenti, diritto allo studio e residenze",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=230930",
-      "date": "2026-04-22T02:11:34.374667",
+      "date": "2026-04-22T07:28:53.047691",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2326,7 +2601,7 @@
     {
       "title": "Rilevazioni sulle istituzioni AFAM",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=348236",
-      "date": "2026-04-22T02:11:34.374637",
+      "date": "2026-04-22T07:28:53.047652",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2335,7 +2610,7 @@
     {
       "title": "Promozione all'estero",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=231056",
-      "date": "2026-04-22T02:11:34.374607",
+      "date": "2026-04-22T07:28:53.047599",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2344,7 +2619,7 @@
     {
       "title": "Finanziamenti AFAM",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=232356",
-      "date": "2026-04-22T02:11:34.374577",
+      "date": "2026-04-22T07:28:53.047566",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2353,7 +2628,7 @@
     {
       "title": "Programmazione e finanziamenti AFAM",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=112453",
-      "date": "2026-04-22T02:11:34.374542",
+      "date": "2026-04-22T07:28:53.047530",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2362,7 +2637,7 @@
     {
       "title": "Professioni",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=231246",
-      "date": "2026-04-22T02:11:34.374506",
+      "date": "2026-04-22T07:28:53.047497",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2371,7 +2646,7 @@
     {
       "title": "Produzione artistica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=89888",
-      "date": "2026-04-22T02:11:34.374476",
+      "date": "2026-04-22T07:28:53.047463",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2380,7 +2655,7 @@
     {
       "title": "Politiche internazionali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=90853",
-      "date": "2026-04-22T02:11:34.374445",
+      "date": "2026-04-22T07:28:53.047430",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2389,7 +2664,7 @@
     {
       "title": "Politiche europee",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=231133",
-      "date": "2026-04-22T02:11:34.374415",
+      "date": "2026-04-22T07:28:53.047396",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2398,7 +2673,7 @@
     {
       "title": "Personale Afam",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=231025",
-      "date": "2026-04-22T02:11:34.374384",
+      "date": "2026-04-22T07:28:53.047361",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2407,7 +2682,7 @@
     {
       "title": "Conservatorio della Musica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403069",
-      "date": "2026-04-22T02:11:34.374351",
+      "date": "2026-04-22T07:28:53.047323",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2416,7 +2691,7 @@
     {
       "title": "Accademia Nazionale di Danza",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403068",
-      "date": "2026-04-22T02:11:34.374321",
+      "date": "2026-04-22T07:28:53.047290",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2425,7 +2700,7 @@
     {
       "title": "Accademia Nazionale di Arte Drammatica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403067",
-      "date": "2026-04-22T02:11:34.374290",
+      "date": "2026-04-22T07:28:53.047255",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2434,7 +2709,7 @@
     {
       "title": "Accademia Belle Arti legalmente riconosciuta",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403066",
-      "date": "2026-04-22T02:11:34.374260",
+      "date": "2026-04-22T07:28:53.047219",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2443,7 +2718,7 @@
     {
       "title": "Accademia Belle Arti",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403065",
-      "date": "2026-04-22T02:11:34.374231",
+      "date": "2026-04-22T07:28:53.047183",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2452,7 +2727,7 @@
     {
       "title": "Terzo Ciclo",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20669",
-      "date": "2026-04-22T02:11:34.374185",
+      "date": "2026-04-22T07:28:53.047128",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2461,7 +2736,7 @@
     {
       "title": "Istituzioni private autorizzate a rilasciare titoli AFAM",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=1292742",
-      "date": "2026-04-22T02:11:34.374154",
+      "date": "2026-04-22T07:28:53.047092",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2470,7 +2745,7 @@
     {
       "title": "Conservatorio della Musica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403062",
-      "date": "2026-04-22T02:11:34.374120",
+      "date": "2026-04-22T07:28:53.047050",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2479,7 +2754,7 @@
     {
       "title": "Accademia Nazionale di Danza",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403061",
-      "date": "2026-04-22T02:11:34.374089",
+      "date": "2026-04-22T07:28:53.047015",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2488,7 +2763,7 @@
     {
       "title": "Accademia Nazionale di Arte Drammatica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403060",
-      "date": "2026-04-22T02:11:34.374059",
+      "date": "2026-04-22T07:28:53.046980",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2497,7 +2772,7 @@
     {
       "title": "Accademia Belle Arti legalmente riconosciuta",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403059",
-      "date": "2026-04-22T02:11:34.374028",
+      "date": "2026-04-22T07:28:53.046945",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2506,7 +2781,7 @@
     {
       "title": "Accademia Belle Arti",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=403058",
-      "date": "2026-04-22T02:11:34.373998",
+      "date": "2026-04-22T07:28:53.046910",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2515,7 +2790,7 @@
     {
       "title": "Secondo Ciclo",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20681",
-      "date": "2026-04-22T02:11:34.373949",
+      "date": "2026-04-22T07:28:53.046854",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2524,7 +2799,7 @@
     {
       "title": "Riconoscimento titoli esteri Afam",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38238",
-      "date": "2026-04-22T02:11:34.373918",
+      "date": "2026-04-22T07:28:53.046819",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2533,7 +2808,7 @@
     {
       "title": "Corsi quinquennali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20638",
-      "date": "2026-04-22T02:11:34.373886",
+      "date": "2026-04-22T07:28:53.046784",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2542,7 +2817,7 @@
     {
       "title": "Istituzioni private autorizzate a rilasciare titoli AFAM",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=371860",
-      "date": "2026-04-22T02:11:34.373852",
+      "date": "2026-04-22T07:28:53.046748",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2551,7 +2826,7 @@
     {
       "title": "Conservatorio della musica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38237",
-      "date": "2026-04-22T02:11:34.373816",
+      "date": "2026-04-22T07:28:53.046708",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2560,7 +2835,7 @@
     {
       "title": "Accademia Nazionale di Danza",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=371841",
-      "date": "2026-04-22T02:11:34.373786",
+      "date": "2026-04-22T07:28:53.046671",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2569,7 +2844,7 @@
     {
       "title": "Accademia Nazionale di Arte Drammatica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=371844",
-      "date": "2026-04-22T02:11:34.373756",
+      "date": "2026-04-22T07:28:53.046612",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2578,7 +2853,7 @@
     {
       "title": "Accademia Belle Arti legalmente riconosciuta",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=371831",
-      "date": "2026-04-22T02:11:34.373725",
+      "date": "2026-04-22T07:28:53.046570",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2587,7 +2862,7 @@
     {
       "title": "Accademia Belle Arti",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20658",
-      "date": "2026-04-22T02:11:34.373694",
+      "date": "2026-04-22T07:28:53.046534",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2596,7 +2871,7 @@
     {
       "title": "Primo Ciclo",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20621",
-      "date": "2026-04-22T02:11:34.373644",
+      "date": "2026-04-22T07:28:53.046478",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2605,7 +2880,7 @@
     {
       "title": "Equipollenze e riconoscimento titoli esteri",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20630",
-      "date": "2026-04-22T02:11:34.373608",
+      "date": "2026-04-22T07:28:53.046442",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2614,7 +2889,7 @@
     {
       "title": "Altri titoli",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20650",
-      "date": "2026-04-22T02:11:34.373576",
+      "date": "2026-04-22T07:28:53.046405",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2623,7 +2898,7 @@
     {
       "title": "Offerta Formativa",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=107109",
-      "date": "2026-04-22T02:11:34.373469",
+      "date": "2026-04-22T07:28:53.046294",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2632,7 +2907,7 @@
     {
       "title": "Mobilità internazionale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=231179",
-      "date": "2026-04-22T02:11:34.373439",
+      "date": "2026-04-22T07:28:53.046253",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2641,7 +2916,7 @@
     {
       "title": "Istituzioni Afam riconosciute",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=366956",
-      "date": "2026-04-22T02:11:34.373407",
+      "date": "2026-04-22T07:28:53.046213",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2650,7 +2925,7 @@
     {
       "title": "Il sistema Afam",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=230523",
-      "date": "2026-04-22T02:11:34.373373",
+      "date": "2026-04-22T07:28:53.046168",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2659,7 +2934,7 @@
     {
       "title": "Cooperazione bilaterale",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=231145",
-      "date": "2026-04-22T02:11:34.373341",
+      "date": "2026-04-22T07:28:53.046128",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2668,7 +2943,7 @@
     {
       "title": "Afam/Alta formazione",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20620",
-      "date": "2026-04-22T02:11:34.373184",
+      "date": "2026-04-22T07:28:53.045980",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2677,7 +2952,7 @@
     {
       "title": "Decreti del Presidente della Repubblica",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20677",
-      "date": "2026-04-22T02:11:34.373142",
+      "date": "2026-04-22T07:28:53.045935",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2686,7 +2961,7 @@
     {
       "title": "Decreti del Presidente del Consiglio dei Ministri",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=2584611",
-      "date": "2026-04-22T02:11:34.373050",
+      "date": "2026-04-22T07:28:53.045896",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2695,7 +2970,7 @@
     {
       "title": "Decreti Ministeriali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20647",
-      "date": "2026-04-22T02:11:34.373008",
+      "date": "2026-04-22T07:28:53.045851",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2704,7 +2979,7 @@
     {
       "title": "Decreti Legislativi",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20682",
-      "date": "2026-04-22T02:11:34.372971",
+      "date": "2026-04-22T07:28:53.045809",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2713,7 +2988,7 @@
     {
       "title": "Decreti Interministeriali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38242",
-      "date": "2026-04-22T02:11:34.372937",
+      "date": "2026-04-22T07:28:53.045770",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2722,7 +2997,7 @@
     {
       "title": "Decreti Dirigenziali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=20684",
-      "date": "2026-04-22T02:11:34.372899",
+      "date": "2026-04-22T07:28:53.045719",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2731,7 +3006,7 @@
     {
       "title": "Decreti Direttoriali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=74904",
-      "date": "2026-04-22T02:11:34.372855",
+      "date": "2026-04-22T07:28:53.045671",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
@@ -2740,7 +3015,7 @@
     {
       "title": "Decreti Dipartimentali",
       "url": "https://www.mim.gov.it/web/guest/normativa?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_categoryIds=38241",
-      "date": "2026-04-22T02:11:34.372815",
+      "date": "2026-04-22T07:28:53.045593",
       "source": "MIM - Normativa",
       "type": "normativa",
       "description": "",
